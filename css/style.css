@@ -1,1 +1,12 @@
+@import url('http://assets.openspending.org/branding/fonts/opensans/stylesheet.css');
 @import url('footer.css');
+
+
+header {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.logo {
+    margin-left: -45px;
+}

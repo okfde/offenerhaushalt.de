@@ -17,7 +17,7 @@ nav ul.nav.nav-tabs li {
 nav ul.nav.nav-tabs li a.active {
   color: #000;
   font-weight: bold;
-  font-family: OpenSansSemibold, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: OpenSansLight, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 footer {
