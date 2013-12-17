@@ -24,7 +24,7 @@ You can then run the site like a normal Flask application:
 
 ### License
 
-Copyright (c) 2013: Friedrich Lindenberg, Stefan Wehrmeyer
+Copyright (c) 2013: Friedrich Lindenberg, Stefan Wehrmeyer, Urs Kleinert
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the
