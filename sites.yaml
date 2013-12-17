@@ -1,14 +1,14 @@
 
 sites:
   - name: Bundeshaushalt
-	tagline: Der Bundeshaushalt enthält Angaben zu den Ausgaben und Einnahmen der Bundesregierung. 
-	source: Bundesministerium der Finanzen (Bundeshaushalt-Info)
-	source_url: http://bundeshaushalt-info.de
-	data_url: http://opendatalabs.org/de/haushalt
-	external_url: http://bund.offenerhaushalt.de
+    tagline: "Der Bundeshaushalt enthält Angaben zu den Ausgaben und Einnahmen der Bundesregierung."
+    source: Bundesministerium der Finanzen (Bundeshaushalt-Info)
+    source_url: http://bundeshaushalt-info.de
+    data_url: http://opendatalabs.org/de/haushalt
+    external_url: http://bund.offenerhaushalt.de
 
-	hierarchies:
-	  - name: Einzelpläne
-	  	drilldown: []
+    hierarchies:
+      - name: Einzelpläne
+        drilldown: []
 
 

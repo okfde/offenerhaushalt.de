@@ -3,3 +3,4 @@ Flask-Assets==0.8
 Flask-Script==0.6.6
 PyYAML==3.10
 cssmin==0.2.0
+python-slugify==0.0.6
