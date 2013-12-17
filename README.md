@@ -21,6 +21,11 @@ You can then run the site like a normal Flask application:
 
 	python offenerhaushalt/manage.py runserver
 
+Having verified that the application work, you can build a frozen version of all the contents in this database by running: 
+
+	python offenerhaushalt/manage.py freeze
+
+This will make a plain HTML version of the visualizations, ready to be deployed to S3 or another file hosting platform. 
 
 ### License
 
