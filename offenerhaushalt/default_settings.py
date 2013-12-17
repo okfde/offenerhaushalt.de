@@ -2,3 +2,5 @@ DEBUG = True
 SECRET_KEY = 'no'
 
 SITES_FILE = 'sites.yaml'
+FREEZER_DESTINATION = '../build'
+FREEZER_REMOVE_EXTRA_FILES = True

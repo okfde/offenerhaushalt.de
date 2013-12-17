@@ -1,6 +1,7 @@
 
 sites:
   - name: Bundeshaushalt
+    slug: bund
     tagline: "Der Bundeshaushalt enthält Angaben zu den Ausgaben und Einnahmen der Bundesregierung."
     source: Bundesministerium der Finanzen (Bundeshaushalt-Info)
     source_url: http://bundeshaushalt-info.de

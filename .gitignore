@@ -6,3 +6,4 @@ offenerhaushalt.egg-info/*
 pyenv
 offenerhaushalt/static/vendor/*
 offenerhaushalt/static/.webassets-cache/*
+build/*
