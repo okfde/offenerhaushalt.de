@@ -1,6 +1,6 @@
-@bgColor: #dee0e2;
+@bgColor: lighten(#dee0e2, 0%);
 @linkColor: #265475;
-
+@brandColor: #42928F;
 
 html {
   background-color: @bgColor;
@@ -54,6 +54,48 @@ hr {
   border-bottom: 0;
 }
 
+/* Header */
+
+#menu {
+  background-color: #fff;
+  background-image: none;
+  border: 0;
+  min-height: 36px;
+  padding-top: 5px;
+  border-bottom: 1px solid #eee;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+
+  .navbar-brand, li > a {
+    color: #333;
+    font-weight: 400;
+    text-shadow: none;
+  }
+
+  .navbar-brand {
+    text-transform: uppercase;
+    margin-right: 2em;
+    font-weight: 600;
+    color: @brandColor;
+  }
+
+  li > a {
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #777;
+  }
+
+  .relbox {
+    position: relative;
+  }
+
+  .donations {
+    position: absolute;
+    right: 0em;
+    z-index: 1000;
+    margin-top: -7px;  
+  }
+}
 
 /* Footer */
 

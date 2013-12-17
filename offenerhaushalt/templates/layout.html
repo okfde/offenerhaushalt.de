@@ -13,7 +13,8 @@
   {% assets filters="less,cssmin,cssrewrite", output="gen/style.css",
       "vendor/bootstrap/less/bootstrap.less",
       "vendor/font-awesome/less/font-awesome.less",
-      "style/style.less" %}
+      "style/style.less"
+  %}
     <link type="text/css" href="{{ ASSET_URL }}" rel="stylesheet">
   {% endassets %}
 
@@ -21,6 +22,37 @@
 </head>
 <body>
   <div id="page">
+    <nav class="navbar navbar-default" role="navigation" id="menu">
+      <div class="container relbox">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">OffenerHaushalt</a>
+        </div>
+
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          <ul class="nav navbar-nav">
+            <li>
+              <a href="#">Bund</a>
+            </li>
+            <li>
+              <a href="#">Länder</a>
+            </li>
+            <li>
+              <a href="#">Kommunen</a>
+            </li>
+            <li>
+              <a href="/page/intro.html">Über uns</a>
+            </li>
+          </ul>
+          <div class="donations"><a href="http://okfn.de/about/spenden/"><img src="/static/img/buddha.png" title="Jetzt spenden!"></a></div>
+        </div>
+      </div>
+    </nav>
     <div id="airlock" class="container">
       <div class="row">{% block content %}This page intentionally left blank.{% endblock %}</div>
     </div>
