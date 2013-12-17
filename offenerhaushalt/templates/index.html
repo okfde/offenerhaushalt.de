@@ -8,7 +8,7 @@
 	<h1>Ich bin eine Banane!</h1>
 	<ul>
 	{% for site in sites %}
-		<li>{{site.name}}</li>
+		<li><a href="{{url_for('site', slug=site.slug)}}">{{site.name}}</a></li>
 	{% endfor %}
 	</ul>
 {% endblock %}

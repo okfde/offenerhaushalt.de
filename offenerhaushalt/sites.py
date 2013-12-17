@@ -19,7 +19,7 @@ class SiteCollection(object):
 				return site
 
 	def __iter__(self):
-		return self.sites
+		return self.sites.__iter__()
 
 
 class Site(_DataObject):
@@ -32,4 +32,4 @@ class Site(_DataObject):
 def load_sites(app):
 	with open(app.config['SITES_FILE'], 'rb') as fh:
 		data = yaml.load(fh)
-		return [Site(d) for d in data.get('sites', [])]
+		return SiteCollection(data)
