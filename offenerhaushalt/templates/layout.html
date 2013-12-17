@@ -8,7 +8,7 @@
   <title>{% block title %}Willkommen{% endblock %} - OffenerHaushalt</title>
   <meta name="description" content="{% block description %} - {% endblock %}">
 
-  <link href='http://fonts.googleapis.com/css?family=Lato:400,300,700|Droid+Sans+Mono' rel='stylesheet' type='text/css'>
+  <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' type='text/css'>
 
   {% assets filters="less,cssmin,cssrewrite", output="gen/style.css",
       "vendor/bootstrap/less/bootstrap.less",
@@ -17,7 +17,7 @@
     <link type="text/css" href="{{ ASSET_URL }}" rel="stylesheet">
   {% endassets %}
 
-  <link rel="shortcut icon" href="/static/favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon" />
 </head>
 <body>
   <div id="page">
@@ -25,9 +25,40 @@
       <div class="row">{% block content %}This page intentionally left blank.{% endblock %}</div>
     </div>
   </div>
+
   <footer>
     <div class="container">
-      
+      <div class="row">
+        <div class="col-sm-2 hidden-xs">
+          <a class="logo" href="http://okfn.de">
+            <img src="/static/img/okfn.png" alt="Open Knowledge Foundation e.V." />
+          </a>
+        </div>
+        <div class="col-xs-12 col-sm-10">
+          <p>
+            OffenerHaushalt.de ist ein ehrenamtliches Projekt der
+            <a href="http://okfn.de">Open Knowledge Foundation Deutschland e.V.</a>
+            Das Projekt basiert auf amtlichen Daten des Bundesministeriums für Finanzen
+            und anderer Stellen, ist jedoch unabhängig.
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-md-7">
+          <ul class="links">
+            <li><a href="http://offenedaten.de">OffeneDaten.de</a></li>
+            <li><a href="http://offenesparlament.de">OffenesParlament.de</a></li>
+            <li><a href="http://fragdenstaat.de">FragDenStaat.de</a></li>
+          </ul>
+        </div>
+        <div class="col-xs-12 col-md-5 pull-right">
+          <ul class="links pull-right">
+            <li><a href="/page/mitmachen">Mitmachen</a></li>
+            <li><a href="https://github.com/okfde/offenerhaushalt.de">Quellcode</a></li>
+            <li><a href="/page/kontakt">Impressum</a></li>
+          </ul>
+        </div>
+      </div>
     </div>
   </footer>
 

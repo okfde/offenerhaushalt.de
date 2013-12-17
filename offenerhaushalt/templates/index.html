@@ -5,12 +5,14 @@
 {% endblock %}
 
 {% block content %}
-	<h1>Ich bin eine Banane!</h1>
-	<ul>
-	{% for site in sites %}
-		<li><a href="{{url_for('site', slug=site.slug)}}">{{site.name}}</a></li>
-	{% endfor %}
-	</ul>
+	<div class="col-xs-12">
+		<h1>OffenerHaushalt 2.0 - jetzt mit 20,4% mehr Bunt.</h1>
+		<ul>
+		{% for site in sites %}
+			<li><a href="{{url_for('site', slug=site.slug)}}">{{site.name}}</a></li>
+		{% endfor %}
+		</ul>
+	</div>
 {% endblock %}
 
 

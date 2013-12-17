@@ -1,1 +1,87 @@
+@bgColor: #dee0e2;
+@linkColor: #265475;
+
+
+html {
+  background-color: @bgColor;
+}
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  background-color: #fcfcfc;
+  color: #333;
+  font-size: 16px;
+}
+
+body, p, li {
+  line-height: 1.4em;
+}  
+
+label, input, button, select, textarea {
+  font-size: inherit;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 400;
+  line-height: 1.4em;
+}
+
+h1 {
+  font-size: 1.8em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+
+li {
+    margin: 0 0 0.4em;
+}
+
+a, a:hover {
+  color: @linkColor;
+}
+
+hr {
+  border-bottom: 0;
+}
+
+
+/* Footer */
+
+footer {
+  margin: 2em 0 0 0;
+  /*border-top: 1px solid #e0e0e0;*/
+  border-top: 1px solid #ccc;
+  padding: 2em 0 0 0;
+  background-color: @bgColor;
+  font-size: 0.9em;
+
+  .logo img {
+    margin: 0.5em 0 0 0;
+  }
+
+  .links {
+    list-style-type: none;
+    margin: 0.5em 0 2em 0;
+    padding: 0;
+  }
+
+  .links li {
+    display: inline-block;
+    margin: 0 2em 1em 0;
+  }
+
+  .pull-right .links li {
+    margin: 0 0 1em 2em;
+  }
+}
 
