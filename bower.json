@@ -1,0 +1,15 @@
+{
+  "name": "offenerhaushalt",
+  "version": "2.0.0",
+  "main": "offenerhaushalt/static/style/style.less",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "bootstrap": "3.0.0",
+    "font-awesome": "~4.0.3",
+    "jquery": "~2.0.3",
+    "moment": "~2.4.0"
+  }
+}
