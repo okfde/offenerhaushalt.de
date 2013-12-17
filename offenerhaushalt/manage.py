@@ -1,7 +1,7 @@
 from flask.ext.script import Manager
 
 from offenerhaushalt.web import app
-from offenerhaushalt.core import freezer
+from offenerhaushalt.generators import freezer
 
 manager = Manager(app)
 
