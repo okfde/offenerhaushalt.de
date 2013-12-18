@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+
+{% block title %}
+  Haushalte der Länder
+{% endblock %}
+
+{% block description %}
+  Diese Seite stellt einen Überblick über die Länderhaushalte bereit, die auf der Webseite 
+  OffenerHaushalt visualisert verfügbar sind.
+{% endblock %}
+
+{% block content %}
+	<h1 class="page-header">Länderhaushalte</h1>
+
+	<div class="row">
+		{% for site in sites %}
+			<div class="col-xs-12 col-sm-6 col-md-4">
+				<h3><a href="{{url_for('site', slug=site.slug)}}">{{site.name}}</a></h3>
+				<p>{{site.tagline}}</p>
+			</div>
+		{% endfor %}
+	</div>
+{% endblock %}
+
+
+

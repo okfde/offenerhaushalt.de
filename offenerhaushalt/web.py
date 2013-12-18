@@ -22,6 +22,18 @@ def sites_json():
     return jsonify(sites)
 
 
+@app.route('/laender/')
+def states():
+    _sites = [s for s in sites if s.level == 'land']
+    return render_template('states.html', sites=_sites)
+
+
+@app.route('/kommunen/')
+def local():
+    _sites = [s for s in sites if s.level not in ['land', 'bund']]
+    return render_template('local.html', sites=_sites)
+
+
 @app.route('/')
 def index():
     return render_template('index.html', sites=sites)
