@@ -11,18 +11,15 @@
 			<p class="claim">
 				OffenerHaushalt stellt die Ausgaben und Einnahmen von Bund, Ländern und Kommunen übersichtlich dar.
 			</p>
+			<ul>
+				{% for site in sites %}
+					<li><a href="{{url_for('site', slug=site.slug)}}">{{site.name}}</a></li>
+				{% endfor %}
+			</ul>
 		</div>
 		<div class="col-xs-12 col-md-6">
 			<div id="map"></div>
 		</div>
-	</div>
-	<div class="col-xs-12">
-		<h1>OffenerHaushalt 2.0 - jetzt mit 20,4% mehr Bunt.</h1>
-		<ul>
-		{% for site in sites %}
-			<li><a href="{{url_for('site', slug=site.slug)}}">{{site.name}}</a></li>
-		{% endfor %}
-		</ul>
 	</div>
 {% endblock %}
 
