@@ -5,6 +5,17 @@
 {% endblock %}
 
 {% block content %}
+	
+	<div class="row">
+		<div class="col-xs-12 col-md-6">
+			<p class="claim">
+				OffenerHaushalt stellt die Ausgaben und Einnahmen von Bund, Ländern und Kommunen übersichtlich dar.
+			</p>
+		</div>
+		<div class="col-xs-12 col-md-6">
+			<div id="map"></div>
+		</div>
+	</div>
 	<div class="col-xs-12">
 		<h1>OffenerHaushalt 2.0 - jetzt mit 20,4% mehr Bunt.</h1>
 		<ul>
@@ -15,5 +26,10 @@
 	</div>
 {% endblock %}
 
-
+{% block js %}
+    {% assets filters="uglifyjs", output="gen/home.js",
+        "js/home.js" %}
+      <script type="text/javascript" src="{{ ASSET_URL }}"></script>
+	{% endassets %}
+{% endblock %}
 
