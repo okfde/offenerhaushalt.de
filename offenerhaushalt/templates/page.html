@@ -5,9 +5,11 @@
 {% endblock %}
 
 {% block content %}
+
 	<div class="col-xs-12 pages">
 		<h1 class="page-header">{{page['title']}}</h1>
 
+		{% if framed %}
 		<div class="row">
 		    <div class="col-xs-12 col-sm-4">
 		      <ul class="nav nav-list">
@@ -22,6 +24,9 @@
 		      {{ page.html | safe }}
 		    </div>
 		</div>
+		{% else %}
+			{{ page.html | safe }}
+		{% endif %}
 	</div>
 {% endblock %}
 

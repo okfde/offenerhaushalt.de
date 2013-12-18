@@ -13,8 +13,10 @@ def site(slug):
 @app.route('/page/<path:path>.html')
 def page(path):
     page = pages.get_or_404(path)
+    print page.meta.get('frame')
     template = page.meta.get('template', 'page.html')
-    return render_template(template, page=page)
+    return render_template(template, page=page,
+    	framed=page.meta.get('framed', True))
 
 
 @app.route('/sites.json')
