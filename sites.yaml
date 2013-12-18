@@ -7,9 +7,24 @@ sites:
     source_url: http://bundeshaushalt-info.de
     data_url: http://opendatalabs.org/de/haushalt
     external_url: http://bund.offenerhaushalt.de
+    level: bund
 
     hierarchies:
       - name: Einzelpläne
         drilldown: []
+
+  - name: Land Berlin
+    slug: berlin
+    tagline: "Landeshaushalt für Berlin, verabschiedet durch den Senat der Stadt Berlin."
+    source: Stadt Berlin
+    source_url: http://daten.berlin.de
+    data_url: http://opendatalabs.org/de/haushalt
+    state: BE
+    level: land
+
+    hierarchies:
+      - name: Einzelpläne
+        drilldown: []
+
 
 

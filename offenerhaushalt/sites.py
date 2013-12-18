@@ -21,12 +21,20 @@ class SiteCollection(object):
 	def __iter__(self):
 		return self.sites.__iter__()
 
+	def to_dict(self):
+		return {'sites': self.sites}
+
 
 class Site(_DataObject):
 
 	def __init__(self, data):
 		self.data = data
 		self.slug = slugify(data.get('slug', data.get('name')))
+
+	def to_dict(self):
+		data = self.data.copy()
+		data['slug'] = self.slug
+		return data
 
 
 def load_sites(app):

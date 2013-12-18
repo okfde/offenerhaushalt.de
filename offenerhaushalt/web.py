@@ -1,6 +1,7 @@
 from flask import render_template
 
 from offenerhaushalt.core import app, sites, pages
+from offenerhaushalt.util import jsonify
 
 
 @app.route('/haushalt/<slug>/')
@@ -14,6 +15,11 @@ def page(path):
     page = pages.get_or_404(path)
     template = page.meta.get('template', 'page.html')
     return render_template(template, page=page)
+
+
+@app.route('/sites.json')
+def sites_json():
+    return jsonify(sites)
 
 
 @app.route('/')
