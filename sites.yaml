@@ -22,16 +22,11 @@ sites:
     data_url: http://opendatalabs.org/de/haushalt
     state: BE
     level: land
-    api:
-        type: OpenSpending
-        base_url: https://openspending.org/api/2/
-        dataset: berlin_de
-        hierarchies:
-            - name: Einzelpläne
-              drilldown:
-                - Einzelplan
-              filter:
-                - "Titelart:Ausgabetitel"
+    dataset: berlin_de
 
-
-
+    hierarchies:
+        - name: Einzelpläne
+          drilldown:
+            - Einzelplan
+          filter:
+            - "Titelart:Ausgabetitel"

@@ -173,3 +173,33 @@ h1.page-header {
     }
   }
 }
+
+
+/* Tree maps */
+#treemap {
+  min-height: 500px;
+  overflow: hidden;
+
+  .node {
+    display: block;
+    border: 0;
+    color: #fff;
+    font: 12px sans-serif;
+    line-height: 12px;
+    overflow: hidden;
+    position: absolute;
+    outline: 1px solid #fff;
+    text-indent: -1000px;
+    padding: 5px;
+    box-sizing: border-box;
+    z-index: 5;
+  }
+
+  .node.big {
+    text-indent: 2px;
+  }
+
+  .node:hover {
+    text-indent: 2px;
+  }
+}

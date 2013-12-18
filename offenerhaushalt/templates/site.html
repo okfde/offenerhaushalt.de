@@ -5,96 +5,15 @@
 {% endblock %}
 
 {% block content %}
-	<h1>{{site.name}}</h1>
+	<h1 class="page-header">{{site.name}}</h1>
 
-  <h2>Worst treemap ever</h2>
   <div id="treemap"></div>
 {% endblock %}
 
-{% block css %}
-<style>
-  #treemap {
-    margin: auto;
-    position: relative;
-    width: 960px;
-  }
-  .node {
-    display: block;
-    border: 0;
-    color: #333;
-    font: 12px sans-serif;
-    line-height: 12px;
-    overflow: hidden;
-    position: absolute;
-    outline: 1px solid #fff;
-    text-indent: -1000px;
-    padding: 5px;
-    box-sizing: border-box;
-    z-index: 5;
-  }
-  .node.big {
-    text-indent: 2px;
-  }
-  .node:hover {
-    text-indent: 2px;
-  }
-</style>
-{% endblock %}
-
 {% block js %}
-<script>
-$(function(){
-  var margin = {top: 40, right: 10, bottom: 10, left: 10},
-      width = 960 - margin.left - margin.right,
-      height = 500 - margin.top - margin.bottom;
-
-  var color = d3.scale.category20();
-
-  var treemap = d3.layout.treemap()
-      .size([width, height])
-      .sticky(true)
-      .value(function(d) { return d.amount; });
-
-  var div = d3.select("#treemap").append("div")
-      .style("position", "relative")
-      .style("width", (width + margin.left + margin.right) + "px")
-      .style("height", (height + margin.top + margin.bottom) + "px")
-      .style("left", margin.left + "px")
-      .style("top", margin.top + "px");
-
-  var currentDrilldown = "{{ site.api.hierarchies.0.drilldown.0 }}";
-
-  var url = "{{ site.api.base_url }}aggregate?dataset={{ site.api.dataset }}&drilldown={{ site.api.hierarchies.0.drilldown.0 }}&cut={% for filter in site.api.hierarchies.0.filter %}{{ filter }}{% if not loop.last %}|{% endif %}{% endfor %}";
-
-  d3.json(url, function(error, data) {
-    var totalAmount = data.summary.amount;
-    var root = {
-      children: []
-    };
-    for (var i = 0; i < data.drilldown.length; i += 1) {
-      root.children.push({
-        name: data.drilldown[i][currentDrilldown].label,
-        amount: data.drilldown[i].amount,
-        href: data.drilldown[i][currentDrilldown].html_url
-      });
-    }
-    var node = div.datum(root).selectAll(".node")
-        .data(treemap.nodes)
-      .enter().append("a")
-        .attr("href", function(d){ return d.href; })
-        .attr("class", "node")
-        .call(position)
-        .style("background", function(d) { return color(d.name); })
-        .classed("big", function(d) { return d.amount > totalAmount / 50 })
-        .text(function(d) { return d.children ? null : d.name; });
-  });
-
-  function position() {
-    this.style("left", function(d) { return d.x + "px"; })
-        .style("top", function(d) { return d.y + "px"; })
-        .style("width", function(d) { return Math.max(0, d.dx - 1) + "px"; })
-        .style("height", function(d) { return Math.max(0, d.dy - 1) + "px"; });
-  }
-});
-</script>
+  <script id="site-config" type="application/json">{{site_json | safe }}</script>
+  {% assets filters="uglifyjs", output="gen/budget.js",
+        "js/budget.js" %}
+      <script type="text/javascript" src="{{ ASSET_URL }}"></script>
+  {% endassets %}
 {% endblock %}
