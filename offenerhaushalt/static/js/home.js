@@ -66,7 +66,10 @@ $(function() {
 		        	renderListing(d.properties);
 	        	}
 
-	        });
+	        })
+	        .transition()
+	        .duration(400)
+	        .style('fill', '#555');
 	    
     }
 
