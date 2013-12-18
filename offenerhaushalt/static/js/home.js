@@ -1,10 +1,15 @@
 $(function() {
-
-	//console.log('hi!');
+	var selectedState = null;
 
 	var $map = $('#map'),
-		width = $map.width(),
+		$welcome = $('#default-welcome'),
+		$listing = $('#listing'),
+		listingTemplate = Handlebars.compile($('#listing-template').html());
+
+	var	width = $map.width(),
 		height = $map.height();
+
+	var sitesDfd = $.getJSON('/sites.json');
 
 	var path = d3.geo.path();
 
@@ -32,14 +37,56 @@ $(function() {
 	        .attr("class", function(d) { return "subunit " + d.properties.code; })
 	        .attr("d", path)
 	        .on("mouseover", function(d) {
-	        	d3.select(this).transition().duration(200)
-    				.style({'fill':'#333'});
+	        	if (d.properties.code != selectedState) {
+	        		d3.select(this).transition().duration(200)
+    					.style({'fill':'#333'});	
+	        	}
+	        	if (selectedState===null) {
+	        		renderListing(d.properties);
+	        	}
 	        })
 	        .on("mouseout", function(d) {
-	        	d3.select(this).transition().duration(500)
-    				.style({'fill':'#555'});
+	        	if (d.properties.code != selectedState) {
+		        	d3.select(this).transition().duration(500)
+	    				.style({'fill':'#555'});
+	        	}
+	        	if (selectedState===null) {
+	        		renderListing(null);
+	        	}
 	        })
-	        .on("click", function(d) { console.log(d); });
+	        .on("click", function(d) {
+	        	if (d.properties.code == selectedState) {
+	        		selectedState = null;
+	        		d3.selectAll('.subunit').style({'fill':'#555'});
+	        		renderListing(null);
+	        	} else {
+	        		selectedState = d.properties.code;
+		        	d3.selectAll('.subunit').style({'fill':'#555'});
+		        	d3.select(this).style({'fill':'#42928F'});
+		        	renderListing(d.properties);
+	        	}
+
+	        });
 	    
+    }
+
+    function renderListing(state) {
+    	if (state === null) {
+    		$listing.hide();
+    		$welcome.show();
+    		return;
+    	}
+    	$welcome.hide();
+    	sitesDfd.done(function(sites) {
+    		var stateSites = $.grep(sites.sites, function(site) { console.log(site.state, state.code); return site.state == state.code; });
+    		$listing.html(listingTemplate({
+    			'sites': stateSites,
+    			'has_sites': stateSites.length > 0,
+    			'no_sites': stateSites.length == 0,
+    			'state': state
+    		}));
+    		$listing.fadeIn(100);
+    		console.log(stateSites);
+    	});
     }
 });

@@ -11,16 +11,39 @@
 			<p class="claim">
 				OffenerHaushalt stellt die Ausgaben und Einnahmen von Bund, Ländern und Kommunen übersichtlich dar.
 			</p>
-			<ul>
-				{% for site in sites %}
-					<li><a href="{{url_for('site', slug=site.slug)}}">{{site.name}}</a></li>
-				{% endfor %}
-			</ul>
+			<div id="default-welcome">
+				<p>Öffentliche Finanzen sind total wichtig, diese Box erklärt euch, warum!</p>
+			</div>
+			<div id="listing"></div>
 		</div>
 		<div class="col-xs-12 col-md-6">
 			<div id="map"></div>
 		</div>
 	</div>
+
+	<script id="listing-template" type="text/x-handlebars-template">{% raw %}
+		{{#if has_sites}}
+			<p>
+				In <strong>{{state.name}} ({{state.code}})</strong> haben wir bislang die folgenden Haushalte
+				erschlossen:</p>
+			<ul>
+				{{#each sites}}
+					<li><a href="/haushalt/{{slug}}">{{name}}</a>: {{tagline}}</li>
+				{{/each}}
+			</ul>
+		{{/if}}
+		{{#if no_sites}}
+			<p>
+				Für <strong>{{state.name}}</strong> steht bislang kein Haushalt
+				zur Verfügung.
+			</p>
+		{{/if}}
+		<p>
+			<strong>Ist ihre Kommune oder ihr Bundesland nicht verfügbar?</strong> 
+			<a href="/page/mitmachen.html">Machen Sie mit</a>, und erschließen Sie
+			weitere Haushaltsdaten für OffenerHaushalt.
+		</p>
+	{% endraw %}</script>
 {% endblock %}
 
 {% block js %}
