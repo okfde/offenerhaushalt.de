@@ -20,6 +20,7 @@
 {% block js %}
   <script id="site-config" type="application/json">{{site_json | safe }}</script>
   {% assets filters="uglifyjs", output="gen/budget.js",
+        "js/treemap.js",
         "js/budget.js" %}
       <script type="text/javascript" src="{{ ASSET_URL }}"></script>
   {% endassets %}
