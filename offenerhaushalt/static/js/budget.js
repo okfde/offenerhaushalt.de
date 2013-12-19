@@ -63,22 +63,28 @@ $(function(){
         cuts = $.extend({}, path.hierarchy.cuts || {}, path.args);
 
     getData(rootDimension, path.hierarchy.cuts).done(function(base) {
+      
       $.each(base.drilldown, function(i, drilldown) {
         drilldown.color = color(i);
         if (cuts[rootDimension] && cuts[rootDimension] == drilldown[rootDimension].name) {
           rootColor = d3.rgb(drilldown.color);
         }
       });
+
       getData(path.drilldown, cuts).done(function(data) {
         var dimension = path.drilldown;
-        if (dimension!=rootDimension) {
+
+        if (dimension != rootDimension) {
           color = d3.scale.linear();
           color = color.interpolate(d3.interpolateRgb)
           color = color.range([rootColor.brighter(), rootColor.darker().darker()]);
           color = color.domain([data.summary.num_drilldowns, 0]);
         }
+
         data.summary.amount_fmt = OSDE.amount(data.summary.amount);
+        
         $.each(data.drilldown, function(e, drilldown) {
+        
           drilldown._current = drilldown[dimension];
           drilldown.amount_fmt = OSDE.amount(drilldown.amount);
           drilldown.percentage = drilldown.amount / data.summary.amount;
@@ -94,7 +100,9 @@ $(function(){
             drilldown.no_url = true;
           }
           drilldown.color = color(e)
+        
         });
+        
         treemap.render(data, path.drilldown);
         table.render(data, path.drilldown);
       });
