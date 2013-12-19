@@ -23,10 +23,20 @@ sites:
     state: BE
     level: land
     dataset: berlin_de
+    default: einzelplan
 
     hierarchies:
-        - name: Einzelpläne
-          drilldown:
-            - Einzelplan
-          filter:
-            - "Titelart:Ausgabetitel"
+        einzelplan:
+            name: Einzelpläne
+            drilldowns:
+                - Einzelplan
+            cuts:
+                Titelart: Ausgabetitel
+        funktion:
+            name: Funktionen
+            drilldowns:
+                - Hauptfunktion
+                - Oberfunktion
+                - Funktion
+            cuts:
+                Titelart: Ausgabetitel

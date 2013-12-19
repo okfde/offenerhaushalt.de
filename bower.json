@@ -14,6 +14,7 @@
     "d3": "3.3.13",
     "topojson": "~1.4.5",
     "handlebars": "~1.1.2",
-    "accounting": "~0.3.2"
+    "accounting": "~0.3.2",
+    "hashtrack": "*"
   }
 }
