@@ -157,7 +157,11 @@ h1.page-header {
   text-align: left;
   margin-top: 0;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 300;
+
+  small {
+    font-size: 0.6em;
+  }
 }
 
 /* Documentation */
@@ -186,15 +190,22 @@ h1.page-header {
     display: block;
     border: 0;
     color: #fff;
-    f-ont: 12px sans-serif;
-    l-ine-height: 12px;
     overflow: hidden;
     position: absolute;
     outline: 1px solid #fff;
+    font-size: 0.8em;
     text-indent: -1000px;
     padding: 5px;
     box-sizing: border-box;
     z-index: 5;
+    font-weight: 300;
+    text-shadow: -2px -2px 13px rgba(150, 150, 150, 0.9);
+  }
+
+  .amount {
+    display: block;
+    padding-bottom: 0.2em;
+    font-size: 1.5em;
   }
 
   .node.big {

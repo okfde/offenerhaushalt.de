@@ -61,6 +61,8 @@ $(function(){
     getData(path.drilldown, cuts).done(function(data) {
       var dimension = path.drilldown;
       $.each(data.drilldown, function(e, drilldown) {
+        drilldown.amount_fmt = accounting.formatMoney(drilldown.amount, "€", 0, ".");
+        //console.log(accounting.formatMoney(drilldown.amount, "€", 0, "."));
         if (!path.bottom) {
           var modifiers = {};
           modifiers[dimension] = drilldown[dimension].name;

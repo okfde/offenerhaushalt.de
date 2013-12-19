@@ -37,6 +37,7 @@ OSDE.TreeMap = function(elementID) {
 		  root.children.push({
 		    name: data.drilldown[i][dimension].label,
 		    amount: data.drilldown[i].amount,
+		    amount_fmt: data.drilldown[i].amount_fmt,
 		    href: data.drilldown[i].url
 		  });
 		}
@@ -50,7 +51,9 @@ OSDE.TreeMap = function(elementID) {
 		      d.color = color(d.name); return '#fff';
 		    })
 		    .classed("big", function(d) { return d.amount > data.summary.amount / 50 })
-		    .text(function(d) { return d.children ? null : d.name; })
+		    .html(function(d) {
+		    	return d.children ? null : '<span class="amount">' + d.amount_fmt + '</span>' + d.name;
+		    })
 		    .on("mouseover", function(d) {
 		      d3.select(this).transition().duration(200)
 		        .style({'background': d3.rgb(d.color).darker() });  

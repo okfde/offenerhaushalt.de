@@ -30,6 +30,8 @@ sites:
             name: Einzelpläne
             drilldowns:
                 - Einzelplan
+                - to
+                - Titel
             cuts:
                 Titelart: Ausgabetitel
         funktion:
