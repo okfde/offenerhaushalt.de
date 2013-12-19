@@ -55,21 +55,40 @@ $(function(){
       window.location.hash = site.default + '/'
     }
 
-    var path = parsePath(window.location.hash);
-    var cuts = $.extend({}, path.hierarchy.cuts || {}, path.args);
+    var path = parsePath(window.location.hash),
+        rootDimension = path.hierarchy.drilldowns[0],
+        rootColor = null;
+        color = d3.scale.ordinal().range(OSDE.categoryColors),
+        cuts = $.extend({}, path.hierarchy.cuts || {}, path.args);
 
-    getData(path.drilldown, cuts).done(function(data) {
-      var dimension = path.drilldown;
-      $.each(data.drilldown, function(e, drilldown) {
-        drilldown.amount_fmt = accounting.formatMoney(drilldown.amount, "€", 0, ".");
-        //console.log(accounting.formatMoney(drilldown.amount, "€", 0, "."));
-        if (!path.bottom) {
-          var modifiers = {};
-          modifiers[dimension] = drilldown[dimension].name;
-          drilldown.url = makeUrl(path, modifiers);
+    getData(rootDimension, path.hierarchy.cuts).done(function(base) {
+      $.each(base.drilldown, function(i, drilldown) {
+        drilldown.color = color(i);
+        if (cuts[rootDimension] && cuts[rootDimension] == drilldown[rootDimension].name) {
+          rootColor = d3.rgb(drilldown.color);
         }
       });
-      treemap.render(data, path.drilldown);
+      getData(path.drilldown, cuts).done(function(data) {
+        var dimension = path.drilldown;
+        if (dimension!=rootDimension) {
+          color = d3.scale.linear();
+          color = color.interpolate(d3.interpolateRgb)
+          color = color.range([rootColor.brighter(), rootColor.darker()]);
+          color = color.domain([data.summary.num_drilldowns, 0]);
+        }
+        $.each(data.drilldown, function(e, drilldown) {
+          drilldown.amount_fmt = accounting.formatMoney(drilldown.amount, "€", 0, ".");
+          // TODO: percentages
+
+          if (!path.bottom) {
+            var modifiers = {};
+            modifiers[dimension] = drilldown[dimension].name;
+            drilldown.url = makeUrl(path, modifiers);
+          }
+          drilldown.color = color(e)
+        });
+        treemap.render(data, path.drilldown);
+      });
     });
   }
 

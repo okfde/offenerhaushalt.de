@@ -4,8 +4,7 @@ OSDE.TreeMap = function(elementID) {
 	var self = this,
 		$treemap = $(elementID);
 
-	var color = d3.scale.ordinal().range(OSDE.categoryColors),
-      	treemap = null,
+	var treemap = null,
       	div = null;
 
 	function create() {
@@ -38,7 +37,8 @@ OSDE.TreeMap = function(elementID) {
 		    name: data.drilldown[i][dimension].label,
 		    amount: data.drilldown[i].amount,
 		    amount_fmt: data.drilldown[i].amount_fmt,
-		    href: data.drilldown[i].url
+		    href: data.drilldown[i].url,
+		    color: data.drilldown[i].color
 		  });
 		}
 		var node = div.datum(root).selectAll(".node")
@@ -47,9 +47,7 @@ OSDE.TreeMap = function(elementID) {
 		    .attr("href", function(d){ return d.href; })
 		    .attr("class", "node")
 		    .call(positionNode)
-		    .style("background", function(d) {
-		      d.color = color(d.name); return '#fff';
-		    })
+		    .style("background", '#fff')
 		    .classed("big", function(d) { return d.amount > data.summary.amount / 50 })
 		    .html(function(d) {
 		    	return d.children ? null : '<span class="amount">' + d.amount_fmt + '</span>' + d.name;
@@ -65,7 +63,7 @@ OSDE.TreeMap = function(elementID) {
 		    .transition()
 		    .duration(500)
 		    .delay(function(d, i) { return i*30; })
-		    .style("background", function(d) { return d.color; });
+		    .style("background", function(d) { console.log(d); return d.color; });
 	}
 
 	function positionNode() {
