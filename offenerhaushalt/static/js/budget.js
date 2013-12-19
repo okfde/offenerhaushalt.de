@@ -4,6 +4,21 @@ $(function(){
 
   var treemap = new OSDE.TreeMap('#treemap');
 
+  function getData(drilldown, cut) {
+    var cutStr = $.map(cut, function(v, k) { return k+':'+v; }); 
+    return $.ajax({
+      url: apiEndpoint,
+      data: {
+        dataset: site.dataset,
+        drilldown: drilldown,
+        cut: cutStr.join('|')
+      },
+      dataType: 'jsonp',
+      cache: true,
+      jsonpCallback: 'osAPIData'
+    });    
+  }
+
   function update() {
     if (!window.location.hash.substring(1).length) {
       window.location.hash = site.default + '/0/'
@@ -16,19 +31,7 @@ $(function(){
         hierarchy = site.hierarchies[hierarchyName],
         cuts = $.extend({}, hierarchy.cuts || {}, args);
 
-    var cutsStr = $.map(cuts, function(v, k) { return k+':'+v; }); 
-    var reqDfd = $.ajax({
-      url: apiEndpoint,
-      data: {
-        dataset: site.dataset,
-        drilldown: hierarchy.drilldowns[level],
-        cut: cutsStr.join('|')
-      },
-      dataType: 'jsonp',
-      cache: true,
-      jsonpCallback: 'osAPIData'
-    });
-    reqDfd.done(function(data) {
+    getData(hierarchy.drilldowns[level], cuts).done(function(data) {
       var dimension = hierarchy.drilldowns[level];
       $.each(data.drilldown, function(e, drilldown) {
         var query = $.extend({}, args);
