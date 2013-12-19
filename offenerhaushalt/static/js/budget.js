@@ -2,7 +2,8 @@ $(function(){
   var apiEndpoint = 'https://openspending.org/api/2/aggregate',
       site = JSON.parse($('#site-config').html());
 
-  var treemap = new OSDE.TreeMap('#treemap');
+  var treemap = new OSDE.TreeMap('#treemap'),
+      table =  new OSDE.Table('#table');
 
   function getData(drilldown, cut) {
     var cutStr = $.map(cut, function(v, k) { return k+':'+v; }); 
@@ -73,21 +74,29 @@ $(function(){
         if (dimension!=rootDimension) {
           color = d3.scale.linear();
           color = color.interpolate(d3.interpolateRgb)
-          color = color.range([rootColor.brighter(), rootColor.darker()]);
+          color = color.range([rootColor.brighter(), rootColor.darker().darker()]);
           color = color.domain([data.summary.num_drilldowns, 0]);
         }
+        data.summary.amount_fmt = OSDE.amount(data.summary.amount);
         $.each(data.drilldown, function(e, drilldown) {
-          drilldown.amount_fmt = accounting.formatMoney(drilldown.amount, "€", 0, ".");
-          // TODO: percentages
+          drilldown._current = drilldown[dimension];
+          drilldown.amount_fmt = OSDE.amount(drilldown.amount);
+          drilldown.percentage = drilldown.amount / data.summary.amount;
+          drilldown.small = drilldown.percentage < 0.01;
+          drilldown.percentage_fmt = (drilldown.percentage*100).toFixed(2) + '%';
+          drilldown.percentage_fmt = drilldown.percentage_fmt.replace('.', ',');
 
           if (!path.bottom) {
             var modifiers = {};
-            modifiers[dimension] = drilldown[dimension].name;
+            modifiers[dimension] = drilldown._current.name;
             drilldown.url = makeUrl(path, modifiers);
+          } else {
+            drilldown.no_url = true;
           }
           drilldown.color = color(e)
         });
         treemap.render(data, path.drilldown);
+        table.render(data, path.drilldown);
       });
     });
   }

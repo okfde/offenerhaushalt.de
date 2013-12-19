@@ -15,12 +15,63 @@
       huhu
     </div-->
   </div>
+
+  <div class="row">
+    <div class="col-md-12">
+      <div id="table"></div>
+    </div>
+    <!--div class="col-md-2">
+      huhu
+    </div-->
+  </div>
+
+
+  <script id="table-template" type="text/x-handlebars-template">{% raw %}
+    <table class="table table-condensed">
+      <tr>
+        <th>Titel</th>
+        <th class="num">Betrag</th>
+        <th class="num">Anteil</th>
+      </tr>
+      {{#each drilldown}}
+        <tr {{#if small}}class="small"{{/if}}>
+          <td>
+            <i style="color: {{color}};" class="fa fa-square"></i>
+            {{#if url}}
+              <a href="{{url}}">{{_current.label}}</a>
+            {{/if}}
+            {{#if no_url}}
+              {{_current.label}}
+            {{/if}}
+          </td>
+          <td class="num">{{amount_fmt}}</td>
+          <td class="num">{{percentage_fmt}}</td>
+        </tr>
+      {{/each}}
+      <tr>
+        <td colspan="3">
+          <span class="pull-right">
+            <a class="show-small" href="#"><i class="fa fa-plus-square"></i> kleine Posten anzeigen</a>
+            <a class="hide-small" href="#"><i class="fa fa-minus-square"></i> kleine Posten verstecken</a></span>
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <th>
+          Total
+        </th>
+        <th class="num">{{summary.amount_fmt}}</th>
+        <th class="num">100%</th>
+      </tr>
+    </table>
+  {% endraw %}</script>
 {% endblock %}
 
 {% block js %}
   <script id="site-config" type="application/json">{{site_json | safe }}</script>
   {% assets filters="uglifyjs", output="gen/budget.js",
         "js/treemap.js",
+        "js/table.js",
         "js/budget.js" %}
       <script type="text/javascript" src="{{ ASSET_URL }}"></script>
   {% endassets %}

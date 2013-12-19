@@ -25,3 +25,7 @@ OSDE.mergeArgs = function(args) {
 	});
 	return query.join('&');
 };
+
+OSDE.amount = function(num) {
+	return accounting.formatMoney(num, "€", 0, ".");
+}

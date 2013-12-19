@@ -34,9 +34,10 @@ OSDE.TreeMap = function(elementID) {
 		};
 		for (var i = 0; i < data.drilldown.length; i += 1) {
 		  root.children.push({
-		    name: data.drilldown[i][dimension].label,
+		    name: data.drilldown[i]._current.label,
 		    amount: data.drilldown[i].amount,
 		    amount_fmt: data.drilldown[i].amount_fmt,
+		    percentage: data.drilldown[i].percentage,
 		    href: data.drilldown[i].url,
 		    color: data.drilldown[i].color
 		  });
@@ -50,6 +51,9 @@ OSDE.TreeMap = function(elementID) {
 		    .style("background", '#fff')
 		    .classed("big", function(d) { return d.amount > data.summary.amount / 50 })
 		    .html(function(d) {
+				if (d.percentage < 0.03) {
+					return '';
+				}
 		    	return d.children ? null : '<span class="amount">' + d.amount_fmt + '</span>' + d.name;
 		    })
 		    .on("mouseover", function(d) {
