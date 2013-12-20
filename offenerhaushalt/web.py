@@ -24,14 +24,10 @@ def page(path):
     	framed=page.meta.get('framed', True))
 
 
-@app.route('/sites.json')
-def sites_json():
-    return jsonify(sites)
-
-
 @app.route('/')
 def index():
+    sites_json = JSONEncoder().encode(sites)
     state_sites = [s for s in sites if s.level == 'land']
     local_sites = [s for s in sites if s.level not in ['land', 'bund']]
-    return render_template('index.html', sites=sites,
+    return render_template('index.html', sites=sites, sites_json=sites_json,
         state_sites=state_sites, local_sites=local_sites)

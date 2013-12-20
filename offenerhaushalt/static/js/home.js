@@ -1,5 +1,6 @@
 $(function() {
-	var selectedState = null;
+	var sites = JSON.parse($('#sites-data').html()),
+		selectedState = null;
 
 	var $map = $('#map'),
 		$welcome = $('#default-welcome'),
@@ -80,16 +81,13 @@ $(function() {
     		return;
     	}
     	$welcome.hide();
-    	sitesDfd.done(function(sites) {
-    		var stateSites = $.grep(sites.sites, function(site) { console.log(site.state, state.code); return site.state == state.code; });
-    		$listing.html(listingTemplate({
-    			'sites': stateSites,
-    			'has_sites': stateSites.length > 0,
-    			'no_sites': stateSites.length == 0,
-    			'state': state
-    		}));
-    		$listing.fadeIn(100);
-    		console.log(stateSites);
-    	});
+		var stateSites = $.grep(sites.sites, function(site) { console.log(site.state, state.code); return site.state == state.code; });
+		$listing.html(listingTemplate({
+			'sites': stateSites,
+			'has_sites': stateSites.length > 0,
+			'no_sites': stateSites.length == 0,
+			'state': state
+		}));
+		$listing.fadeIn(100);
     }
 });
