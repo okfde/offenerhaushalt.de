@@ -13,7 +13,7 @@ $(function(){
       table =  new OSDE.Table('#table');
 
   function getData(drilldown, cut) {
-    var cutStr = $.map(cut, function(v, k) { if(v.length) { return k+':'+v; }}); 
+    var cutStr = $.map(cut, function(v, k) { if((v+'').length) { return k+':'+v; }}); 
     return $.ajax({
       url: apiEndpoint,
       data: {
@@ -87,7 +87,8 @@ $(function(){
       $('.site-filters strong[data-field="' + f.field + '"]').html(cuts[f.field] || 'Alle');
     });
 
-    getData(rootDimension, path.hierarchy.cuts).done(function(base) {
+    var baseCuts = $.extend({}, baseFilters, path.hierarchy.cuts);
+    getData(rootDimension, baseCuts).done(function(base) {
       
       $.each(base.drilldown, function(i, drilldown) {
         drilldown.color = color(i);
