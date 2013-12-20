@@ -5,9 +5,49 @@
 {% endblock %}
 
 {% block content %}
-	<h1 class="page-header">{{site.name}} <small>{{site.tagline}}</small></h1>
+	<h1 class="page-header site">{{site.name}} <small>{{site.tagline}}</small></h1>
 
   <div class="row">
+    <div class="col-sm-12 col-md-6 site-menu">
+      <div class="btn-group btn-group-sm" id="hierarchy-menu">
+        <a class="btn btn-default"><strong>Ansicht:</strong></a>
+        {% for name, data in site.hierarchies.items() %}
+          <a class="btn btn-default {{name}}" href="#{{name}}/">{{data.name}}</a>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 site-menu site-filters">
+      <div class="btn-group btn-group-sm pull-right">
+        <a class="btn btn-default"><strong>Filter:</strong></a>
+          {% for filter in site.filters %}
+            <div class="btn-group btn-group-sm">
+              <a class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                {{filter.name}}: <strong data-field="{{filter.field}}">{{filter.default}}</strong>
+                <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                {% if filter.nullable %}
+                  <li>
+                    <a class="value {% if value==filter.default %}active{% endif %}" href="#"
+                      data-field="{{filter.field}}" data-value="">
+                      <i class="fa fa-check"></i> Alle
+                    </a>
+                  </li>
+                {% endif %}
+                {% for value in filter.values %}
+                  <li>
+                    <a class="value {% if value==filter.default %}active{% endif %}" href="#"
+                      data-field="{{filter.field}}" data-value="{{value}}">
+                      <i class="fa fa-check"></i> {{value}}
+                    </a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endfor %}
+      </div>
+    </div>
+    <div class="clearfix"></div>
     <div class="col-md-12">
       <div id="treemap"></div>
     </div>

@@ -1,12 +1,19 @@
 $(function(){
   var apiEndpoint = 'https://openspending.org/api/2/aggregate',
-      site = JSON.parse($('#site-config').html());
+      site = JSON.parse($('#site-config').html()),
+      baseFilters = {};
 
-  var treemap = new OSDE.TreeMap('#treemap'),
+  $.each(site.filters, function(i, f) {
+    baseFilters[f.field] = f.default;
+  });
+
+  var $hierarchyMenu = $('#hierarchy-menu'),
+      $filterValues = $('.site-filters .value'),
+      treemap = new OSDE.TreeMap('#treemap'),
       table =  new OSDE.Table('#table');
 
   function getData(drilldown, cut) {
-    var cutStr = $.map(cut, function(v, k) { return k+':'+v; }); 
+    var cutStr = $.map(cut, function(v, k) { if(v.length) { return k+':'+v; }}); 
     return $.ajax({
       url: apiEndpoint,
       data: {
@@ -27,6 +34,7 @@ $(function(){
 
     path.hierarchyName = location[0];
     path.hierarchy = site.hierarchies[path.hierarchyName];
+    path.hierarchy.cuts = path.hierarchy.cuts || {};
     path.level = levels.length;
     path.bottom = path.level >= (path.hierarchy.drilldowns.length - 1);
     path.drilldown = path.hierarchy.drilldowns[path.level];
@@ -60,7 +68,24 @@ $(function(){
         rootDimension = path.hierarchy.drilldowns[0],
         rootColor = null;
         color = d3.scale.ordinal().range(OSDE.categoryColors),
-        cuts = $.extend({}, path.hierarchy.cuts || {}, path.args);
+        cuts = $.extend({}, baseFilters, path.hierarchy.cuts || {}, path.args);
+
+    $hierarchyMenu.find('.btn').removeClass('active');
+    $hierarchyMenu.find('.btn.' + path.hierarchyName).addClass('active');
+
+    $filterValues.removeClass('active');
+    $filterValues.each(function(i, f) {
+      var $f = $(f), field = $f.data('field'), value = $f.data('value'), modifiers = {};
+      modifiers[field] = value;
+      $f.attr('href', makeUrl(path, modifiers));
+      if (cuts[field]==value) {
+        $f.addClass('active');
+      }
+    });
+
+    $.each(site.filters, function(i, f) {
+      $('.site-filters strong[data-field="' + f.field + '"]').html(cuts[f.field] || 'Alle');
+    });
 
     getData(rootDimension, path.hierarchy.cuts).done(function(base) {
       
