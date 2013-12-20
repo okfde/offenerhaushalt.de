@@ -6,19 +6,30 @@
 
 {% block content %}
 	<div class="row">
-		<div class="col-xs-12 col-md-6">
-			<p class="claim">
-				OffenerHaushalt stellt die Ausgaben und Einnahmen von Bund, Ländern und Kommunen übersichtlich dar.
-			</p>
-			<div id="default-welcome">
-				<p>Öffentliche Finanzen sind total wichtig, diese Box erklärt euch, warum!</p>
+		<div class="col-xs-12">
+			<!--img src="/static/img/schaeuble.png" class="img-responsive home-image" style="position: absolute;"-->
+			<div class="row welcome">
+				<div class="col-xs-12 col-md-7">
+					<p class="claim">
+						OffenerHaushalt stellt die Ausgaben und Einnahmen von Bund, Ländern und Kommunen übersichtlich dar.
+					</p>
+					<div id="default-welcome">
+						<p>
+							Wir schaffen einen einfachen Zugang zu öffentlichen Haushalten, damit interessiere Bürger sich einen Überblick über die Finanzen in ihrer Stadt,
+							ihrem Bundesland oder der Bunderrepublik machen können.
+
+						</p>
+					</div>
+					<div id="listing"></div>
+				</div>
+				<div class="col-xs-12 col-md-5">
+					<div id="map"></div>
+				</div>
 			</div>
-			<div id="listing"></div>
-		</div>
-		<div class="col-xs-12 col-md-6">
-			<div id="map"></div>
 		</div>
 	</div>
+	<div class="clearfix"></div>
+	
 
 	<script id="listing-template" type="text/x-handlebars-template">{% raw %}
 		{{#if has_sites}}
@@ -88,6 +99,7 @@
 {% endblock %}
 
 {% block js %}
+	<script id="sites-data" type="application/json">{{sites_json | safe }}</script>
     {% assets filters="uglifyjs", output="gen/home.js",
         "js/home.js" %}
       <script type="text/javascript" src="{{ ASSET_URL }}"></script>
