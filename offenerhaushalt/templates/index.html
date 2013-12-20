@@ -23,11 +23,11 @@
 	<script id="listing-template" type="text/x-handlebars-template">{% raw %}
 		{{#if has_sites}}
 			<p>
-				In <strong>{{state.name}} ({{state.code}})</strong> haben wir bislang die folgenden Haushalte
+				In <strong>{{state.name}}</strong> haben wir bislang die folgenden Haushalte
 				erschlossen:</p>
 			<ul>
 				{{#each sites}}
-					<li><a href="/haushalt/{{slug}}">{{name}}</a>: {{tagline}}</li>
+					<li><strong><a href="/haushalt/{{slug}}">{{name}}</a></strong>: {{tagline}}</li>
 				{{/each}}
 			</ul>
 		{{/if}}

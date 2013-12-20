@@ -236,7 +236,7 @@ sites:
 
   - name: Stadt Laatzen
     slug: laatzen
-    tagline: "Haushaltsplan 2013."
+    tagline: "Haushaltsplan 2013 der Stadt Laatzen bei Hannover."
     source: Birgit Fehners
     source_url: http://www.laatzen.de/
     data_url: http://opendatalabs.org/de/haushalt
