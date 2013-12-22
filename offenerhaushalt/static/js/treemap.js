@@ -66,7 +66,7 @@ OSDE.TreeMap = function(elementID) {
 		    })
 		    .transition()
 		    .duration(500)
-		    .delay(function(d, i) { return i*30; })
+		    .delay(function(d, i) { return Math.min(i * 30, 1500); })
 		    .style("background", function(d) { return d.color; });
 	}
 
