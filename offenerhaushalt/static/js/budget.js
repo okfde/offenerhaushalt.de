@@ -10,6 +10,7 @@ $(function(){
   });
 
   var $hierarchyMenu = $('#hierarchy-menu'),
+      $infobox = $('#infobox'),
       $filterValues = $('.site-filters .value'),
       treemap = new OSDE.TreeMap('#treemap'),
       table =  new OSDE.Table('#table');
@@ -28,6 +29,18 @@ $(function(){
       jsonpCallback: 'osAPIData'
     });    
   }
+
+  $('#infobox-toggle').click(function(e) {
+    var $e = $(e.target);
+    if ($e.hasClass('active')) {
+      $e.removeClass('active');
+      $infobox.slideUp();
+    } else {
+      $e.addClass('active');
+      $infobox.slideDown();
+    }
+    return false;
+  });
 
   function parsePath(hash) {
     var path = {},    

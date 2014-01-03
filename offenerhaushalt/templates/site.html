@@ -7,7 +7,7 @@
 {% block description %}{{ site.tagline }}{% endblock %}
 
 {% block content %}
-	<h1 class="page-header site">{{site.name}} <small>{{site.tagline}}</small></h1>
+	<h1 class="page-header site">{{site.name}} <!--small>{{site.tagline}}</small--></h1>
 
   <div class="row">
     <div class="col-sm-12 col-md-6 site-menu">
@@ -16,6 +16,11 @@
         {% for name, data in site.hierarchies.items() %}
           <a class="btn btn-default {{name}}" href="#{{name}}/">{{data.name}}</a>
         {% endfor %}
+      </div>
+      <div class="btn-group btn-group-sm">
+        <a class="btn btn-default" id="infobox-toggle">
+          <i class="fa fa-info-circle"></i> Daten &amp; Embed
+        </a>
       </div>
     </div>
     <div class="col-sm-12 col-md-6 site-menu site-filters">
@@ -51,6 +56,32 @@
     </div>
     <div class="clearfix"></div>
     <div class="col-md-12">
+      <div id="infobox">
+        <div class="row">
+          <div class="col-md-6">
+            <!--h3>Über diese Grafik</h3-->
+            <p>
+              <strong>Beschreibung:</strong> {{site.tagline}}
+            </p>
+            <p class="sources">
+              Quelle: <strong><a href="{{site.source_url}}">{{site.source}}</a></strong>
+              {% if site.data_url %}
+                (<a href="{{site.data_url}}">Rohdaten</a>)
+              {% endif %}
+            </p>
+          </div>
+          <div class="col-md-6">
+            <!--h3>Visualisierung und Tabelle einbetten</h3-->
+            <p>
+              <strong>Visualisierung und Tabelle einbetten:</strong> Nutzen Sie diesen Embed-Code, um die Grafik in ein eigenes Blog oder auf einer Webseite einzubinden:
+            </p>
+            <code id="embed-code"></code>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="col-md-12">
       <div id="treemap"></div>
     </div>
     <!--div class="col-md-2">
@@ -66,16 +97,7 @@
       huhu
     </div-->
   </div>
-  <div class="row">
-    <div class="col-md-8">
-      <h3>Visualisierung und Tabelle einbetten</h3>
-      <p>
-        Kopieren Sie den folgenden Embed-Code, um die Grafik und die Tabelle auf Ihrer eigenen Seite einzubetten:
-      </p>
-      <code id="embed-code">
-      </code>
-    </div>
-  </div>
+
 {% endblock %}
 
 {% block js %}
