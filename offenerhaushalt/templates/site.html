@@ -66,8 +66,19 @@
       huhu
     </div-->
   </div>
+  <div class="row">
+    <div class="col-md-8">
+      <h3>Visualisierung und Tabelle einbetten</h3>
+      <p>
+        Kopieren Sie den folgenden Embed-Code, um die Grafik und die Tabelle auf Ihrer eigenen Seite einzubetten:
+      </p>
+      <code id="embed-code">
+      </code>
+    </div>
+  </div>
+{% endblock %}
 
-
+{% block js %}
   <script id="table-template" type="text/x-handlebars-template">{% raw %}
     <table class="table table-condensed">
       <tr>
@@ -107,9 +118,11 @@
       </tr>
     </table>
   {% endraw %}</script>
-{% endblock %}
 
-{% block js %}
+  <script id="embed-template" type="text/x-handlebars-template">{% raw %}<iframe src="{{baseurl}}embed/{{hash}}" width="100%" height="520px" frameborder="0" style="margin:0">
+    <a href="{{url}}">Offener Haushalt: {{name}}</a></iframe><br><small>
+    <a href="{{url}}">OffenerHaushalt.de</a></small>{% endraw %}</script>
+
   <script id="site-config" type="application/json">{{site_json | safe }}</script>
   {% assets filters="uglifyjs", output="gen/budget.js",
         "js/treemap.js",

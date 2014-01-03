@@ -5,10 +5,15 @@ from offenerhaushalt.util import jsonify, JSONEncoder
 
 
 @app.route('/haushalt/<slug>/')
-def site(slug):
+def site(slug, template='site.html'):
     site = sites.get(slug)
     site_json = JSONEncoder().encode(site)
-    return render_template('site.html', site=site, site_json=site_json)
+    return render_template(template, site=site, site_json=site_json)
+
+
+@app.route('/haushalt/<slug>/embed/')
+def embed_site(slug):
+    return site(slug, template='embed.html')
 
 
 @app.route('/page/<path:path>.html')

@@ -1,6 +1,8 @@
 $(function(){
   var apiEndpoint = 'https://openspending.org/api/2/aggregate',
       site = JSON.parse($('#site-config').html()),
+      embedTemplate = Handlebars.compile($('#embed-template').html());
+      $embedCode = $('#embed-code')
       baseFilters = {};
 
   $.each(site.filters, function(i, f) {
@@ -133,6 +135,12 @@ $(function(){
         table.render(data, path.drilldown);
       });
     });
+    $embedCode.text(embedTemplate({
+      name: site.name,
+      baseurl: document.location.href.split('#')[0],
+      url: document.location.href,
+      hash: document.location.hash,
+    }));
   }
 
   hashtrack.onhashchange(update);
