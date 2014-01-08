@@ -44,7 +44,7 @@ $(function(){
 
   function parsePath(hash) {
     var path = {},    
-        location = hash.substring(1).split('/'),
+        location = hash.split('/'),
         levels = location.slice(1, location.length-1);
 
     path.hierarchyName = location[0];
@@ -75,11 +75,12 @@ $(function(){
   }
 
   function update() {
-    if (!window.location.hash.substring(1).length) {
-      window.location.hash = site.default + '/'
+    var rawPath = window.location.hash.substring(1);
+    if (!rawPath.length) {
+      rawPath = site.default + '/'
     }
 
-    var path = parsePath(window.location.hash),
+    var path = parsePath(rawPath),
         rootDimension = path.hierarchy.drilldowns[0],
         rootColor = null;
         color = d3.scale.ordinal().range(OSDE.categoryColors),
