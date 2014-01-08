@@ -99,7 +99,7 @@
 
 {% block js %}
 	<script id="sites-data" type="application/json">{{sites_json | safe }}</script>
-    {% assets filters="uglifyjs", output="gen/home.js",
+    {% assets filters="uglifyjs", output="gen/home.%(version)s.js",
         "js/home.js" %}
       <script type="text/javascript" src="{{ ASSET_URL }}"></script>
 	{% endassets %}

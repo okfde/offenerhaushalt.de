@@ -10,8 +10,6 @@ $(function() {
 	var	width = $map.width(),
 		height = $map.height();
 
-	var sitesDfd = $.getJSON('/sites.json');
-
 	var path = d3.geo.path();
 
 	var svg = d3.select("#map").append("svg")

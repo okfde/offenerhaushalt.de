@@ -146,7 +146,7 @@
     <a href="{{url}}">OffenerHaushalt.de</a></small>{% endraw %}</script>
 
   <script id="site-config" type="application/json">{{site_json | safe }}</script>
-  {% assets filters="uglifyjs", output="gen/budget.js",
+  {% assets filters="uglifyjs", output="gen/budget.%(version)s.js",
         "js/treemap.js",
         "js/table.js",
         "js/budget.js" %}

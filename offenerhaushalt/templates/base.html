@@ -10,7 +10,7 @@
 
   <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' type='text/css'>
 
-  {% assets filters="less,cssmin,cssrewrite", output="gen/style.css",
+  {% assets filters="less,cssmin,cssrewrite", output="gen/style.%(version)s.css",
       "vendor/bootstrap/less/bootstrap.less",
       "vendor/font-awesome/less/font-awesome.less",
       "style/style.less"
@@ -22,7 +22,7 @@
 </head>
 <body>
   {% block body %}{% endblock %}
-  {% assets filters="uglifyjs", output="gen/app.js",
+  {% assets filters="uglifyjs", output="gen/app.%(version)s.js",
         "vendor/jquery/jquery.js",
         "vendor/bootstrap/js/collapse.js",
         "vendor/bootstrap/js/dropdown.js",
