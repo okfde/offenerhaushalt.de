@@ -7,3 +7,4 @@ PyYAML==3.10
 cssmin==0.2.0
 requests==2.1.0
 python-slugify==0.0.6
+awscli
