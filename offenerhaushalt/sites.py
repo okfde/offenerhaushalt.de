@@ -1,5 +1,6 @@
 import yaml
 import requests
+import os
 from slugify import slugify
 
 
@@ -11,8 +12,12 @@ class _DataObject(object):
 
 class SiteCollection(object):
 
-	def __init__(self, data):
-		self.sites = [Site(d) for d in data.get('sites', [])]
+	def __init__(self, directory):
+		self.sites = []
+		for site_file in os.listdir(directory):
+			with open(os.path.join(directory, site_file), 'rb') as fh:
+				site = Site(yaml.load(fh))
+				self.sites.append(site)
 
 	def get(self, slug):
 		for site in self.sites:
@@ -83,6 +88,5 @@ class Site(_DataObject):
 
 
 def load_sites(app):
-	with open(app.config['SITES_FILE'], 'rb') as fh:
-		data = yaml.load(fh)
-		return SiteCollection(data)
+	return SiteCollection(app.config['SITES_FOLDER'])
+		

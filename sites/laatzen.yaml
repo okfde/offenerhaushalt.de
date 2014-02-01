@@ -1,0 +1,25 @@
+name: Stadt Laatzen
+slug: laatzen
+tagline: "Haushaltsplan 2013 der Stadt Laatzen bei Hannover."
+source: Birgit Fehners
+source_url: http://www.laatzen.de/
+data_url: http://opendatalabs.org/de/haushalt
+state: NI
+level: kommune
+dataset: stadtlaatzenplan2013
+default: produkte
+
+filters:
+  - field: 'time.year'
+    name: 'Jahr'
+    default: 2013
+  - field: 'Art'
+    name: 'Art'
+    default: 'Aufwendungen'
+
+hierarchies:
+    produkte:
+        name: Teilhaushalt/Produkte
+        drilldowns:
+            - Teilhaushalt
+            - Produkt
