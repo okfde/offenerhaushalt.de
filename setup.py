@@ -10,7 +10,7 @@ setup(
     keywords='',
     author='Open Knowledge Foundation Deutschland',
     author_email='info@offenerhaushalt.de',
-    url='http://okfn.de',
+    url='http://www.offenerhaushalt.de',
     license='MIT',
     packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
     namespace_packages=[],
