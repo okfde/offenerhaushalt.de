@@ -16,6 +16,9 @@ filters:
   - field: 'flow'
     name: 'Typ'
     default: 'spending'
+  - field: 'financial_type'
+    name: 'Art'
+    default: 'Ansatz'
 
 hierarchies:
     einzelplan:
