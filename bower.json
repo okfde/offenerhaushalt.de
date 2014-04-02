@@ -15,6 +15,7 @@
     "topojson": "~1.4.5",
     "handlebars": "~1.1.2",
     "accounting": "~0.3.2",
-    "hashtrack": "*"
+    "hashtrack": "*",
+    "cryptojslib": "~3.1.2"
   }
 }

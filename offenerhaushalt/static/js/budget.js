@@ -1,5 +1,5 @@
 $(function(){
-  var apiEndpoint = 'https://openspending.org/api/2/aggregate',
+  var //apiEndpoint = 'https://openspending.org/api/2/aggregate',
       site = JSON.parse($('#site-config').html()),
       embedTemplate = Handlebars.compile($('#embed-template').html());
       $embedCode = $('#embed-code')
@@ -16,7 +16,14 @@ $(function(){
       table =  new OSDE.Table('#table');
 
   function getData(drilldown, cut) {
-    var cutStr = $.map(cut, function(v, k) { if((v+'').length) { return k+':'+v; }}); 
+    var cut = $.map(cut, function(v, k) { if((v+'').length) { return k+':'+v; }}); 
+    if ($.isArray(drilldown)) {
+      drilldown = drilldown.sort().join('|');
+    }
+    var key = cut.sort().join('|') + '@' + drilldown;
+    var hash = CryptoJS.SHA1(key).toString();
+    return $.getJSON('/static/aggregates/' + site.dataset + '/' + hash + '.json');  
+    /*
     return $.ajax({
       url: apiEndpoint,
       data: {
@@ -27,7 +34,8 @@ $(function(){
       dataType: 'jsonp',
       cache: true,
       jsonpCallback: 'osAPIData'
-    });    
+    });
+    */  
   }
 
   $('#infobox-toggle').click(function(e) {
