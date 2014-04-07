@@ -58,8 +58,10 @@ class AggregatorClient(object):
             os.makedirs(path)
 
         for key, query in self.queries:
-            hash_ = sha1(key).hexdigest()
-            query_data = api_get(query)
+            hash_ = sha1(key.encode('utf-8')).hexdigest()
             file_name = os.path.join(path, hash_ + '.json')
+            if os.path.isfile(file_name):
+                continue
+            query_data = api_get(query)
             with open(file_name, 'wb') as fh:
                 fh.write(json.dumps(query_data))
