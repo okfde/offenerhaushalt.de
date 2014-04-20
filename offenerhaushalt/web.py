@@ -1,7 +1,7 @@
 from flask import render_template
 
 from offenerhaushalt.core import app, sites, pages
-from offenerhaushalt.util import jsonify, JSONEncoder
+from offenerhaushalt.util import JSONEncoder
 
 
 @app.route('/haushalt/<slug>/')
@@ -21,7 +21,7 @@ def page(path):
     page = pages.get_or_404(path)
     template = page.meta.get('template', 'page.html')
     return render_template(template, page=page,
-    	framed=page.meta.get('framed', True))
+                           framed=page.meta.get('framed', True))
 
 
 @app.route('/')
@@ -30,4 +30,4 @@ def index():
     state_sites = [s for s in sites if s.level == 'land']
     local_sites = [s for s in sites if s.level not in ['land', 'bund']]
     return render_template('index.html', sites=sites, sites_json=sites_json,
-        state_sites=state_sites, local_sites=local_sites)
+                           state_sites=state_sites, local_sites=local_sites)
