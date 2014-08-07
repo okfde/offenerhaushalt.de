@@ -6,6 +6,9 @@ source_url: http://www.laatzen.de/
 data_url: http://opendatalabs.org/de/haushalt
 state: NI
 level: kommune
+location:
+  latitude: 52.3088889
+  longitude: 9.8019002
 dataset: stadtlaatzenplan2013
 default: produkte
 

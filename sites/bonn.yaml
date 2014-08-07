@@ -6,6 +6,9 @@ source_url: http://opendata.bonn.de/
 data_url: http://opendatalabs.org/misc/Plan_Haushalt_2013_2014-4-xlsx.csv
 state: NW
 level: kommune
+location:
+  latitude: 50.7371862
+  longitude: 7.0965505
 dataset: de-bonn
 default: produkte
 
