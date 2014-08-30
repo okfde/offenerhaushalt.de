@@ -1,0 +1,18 @@
+{
+  "name": "hashtrack",
+  "main": "hashtrack.js",
+  "version": "0.2.0",
+  "homepage": "ironfroggy.github.io/hashtrack",
+  "authors": [
+    "ironfroggy@gmail.com"
+  ],
+  "description": "A helper for single-page apps using hash-urls",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

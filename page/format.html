@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+  Anforderung für Haushaltsdaten
+ - OffenerHaushalt</title>
+  <meta name="description" content=" - ">
+
+  <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' type='text/css'>
+
+  
+    <link type="text/css" href="/static/gen/style.8cf4c3a8.css" rel="stylesheet">
+  
+
+  <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon" />
+  <link rel="canonical" href="http://offenerhaushalt.de/page/format.html" />
+</head>
+<body>
+  
+  <div id="page">
+    <nav class="navbar navbar-default" role="navigation" id="menu">
+      <div class="container relbox">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">OffenerHaushalt</a>
+        </div>
+
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          <ul class="nav navbar-nav">
+            <li>
+              <a href="/haushalt/bund">Bund</a>
+            </li>
+            <li>
+              <a href="/#laender">Länder</a>
+            </li>
+            <li>
+              <a href="/#kommunen">Kommunen</a>
+            </li>
+            <li class="hidden-sm">
+              <a href="/page/europa.html">Europa</a>
+            </li>
+            <li>
+              <a href="/page/intro.html">Über uns</a>
+            </li>
+          </ul>
+          <div class="donations"><a href="http://okfn.de/about/spenden/"><img src="/static/img/buddha.png" title="Jetzt spenden!"></a></div>
+        </div>
+      </div>
+    </nav>
+    <div id="airlock" class="container">
+      <div class="row">
+
+	<div class="col-xs-12 pages">
+		<h1 class="page-header">Anforderung für Haushaltsdaten</h1>
+
+		
+		<div class="row">
+		    <div class="col-xs-12 col-sm-8 textual">
+		      <h2>Dateiformate</h2>
+<p>Zur Umsetzung von OffenerHaushalt sind - wie für viele <a href="http://okfn.de/opendata">Open Data</a>-Projekte - maschinenlesbare Haushaltsdaten notwendig. Gemeint ist damit, dass die Daten in der Form bereit gestellt werden sollen, in der ihre intendierte Struktur möglichst weitgehend nachvollzogen werden kann.</p>
+<p>Während es sich zum Beispiel beim PDF-Format zwar um digitale Daten handelt, sind die enthaltenen Informationen für die Ausgabe durch Bildschirme und Drucker optimiert - Informationen zur eigentlichen Struktur (z.B. zu tabellarischen Aufführungen) müssen jedoch anhand des Layouts rekonstruiert werden. Oft ist dies gar nicht oder nur teilweise möglich.</p>
+<p>Geeignet sind z.B. die folgenden Formate:</p>
+<table class="table table-condensed">
+<tr><th>Name</th><th>Rating</th><th>Dateiendung</th><th>Beschreibungen</tr>
+<tr><td>Komma-separierte Werte</td><td>***</td><td>.csv</td><td>Einfaches Textformat, gut geeignet.</td></tr>
+<tr><td>Excel-Dateien</td><td>**</td><td>.xls</td><td>Microsoft Excel (2000-2003) Format, ohne Makros und mit wenigen Blättern.</td></tr>
+<tr><td>OO.org Spreadsheets</td><td>*</td><td>.ods</td><td>Open Office-Daten, ähnlich Excel</td></tr>
+<tr><td>XML-Daten</td><td>****</td><td>.xml</td></td><td>Ein eigenes, expressives XML-Format (vgl. FTS)</td></tr>
+<tr><td>JavaScript Object Notation</td><td>****</td><td>.json</td><td>JSON-Daten mit aussagekräftigen Keys und guter Verschachtelung.</td></tr>
+</table>
+
+<h2>Tabellenformate</h2>
+<p>Haushaltsdaten werden für gewöhnlich in tabellarischer Form abgelegt. Dabei kommt oft ein Format wie das folgende zum Einsatz:</p>
+<pre><code>PostenID, Klassifikation1, Klassifikation2, Bezeichnung, Eigenschaft1, Eigenschaft2, Ist20NN, Ist20NN, Soll20NN
+</code></pre>
+<p>Wobei "Klassifikation" ein Kategorienschema wie den Funktionenplan, Gruppierungsplan o.ä. meint, "Eigenschaften" beispielsweise Angaben zur gegenseitigen Deckungsfähigkeit einzelner Posten oder Postengruppen.</p>
+<p>Ein solches Format ist grundsätzlich zum Import in OffenerHaushalt/WDMMG geeignet. Vereinfacht wird der Import durch die Bereitstellung in einer leicht denormalisierten Form, in der jeder Betrag einer einzelnen Zeile entspricht:</p>
+<pre><code>PostenID, Klassifikation1, Klassifikation2, Bezeichnung, Eigenschaft1, Eigenschaft2, SollOderIst, Jahr, Betrag
+</code></pre>
+<p><strong>Weiterhin gelten die folgenden Hinweise:</strong></p>
+<p>Obere Klassifikationen, die sich aus einer niederen ableiten lassen, müssen nicht einzeln angegeben werden (so reicht die Funktionsziffer "541", die Klassifikationen "5" und "54" sind redundant).
+Ein Beschreibungstext für einzelne Posten oder Produkte ist hilfreich, kann dargestellt werden und beim Export direkt in die Tabelle eingebunden werden (auch wenn hier eine Redundanz entsteht).</p>
+<h2>Enthaltene Informationen</h2>
+<p>Die eigentlichen Haushaltsdaten müssen um folgende Informationen erweitert sein:</p>
+<ul>
+<li>Falls Klassifikationsschemata (wie Produktpläne) Anwendung finden, die nicht auf Bundesebene Anwendung finden: Ein Glossar aller verwendeten Codes, deren Bezeichnung und Beschreibung.</li>
+<li>Falls Produkte beschrieben werden, deren Bezeichnung und Beschreibung.</li>
+</ul>
+<p>Zusätzlich können die folgenden Informationen hilfreich sein:</p>
+<ul>
+<li>Angaben zur Zuordnung zu besonderen Programmen, Investitionen und Initiativen</li>
+<li>Liegt ein übergeordneter Haushalt vor (bzw. bei Ausgabendaten): Informationen zur zutreffenden Kostenstelle (bspw. Postennr.).</li>
+<li>Falls juristische Personen als Empfänger genannt werden: deren Name, Rechtsform, Sitz, Amtsgericht, Register und Registernummer.</li>
+<li>Falls natürliche Personen als Empfänger genannt werden: deren Name und Anschrift (Ja, es gibt Situationen in denen das öffentliche Interesse das rechtfertigt, siehe CAP).</li>
+<li>Falls verschiedene Ministerien, Behörden etc. Nennung finden: eine interne (eindeutige) Kennung, Beschreibung, Anschrift und Kontaktinformationen, inkl. Info-URL.</li>
+<li>Eventuelle Umbenennungen von Posten als zeitcodierte Liste.</li>
+</ul>
+		    </div>
+		    <div class="col-xs-12 col-sm-4">
+		      <ul class="nav nav-list">
+		        <li><a href="/page/intro.html">Einleitung</a></li>
+		        <li><a href="/page/faq.html">Häufige Fragen</a></li>
+		        <li><a href="/page/mitmachen.html">Mitmachen</a></li>
+		        <li><a href="/page/links.html">Links und Resourcen</a></li>
+		        <li><a href="/page/kontakt.html">Kontakt und Impressum</a></li>
+		      </ul>
+		    </div>
+		</div>
+		
+	</div>
+</div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-2 hidden-xs">
+          <a class="logo" href="http://okfn.de">
+            <img src="/static/img/okfn.png" alt="Open Knowledge Foundation e.V." />
+          </a>
+        </div>
+        <div class="col-xs-12 col-sm-10">
+          <p>
+            OffenerHaushalt.de ist ein ehrenamtliches Projekt der
+            <a href="http://okfn.de">Open Knowledge Foundation Deutschland e.V.</a>
+            Das Projekt basiert auf amtlichen Daten des Bundesministeriums für Finanzen
+            und anderer Stellen, ist jedoch von der Regierung unabhängig.
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-md-7">
+          <ul class="links">
+            <li><a href="http://offenedaten.de">OffeneDaten.de</a></li>
+            <li><a href="http://offenesparlament.de">OffenesParlament.de</a></li>
+            <li><a href="http://fragdenstaat.de">FragDenStaat.de</a></li>
+          </ul>
+        </div>
+        <div class="col-xs-12 col-md-5 pull-right">
+          <ul class="links pull-right">
+            <li><a href="/page/mitmachen.html">Mitmachen</a></li>
+            <li><a href="https://github.com/okfde/offenerhaushalt.de">Quellcode</a></li>
+            <li><a href="/page/kontakt.html">Impressum</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+  
+      <script type="text/javascript" src="/static/gen/app.293f5fc7.js"></script>
+  
+
+  
+
+  
+
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-34039573-6', 'offenerhaushalt.de');
+    ga('send', 'pageview');
+  </script>
+  
+</body>
+</html>

@@ -1,0 +1,257 @@
+html {
+  background-color: #dee0e2;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  background-color: #fcfcfc;
+  color: #333;
+  font-size: 16px;
+}
+body,
+p,
+li {
+  line-height: 1.4em;
+}
+label,
+input,
+button,
+select,
+textarea {
+  font-size: inherit;
+  font-weight: 400;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 400;
+  line-height: 1.4em;
+}
+h1 {
+  font-size: 1.8em;
+}
+h2 {
+  font-size: 1.5em;
+}
+h3 {
+  font-size: 1.2em;
+}
+li {
+  margin: 0 0 0.4em;
+}
+a,
+a:hover {
+  color: #265475;
+}
+hr {
+  border-bottom: 0;
+}
+/* Header */
+#menu {
+  background-color: #fff;
+  background-image: none;
+  border: 0;
+  min-height: 36px;
+  padding-top: 5px;
+  border-bottom: 1px solid #eee;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+#menu .navbar-brand,
+#menu li > a {
+  color: #333;
+  font-weight: 400;
+  text-shadow: none;
+}
+#menu .navbar-brand {
+  text-transform: uppercase;
+  margin-right: 3em;
+  padding-left: 0;
+  font-weight: 600;
+  color: #42928f;
+}
+#menu li > a {
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #777;
+}
+#menu .relbox {
+  position: relative;
+}
+#menu .donations {
+  position: absolute;
+  right: 0em;
+  z-index: 1000;
+  margin-top: -7px;
+}
+/* Footer */
+footer {
+  margin: 2em 0 0 0;
+  /*border-top: 1px solid #e0e0e0;*/
+  border-top: 1px solid #ccc;
+  padding: 2em 0 0 0;
+  background-color: #dee0e2;
+  font-size: 0.9em;
+}
+footer .logo img {
+  margin: 0.5em 0 0 0;
+}
+footer .links {
+  list-style-type: none;
+  margin: 0.5em 0 2em 0;
+  padding: 0;
+}
+footer .links li {
+  display: inline-block;
+  margin: 0 2em 1em 0;
+}
+footer .pull-right .links li {
+  margin: 0 0 1em 2em;
+}
+/* Home page */
+#default-welcome {
+  font-size: 1.3em;
+}
+.claim {
+  font-size: 1.6em;
+  font-weight: 600;
+  line-height: 1.7em;
+  color: #42928f;
+  padding-top: 4em;
+}
+#map {
+  height: 35em;
+}
+#map .subunit {
+  stroke: #fff;
+  stroke-width: 1px;
+  fill: #fff;
+  cursor: pointer;
+}
+#listing {
+  display: none;
+  padding: 1em;
+  background-color: #e1f2f1;
+  border: 1px solid #bee2e0;
+}
+.dataset-listing h2 {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+h1.page-header {
+  text-align: left;
+  margin-top: 0;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+h1.page-header small {
+  font-size: 0.6em;
+}
+h1.page-header.site {
+  margin-bottom: 0.2em;
+}
+.site-menu {
+  margin-bottom: 0.3em;
+}
+/* Documentation */
+.pages .textual a {
+  text-decoration: underline;
+}
+.pages .textual h1,
+.pages .textual h2,
+.pages .textual h3,
+.pages .textual h4,
+.pages .textual h5 {
+  font-weight: 600;
+}
+/* Site menu */
+.site-filters .value {
+  padding-left: 2em;
+}
+.site-filters .value i.fa {
+  display: none;
+}
+.site-filters .value.active {
+  padding-left: 0.8em;
+}
+.site-filters .value.active i.fa {
+  display: inline-block;
+}
+#infobox {
+  display: none;
+  background-color: white;
+  margin-bottom: 1em;
+  padding: 0.5em;
+  border: 1px solid #eee;
+}
+#infobox code {
+  background-color: #eee;
+  color: #333;
+  font-size: 0.6em;
+  overflow: hidden;
+}
+#infobox .sources {
+  font-size: 0.9em;
+  border-top: 1px solid #eee;
+  padding-top: 0.5em;
+}
+/* Tree maps */
+#treemap {
+  min-height: 500px;
+  overflow: hidden;
+}
+#treemap .node {
+  display: block;
+  border: 0;
+  color: #fff;
+  overflow: hidden;
+  position: absolute;
+  outline: 1px solid #fff;
+  font-size: 0.8em;
+  text-indent: -1000px;
+  padding: 5px;
+  box-sizing: border-box;
+  z-index: 5;
+  font-weight: 300;
+  text-shadow: -2px -2px 13px rgba(150, 150, 150, 0.9);
+}
+#treemap .amount {
+  display: block;
+  padding-bottom: 0.2em;
+  font-size: 1.5em;
+}
+#treemap .node.big {
+  text-indent: 2px;
+}
+#treemap .node:hover {
+  text-indent: 2px;
+  text-decoration: none;
+}
+/* Table */
+#table {
+  margin-top: 1em;
+}
+#table td,
+#table th {
+  font-size: 0.9em;
+}
+#table td.num,
+#table th.num {
+  text-align: right;
+}
+#table .hide-small,
+#table .small {
+  display: none;
+}
+#table .label a,
+#table .label a:hover {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 400;
+}
+#embed-code {
+  white-space: pre-line;
+  display: block;
+}

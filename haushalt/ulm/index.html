@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+  Stadt Ulm
+ - OffenerHaushalt</title>
+  <meta name="description" content="Inoffizielle Datenbasis zum Haushalt der Stadt Ulm">
+
+  <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' type='text/css'>
+
+  
+    <link type="text/css" href="/static/gen/style.8cf4c3a8.css" rel="stylesheet">
+  
+
+  <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon" />
+  <link rel="canonical" href="http://offenerhaushalt.de/haushalt/ulm/" />
+</head>
+<body>
+  
+  <div id="page">
+    <nav class="navbar navbar-default" role="navigation" id="menu">
+      <div class="container relbox">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">OffenerHaushalt</a>
+        </div>
+
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          <ul class="nav navbar-nav">
+            <li>
+              <a href="/haushalt/bund">Bund</a>
+            </li>
+            <li>
+              <a href="/#laender">Länder</a>
+            </li>
+            <li>
+              <a href="/#kommunen">Kommunen</a>
+            </li>
+            <li class="hidden-sm">
+              <a href="/page/europa.html">Europa</a>
+            </li>
+            <li>
+              <a href="/page/intro.html">Über uns</a>
+            </li>
+          </ul>
+          <div class="donations"><a href="http://okfn.de/about/spenden/"><img src="/static/img/buddha.png" title="Jetzt spenden!"></a></div>
+        </div>
+      </div>
+    </nav>
+    <div id="airlock" class="container">
+      <div class="row">
+	<h1 class="page-header site">Stadt Ulm <!--small>Inoffizielle Datenbasis zum Haushalt der Stadt Ulm</small--></h1>
+
+  <div class="row">
+    <div class="col-sm-12 col-md-6 site-menu">
+      <div class="btn-group btn-group-sm" id="hierarchy-menu">
+        <a class="btn btn-default"><strong>Ansicht:</strong></a>
+        
+          <a class="btn btn-default produktbereiche" href="#produktbereiche/">Produktbereiche</a>
+        
+      </div>
+      <div class="btn-group btn-group-sm">
+        <a class="btn btn-default" id="infobox-toggle">
+          <i class="fa fa-info-circle"></i> Daten &amp; Embed
+        </a>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 site-menu site-filters">
+      <div class="btn-group btn-group-sm pull-right">
+        <a class="btn btn-default"><strong>Filter:</strong></a>
+          
+            <div class="btn-group btn-group-sm">
+              <a class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                Jahr: <strong data-field="time.year">2012</strong>
+                <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                
+                
+                  <li>
+                    <a class="value active" href="#"
+                      data-field="time.year" data-value="2012">
+                      <i class="fa fa-check"></i> 2012
+                    </a>
+                  </li>
+                
+              </ul>
+            </div>
+          
+            <div class="btn-group btn-group-sm">
+              <a class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                Art: <strong data-field="Buchungsart">Aufwendung</strong>
+                <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                
+                
+                  <li>
+                    <a class="value active" href="#"
+                      data-field="Buchungsart" data-value="Aufwendung">
+                      <i class="fa fa-check"></i> Aufwendung
+                    </a>
+                  </li>
+                
+                  <li>
+                    <a class="value " href="#"
+                      data-field="Buchungsart" data-value="Ertrag">
+                      <i class="fa fa-check"></i> Ertrag
+                    </a>
+                  </li>
+                
+              </ul>
+            </div>
+          
+      </div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="col-md-12">
+      <div id="infobox">
+        <div class="row">
+          <div class="col-md-6">
+            <!--h3>Über diese Grafik</h3-->
+            <p>
+              <strong>Beschreibung:</strong> Inoffizielle Datenbasis zum Haushalt der Stadt Ulm
+            </p>
+            <p class="sources">
+              Quelle: <strong><a href="None">Stefan T Kaufmann</a></strong>
+              
+                (<a href="http://beta.shutterworks.org/hh/out.csv">Rohdaten</a>)
+              
+            </p>
+          </div>
+          <div class="col-md-6">
+            <!--h3>Visualisierung und Tabelle einbetten</h3-->
+            <p>
+              <strong>Visualisierung und Tabelle einbetten:</strong> Nutzen Sie diesen Embed-Code, um die Grafik in ein eigenes Blog oder auf einer Webseite einzubinden:
+            </p>
+            <code id="embed-code"></code>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="col-md-12">
+      <div id="treemap"></div>
+    </div>
+    <!--div class="col-md-2">
+      huhu
+    </div-->
+  </div>
+
+  <div class="row">
+    <div class="col-md-12">
+      <div id="table"></div>
+    </div>
+    <!--div class="col-md-2">
+      huhu
+    </div-->
+  </div>
+
+</div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-2 hidden-xs">
+          <a class="logo" href="http://okfn.de">
+            <img src="/static/img/okfn.png" alt="Open Knowledge Foundation e.V." />
+          </a>
+        </div>
+        <div class="col-xs-12 col-sm-10">
+          <p>
+            OffenerHaushalt.de ist ein ehrenamtliches Projekt der
+            <a href="http://okfn.de">Open Knowledge Foundation Deutschland e.V.</a>
+            Das Projekt basiert auf amtlichen Daten des Bundesministeriums für Finanzen
+            und anderer Stellen, ist jedoch von der Regierung unabhängig.
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-md-7">
+          <ul class="links">
+            <li><a href="http://offenedaten.de">OffeneDaten.de</a></li>
+            <li><a href="http://offenesparlament.de">OffenesParlament.de</a></li>
+            <li><a href="http://fragdenstaat.de">FragDenStaat.de</a></li>
+          </ul>
+        </div>
+        <div class="col-xs-12 col-md-5 pull-right">
+          <ul class="links pull-right">
+            <li><a href="/page/mitmachen.html">Mitmachen</a></li>
+            <li><a href="https://github.com/okfde/offenerhaushalt.de">Quellcode</a></li>
+            <li><a href="/page/kontakt.html">Impressum</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+  
+      <script type="text/javascript" src="/static/gen/app.293f5fc7.js"></script>
+  
+
+  
+  <script id="table-template" type="text/x-handlebars-template">
+    <table class="table table-condensed">
+      <tr>
+        <th>Titel</th>
+        <th class="num">Betrag</th>
+        <th class="num">Anteil</th>
+      </tr>
+      {{#each drilldown}}
+        <tr {{#if small}}class="small"{{/if}}>
+          <td>
+            <i style="color: {{color}};" class="fa fa-square"></i>
+            {{#if url}}
+              <a href="{{url}}">{{_current.label}}</a>
+            {{/if}}
+            {{#if no_url}}
+              {{_current.label}}
+            {{/if}}
+          </td>
+          <td class="num">{{amount_fmt}}</td>
+          <td class="num">{{percentage_fmt}}</td>
+        </tr>
+      {{/each}}
+      <tr>
+        <td colspan="3">
+          <span class="pull-right">
+            <a class="show-small" href="#"><i class="fa fa-plus-square"></i> kleine Posten anzeigen</a>
+            <a class="hide-small" href="#"><i class="fa fa-minus-square"></i> kleine Posten verstecken</a></span>
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <th>
+          Total
+        </th>
+        <th class="num">{{summary.amount_fmt}}</th>
+        <th class="num">100%</th>
+      </tr>
+    </table>
+  </script>
+
+  <script id="embed-template" type="text/x-handlebars-template"><iframe src="{{baseurl}}embed/{{hash}}" width="100%" height="520px" frameborder="0" style="margin:0">
+    <a href="{{url}}">Offener Haushalt: {{name}}</a></iframe><br><small>
+    <a href="{{url}}">OffenerHaushalt.de</a></small></script>
+
+  <script id="site-config" type="application/json">{"data_url": "http://beta.shutterworks.org/hh/out.csv", "name": "Stadt Ulm", "level": "kommune", "default": "produktbereiche", "tagline": "Inoffizielle Datenbasis zum Haushalt der Stadt Ulm", "dataset": "haushalt_ulm", "source": "Stefan T Kaufmann", "state": "BW", "location": {"latitude": 48.4000363, "longitude": 9.9845997}, "filters": [{"default": 2012, "field": "time.year", "values": ["2012"], "name": "Jahr", "slug": null}, {"default": "Aufwendung", "field": "Buchungsart", "values": ["Aufwendung", "Ertrag"], "name": "Art", "slug": null}], "_source_url": "http://www.laatzen.de/", "hierarchies": {"produktbereiche": {"drilldowns": ["Produktbereich", "VwV-Kontenbeschreibung"], "name": "Produktbereiche"}}, "slug": "ulm"}</script>
+  
+      <script type="text/javascript" src="/static/gen/budget.7ebb16a6.js"></script>
+  
+
+
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-34039573-6', 'offenerhaushalt.de');
+    ga('send', 'pageview');
+  </script>
+  
+</body>
+</html>
