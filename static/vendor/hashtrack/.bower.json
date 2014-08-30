@@ -1,0 +1,26 @@
+{
+  "name": "hashtrack",
+  "main": "hashtrack.js",
+  "homepage": "ironfroggy.github.io/hashtrack",
+  "authors": [
+    "ironfroggy@gmail.com"
+  ],
+  "description": "A helper for single-page apps using hash-urls",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "91caa029c8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "91caa029c83ef44cb24a8577d4e6ee2cbca205df"
+  },
+  "_source": "git://github.com/ironfroggy/hashtrack.git",
+  "_target": "*",
+  "_originalSource": "hashtrack"
+}

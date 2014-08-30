@@ -1,0 +1,45 @@
+Hashtrack
+
+The hashtrack.js library provides an implementation of state-hashes in
+Javascript application, which is backwards compatible with pre-hashchange
+browsers. It also provides much more powerful facilities to utilize the same
+structure of a full URL inside the hash, including paths and querystrings.
+
+API of hashtrack.
+
+hashtrack
+    The only exposed name. The entire API is under this name.
+
+hashtrack.init()
+    Begins the hashtrack usage. Must be called once after the page has loaded.
+
+hashtrack.onhashchange(callback, callnow)
+    Registers a callback to be invoked when the hash value changes.
+    If callnow == true, the callback should be invoked immediately with
+    the current hash value.
+
+hashtrack.onhashvarchange(varname, callback, callnow)
+    Registers a callback to be invoked when a specific hash-query variable
+    changes. This value is parsed out of a query-string syntax segment in the
+    hash value. For example, the URL
+
+        http://colorapp.com/#?color=red
+
+    Might call hashtrack.onhashvarchange("color", callback) and callback("red")
+    would be called.
+
+hashtrack.getAllVars()
+    Returns an object mapping all hash-query variable names to their values.
+    The above example URL would return {"color": "red"}
+
+hashtrack.getVar(name)
+    Returns one variable, by name.
+
+hashtrack.setVar(name, value)
+    Changes the value of a specific variable in the hash-querystring
+
+hashtrack.getPath()
+    Returns the path portion of the hash value.
+
+hashtrack.setPath(path)
+    Changes the path portion of the hash value, but leaves the querystring alone.

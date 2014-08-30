@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+  Land Brandenburg
+ - OffenerHaushalt</title>
+  <meta name="description" content="Landeshaushalt Brandenburg für das Jahr 2012 (Haushaltsplan 2012).">
+
+  <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' type='text/css'>
+
+  
+    <link type="text/css" href="/static/gen/style.8cf4c3a8.css" rel="stylesheet">
+  
+
+  <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon" />
+  <link rel="canonical" href="http://offenerhaushalt.de/haushalt/brandenburg/embed/" />
+</head>
+<body>
+  
+<div style="overflow:hidden">
+  <div class="row">
+    <div class="col-md-12">
+      <div id="treemap"></div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-12">
+      <div id="table"></div>
+    </div>
+    <!--div class="col-md-2">
+      huhu
+    </div-->
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <a class="pull-right" href="/">OffenerHaushalt.de</a>
+    </div>
+  </div>
+</div>
+
+  
+      <script type="text/javascript" src="/static/gen/app.293f5fc7.js"></script>
+  
+
+  
+  <script id="table-template" type="text/x-handlebars-template">
+    <table class="table table-condensed">
+      <tr>
+        <th>Titel</th>
+        <th class="num">Betrag</th>
+        <th class="num">Anteil</th>
+      </tr>
+      {{#each drilldown}}
+        <tr {{#if small}}class="small"{{/if}}>
+          <td>
+            <i style="color: {{color}};" class="fa fa-square"></i>
+            {{#if url}}
+              <a href="{{url}}">{{_current.label}}</a>
+            {{/if}}
+            {{#if no_url}}
+              {{_current.label}}
+            {{/if}}
+          </td>
+          <td class="num">{{amount_fmt}}</td>
+          <td class="num">{{percentage_fmt}}</td>
+        </tr>
+      {{/each}}
+      <tr>
+        <td colspan="3">
+          <span class="pull-right">
+            <a class="show-small" href="#"><i class="fa fa-plus-square"></i> kleine Posten anzeigen</a>
+            <a class="hide-small" href="#"><i class="fa fa-minus-square"></i> kleine Posten verstecken</a></span>
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <th>
+          Total
+        </th>
+        <th class="num">{{summary.amount_fmt}}</th>
+        <th class="num">100%</th>
+      </tr>
+    </table>
+  </script>
+
+  <script id="embed-template" type="text/x-handlebars-template"><iframe src="{{baseurl}}embed/{{hash}}" width="100%" height="520px" frameborder="0" style="margin:0">
+    <a href="{{url}}">Offener Haushalt: {{name}}</a></iframe><br><small>
+    <a href="{{url}}">OffenerHaushalt.de</a></small></script>
+
+  <script id="site-config" type="application/json">{"data_url": "http://www.m0nty.de/wp-content/uploads/2012/03/export_utf8.csv", "name": "Land Brandenburg", "level": "land", "default": "einzelplan", "tagline": "Landeshaushalt Brandenburg f\u00fcr das Jahr 2012 (Haushaltsplan 2012).", "dataset": "de-brandenburg-land", "source": "Monty Muth", "state": "BB", "filters": [{"default": 2012, "field": "time.year", "values": ["2012"], "name": "Jahr", "slug": null}, {"default": "Ausgaben", "field": "art.label", "values": ["Ausgaben", "Einnahmen"], "name": "Art", "slug": null}], "_source_url": "http://bundeshaushalt-info.de", "hierarchies": {"funktionen": {"drilldowns": ["hauptfunktion", "oberfunktion", "funktion"], "name": "Funktionen"}, "einzelplan": {"drilldowns": ["to", "kapitel", "from"], "name": "Einzelpl\u00e4ne"}, "gruppen": {"drilldowns": ["hauptgruppe", "obergruppe", "gruppe"], "name": "Gruppen"}}, "slug": "brandenburg"}</script>
+  
+      <script type="text/javascript" src="/static/gen/budget.7ebb16a6.js"></script>
+  
+
+
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-34039573-6', 'offenerhaushalt.de');
+    ga('send', 'pageview');
+  </script>
+  
+</body>
+</html>

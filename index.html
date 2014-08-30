@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+  Haushalte von Bund, Ländern und Kommunen
+ - OffenerHaushalt</title>
+  <meta name="description" content=" - ">
+
+  <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' type='text/css'>
+
+  
+    <link type="text/css" href="/static/gen/style.8cf4c3a8.css" rel="stylesheet">
+  
+
+  <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon" />
+  <link rel="canonical" href="http://offenerhaushalt.de/" />
+</head>
+<body>
+  
+  <div id="page">
+    <nav class="navbar navbar-default" role="navigation" id="menu">
+      <div class="container relbox">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">OffenerHaushalt</a>
+        </div>
+
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          <ul class="nav navbar-nav">
+            <li>
+              <a href="/haushalt/bund">Bund</a>
+            </li>
+            <li>
+              <a href="/#laender">Länder</a>
+            </li>
+            <li>
+              <a href="/#kommunen">Kommunen</a>
+            </li>
+            <li class="hidden-sm">
+              <a href="/page/europa.html">Europa</a>
+            </li>
+            <li>
+              <a href="/page/intro.html">Über uns</a>
+            </li>
+          </ul>
+          <div class="donations"><a href="http://okfn.de/about/spenden/"><img src="/static/img/buddha.png" title="Jetzt spenden!"></a></div>
+        </div>
+      </div>
+    </nav>
+    <div id="airlock" class="container">
+      <div class="row">
+	<div class="row">
+		<div class="col-xs-12">
+			<!--img src="/static/img/schaeuble.png" class="img-responsive home-image" style="position: absolute;"-->
+			<div class="row welcome">
+				<div class="col-xs-12 col-md-7">
+					<p class="claim">
+						OffenerHaushalt stellt die Ausgaben und Einnahmen von Bund, Ländern und Kommunen übersichtlich dar.
+					</p>
+					<div id="default-welcome">
+						<p>
+							Wir schaffen einen einfachen Zugang zu öffentlichen Haushalten, damit interessiere Bürger sich einen Überblick über die Finanzen in ihrer <a href="#kommunen">Stadt</a>,
+							ihrem <a href="#laender">Bundesland</a> oder der <a href="/haushalt/bund/">Bundesrepublik</a> machen können.
+						</p>
+					</div>
+					<div id="listing"></div>
+				</div>
+				<div class="col-xs-12 col-md-5">
+					<div id="map"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+	
+
+	<script id="listing-template" type="text/x-handlebars-template">
+		{{#if has_sites}}
+			<p>
+				In <strong>{{state.name}}</strong> haben wir bislang die folgenden Haushalte
+				erschlossen:</p>
+			<ul>
+				{{#each sites}}
+					<li><strong><a href="/haushalt/{{slug}}">{{name}}</a></strong>: {{tagline}}</li>
+				{{/each}}
+			</ul>
+		{{/if}}
+		{{#if no_sites}}
+			<p>
+				Für <strong>{{state.name}}</strong> steht bislang kein Haushalt
+				zur Verfügung.
+			</p>
+		{{/if}}
+		<p>
+			<strong>Ist ihre Kommune oder ihr Bundesland nicht verfügbar?</strong> 
+			<a href="/page/mitmachen.html">Machen Sie mit</a>, und erschließen Sie
+			weitere Haushaltsdaten für OffenerHaushalt.
+		</p>
+	</script>
+
+
+	<hr><a name="kommunen">&nbsp;</a>
+	<div class="row dataset-listing">
+		<div class="col-xs-12 col-md-4">
+			<h2>Länderhaushalte</h2>
+			<p>
+				Die Haushalte der Länder umfassen Ausgaben für 
+				Dienste wie Polizei und Bildung.
+			</p>
+		</div>
+		<div class="col-xs-12 col-md-8">
+			<div class="row">
+			
+				<div class="col-xs-12 col-md-6">
+					<h3><a href="/haushalt/bawue/">Land Baden-Württemberg</a></h3>
+					<p>Landeshaushalt Brandenburg für das Jahr 2012 (Haushaltsplan 2012).</p>
+				</div>
+			
+				<div class="col-xs-12 col-md-6">
+					<h3><a href="/haushalt/berlin/">Land Berlin</a></h3>
+					<p>Landeshaushalt für Berlin, verabschiedet durch den Senat der Stadt Berlin.</p>
+				</div>
+			
+				<div class="col-xs-12 col-md-6">
+					<h3><a href="/haushalt/brandenburg/">Land Brandenburg</a></h3>
+					<p>Landeshaushalt Brandenburg für das Jahr 2012 (Haushaltsplan 2012).</p>
+				</div>
+			
+				<div class="col-xs-12 col-md-6">
+					<h3><a href="/haushalt/bremen/">Stadt und Land Bremen</a></h3>
+					<p>Haushalts- und Stellenpläne, getrennt nach Land und Stadtgemeinde Bremen.</p>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+	
+	<hr><a name="laender">&nbsp;</a>
+	<div class="row dataset-listing">
+		<div class="col-xs-12 col-md-4">
+			<h2>Kommunalhauhsalte</h2>
+			<p>
+				Haushalte von Bezirken, Kommunen und Kreisen.
+			</p>
+		</div>
+		<div class="col-xs-12 col-md-8">
+			<div class="row">
+			
+				<div class="col-xs-12 col-md-6">
+					<h3><a href="/haushalt/bonn/">Stadt Bonn</a></h3>
+					<p>Haushaltsplan 2013/2014 der Stadt Bonn.</p>
+				</div>
+			
+				<div class="col-xs-12 col-md-6">
+					<h3><a href="/haushalt/laatzen/">Stadt Laatzen</a></h3>
+					<p>Haushaltsplan 2013 der Stadt Laatzen bei Hannover.</p>
+				</div>
+			
+				<div class="col-xs-12 col-md-6">
+					<h3><a href="/haushalt/osnabrueck/">Stadt Osnabrück</a></h3>
+					<p>Die Haushaltspläne der Jahre 2012 (Ist-Stand), 2013 (Plan) und 2014 (Verwaltungsentwurf).</p>
+				</div>
+			
+				<div class="col-xs-12 col-md-6">
+					<h3><a href="/haushalt/uelzen/">Stadt Uelzen</a></h3>
+					<p>Haushaltsplan 2013 der Stadt Uelzen in Niedersachsen.</p>
+				</div>
+			
+				<div class="col-xs-12 col-md-6">
+					<h3><a href="/haushalt/ulm/">Stadt Ulm</a></h3>
+					<p>Inoffizielle Datenbasis zum Haushalt der Stadt Ulm</p>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+</div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-2 hidden-xs">
+          <a class="logo" href="http://okfn.de">
+            <img src="/static/img/okfn.png" alt="Open Knowledge Foundation e.V." />
+          </a>
+        </div>
+        <div class="col-xs-12 col-sm-10">
+          <p>
+            OffenerHaushalt.de ist ein ehrenamtliches Projekt der
+            <a href="http://okfn.de">Open Knowledge Foundation Deutschland e.V.</a>
+            Das Projekt basiert auf amtlichen Daten des Bundesministeriums für Finanzen
+            und anderer Stellen, ist jedoch von der Regierung unabhängig.
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-md-7">
+          <ul class="links">
+            <li><a href="http://offenedaten.de">OffeneDaten.de</a></li>
+            <li><a href="http://offenesparlament.de">OffenesParlament.de</a></li>
+            <li><a href="http://fragdenstaat.de">FragDenStaat.de</a></li>
+          </ul>
+        </div>
+        <div class="col-xs-12 col-md-5 pull-right">
+          <ul class="links pull-right">
+            <li><a href="/page/mitmachen.html">Mitmachen</a></li>
+            <li><a href="https://github.com/okfde/offenerhaushalt.de">Quellcode</a></li>
+            <li><a href="/page/kontakt.html">Impressum</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+  
+      <script type="text/javascript" src="/static/gen/app.293f5fc7.js"></script>
+  
+
+  
+	<script id="sites-data" type="application/json">{"sites": [{"data_url": "http://opendata.service-bw.de/Seiten/offenedatendetail.aspx?mdid=90", "name": "Land Baden-W\u00fcrttemberg", "level": "land", "default": "einzelplan", "tagline": "Landeshaushalt Brandenburg f\u00fcr das Jahr 2012 (Haushaltsplan 2012).", "source_url": "http://opendata.service-bw.de/Seiten/default.aspx", "source": "Open Data / Service BW", "state": "BW", "filters": [{"default": 2010, "field": "time.year", "values": ["2007", "2008", "2009", "2010"], "name": "Jahr", "slug": null}, {"default": "Ausgabe", "field": "art", "values": ["Ausgabe", "Einnahme"], "name": "Art", "slug": null}], "hierarchies": {"funktionen": {"drilldowns": ["hauptfunktion", "oberfunktion", "funktion"], "name": "Funktionen"}, "einzelplan": {"drilldowns": ["einzelplan", "kapitel"], "name": "Einzelpl\u00e4ne"}, "gruppen": {"drilldowns": ["hauptgruppe", "obergruppe", "gruppe"], "name": "Gruppen"}}, "dataset": "de-bw", "slug": "bawue"}, {"data_url": "http://opendatalabs.org/de/haushalt", "name": "Land Berlin", "level": "land", "default": "einzelplan", "tagline": "Landeshaushalt f\u00fcr Berlin, verabschiedet durch den Senat der Stadt Berlin.", "source_url": "http://daten.berlin.de", "source": "Stadt Berlin", "state": "BE", "filters": [{"default": 2013, "field": "time.year", "values": ["2012", "2013", "2014", "2015"], "name": "Jahr", "slug": null}, {"name": "Typ", "nullable": true, "default": "", "field": "Typ.label", "values": ["Bezirke", "Senatsverwaltungen", "Verfassungsorgane"], "slug": null}, {"default": "Ausgabetitel", "field": "Titelart", "values": ["Ausgabetitel", "Einnahmetitel"], "name": "Art", "slug": null}], "hierarchies": {"funktion": {"drilldowns": ["Hauptfunktion", "Oberfunktion", "Funktion"], "name": "Funktionen"}, "einzelplan": {"drilldowns": ["Einzelplan", "to", "Titel"], "name": "Einzelpl\u00e4ne"}}, "dataset": "berlin_de", "slug": "berlin"}, {"data_url": "http://opendatalabs.org/misc/Plan_Haushalt_2013_2014-4-xlsx.csv", "name": "Stadt Bonn", "level": "kommune", "default": "produkte", "tagline": "Haushaltsplan 2013/2014 der Stadt Bonn.", "source_url": "http://opendata.bonn.de/", "source": "OpenData Bonn", "state": "NW", "location": {"latitude": 50.7371862, "longitude": 7.0965505}, "filters": [{"default": 2013, "field": "time.year", "values": ["2013", "2014", "2015", "2016", "2017"], "name": "Jahr", "slug": null}, {"default": "Aufwand", "field": "typ", "values": ["Aufwand", "Ertrag"], "name": "Art", "slug": null}, {"name": "Verrechnung", "nullable": true, "default": "ohne sekund\u00e4re VILV", "field": "vilv", "values": ["int. Verrechungen", "ohne sekund\u00e4re VILV"], "slug": null}], "hierarchies": {"produkte": {"drilldowns": ["produktbereich", "produktgruppe"], "name": "Produkte"}}, "dataset": "de-bonn", "slug": "bonn"}, {"data_url": "http://www.m0nty.de/wp-content/uploads/2012/03/export_utf8.csv", "name": "Land Brandenburg", "level": "land", "default": "einzelplan", "tagline": "Landeshaushalt Brandenburg f\u00fcr das Jahr 2012 (Haushaltsplan 2012).", "dataset": "de-brandenburg-land", "source": "Monty Muth", "state": "BB", "filters": [{"default": 2012, "field": "time.year", "values": ["2012"], "name": "Jahr", "slug": null}, {"default": "Ausgaben", "field": "art.label", "values": ["Ausgaben", "Einnahmen"], "name": "Art", "slug": null}], "_source_url": "http://bundeshaushalt-info.de", "hierarchies": {"funktionen": {"drilldowns": ["hauptfunktion", "oberfunktion", "funktion"], "name": "Funktionen"}, "einzelplan": {"drilldowns": ["to", "kapitel", "from"], "name": "Einzelpl\u00e4ne"}, "gruppen": {"drilldowns": ["hauptgruppe", "obergruppe", "gruppe"], "name": "Gruppen"}}, "slug": "brandenburg"}, {"data_url": "http://opendatalabs.org/misc/Bremen-Haushaltsdaten-2011.csv", "name": "Stadt und Land Bremen", "level": "land", "default": "einzelplan", "tagline": "Haushalts- und Stellenpl\u00e4ne, getrennt nach Land und Stadtgemeinde Bremen.", "source_url": "http://www.daten.bremen.de/sixcms/detail.php?gsid=bremen236.c.3624.de&asl=bremen02.c.736.de", "source": "Datenportal Bremen", "state": "HB", "filters": [{"default": 2011, "field": "time.year", "values": ["2009", "2010", "2011"], "name": "Jahr", "slug": null}, {"default": "A", "field": "richtung", "values": ["A", "E"], "name": "Art", "slug": null}, {"default": "Land", "field": "from.label", "values": ["Land", "Stadt"], "name": "Teilhaushalt", "slug": null}], "hierarchies": {"funktionen": {"drilldowns": ["hauptfunktion", "oberfunktion", "funktion"], "name": "Funktionen"}, "einzelplan": {"drilldowns": ["einzelplan", "kapitel", "description"], "name": "Einzelpl\u00e4ne"}, "gruppen": {"drilldowns": ["hauptgruppe", "obergruppe", "gruppe"], "name": "Gruppen"}}, "dataset": "de-bremen", "slug": "bremen"}, {"data_url": "http://opendatalabs.org/de/haushalt", "name": "Bundeshaushalt", "level": "bund", "default": "einzelplan", "tagline": "Der Bundeshaushalt enth\u00e4lt Angaben zu den Ausgaben und Einnahmen der Bundesregierung.", "source_url": "http://bundeshaushalt-info.de", "source": "Bundesministerium der Finanzen (Bundeshaushalt-Info)", "filters": [{"default": 2012, "field": "time.year", "values": ["2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026", "2027", "2028", "2029", "2030", "2031", "2032", "2033"], "name": "Jahr", "slug": null}, {"default": "spending", "field": "flow", "values": ["revenue", "spending"], "name": "Typ", "slug": null}, {"default": "Ansatz", "field": "financial_type", "values": ["Ansatz", "Ist", "VE"], "name": "Art", "slug": null}], "hierarchies": {"funktionen": {"drilldowns": ["hauptfunktion", "oberfunktion", "funktion"], "name": "Funktionen"}, "einzelplan": {"drilldowns": ["einzelplan", "kapitel", "titel"], "name": "Einzelpl\u00e4ne"}, "gruppen": {"drilldowns": ["hauptgruppe", "obergruppe", "gruppe"], "name": "Gruppen"}}, "dataset": "de-bund", "slug": "bund", "external_url": "http://bund.offenerhaushalt.de"}, {"data_url": "http://opendatalabs.org/de/haushalt", "name": "Stadt Laatzen", "level": "kommune", "default": "produkte", "tagline": "Haushaltsplan 2013 der Stadt Laatzen bei Hannover.", "source_url": "http://www.laatzen.de/", "source": "Birgit Fehners", "state": "NI", "location": {"latitude": 52.3088889, "longitude": 9.8019002}, "filters": [{"default": 2013, "field": "time.year", "values": ["2013"], "name": "Jahr", "slug": null}, {"default": "Aufwendungen", "field": "Art", "values": ["Aufwendungen", "Ertrag"], "name": "Art", "slug": null}], "hierarchies": {"produkte": {"drilldowns": ["Teilhaushalt", "Produkt"], "name": "Teilhaushalt/Produkte"}}, "dataset": "stadtlaatzenplan2013", "slug": "laatzen"}, {"data_url": "http://opendatalabs.org/de/haushalt", "name": "Stadt Osnabr\u00fcck", "level": "kommune", "default": "fachbereiche", "tagline": "Die Haushaltspl\u00e4ne der Jahre 2012 (Ist-Stand), 2013 (Plan) und 2014 (Verwaltungsentwurf).", "source_url": "http://www.osnabrueck.de/", "source": "Fachbereich Finanzen und Controlling der Stadt Osnabr\u00fcck", "state": "NI", "location": {"latitude": 52.279562, "longitude": 8.0470611}, "filters": [{"default": 2014, "field": "time.year", "values": ["2012", "2013", "2014"], "name": "Jahr", "slug": null}, {"default": "Aufwand", "field": "ertrag-aufwand", "values": ["Aufwand", "Ertrag"], "name": "Art", "slug": null}, {"default": "nein", "field": "interne-leist", "values": ["ja", "nein"], "name": "Interne Leistungen", "slug": null}], "hierarchies": {"arten": {"drilldowns": ["Kostenartengruppe"], "name": "Kostenarten"}, "fachbereiche": {"drilldowns": ["Fachbereich", "Produkt", "Teilprodukt"], "name": "Produkte/Fachbereiche"}}, "dataset": "hhos", "slug": "osnabrueck"}, {"data_url": "http://www.titusgames.de/Haushaltsdaten_2012_bis_2014.csv", "name": "Stadt Uelzen", "level": "kommune", "default": "produkte", "tagline": "Haushaltsplan 2013 der Stadt Uelzen in Niedersachsen.", "dataset": "uelzen", "source": "Titus Tschamtke, Rolf Tischler", "state": "NI", "location": {"latitude": 52.9653701, "longitude": 10.5587693}, "filters": [{"default": 2014, "field": "time.year", "values": ["2012", "2013", "2014"], "name": "Jahr", "slug": null}, {"default": "A", "field": "e-a", "values": ["A", "E"], "name": "Einnahmen/Ausgaben", "slug": null}], "hierarchies": {"produkte": {"drilldowns": ["Teilhaushalt", "Produkt"], "name": "Teilhaushalt/Produkte"}}, "slug": "uelzen"}, {"data_url": "http://beta.shutterworks.org/hh/out.csv", "name": "Stadt Ulm", "level": "kommune", "default": "produktbereiche", "tagline": "Inoffizielle Datenbasis zum Haushalt der Stadt Ulm", "dataset": "haushalt_ulm", "source": "Stefan T Kaufmann", "state": "BW", "location": {"latitude": 48.4000363, "longitude": 9.9845997}, "filters": [{"default": 2012, "field": "time.year", "values": ["2012"], "name": "Jahr", "slug": null}, {"default": "Aufwendung", "field": "Buchungsart", "values": ["Aufwendung", "Ertrag"], "name": "Art", "slug": null}], "_source_url": "http://www.laatzen.de/", "hierarchies": {"produktbereiche": {"drilldowns": ["Produktbereich", "VwV-Kontenbeschreibung"], "name": "Produktbereiche"}}, "slug": "ulm"}]}</script>
+    
+      <script type="text/javascript" src="/static/gen/home.7957c53c.js"></script>
+	
+
+
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-34039573-6', 'offenerhaushalt.de');
+    ga('send', 'pageview');
+  </script>
+  
+</body>
+</html>
