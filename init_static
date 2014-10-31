@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+sudo fig run offenerhaushalt bower --allow-root install
+sudo chown $USER:$USER . -R
