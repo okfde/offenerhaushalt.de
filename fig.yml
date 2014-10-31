@@ -1,6 +1,6 @@
 web:
   build: .
-  volumes:
-    - .:/workdir
+#  volumes:
+#    - .:/workdir
   ports:
     - "80:5000"
