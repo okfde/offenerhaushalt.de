@@ -11,6 +11,7 @@ $(function(){
 
   var $hierarchyMenu = $('#hierarchy-menu'),
       $infobox = $('#infobox'),
+      $parent = $('#parent'),
       $filterValues = $('.site-filters .value'),
       treemap = new OSDE.TreeMap('#treemap'),
       table =  new OSDE.Table('#table');
@@ -51,9 +52,12 @@ $(function(){
     path.hierarchy = site.hierarchies[path.hierarchyName];
     path.hierarchy.cuts = path.hierarchy.cuts || {};
     path.level = levels.length;
+    path.root = path.level == 0;
     path.bottom = path.level >= (path.hierarchy.drilldowns.length - 1);
     path.drilldown = path.hierarchy.drilldowns[path.level];
     path.args = OSDE.parseArgs(location[location.length-1]);
+
+    console.log(path);
 
     $.each(levels, function(i, val) {
       path.args[path.hierarchy.drilldowns[i]] = decodeURIComponent(val);
@@ -61,9 +65,24 @@ $(function(){
     return path;
   }
 
+  function parentUrl(path) {
+    if (path.level < 1) {
+      return makeUrl(path, null);
+    }
+    var p = $.extend(true, {}, path);
+    $.each(p.hierarchy.drilldowns, function(i, drilldown) {
+      if (i >= (p.level-1) ) {
+        delete p.args[drilldown];
+      }
+    });
+    return makeUrl(p, {});
+  }
+
   function makeUrl(path, modifiers) {
     var args = $.extend({}, path.args, modifiers),
         url = '#' + path.hierarchyName + '/';
+
+    if (!modifiers) args = {};
 
     $.each(path.hierarchy.drilldowns, function(i, drilldown) {
       if (args[drilldown]) {
@@ -89,6 +108,20 @@ $(function(){
     $hierarchyMenu.find('.btn').removeClass('active');
     $hierarchyMenu.find('.btn.' + path.hierarchyName).addClass('active');
 
+    $parent.unbind();
+    if (path.root) {
+      $parent.hide();
+    } else {
+      $parent.show();
+      $parent.attr('href', parentUrl(path));
+      /*
+      $parent.bind('click', function() {
+        window.location.hash = parentUrl(path);
+        update();
+      });
+     */
+    }
+
     $filterValues.removeClass('active');
     $filterValues.each(function(i, f) {
       var $f = $(f), field = $f.data('field'), value = $f.data('value'), modifiers = {};
@@ -105,7 +138,7 @@ $(function(){
 
     var baseCuts = $.extend({}, baseFilters, path.hierarchy.cuts);
     getData(rootDimension, baseCuts).done(function(base) {
-      
+
       $.each(base.drilldown, function(i, drilldown) {
         drilldown.color = color(i);
         if (cuts[rootDimension] && cuts[rootDimension] == drilldown[rootDimension].name) {
