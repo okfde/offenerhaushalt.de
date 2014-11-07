@@ -57,8 +57,6 @@ $(function(){
     path.drilldown = path.hierarchy.drilldowns[path.level];
     path.args = OSDE.parseArgs(location[location.length-1]);
 
-    console.log(path);
-
     $.each(levels, function(i, val) {
       path.args[path.hierarchy.drilldowns[i]] = decodeURIComponent(val);
     });
