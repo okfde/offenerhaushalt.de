@@ -69,7 +69,22 @@ $(function() {
 	        .transition()
 	        .duration(400)
 	        .style('fill', '#555');
-	    
+
+      cities = sites.sites.map(function(d) { return d.location; })
+      cities = $.grep(cities,function(n){ return(n) });
+      svg.selectAll('circle')
+      .data(cities)
+      .enter()
+      .append('circle')
+      .attr("cx", function(d) {
+        return projection([d.longitude, d.latitude])[0];
+      })
+      .attr("cy", function(d) {
+        return projection([d.longitude, d.latitude])[1];
+      })
+      .attr("r", 4)
+      .style("fill", "#fff")
+      .style("stroke", "#428bca");
     }
 
     function renderListing(state) {

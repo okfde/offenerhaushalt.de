@@ -6,6 +6,9 @@ source_url: http://www.osnabrueck.de/
 data_url: http://opendatalabs.org/de/haushalt
 state: NI
 level: kommune
+location:
+  latitude: 52.279562
+  longitude: 8.0470611
 dataset: hhos
 default: fachbereiche
 

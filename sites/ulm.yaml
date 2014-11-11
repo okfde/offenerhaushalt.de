@@ -6,6 +6,9 @@ _source_url: http://www.laatzen.de/
 data_url: http://beta.shutterworks.org/hh/out.csv
 state: BW
 level: kommune
+location:
+  latitude: 48.4000363
+  longitude: 9.9845997
 dataset: haushalt_ulm
 default: produktbereiche
 

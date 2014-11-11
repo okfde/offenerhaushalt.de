@@ -5,6 +5,9 @@ source: "Titus Tschamtke, Rolf Tischler"
 data_url: "http://www.titusgames.de/Haushaltsdaten_2012_bis_2014.csv"
 state: NI
 level: kommune
+location:
+  latitude: 52.9653701
+  longitude: 10.5587693
 dataset: uelzen
 default: produkte
 
