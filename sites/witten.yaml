@@ -1,0 +1,28 @@
+name: Stadt Witten
+slug: witten
+tagline: ""
+source: Stadt Witten
+source_url: http://www.witten.de/
+data_url: http://www.witten.de/fileadmin/user_upload/opendata/hhpl.csv
+state: NW
+level: kommune
+dataset: haushaltwitten
+default: produkte
+
+filters:
+  - field: 'time.year'
+    name: 'Jahr'
+    default: 2015
+  - field: 'Kontenklasse'
+    name: 'Kontenklasse'
+    default: 'Aufwendungen'
+
+hierarchies:
+    produkte:
+        name: Produkte
+        drilldowns:
+            - Produktbereich
+            - Produktgruppe
+            - Produkt
+            - Kontengruppe
+            - Kontengart
