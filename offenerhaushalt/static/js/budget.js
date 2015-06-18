@@ -16,12 +16,16 @@ $(function(){
       table =  new OSDE.Table('#table');
 
   function getData(drilldown, cut) {
-    var cutStr = $.map(cut, function(v, k) { if((v+'').length) { return k+':'+v; }}); 
+    //console.log(drilldown, cut);
+    var cutStr = $.map(cut, function(v, k) { if((v+'').length) { return site.keyrefs[k] + ':' + v; }}); 
     return $.ajax({
       url: site.api + '/aggregate',
       data: {
-        drilldown: drilldown,
-        cut: cutStr.join('|')
+        drilldown: site.keyrefs[drilldown],
+        cut: cutStr.join('|'),
+        order: site.aggregate + ':desc',
+        page: 0,
+        pagesize: 500
       },
       dataType: 'json',
       cache: true
@@ -129,9 +133,10 @@ $(function(){
     getData(rootDimension, baseCuts).done(function(base) {
 
       $.each(base.cells, function(i, drilldown) {
-        drilldown.color = color(i);
-        if (cuts[rootDimension] && cuts[rootDimension] == drilldown[rootDimension].name) {
-          rootColor = d3.rgb(drilldown.color);
+        drilldown._color = color(i);
+        var rootRef = site.keyrefs[rootDimension];
+        if (cuts[rootDimension] && cuts[rootDimension] == drilldown[rootRef]) {
+          rootColor = d3.rgb(drilldown._color);
         }
       });
 
@@ -142,28 +147,30 @@ $(function(){
           color = d3.scale.linear();
           color = color.interpolate(d3.interpolateRgb)
           color = color.range([rootColor.brighter(), rootColor.darker().darker()]);
-          color = color.domain([data.summary.num_drilldowns, 0]);
+          color = color.domain([data.summary.fact_count, 0]);
         }
 
-        data.summary.amount_fmt = OSDE.amount(data.summary.amount);
+        data.summary._value = data.summary[site.aggregate];
+        data.summary._value_fmt = OSDE.amount(data.summary._value);
         
-        $.each(data.cells, function(e, drilldown) {
-        
-          drilldown._current = drilldown[dimension];
-          drilldown.amount_fmt = OSDE.amount(drilldown.amount);
-          drilldown.percentage = drilldown.amount / data.summary.amount;
-          drilldown.small = drilldown.percentage < 0.01;
-          drilldown.percentage_fmt = (drilldown.percentage*100).toFixed(2) + '%';
-          drilldown.percentage_fmt = drilldown.percentage_fmt.replace('.', ',');
+        $.each(data.cells, function(e, cell) {
+          cell._current_label = cell[site.labelrefs[dimension]];
+          cell._current_key = cell[site.keyrefs[dimension]];
+          cell._value = cell[site.aggregate];
+          cell._value_fmt = OSDE.amount(cell._value);
+          cell._percentage = cell[site.aggregate] / data.summary[site.aggregate];
+          cell._small = cell._percentage < 0.01;
+          cell._percentage_fmt = (cell._percentage * 100).toFixed(2) + '%';
+          cell._percentage_fmt = cell._percentage_fmt.replace('.', ',');
 
           if (!path.bottom) {
             var modifiers = {};
-            modifiers[dimension] = drilldown._current.name;
-            drilldown.url = makeUrl(path, modifiers);
+            modifiers[dimension] = cell._current_key;
+            cell._url = makeUrl(path, modifiers);
           } else {
-            drilldown.no_url = true;
+            cell._no_url = true;
           }
-          drilldown.color = color(e)
+          cell._color = color(e)
         
         });
         

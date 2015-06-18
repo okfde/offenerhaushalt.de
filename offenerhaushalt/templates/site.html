@@ -109,19 +109,19 @@
         <th class="num">Betrag</th>
         <th class="num">Anteil</th>
       </tr>
-      {{#each drilldown}}
-        <tr {{#if small}}class="small"{{/if}}>
+      {{#each cells}}
+        <tr {{#if _small}}class="small"{{/if}}>
           <td>
-            <i style="color: {{color}};" class="fa fa-square"></i>
-            {{#if url}}
-              <a href="{{url}}">{{_current.label}}</a>
+            <i style="color: {{_color}};" class="fa fa-square"></i>
+            {{#if _url}}
+              <a href="{{_url}}">{{_current_label}}</a>
             {{/if}}
-            {{#if no_url}}
-              {{_current.label}}
+            {{#if _no_url}}
+              {{_current_label}}
             {{/if}}
           </td>
-          <td class="num">{{amount_fmt}}</td>
-          <td class="num">{{percentage_fmt}}</td>
+          <td class="num">{{_value_fmt}}</td>
+          <td class="num">{{_percentage_fmt}}</td>
         </tr>
       {{/each}}
       <tr>
@@ -136,7 +136,7 @@
         <th>
           Total
         </th>
-        <th class="num">{{summary.amount_fmt}}</th>
+        <th class="num">{{summary._value_fmt}}</th>
         <th class="num">100%</th>
       </tr>
     </table>

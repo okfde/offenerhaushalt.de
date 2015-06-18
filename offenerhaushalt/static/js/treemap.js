@@ -16,8 +16,8 @@ OSDE.TreeMap = function(elementID) {
 		treemap = d3.layout.treemap()
 		  .size([width, height])
 		  .sticky(true)
-		  .sort(function(a, b) { return a.amount - b.amount; })
-		  .value(function(d) { return d.amount; });
+		  .sort(function(a, b) { return a.value - b.value; })
+		  .value(function(d) { return d.value; });
 
 		div = d3.select("#treemap").append("div")
 		  .style("position", "relative")
@@ -32,29 +32,29 @@ OSDE.TreeMap = function(elementID) {
 		var root = {
 		  children: []
 		};
-		for (var i = 0; i < data.drilldown.length; i += 1) {
+		for (var i = 0; i < data.cells.length; i += 1) {
 		  root.children.push({
-		    name: data.drilldown[i]._current.label,
-		    amount: data.drilldown[i].amount,
-		    amount_fmt: data.drilldown[i].amount_fmt,
-		    percentage: data.drilldown[i].percentage,
-		    href: data.drilldown[i].url,
-		    color: data.drilldown[i].color
+		    name: data.cells[i]._current_label,
+		    value: data.cells[i]._value,
+		    value_fmt: data.cells[i]._value_fmt,
+		    percentage: data.cells[i]._percentage,
+		    href: data.cells[i]._url,
+		    color: data.cells[i]._color
 		  });
 		}
 		var node = div.datum(root).selectAll(".node")
 		    .data(treemap.nodes)
 		  .enter().append("a")
-		    .attr("href", function(d){ return d.href; })
+		    .attr("href", function(d) { return d.href; })
 		    .attr("class", "node")
 		    .call(positionNode)
 		    .style("background", '#fff')
-		    .classed("big", function(d) { return d.amount > data.summary.amount / 50 })
+		    .classed("big", function(d) { return d.value > data.summary._value / 50 })
 		    .html(function(d) {
 				if (d.percentage < 0.03) {
 					return '';
 				}
-		    	return d.children ? null : '<span class="amount">' + d.amount_fmt + '</span>' + d.name;
+		    	return d.children ? null : '<span class="amount">' + d.value_fmt + '</span>' + d.name;
 		    })
 		    .on("mouseover", function(d) {
 		      d3.select(this).transition().duration(200)

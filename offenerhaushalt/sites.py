@@ -103,13 +103,39 @@ class Site(_DataObject):
     def model(self):
         if self._model is None:
             res = requests.get(os.path.join(self.api_base, 'model'))
-            self._model = res.json
+            self._model = res.json()
         return self._model
+
+    def get_aggregate(self):
+        if 'aggregate' in self.data:
+            return self.data.get('aggregate')
+        aggs = []
+        for agg in self.model.get('aggregates'):
+            if agg.get('function') == 'sum':
+                aggs.append(agg['ref'])
+        if len(aggs) != 1:
+            raise ValueError('Ambiguous aggregates: %r' % aggs)
+        return aggs[0]
 
     def to_dict(self):
         data = self.data.copy()
         data['slug'] = self.slug
         data['api'] = self.api_base
+        data['aggregate'] = self.get_aggregate()
+
+        # This seems hacky.
+        data['keyrefs'] = {}
+        data['labelrefs'] = {}
+        for dim in self.model.get('dimensions'):
+            for lvl in dim.get('levels'):
+                for attr in lvl.get('attributes'):
+                    data['keyrefs'][attr['ref']] = attr['ref']
+                    if attr['name'] == lvl['key']:
+                        data['keyrefs'][dim['name']] = attr['ref']
+                    data['labelrefs'][attr['ref']] = attr['ref']
+                    if attr['name'] == lvl['label_attribute']:
+                        data['labelrefs'][dim['name']] = attr['ref']
+
         data['filters'] = self.filters
         return data
 
