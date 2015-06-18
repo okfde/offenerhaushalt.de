@@ -3,22 +3,19 @@ slug: bund
 tagline: "Der Bundeshaushalt enthält Angaben zu den Ausgaben und Einnahmen der Bundesregierung."
 source: Bundesministerium der Finanzen (Bundeshaushalt-Info)
 source_url: http://bundeshaushalt-info.de
-data_url: http://opendatalabs.org/de/haushalt
+data_url: https://github.com/pudo/bundeshaushalt/tree/master/data
 external_url: http://bund.offenerhaushalt.de
 level: bund
 dataset: de-bund
 default: einzelplan
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
-    default: 2012
+    default: 2015
   - field: 'flow'
     name: 'Typ'
     default: 'spending'
-  - field: 'financial_type'
-    name: 'Art'
-    default: 'Ansatz'
 
 hierarchies:
     einzelplan:
@@ -30,12 +27,12 @@ hierarchies:
     funktionen:
         name: Funktionen
         drilldowns:
-            - hauptfunktion
-            - oberfunktion
-            - funktion
+            - funktion1
+            - funktion2
+            - funktion3
     gruppen:
         name: Gruppen
         drilldowns:
-            - hauptgruppe
-            - obergruppe
-            - gruppe
+            - gruppe1
+            - gruppe2
+            - gruppe3
