@@ -15,7 +15,7 @@ filters:
     default: 2015
   - field: 'flow'
     name: 'Typ'
-    default: 'spending'
+    default: 'ausgaben'
 
 hierarchies:
     einzelplan:

@@ -9,3 +9,4 @@ offenerhaushalt/static/gen/*
 offenerhaushalt/static/aggregates/*
 offenerhaushalt/static/.webassets-cache/*
 build/*
+migrate-spendb/exports/*

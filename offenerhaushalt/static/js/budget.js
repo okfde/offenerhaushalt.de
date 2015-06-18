@@ -1,6 +1,5 @@
 $(function(){
-  var apiEndpoint = 'https://openspending.org/api/2/aggregate',
-      site = JSON.parse($('#site-config').html()),
+  var site = JSON.parse($('#site-config').html()),
       embedTemplate = Handlebars.compile($('#embed-template').html());
       $embedCode = $('#embed-code')
       baseFilters = {};
@@ -19,15 +18,13 @@ $(function(){
   function getData(drilldown, cut) {
     var cutStr = $.map(cut, function(v, k) { if((v+'').length) { return k+':'+v; }}); 
     return $.ajax({
-      url: apiEndpoint,
+      url: site.api + '/aggregate',
       data: {
-        dataset: site.dataset,
         drilldown: drilldown,
         cut: cutStr.join('|')
       },
-      dataType: 'jsonp',
-      cache: true,
-      jsonpCallback: 'osAPIData'
+      dataType: 'json',
+      cache: true
     });    
   }
 
@@ -112,12 +109,6 @@ $(function(){
     } else {
       $parent.show();
       $parent.attr('href', parentUrl(path));
-      /*
-      $parent.bind('click', function() {
-        window.location.hash = parentUrl(path);
-        update();
-      });
-     */
     }
 
     $filterValues.removeClass('active');
@@ -137,7 +128,7 @@ $(function(){
     var baseCuts = $.extend({}, baseFilters, path.hierarchy.cuts);
     getData(rootDimension, baseCuts).done(function(base) {
 
-      $.each(base.drilldown, function(i, drilldown) {
+      $.each(base.cells, function(i, drilldown) {
         drilldown.color = color(i);
         if (cuts[rootDimension] && cuts[rootDimension] == drilldown[rootDimension].name) {
           rootColor = d3.rgb(drilldown.color);
@@ -156,7 +147,7 @@ $(function(){
 
         data.summary.amount_fmt = OSDE.amount(data.summary.amount);
         
-        $.each(data.drilldown, function(e, drilldown) {
+        $.each(data.cells, function(e, drilldown) {
         
           drilldown._current = drilldown[dimension];
           drilldown.amount_fmt = OSDE.amount(drilldown.amount);

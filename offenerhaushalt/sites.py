@@ -85,7 +85,6 @@ class Filter(_DataObject):
     def to_dict(self):
         values = self.values
         data = self.data.copy()
-        data['slug'] = self.slug
         data['values'] = values
         return data
 
@@ -110,7 +109,7 @@ class Site(_DataObject):
     def to_dict(self):
         data = self.data.copy()
         data['slug'] = self.slug
-        data['api_base'] = self.api_base
+        data['api'] = self.api_base
         data['filters'] = self.filters
         return data
 
