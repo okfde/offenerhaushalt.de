@@ -7,7 +7,6 @@ from flask_flatpages import FlatPages
 
 
 from offenerhaushalt import default_settings
-from offenerhaushalt.sites import load_sites
 
 logging.basicConfig(level=logging.DEBUG)
 
@@ -17,5 +16,4 @@ app.config.from_envvar('OFFENERHAUSHALT_SETTINGS', silent=True)
 
 assets = Environment(app)
 freezer = Freezer(app)
-sites = load_sites(app)
 pages = FlatPages(app)

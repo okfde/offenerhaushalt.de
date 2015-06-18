@@ -1,4 +1,7 @@
-from offenerhaushalt.core import freezer, pages, sites
+from offenerhaushalt.core import freezer, pages
+from offenerhaushalt.sites import load_sites
+
+sites = load_sites()
 
 
 @freezer.register_generator

@@ -1,7 +1,10 @@
 from flask import render_template
 
-from offenerhaushalt.core import app, sites, pages
+from offenerhaushalt.core import app, pages
 from offenerhaushalt.util import JSONEncoder
+from offenerhaushalt.sites import load_sites
+
+sites = load_sites()
 
 
 @app.route('/haushalt/<slug>/')
