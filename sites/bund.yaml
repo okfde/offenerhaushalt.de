@@ -10,7 +10,7 @@ dataset: de-bund
 default: einzelplan
 
 filters:
-  - field: 'year'
+  - field: 'jahr'
     name: 'Jahr'
     default: 2015
   - field: 'flow'
@@ -27,12 +27,12 @@ hierarchies:
     funktionen:
         name: Funktionen
         drilldowns:
-            - funktion1
-            - funktion2
-            - funktion3
+            - hauptfunktion
+            - oberfunktion
+            - funktion
     gruppen:
         name: Gruppen
         drilldowns:
-            - gruppe1
-            - gruppe2
-            - gruppe3
+            - hauptgruppe
+            - obergruppe
+            - gruppe

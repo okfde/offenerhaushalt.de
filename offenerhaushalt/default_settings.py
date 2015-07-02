@@ -4,7 +4,7 @@ SECRET_KEY = 'no'
 
 SITES_FOLDER = 'sites/'
 
-SLICER_URL = 'http://spendb.pudo.org/api/slicer'
+SLICER_URL = 'http://db.offenerhaushalt.de/api/slicer'
 
 FREEZER_DESTINATION = '../build'
 FREEZER_REMOVE_EXTRA_FILES = True
