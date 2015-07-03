@@ -10,12 +10,12 @@ dataset: de-brandenburg-land
 default: einzelplan
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2012
   - field: 'art'
     name: 'Art'
-    default: 'Ausgaben'
+    default: false
 
 hierarchies:
     einzelplan:

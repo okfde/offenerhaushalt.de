@@ -10,14 +10,14 @@ dataset: berlin_de
 default: einzelplan
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2013
-  - field: 'Typ'
+  - field: 'typ'
     name: 'Typ'
     default: ''
     nullable: true
-  - field: 'Titelart'
+  - field: 'titelart'
     name: 'Art'
     default: 'Ausgabetitel'
 
@@ -25,13 +25,13 @@ hierarchies:
     einzelplan:
         name: Einzelpläne
         drilldowns:
-            - Einzelplan
+            - einzelplan
             - to
-            - Titel
+            - titel
 
     funktion:
         name: Funktionen
         drilldowns:
-            - Hauptfunktion
-            - Oberfunktion
-            - Funktion
+            - hauptfunktion
+            - oberfunktion
+            - funktion

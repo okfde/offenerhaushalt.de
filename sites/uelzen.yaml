@@ -9,10 +9,10 @@ dataset: uelzen
 default: produkte
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2014
-  - field: 'e-a'
+  - field: 'e_a'
     name: 'Einnahmen/Ausgaben'
     default: 'A'
 
@@ -20,5 +20,5 @@ hierarchies:
     produkte:
         name: Teilhaushalt/Produkte
         drilldowns:
-            - Teilhaushalt
-            - Produkt
+            - teilhaushalt
+            - produkt

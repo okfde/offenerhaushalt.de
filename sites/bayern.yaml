@@ -10,12 +10,12 @@ dataset: open_by
 default: einzelplan
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2015
   - field: 'einnahme_ausgabe'
     name: 'E/A'
-    default: 'Ausgabe'
+    default: 'Ausgaben'
 
 hierarchies:
   einzelplan:

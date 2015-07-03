@@ -8,14 +8,15 @@ state: NW
 level: kommune
 dataset: de-nrw-cologne
 default: produkte
+aggregate: amount_sum
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2014
   - field: 'art'
     name: 'Art'
-    default: 'Aufwand'
+    default: 'aufwand'
 
 hierarchies:
     produkte:

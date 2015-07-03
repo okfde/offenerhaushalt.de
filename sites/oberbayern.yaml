@@ -1,16 +1,16 @@
-name: Stadt Regensburg
-slug: regensburg
-tagline: "Haushaltsplan 2015 der Stadt Regensburg."
+name: Bezirk Oberbayern
+slug: oberbayern
+tagline: "Haushalt des Bezirks Oberbayern."
 source: David Krcek
-source_url: https://openspending.org/open_rgb/meta
-data_url: http://www.krcek.de/wp-content/uploads/2014/12/rgb_2013_b.csv
+source_url: https://openspending.org/open_bzobb/meta
+data_url: http://www.krcek.de/wp-content/uploads/2014/12/bzobb.csv
 state: BY
-level: kommune
-dataset: open_rgb
+level: bezirk
+dataset: open_bzobb
 default: kameral
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2015
   - field: 'einnahme_ausgabe'

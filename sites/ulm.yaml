@@ -10,10 +10,10 @@ dataset: haushalt_ulm
 default: produktbereiche
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2012
-  - field: 'Buchungsart'
+  - field: 'buchungsart'
     name: 'Art'
     default: 'Aufwendung'
 
@@ -21,5 +21,5 @@ hierarchies:
     produktbereiche:
         name: Produktbereiche
         drilldowns:
-            - Produktbereich
-            - "VwV-Kontenbeschreibung"
+            - produktbereich
+            - vwv_kontenbeschreibung

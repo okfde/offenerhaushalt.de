@@ -10,10 +10,10 @@ dataset: stadt_lueneburg
 default: produkte
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2014
-  - field: 'Einahme-Ausgabe'
+  - field: 'einahme_ausgabe'
     name: 'Einnahme/Ausgabe'
     default: 'A'
 
@@ -21,6 +21,6 @@ hierarchies:
     produkte:
         name: Produkte
         drilldowns:
-            - Teilhaushalt
-            - Produktgruppe
-            - Produkt
+            - teilhaushalt
+            - produktgruppe
+            - produkt

@@ -8,9 +8,10 @@ state: BY
 level: kommune
 dataset: 'lhm_20150415'
 default: produkte
+skip: true
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2015
   - field: 'art'

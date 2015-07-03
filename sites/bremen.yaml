@@ -10,15 +10,15 @@ dataset: de-bremen
 default: einzelplan
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2011
   - field: 'richtung'
     name: 'Art'
     default: 'A'
-  - field: 'from'
-    name: 'Teilhaushalt'
-    default: 'Land'
+#  - field: 'from'
+#    name: 'Teilhaushalt'
+#    default: 'land'
 #  - field: 'financial_type'
 #    name: 'Angabe'
 #    default: 'Ist'

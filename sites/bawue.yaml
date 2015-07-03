@@ -10,7 +10,7 @@ dataset: de-bw
 default: einzelplan
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2010
   - field: 'art'

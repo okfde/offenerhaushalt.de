@@ -10,10 +10,10 @@ dataset: laatzen2014
 default: produkte
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2014
-  - field: 'Art'
+  - field: 'art'
     name: 'Art'
     default: 'Aufwendungen'
 
@@ -21,5 +21,5 @@ hierarchies:
     produkte:
         name: Teilhaushalt/Produkte
         drilldowns:
-            - Teilhaushalt
-            - Produkt
+            - teilhaushalt
+            - produkt

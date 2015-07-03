@@ -10,7 +10,7 @@ dataset: de-bonn
 default: produkte
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2013
   - field: 'typ'

@@ -10,10 +10,10 @@ dataset: de-muenster-gesamt
 default: produktgruppe
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2012
-  - field: 'Typ'
+  - field: 'typ'
     name: 'Art'
     default: 'Ausgaben'
 
@@ -21,5 +21,5 @@ hierarchies:
     produktgruppe:
         name: Fachbereich
         drilldowns:
-            - Produktgruppe
-            - Untergruppe
+            - produktgruppe
+            - untergruppe

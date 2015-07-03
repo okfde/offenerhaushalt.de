@@ -10,13 +10,13 @@ dataset: hhos
 default: fachbereiche
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2014
-  - field: 'ertrag-aufwand'
+  - field: 'ertrag_aufwand'
     name: 'Art'
     default: 'Aufwand'
-  - field: 'interne-leist'
+  - field: 'interne_leist'
     name: 'Interne Leistungen'
     default: 'nein'
 
@@ -24,11 +24,11 @@ hierarchies:
     arten:
         name: Kostenarten
         drilldowns:
-            - Kostenartengruppe
+            - kostenartengruppe
 
     fachbereiche:
         name: Produkte/Fachbereiche
         drilldowns:
-            - Fachbereich
-            - Produkt
-            - Teilprodukt
+            - fachbereich
+            - produkt
+            - teilprodukt

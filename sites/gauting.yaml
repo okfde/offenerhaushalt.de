@@ -10,7 +10,7 @@ dataset: open_gauting
 default: kameral
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2014
   - field: 'einnahme_ausgabe'
@@ -18,7 +18,7 @@ filters:
     default: 'Ausgabe'
   - field: 'haushalt'
     name: 'Haushalt'
-    default: 'Verwaltungshaushalt'
+    default: 'a'
 
 hierarchies:
   kameral:

@@ -10,7 +10,7 @@ dataset: open_bzmfr
 default: kameral
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2014
   - field: 'einnahmen_ausgaben'

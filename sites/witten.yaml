@@ -10,19 +10,19 @@ dataset: haushaltwitten
 default: produkte
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2015
-  - field: 'Kontenklasse'
+  - field: 'kontenklasse'
     name: 'Kontenklasse'
-    default: 'Aufwendungen'
+    default: 5
 
 hierarchies:
     produkte:
         name: Produkte
         drilldowns:
-            - Produktbereich
-            - Produktgruppe
-            - Produkt
-            - Kontengruppe
-            - Kontengart
+            - produktbereich
+            - produktgruppe
+            - produkt
+            - kontengruppe
+            - kontengart

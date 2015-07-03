@@ -10,7 +10,7 @@ dataset: open_bzswa
 default: kameral
 
 filters:
-  - field: 'time.year'
+  - field: 'year'
     name: 'Jahr'
     default: 2014
   - field: 'einnahme_ausgabe'
@@ -21,6 +21,6 @@ hierarchies:
     kameral:
         name: Haushalt
         drilldowns:
-            - Einzelplan
-            - Unterabschnitt
-            - Haushaltstelle
+            - einzelplan
+            - unterabschnitt
+            - haushaltstelle
