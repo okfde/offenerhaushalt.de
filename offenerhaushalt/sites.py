@@ -24,7 +24,8 @@ class SiteCollection(object):
         for site_file in os.listdir(directory):
             with open(os.path.join(directory, site_file), 'rb') as fh:
                 site = Site(yaml.load(fh))
-                self.sites.append(site)
+                if not site.data.get('skip'):
+                    self.sites.append(site)
 
     def get(self, slug):
         for site in self.sites:
@@ -44,37 +45,38 @@ class Filter(_DataObject):
         self.site = site
         self.data = data
         self.default = unicode(data.get('default'))
+        self.field = self.data.get('field')
+        self.dimension = self.field.split('.')[0]
+        self.label_ref = None
+        self.key_ref = None
         self._values = None
 
     @property
     def values(self):
         if self._values is None:
-            field = self.data.get('field')
-            dimension, attribute = field, None
-            if '.' in dimension:
-                dimension, attribute = dimension.split('.', 2)
-
-            url = urlpath(self.site.api_base, 'members', dimension)
+            url = urlpath(self.site.api_base, 'members', self.dimension)
             res = requests.get(url)
+
+            for dim in self.site.model.get('dimensions'):
+                if dim['name'] != self.dimension:
+                    continue
+                for lvl in dim['levels']:
+                    for attr in lvl['attributes']:
+                        if attr['name'] == lvl['key']:
+                            self.key_ref = attr['ref']
+                        if attr['name'] == lvl['label_attribute']:
+                            self.label_ref = attr['ref']
+                    if self.label_ref is None:
+                        self.label_ref = self.key_ref
 
             self._values = []
             for value in res.json().get('data'):
-                if field in value:
-                    value = value.get(field)
-                elif dimension in value:
-                    value = value.get(dimension)
-                else:
-                    for dim in self.site.model.get('dimensions'):
-                        if dim['name'] != dimension:
-                            continue
-                        if not len(dim['levels']):
-                            continue
-                        for lvl in dim['levels']:
-                            label = lvl.get('label_attribute')
-                            key = '%s.%s' % (dimension, label)
-                            value = value.get(key)
-                self._values.append(value)
-            self._values = list(sorted(self._values))
+                self._values.append({
+                    'key': value.get(self.key_ref),
+                    'label': value.get(self.label_ref)
+                })
+            self._values = list(sorted(self._values,
+                                key=lambda v: v.get('label')))
         return self._values
 
     @property
@@ -85,6 +87,8 @@ class Filter(_DataObject):
     def to_dict(self):
         values = self.values
         data = self.data.copy()
+        data['label_ref'] = self.label_ref
+        data['key_ref'] = self.key_ref
         data['values'] = values
         return data
 

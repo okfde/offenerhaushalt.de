@@ -45,8 +45,8 @@
                 {% for value in filter.values %}
                   <li>
                     <a class="value {% if value==filter.default %}active{% endif %}" href="#"
-                      data-field="{{filter.field}}" data-value="{{value}}">
-                      <i class="fa fa-check"></i> {{value}}
+                      data-field="{{filter.field}}" data-value="{{value.key}}">
+                      <i class="fa fa-check"></i> {{value.label}}
                     </a>
                   </li>
                 {% endfor %}

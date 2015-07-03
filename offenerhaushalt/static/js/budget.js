@@ -120,13 +120,19 @@ $(function(){
       var $f = $(f), field = $f.data('field'), value = $f.data('value'), modifiers = {};
       modifiers[field] = value;
       $f.attr('href', makeUrl(path, modifiers));
-      if (cuts[field]==value) {
+      if (cuts[field] == value) {
         $f.addClass('active');
       }
     });
 
     $.each(site.filters, function(i, f) {
-      $('.site-filters strong[data-field="' + f.field + '"]').html(cuts[f.field] || 'Alle');
+      var val = cuts[f.field], label = val;
+      $.each(f.values, function(j, v) {
+        if (v.key == val) {
+          label = v.label;
+        }
+      });
+      $('.site-filters strong[data-field="' + f.field + '"]').html(label || 'Alle');
     });
 
     var baseCuts = $.extend({}, baseFilters, path.hierarchy.cuts);
