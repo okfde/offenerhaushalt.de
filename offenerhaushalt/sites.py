@@ -57,17 +57,11 @@ class Filter(_DataObject):
             url = urlpath(self.site.api_base, 'members', self.dimension)
             res = requests.get(url)
 
-            for dim in self.site.model.get('dimensions'):
-                if dim['name'] != self.dimension:
+            for dname, dim in self.site.model.get('dimensions').items():
+                if dname != self.dimension:
                     continue
-                for lvl in dim['levels']:
-                    for attr in lvl['attributes']:
-                        if attr['name'] == lvl['key']:
-                            self.key_ref = attr['ref']
-                        if attr['name'] == lvl['label_attribute']:
-                            self.label_ref = attr['ref']
-                    if self.label_ref is None:
-                        self.label_ref = self.key_ref
+                self.key_ref = dim['key_ref']
+                self.label_ref = dim['label_ref']
 
             self._values = []
             for value in res.json().get('data'):
@@ -99,7 +93,7 @@ class Site(_DataObject):
         self.data = data
         self.slug = slugify(data.get('slug', data.get('name')))
         self.filters = [Filter(self, d) for d in data.get('filters', [])]
-        self.api_base = urlpath(app.config['SLICER_URL'], 'cube',
+        self.api_base = urlpath(app.config['SLICER_URL'], 'cubes',
                                 self.data.get('dataset'))
         self._model = None
 
@@ -107,14 +101,14 @@ class Site(_DataObject):
     def model(self):
         if self._model is None:
             res = requests.get(os.path.join(self.api_base, 'model'))
-            self._model = res.json()
+            self._model = res.json().get('model')
         return self._model
 
     def get_aggregate(self):
         if 'aggregate' in self.data:
             return self.data.get('aggregate')
         aggs = []
-        for agg in self.model.get('aggregates'):
+        for agg in self.model.get('aggregates').values():
             if agg.get('function') == 'sum':
                 aggs.append(agg['ref'])
         if len(aggs) != 1:
@@ -130,15 +124,12 @@ class Site(_DataObject):
         # This seems hacky.
         data['keyrefs'] = {}
         data['labelrefs'] = {}
-        for dim in self.model.get('dimensions'):
-            for lvl in dim.get('levels'):
-                for attr in lvl.get('attributes'):
-                    data['keyrefs'][attr['ref']] = attr['ref']
-                    if attr['name'] == lvl['key']:
-                        data['keyrefs'][dim['name']] = attr['ref']
-                    data['labelrefs'][attr['ref']] = attr['ref']
-                    if attr['name'] == lvl['label_attribute']:
-                        data['labelrefs'][dim['name']] = attr['ref']
+        for name, dim in self.model.get('dimensions').items():
+            data['keyrefs'][name] = dim['key_ref']
+            data['labelrefs'][name] = dim['label_ref']
+            for attr in dim.get('attributes').values():
+                data['keyrefs'][attr['ref']] = attr['ref']
+                data['labelrefs'][attr['ref']] = attr['ref']
 
         data['filters'] = self.filters
         return data
