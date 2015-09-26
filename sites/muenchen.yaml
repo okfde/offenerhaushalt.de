@@ -8,19 +8,19 @@ state: BY
 level: kommune
 dataset: 'lhm_20150415'
 default: produkte
-skip: true
+# skip: true
 
 filters:
-  - field: 'year'
+  - field: 'jahr'
     name: 'Jahr'
     default: 2015
   - field: 'art'
     name: 'Art'
-    default: 'Ordentliche Aufwendungen LHM'
+    default: 'aufwendungen_lhm_ordentliche'
 
 hierarchies:
     produkte:
         name: Produkte nach Referat
         drilldowns:
-            - referate
-            - produkte
+            - referat
+            - produkt
