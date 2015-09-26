@@ -17,11 +17,11 @@ $(function(){
 
   function getData(drilldown, cut) {
     //console.log(drilldown, cut);
-    var cutStr = $.map(cut, function(v, k) { if((v+'').length) { return site.keyrefs[k] + ':' + v; }}); 
+    var cutStr = $.map(cut, function(v, k) { if((v+'').length) { return site.keyrefs[k] + ':' + v; }});
     return $.ajax({
       url: site.api + '/aggregate',
       data: {
-        drilldown: site.keyrefs[drilldown],
+        drilldown: [site.keyrefs[drilldown], site.labelrefs[drilldown]].join('|'),
         cut: cutStr.join('|'),
         order: site.aggregate + ':desc',
         page: 0,
@@ -29,7 +29,7 @@ $(function(){
       },
       dataType: 'json',
       cache: true
-    });    
+    });
   }
 
   $('#infobox-toggle').click(function(e) {
@@ -45,7 +45,7 @@ $(function(){
   });
 
   function parsePath(hash) {
-    var path = {},    
+    var path = {},
         location = hash.split('/'),
         levels = location.slice(1, location.length-1);
 
@@ -153,12 +153,12 @@ $(function(){
           color = d3.scale.linear();
           color = color.interpolate(d3.interpolateRgb)
           color = color.range([rootColor.brighter(), rootColor.darker().darker()]);
-          color = color.domain([data.summary.fact_count, 0]);
+          color = color.domain([data.total_cell_count, 0]);
         }
 
         data.summary._value = data.summary[site.aggregate];
         data.summary._value_fmt = OSDE.amount(data.summary._value);
-        
+
         $.each(data.cells, function(e, cell) {
           cell._current_label = cell[site.labelrefs[dimension]];
           cell._current_key = cell[site.keyrefs[dimension]];
@@ -176,10 +176,10 @@ $(function(){
           } else {
             cell._no_url = true;
           }
-          cell._color = color(e)
-        
+          cell._color = color(e);
+
         });
-        
+
         treemap.render(data, path.drilldown);
         table.render(data, path.drilldown);
       });
