@@ -14,13 +14,13 @@ filters:
   - field: 'jahr'
     name: 'Jahr'
     default: 2015
-  - field: 'art'
+  - field: 'art.art'
     name: 'Art'
-    default: 'aufwendungen_lhm_ordentliche'
+    default: 'Ordentliche Aufwendungen LHM'
 
 hierarchies:
     produkte:
         name: Produkte nach Referat
         drilldowns:
-            - referat
-            - produkt
+            - referat.referat
+            - produkt.produkt

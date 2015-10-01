@@ -18,10 +18,14 @@ $(function(){
   function getData(drilldown, cut) {
     //console.log(drilldown, cut);
     var cutStr = $.map(cut, function(v, k) { if((v+'').length) { return site.keyrefs[k] + ':' + v; }});
+    var drilldowns = [site.keyrefs[drilldown]]
+    if (site.keyrefs[drilldown] != site.labelrefs[drilldown]) {
+      drilldowns.push(site.labelrefs[drilldown]);
+    }
     return $.ajax({
       url: site.api + '/aggregate',
       data: {
-        drilldown: [site.keyrefs[drilldown], site.labelrefs[drilldown]].join('|'),
+        drilldown: drilldowns.join('|'),
         cut: cutStr.join('|'),
         order: site.aggregate + ':desc',
         page: 0,
