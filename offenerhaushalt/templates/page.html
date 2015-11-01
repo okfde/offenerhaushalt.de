@@ -1,11 +1,8 @@
 {% extends "layout.html" %}
 
-{% block title %}
-  {{page['title']}}
-{% endblock %}
+{% block title %}{{page['title']}}{% endblock %}
 
 {% block content %}
-
 	<div class="col-xs-12 pages">
 		<h1 class="page-header">{{page['title']}}</h1>
 
@@ -29,6 +26,3 @@
 		{% endif %}
 	</div>
 {% endblock %}
-
-
-

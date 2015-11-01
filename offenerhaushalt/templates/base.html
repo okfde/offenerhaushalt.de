@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="de" ng-app="offenerhaushalt">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,18 +18,12 @@
   <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon" />
   <link rel="canonical" href="http://offenerhaushalt.de{{request.path}}" />
 </head>
-<body>
+<body ng-controller="AppController">
   {% block body %}{% endblock %}
   {% assets filters="uglifyjs", output="gen/app.%(version)s.js",
-        "vendor/jquery/jquery.js",
-        "vendor/bootstrap/js/collapse.js",
-        "vendor/bootstrap/js/dropdown.js",
-        "vendor/handlebars/handlebars.js",
-        "vendor/accounting/accounting.js",
-        "vendor/d3/d3.js",
-        "vendor/topojson/topojson.js",
-        "vendor/hashtrack/hashtrack.js",
-        "js/util.js" %}
+        "bower_components/angular/angular.js",
+        "bower_components/angular-animate/angular-animate.js",
+        "js/app.js" %}
       <script type="text/javascript" src="{{ ASSET_URL }}"></script>
   {% endassets %}
 

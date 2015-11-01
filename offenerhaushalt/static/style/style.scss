@@ -53,6 +53,10 @@ $brandColor: #42928F;
 @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_utilities.scss";
 @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_responsive-utilities.scss";
 
+// Angular ugliness fix
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
 
 html {
   background-color: $bgColor;
