@@ -1,4 +1,3 @@
 {
-  "directory": "offenerhaushalt/static/vendor",
-  "json": "bower.json"
+  "directory": "offenerhaushalt/static/bower_components"
 }

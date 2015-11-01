@@ -1,5 +1,5 @@
 Flask==0.10.1
-Flask-Assets==0.8
+Flask-Assets
 Flask-Script==0.6.6
 Frozen-Flask==0.11
 Flask-FlatPages==0.5

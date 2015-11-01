@@ -1,0 +1,352 @@
+$bgColor: lighten(#dee0e2, 0%);
+$brand-primary: #265475;
+$brandColor: #42928F;
+
+// Core variables and mixins
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_mixins.scss";
+
+// Reset and dependencies
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_normalize.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_print.scss";
+// @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_glyphicons.scss";
+
+// Core CSS
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_scaffolding.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_type.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_code.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_grid.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_tables.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_forms.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_buttons.scss";
+
+// Components
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_component-animations.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_dropdowns.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_button-groups.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_input-groups.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_navs.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_navbar.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_breadcrumbs.scss";
+// @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_pagination.scss";
+// @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_pager.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_labels.scss";
+// @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_badges.scss";
+// @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_jumbotron.scss";
+// @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_thumbnails.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_alerts.scss";
+// @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_progress-bars.scss";
+// @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_media.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_list-group.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_panels.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_responsive-embed.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_wells.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_close.scss";
+
+// Components w/ JavaScript
+// @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_modals.scss";
+// @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_tooltip.scss";
+// @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_popovers.scss";
+// @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_carousel.scss";
+
+// Utility classes
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_utilities.scss";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_responsive-utilities.scss";
+
+
+html {
+  background-color: $bgColor;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  background-color: #fcfcfc;
+  color: #333;
+  font-size: 16px;
+}
+
+body, p, li {
+  line-height: 1.4em;
+}
+
+label, input, button, select, textarea {
+  font-size: inherit;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 400;
+  line-height: 1.4em;
+}
+
+h1 {
+  font-size: 1.8em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+
+li {
+    margin: 0 0 0.4em;
+}
+
+a, a:hover {
+  color: $brand-primary;
+}
+
+hr {
+  border-bottom: 0;
+}
+
+/* Header */
+#menu {
+  background-color: #fff;
+  background-image: none;
+  border: 0;
+  min-height: 36px;
+  padding-top: 5px;
+  border-bottom: 1px solid #eee;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+
+  .navbar-brand, li > a {
+    color: #333;
+    font-weight: 400;
+    text-shadow: none;
+  }
+
+  .navbar-brand {
+    text-transform: uppercase;
+    margin-right: 3em;
+    padding-left: 0;
+    font-weight: 600;
+    color: $brandColor;
+  }
+
+  li > a {
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #777;
+  }
+
+  .relbox {
+    position: relative;
+  }
+
+  .donations {
+    position: absolute;
+    right: 0em;
+    z-index: 1000;
+    margin-top: -7px;
+  }
+}
+
+/* Footer */
+
+footer {
+  margin: 2em 0 0 0;
+  border-top: 1px solid #ccc;
+  padding: 2em 0 0 0;
+  background-color: $bgColor;
+  font-size: 0.9em;
+
+  .logo img {
+    margin: 0.5em 0 0 0;
+  }
+
+  .links {
+    list-style-type: none;
+    margin: 0.5em 0 2em 0;
+    padding: 0;
+  }
+
+  .links li {
+    display: inline-block;
+    margin: 0 2em 1em 0;
+  }
+
+  .pull-right .links li {
+    margin: 0 0 1em 2em;
+  }
+}
+
+/* Home page */
+#default-welcome {
+  font-size: 1.3em;
+}
+
+.claim {
+  font-size: 1.6em;
+  font-weight: 600;
+  line-height: 1.7em;
+  color: $brandColor;
+  padding-top: 4em;
+}
+
+#map {
+  height: 35em;
+
+  .subunit {
+    stroke: #fff;
+    stroke-width: 1px;
+    fill: #fff;
+    cursor: pointer;
+  }
+}
+
+#listing {
+  display: none;
+  padding: 1em;
+  background-color: lighten($brandColor, 50%);
+  border: 1px solid lighten($brandColor, 40%);
+}
+
+.dataset-listing {
+  h2 {
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+}
+
+
+h1.page-header {
+  text-align: left;
+  margin-top: 0;
+  text-transform: uppercase;
+  font-weight: 300;
+
+  small {
+    font-size: 0.6em;
+  }
+}
+
+h1.page-header.site {
+  margin-bottom: 0.2em;
+}
+
+.site-menu {
+  margin-bottom: 0.3em;
+}
+
+/* Documentation */
+.pages {
+  .textual {
+
+    a {
+      text-decoration: underline;
+    }
+
+    h1, h2, h3, h4, h5 {
+      font-weight: 600;
+    }
+  }
+}
+
+/* Site menu */
+.site-filters {
+  .value {
+    padding-left: 2em;
+    i.fa {
+      display: none;
+    }
+  }
+  .value.active {
+    padding-left: 0.8em;
+    i.fa {
+      display: inline-block;
+    }
+  }
+}
+
+#infobox {
+  display: none;
+  background-color: white;
+  margin-bottom: 1em;
+  padding: 0.5em;
+  border: 1px solid #eee;
+
+  code {
+    background-color: #eee;
+    color: #333;
+    font-size: 0.6em;
+    overflow: hidden;
+  }
+
+  .sources {
+    font-size: 0.9em;
+    border-top: 1px solid #eee;
+    padding-top: 0.5em;
+  }
+}
+
+/* Tree maps */
+#treemap {
+  min-height: 500px;
+  overflow: hidden;
+
+  .node {
+    display: block;
+    border: 0;
+    color: #fff;
+    overflow: hidden;
+    position: absolute;
+    outline: 1px solid #fff;
+    font-size: 0.8em;
+    text-indent: -1000px;
+    padding: 5px;
+    box-sizing: border-box;
+    z-index: 5;
+    font-weight: 300;
+    text-shadow: -2px -2px 13px rgba(150, 150, 150, 0.9);
+  }
+
+  .amount {
+    display: block;
+    padding-bottom: 0.2em;
+    font-size: 1.5em;
+  }
+
+  .node.big {
+    text-indent: 2px;
+  }
+
+  .node:hover {
+    text-indent: 2px;
+    text-decoration: none;
+  }
+}
+
+/* Table */
+#table {
+  margin-top: 1em;
+
+  td, th {
+    font-size: 0.9em;
+  }
+
+  td.num, th.num {
+    text-align: right;
+  }
+
+  .hide-small, .small {
+    display: none;
+  }
+
+  .label a, .label a:hover {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 400;
+  }
+}
+
+#embed-code {
+  white-space: pre-line;
+  display: block;
+}

@@ -5,9 +5,12 @@ _site/*
 offenerhaushalt.egg-info/*
 pyenv
 offenerhaushalt/static/vendor/*
+offenerhaushalt/static/bower_components/*
 offenerhaushalt/static/gen/*
+offenerhaushalt/static/oldjs/*
 offenerhaushalt/static/aggregates/*
 offenerhaushalt/static/.webassets-cache/*
 build/*
 migrate-spendb/exports/*
 exports/*
+.sass-cache

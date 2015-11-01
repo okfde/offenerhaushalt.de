@@ -2,18 +2,15 @@
 <html lang="de">
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
   <title>{% block title %}Willkommen{% endblock %} - OffenerHaushalt</title>
   <meta name="description" content="{% block description %} - {% endblock %}">
 
   <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' type='text/css'>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
-  {% assets filters="less,cssmin,cssrewrite", output="gen/style.%(version)s.css",
-      "vendor/bootstrap/less/bootstrap.less",
-      "vendor/font-awesome/less/font-awesome.less",
-      "style/style.less"
+  {% assets filters="scss,cssmin", output="gen/style.%(version)s.css",
+      "style/style.scss"
   %}
     <link type="text/css" href="{{ ASSET_URL }}" rel="stylesheet">
   {% endassets %}
@@ -36,25 +33,8 @@
       <script type="text/javascript" src="{{ ASSET_URL }}"></script>
   {% endassets %}
 
-  {% block js %}
+  {% block js %}{% endblock %}
 
-  {% endblock %}
-
-  {% if not config.DEBUG %}
-    <script type="text/javascript">
-      var _paq = _paq || [];
-      _paq.push(["setCookieDomain", "*.offenerhaushalt.de"]);
-      _paq.push(['trackPageView']);
-      _paq.push(['enableLinkTracking']);
-      (function() {
-        var u="//piwik.okfn.de/";
-        _paq.push(['setTrackerUrl', u+'piwik.php']);
-        _paq.push(['setSiteId', 4]);
-        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-      })();
-    </script>
-    <noscript><p><img src="//piwik.okfn.de/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
-  {% endif %}
+  {% include "analytics.html" %}
 </body>
 </html>
