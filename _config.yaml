@@ -1,0 +1,27 @@
+
+safe: true
+exclude:
+  - offenerhaushalt/*
+  - build/*
+  - Makefile
+  - LICENSE
+  - README.md
+  - bower.json
+  - contrib/*
+
+sass:
+  style: compressed
+  sass_dir: style
+
+
+collections:
+  haushalt:
+    output: true
+    permalink: /haushalt/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: haushalt
+    values:
+      layout: haushalt

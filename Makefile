@@ -1,12 +1,18 @@
 .PHONY: build
 
-all: build upload
+all: build
 
-build:
-	python offenerhaushalt/manage.py freeze
+assets:
+	uglifyjs --mangle --screw-ie8 --output js/all.js \
+		bower_components/angular/angular.js \
+		bower_components/angular-animate/angular-animate.js \
+		js/app.js \
+
+build: assets
+	jekyll build
 
 web:
-	python offenerhaushalt/manage.py runserver
+	jekyll build --watch
 
 upload:
 	#s3cmd sync --delete-removed --acl-public -M --add-header='Cache-Control: public, max-age=84600' --reduced-redundancy --exclude 'static/.webassets-cache/*'  build/* s3://beta.offenerhaushalt.de/
