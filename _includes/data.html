@@ -4,9 +4,9 @@
   for each budget.
 {% endcomment %}
 <script>
-  var SITES = {};{% for budget in site.budgets %}
-  SITES[{{budget.slug | jsonify}}] = {
-    "name": {{budget.name | jsonify}},
+  var BUDGETS = {};{% for budget in site.budgets %}
+  BUDGETS[{{budget.slug | jsonify}}] = {
+    "title": {{budget.title | jsonify}},
     "slug": {{budget.slug | jsonify}},
     "tagline": {{budget.tagline | jsonify}},
     "source": {{budget.source | jsonify}},
