@@ -1,4 +1,5 @@
-name: Bundeshaushalt
+---
+title: Bundeshaushalt
 slug: bund
 tagline: "Der Bundeshaushalt enthält Angaben zu den Ausgaben und Einnahmen der Bundesregierung."
 source: Bundesministerium der Finanzen (Bundeshaushalt-Info)
@@ -36,3 +37,4 @@ hierarchies:
             - hauptgruppe
             - obergruppe
             - gruppe
+---

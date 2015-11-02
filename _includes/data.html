@@ -1,0 +1,21 @@
+{% comment %}
+  This is hacky, caused by some jekyll oddness which means that site data
+  would otherwise contain a fully rendered version of the generated page
+  for each budget.
+{% endcomment %}
+<script>
+  var SITES = {};{% for budget in site.budgets %}
+  SITES[{{budget.slug | jsonify}}] = {
+    "name": {{budget.name | jsonify}},
+    "slug": {{budget.slug | jsonify}},
+    "tagline": {{budget.tagline | jsonify}},
+    "source": {{budget.source | jsonify}},
+    "source_url": {{budget.source_url | jsonify}},
+    "data_url": {{budget.data_url | jsonify}},
+    "level": {{budget.level | jsonify}},
+    "state": {{budget.state | jsonify}},
+    "default": {{budget.default | jsonify}},
+    "filters": {{budget.filters | jsonify}},
+    "hierarchies": {{budget.hierarchies | jsonify}},
+  };{% endfor %}
+</script>

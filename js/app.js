@@ -1,7 +1,7 @@
-angular.module('sites', []).factory('sites', function() { return SITES; });
+angular.module('budgets', []).factory('budgets', function() { return BUDGETS; });
 
 var offenerhaushalt = angular.module('offenerhaushalt',
-      ['ngAnimate', 'sites']);
+      ['ngAnimate', 'budgets']);
 
 offenerhaushalt.config(['$compileProvider', function($compileProvider) {
   $compileProvider.debugInfoEnabled(false);
@@ -14,17 +14,32 @@ offenerhaushalt.controller('AppController', ['$scope', '$rootScope', '$http', '$
 }]);
 
 
-offenerhaushalt.controller('HomeController', ['$scope', '$rootScope', '$http', '$location', 'sites',
-  function($scope, $rootScope, $http, $location, sites) {
+offenerhaushalt.controller('HomeController', ['$scope', 'budgets',
+  function($scope, budgets) {
+  $scope.state = {};
 
   var element = document.querySelectorAll('#map')[0],
       width = element.clientWidth,
       height = element.clientHeight;
 
-  var path = d3.geo.path();
-  var svg = d3.select("#map").append("svg")
-      .attr("width", width)
-      .attr("height", height);
+  var path = d3.geo.path(),
+      svg = d3.select("#map").append("svg")
+        .attr("width", width)
+        .attr("height", height),
+      pinnedState = null;
+
+  var selectState = function(prop) {
+    var state = prop || {};
+    state.budgets = [];
+    for (var i in budgets) {
+      var budget = budgets[i];
+      if (budget.state == state.code) {
+        state.budgets.push(budget);
+      }
+    }
+    $scope.state = state;
+    $scope.$apply();
+  };
 
   d3.json("/img/deu.topo.json", function (error, de) {
   	var subunits = topojson.feature(de, de.objects.deu);
@@ -43,33 +58,34 @@ offenerhaushalt.controller('HomeController', ['$scope', '$rootScope', '$http', '
         .attr("class", function(d) { return "subunit " + d.properties.code; })
         .attr("d", path)
         .on("mouseover", function(d) {
-        	if (d.properties.code != selectedState) {
+        	if (d.properties.code != pinnedState) {
         		d3.select(this).transition().duration(200)
   					.style({'fill':'#333'});
         	}
-        	if (selectedState===null) {
-        		renderListing(d.properties);
+        	if (pinnedState === null) {
+        		selectState(d.properties);
         	}
         })
         .on("mouseout", function(d) {
-        	if (d.properties.code != selectedState) {
+        	if (d.properties.code != pinnedState) {
 	        	d3.select(this).transition().duration(500)
     				.style({'fill':'#555'});
         	}
-        	if (selectedState===null) {
-        		renderListing(null);
+        	if (pinnedState === null) {
+        		selectState(null);
         	}
         })
         .on("click", function(d) {
-        	if (d.properties.code == selectedState) {
-        		selectedState = null;
+        	if (d.properties.code == pinnedState) {
+        		pinnedState = null;
+            selectState(null);
         		d3.selectAll('.subunit').style({'fill':'#555'});
-        		renderListing(null);
         	} else {
-        		selectedState = d.properties.code;
+        		pinnedState = d.properties.code;
+            selectState(d.properties);
 	        	d3.selectAll('.subunit').style({'fill':'#555'});
 	        	d3.select(this).style({'fill':'#42928F'});
-	        	renderListing(d.properties);
+
         	}
 
         })
