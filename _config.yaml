@@ -8,6 +8,8 @@ exclude:
   - README.md
   - bower.json
   - contrib/*
+  - exports/*
+  - bower_components/*
 
 sass:
   style: compressed
@@ -15,13 +17,13 @@ sass:
 
 
 collections:
-  haushalt:
+  budgets:
     output: true
     permalink: /haushalt/:path/
 
 defaults:
   - scope:
       path: ""
-      type: haushalt
+      type: budgets
     values:
-      layout: haushalt
+      layout: budget

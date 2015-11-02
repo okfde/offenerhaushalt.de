@@ -1,9 +1,13 @@
-.PHONY: build
+.PHONY: build js
 
 all: build
 
-assets:
+assets: js/all.js
+
+js/all.js: js/app.js
 	uglifyjs --mangle --screw-ie8 --output js/all.js \
+		bower_components/d3/d3.js \
+		bower_components/topojson/topojson.js \
 		bower_components/angular/angular.js \
 		bower_components/angular-animate/angular-animate.js \
 		js/app.js \
