@@ -10,15 +10,16 @@
 
   <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' type='text/css'>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/style/style.css">
+  <link rel="stylesheet" href="/assets/build/style.css">
 
-  <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon" />
   <link rel="canonical" href="http://offenerhaushalt.de{{page.path}}" />
 </head>
 <body ng-controller="AppController">
   {{content}}
   {% include analytics.html %}
   {% include data.html %}
-  <script src="/js/all.js"></script>
+  <script src="/assets/build/deps.js"></script>
+  <script src="/assets/build/app.js"></script>
 </body>
 </html>

@@ -26,7 +26,7 @@ offenerhaushalt.controller('HomeController', ['$scope', 'baseData',
     $scope.$apply();
   };
 
-  d3.json("/img/deu.topo.json", function (error, de) {
+  d3.json("/assets/img/deu.topo.json", function (error, de) {
   	var subunits = topojson.feature(de, de.objects.deu);
 
     var projection = d3.geo.mercator()

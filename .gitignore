@@ -8,7 +8,7 @@ offenerhaushalt/static/gen/*
 offenerhaushalt/static/aggregates/*
 offenerhaushalt/static/.webassets-cache/*
 build/*
-oldjs/*
+old/*
 migrate-spendb/exports/*
 exports/*
 .sass-cache

@@ -7,7 +7,7 @@ exclude:
   - LICENSE
   - README.md
   - bower.json
-  - contrib/*
+  - old/*
   - exports/*
   - bower_components/*
 
