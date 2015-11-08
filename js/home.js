@@ -1,6 +1,6 @@
 
-offenerhaushalt.controller('HomeController', ['$scope', 'budgets',
-  function($scope, budgets) {
+offenerhaushalt.controller('HomeController', ['$scope', 'baseData',
+  function($scope, baseData) {
   $scope.state = {};
 
   var element = document.querySelectorAll('#map')[0],
@@ -16,8 +16,8 @@ offenerhaushalt.controller('HomeController', ['$scope', 'budgets',
   var selectState = function(prop) {
     var state = prop || {};
     state.budgets = [];
-    for (var i in budgets) {
-      var budget = budgets[i];
+    for (var i in baseData.budgets) {
+      var budget = baseData.budgets[i];
       if (budget.state == state.code) {
         state.budgets.push(budget);
       }

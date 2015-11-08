@@ -1,7 +1,7 @@
-angular.module('budgets', []).factory('budgets', function() { return BUDGETS; });
+angular.module('baseData', []).factory('baseData', function() { return OffenerHaushalt; });
 
 var offenerhaushalt = angular.module('offenerhaushalt',
-      ['ngAnimate', 'budgets']);
+      ['ngAnimate', 'baseData']);
 
 offenerhaushalt.config(['$compileProvider', function($compileProvider) {
   $compileProvider.debugInfoEnabled(false);

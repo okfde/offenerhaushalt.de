@@ -11,7 +11,8 @@ js/all.js: js/app.js
 		bower_components/angular/angular.js \
 		bower_components/angular-animate/angular-animate.js \
 		js/app.js \
-		js/home.js
+		js/home.js \
+		js/budget.js
 
 build: assets
 	jekyll build
