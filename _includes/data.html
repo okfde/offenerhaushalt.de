@@ -5,6 +5,7 @@
 {% endcomment %}
 <script>
   var OffenerHaushalt = OffenerHaushalt || {};
+  OffenerHaushalt.apiUrl = "{{site.api_base}}";
   OffenerHaushalt.budgets = {};{% for budget in site.budgets %}
   OffenerHaushalt.budgets[{{budget.slug | jsonify}}] = {
     "title": {{budget.title | jsonify}},
@@ -15,6 +16,7 @@
     "data_url": {{budget.data_url | jsonify}},
     "level": {{budget.level | jsonify}},
     "state": {{budget.state | jsonify}},
+    "dataset": {{budget.dataset | jsonify}},
     "default": {{budget.default | jsonify}},
     "filters": {{budget.filters | jsonify}},
     "hierarchies": {{budget.hierarchies | jsonify}},

@@ -11,10 +11,7 @@ exclude:
   - exports/*
   - bower_components/*
 
-sass:
-  style: compressed
-  sass_dir: style
-
+api_base: http://db.offenerhaushalt.de/api/babbage/cubes/
 
 collections:
   budgets:
