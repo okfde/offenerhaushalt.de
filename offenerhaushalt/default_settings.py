@@ -1,5 +1,5 @@
-DEBUG = True
-ASSETS_DEBUG = True
+DEBUG = False
+ASSETS_DEBUG = False
 SECRET_KEY = 'no'
 
 SITES_FOLDER = 'sites/'

@@ -16,8 +16,8 @@ OSDE.TreeMap = function(elementID) {
 		treemap = d3.layout.treemap()
 		  .size([width, height])
 		  .sticky(true)
-		  .sort(function(a, b) { return a.value - b.value; })
-		  .value(function(d) { return d.value; });
+		  .sort(function(a, b) { return Math.abs(a.value) - Math.abs(b.value); })
+		  .value(function(d) { return Math.abs(d.value); });
 
 		div = d3.select("#treemap").append("div")
 		  .style("position", "relative")
