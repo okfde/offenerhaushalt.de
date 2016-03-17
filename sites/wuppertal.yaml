@@ -1,0 +1,28 @@
+name: Stadt Wuppertal
+slug: wuppertal
+tagline: "Haushalt der Stadt Wuppertal"
+source: Opendatal.de
+source_url: https://www.wuppertal.de/rathaus-buergerservice/offene_daten/haushalt/102370100000549208.php
+level: kommune
+state: NRW
+dataset: 
+default: einzelplan
+
+filters:
+  - field: 'einnahme_ausgabe'
+    name: 'Einnahme/Ausgabe'
+    default: 'Ausgabe'
+  - field: 'soll_ist'
+    name: 'Ansatz/Ergebnis'
+    default: 'Soll'
+  - field: 'jahr'
+    name: 'Jahr'
+    default: '2016'
+
+hierarchies:
+    einzelplan:
+        name: Einzelpläne
+        drilldowns:
+            - einzelplan
+            - unterabschnitt
+            - haushaltstelle
