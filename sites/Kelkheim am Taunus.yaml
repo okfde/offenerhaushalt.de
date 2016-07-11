@@ -1,0 +1,25 @@
+name: Stadt Kelkheim am Taunus
+slug: Kelkheim am Taunus
+tagline: "Haushalt für das Jahr 2016 der Stadt Kelkheim am Taunus"
+source: Ines Albani
+source_url: http://db.offenerhaushalt.de/api/3/datasets/haushalt2016v2/serve/haushalt-2016-endgultige-version.xlsx
+level: kommune
+state: HE
+dataset: stadt-kelkheim-am-taunus
+default: einzelplan
+
+filters:
+  - field: 'Position'
+    name: 'Aufwand, Erträge, Auszahlung, Einzahlung'
+    default: 'Aufwand'
+
+## - field: 'jahr'
+##  name: 'Jahr'
+##  default: '2016'
+
+hierarchies:
+    produkte:
+        name: Produkt
+        drilldowns:
+            - Produkt
+            - Kostenart
