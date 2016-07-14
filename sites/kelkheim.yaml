@@ -1,0 +1,25 @@
+name: Stadt Kelkheim am Taunus
+slug: kelkheim
+tagline: "Haushalt 2011-2016 der Stadt Kelkheim am Taunus"
+source: Ines Albani
+source_url: http://db.offenerhaushalt.de/api/3/datasets/kelkheimamtaunus20112016/serve/kelkheimhaushalt-2016-2011.xlsx
+level: kommune
+state: HE
+dataset: kelkheimamtaunus20112016
+default: produkte
+
+filters:
+  - field: 'fluss'
+    name: 'Fluss'
+    default: 'Aufwand'
+  - field: 'jahr'
+    name: 'Jahr'
+    default: '2016'
+
+hierarchies:
+    produkte:
+        name: Produkt
+        drilldowns:
+            - amt
+            - produktbezeichnung
+            - bezeichnung
