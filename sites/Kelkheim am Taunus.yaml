@@ -1,11 +1,11 @@
 name: Stadt Kelkheim am Taunus
 slug: Kelkheim am Taunus
-tagline: "Haushalt für das Jahr 2016 der Stadt Kelkheim am Taunus"
+tagline: "Haushalt 2011-2016 der Stadt Kelkheim am Taunus"
 source: Ines Albani
-source_url: http://db.offenerhaushalt.de/api/3/datasets/haushalt2016v2/serve/haushalt-2016-endgultige-version.xlsx
-level: kommune
+source_url: http://db.offenerhaushalt.de/api/3/datasets/kelkheimamtaunus20112016/serve/kelkheimhaushalt-2016-2011.xlsx
+level: Stadt
 state: HE
-dataset: stadt-kelkheim-am-taunus
+dataset: KelkheimamTaunus20112016
 default: einzelplan
 
 filters:
@@ -13,13 +13,18 @@ filters:
     name: 'Aufwand, Erträge, Auszahlung, Einzahlung'
     default: 'Aufwand'
 
-## - field: 'jahr'
-##  name: 'Jahr'
-##  default: '2016'
+  - field: 'jahr'
+    name: '2016, 2015, 2014, 2013, 2012, 2011'
+    default: '2016'
+
+  - field: 'Amt'
+    name: 'Amt für Brand- und Katastrophenschutz,  Amt für Finanzen, Amt für Personal und Organisation, Amt für Planen und Bauen,  Amt für Sicherheit und Ordnung,  Amt für Soziales, Frauen- / Gleichstellungsbeauftragte, Haupt- und Rechtsamt, Kulturreferat, Personalrat'
+    default: 'Amt für Brand- und Katastrophenschutz'
+
 
 hierarchies:
     produkte:
         name: Produkt
         drilldowns:
-            - Produkt
-            - Kostenart
+            - Produktbezeichnung
+            - Bezeichnung
