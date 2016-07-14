@@ -1,0 +1,22 @@
+name: Sprendlingen Gensingen
+slug: sprendlingen-gensingen
+tagline: "Haushalt-2016-Sprendlingen-Gensingen"
+source: Nico Heinz (upload by AA)
+source_url: http://db.offenerhaushalt.de/api/3/datasets/sprendlingen-gensingen/serve/aufstellungoffenerhaushalt.csv
+level: kommune
+state: HE
+dataset: sprendlingen-gensingen
+default: fachbereich
+
+filters:
+  - field: kz
+    name: 'KZ'
+    default: 'ES'
+
+hierarchies:
+    fachbereich:
+        name: Fachbereich
+        drilldowns:
+            - fachbereich
+            - leistung
+            - bezeichnung
