@@ -5,7 +5,7 @@ source: Ines Albani
 source_url: http://db.offenerhaushalt.de/api/3/datasets/kelkheimamtaunus2011bis2016/serve/kelkheimamtaunus2011bis2016.xlsx
 level: kommune
 state: HE
-dataset: kelkheimamtaunus20112016
+dataset: kelkheimamtaunus2011bis2016
 default: produkte
 
 filters:
