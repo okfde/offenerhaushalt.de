@@ -1,10 +1,10 @@
-name: Sprendlingen Gensingen
+name: Verbandsgemeinde Sprendlingen Gensingen
 slug: sprendlingen-gensingen
 tagline: "Haushalt-2016-Sprendlingen-Gensingen"
-source: Nico Heinz (upload by AA)
+source: Nico Heinz 
 source_url: http://db.offenerhaushalt.de/api/3/datasets/sprendlingen-gensingen/serve/aufstellungoffenerhaushalt.csv
 level: kommune
-state: HE
+state: RP
 dataset: sprendlingen-gensingen
 default: fachbereich
 
