@@ -6,7 +6,7 @@ source_url: http://www.offenedaten-wuppertal.de/
 data_url: http://db.offenerhaushalt.de/api/3/datasets/haushalt-wuppertal-2016/serve/wuppertal-haushalt.csv
 state: NW
 level: kommune
-dataset: de-wuppertal
+dataset: haushalt-wuppertal-2016
 default: produkte
 
 filters:
