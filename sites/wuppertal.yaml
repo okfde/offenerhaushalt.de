@@ -15,7 +15,7 @@ filters:
     default: 2016
   - field: 'art'
     name: 'Art'
-    default: 'Ergebnis'
+    default: 'Plan'
   - field: 'kontotyp'
     name: 'Typ'
     default: 'Aufwendung'
