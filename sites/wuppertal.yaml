@@ -1,28 +1,29 @@
 name: Stadt Wuppertal
 slug: wuppertal
-tagline: "Haushalt der Stadt Wuppertal"
-source: Opendatal.de
-source_url: https://www.wuppertal.de/rathaus-buergerservice/offene_daten/haushalt/102370100000549208.php
+tagline: "Haushaltsplan 2009-2020 der Stadt Wuppertal."
+source: OpenData Wuppertal
+source_url: http://www.offenedaten-wuppertal.de/
+data_url: http://db.offenerhaushalt.de/api/3/datasets/haushalt-wuppertal-2016/serve/wuppertal-haushalt.csv
+state: NW
 level: kommune
-state: NRW
-dataset: 
-default: einzelplan
+dataset: de-wuppertal
+default: produkte
 
 filters:
-  - field: 'einnahme_ausgabe'
-    name: 'Einnahme/Ausgabe'
-    default: 'Ausgabe'
-  - field: 'soll_ist'
-    name: 'Ansatz/Ergebnis'
-    default: 'Soll'
-  - field: 'jahr'
+  - field: 'year'
     name: 'Jahr'
-    default: '2016'
+    default: 2016
+  - field: 'art'
+    name: 'Art'
+    default: 'Ergebnis'
+  - field: 'kontotyp'
+    name: 'Typ'
+    default: 'Aufwendung'
 
 hierarchies:
-    einzelplan:
-        name: Einzelpläne
+    produkte:
+        name: Produkte
         drilldowns:
-            - einzelplan
-            - unterabschnitt
-            - haushaltstelle
+            - produktbereich
+            - produktgruppe
+            - produkt
