@@ -1,4 +1,4 @@
-from flask import render_template
+from flask import render_template, redirect
 
 from offenerhaushalt.core import app, pages
 from offenerhaushalt.util import JSONEncoder
@@ -29,8 +29,5 @@ def page(path):
 
 @app.route('/')
 def index():
-    sites_json = JSONEncoder().encode(sites)
-    state_sites = [s for s in sites if s.level == 'land']
-    local_sites = [s for s in sites if s.level not in ['land', 'bund']]
-    return render_template('index.html', sites=sites, sites_json=sites_json,
-                           state_sites=state_sites, local_sites=local_sites)
+    return redirect('/haushalt/wuppertal/')
+
