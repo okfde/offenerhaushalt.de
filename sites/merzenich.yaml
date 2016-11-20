@@ -5,7 +5,7 @@ source: Sebastian Schmitz - kdvz-frechen
 source_url: http://db.offenerhaushalt.de/api/3/datasets/hp-2015-merzenich/serve/haushalt-2015-final.ods
 level: kommune
 state: NW
-dataset: HP 2015 Gemeinde Merzenich
+dataset: hp-2015-merzenich
 default: produkte
 
 filters:
@@ -20,7 +20,7 @@ hierarchies:
     produkte:
         name: Produkt
         drilldowns:
-            - bereichbezeichnung
-            - gruppen-bezeichnung
-            - produkt-bezeichnung
-            - konto-bezeichnung
+            - bereich
+            - gruppe
+            - produkt
+            - konto

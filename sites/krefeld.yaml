@@ -11,22 +11,22 @@ default: produkte
 filters:
   - field: 'jahr'
     name: 'Jahr'
-    default: '2015'
-  - field: 'plan'
-    name: 'Plan'
-    default: 'Plan'
+    default: '2016'
+  # - field: 'plan'
+  #   name: 'Plan'
+  #   default: 'Plan'
 
 hierarchies:
     arten:
-        name: Profitcenter/Kostenarten
+        name: Profitcenter
         drilldowns:
-            - Profitcenter
-            - Kostenarten
-            - Auftrag
+            - profitcenter
+            - kostenarten
+            - auftrag
 
     produkte:
-        name: Fachbereich/Produkte
+        name: Produkte
         drilldowns:
-            - GB
-            - Fachbereich
+            - gb
+            - fachbereich
             - im_hh

@@ -116,23 +116,27 @@ class Site(_DataObject):
         return aggs[0]
 
     def to_dict(self):
-        data = self.data.copy()
-        data['slug'] = self.slug
-        data['api'] = self.api_base
-        data['aggregate'] = self.get_aggregate()
+        try:
+            data = self.data.copy()
+            data['slug'] = self.slug
+            data['api'] = self.api_base
+            data['aggregate'] = self.get_aggregate()
 
-        # This seems hacky.
-        data['keyrefs'] = {}
-        data['labelrefs'] = {}
-        for name, dim in self.model.get('dimensions').items():
-            data['keyrefs'][name] = dim['key_ref']
-            data['labelrefs'][name] = dim['label_ref']
-            for attr in dim.get('attributes').values():
-                data['keyrefs'][attr['ref']] = attr['ref']
-                data['labelrefs'][attr['ref']] = attr['ref']
+            # This seems hacky.
+            data['keyrefs'] = {}
+            data['labelrefs'] = {}
+            for name, dim in self.model.get('dimensions').items():
+                data['keyrefs'][name] = dim['key_ref']
+                data['labelrefs'][name] = dim['label_ref']
+                for attr in dim.get('attributes').values():
+                    data['keyrefs'][attr['ref']] = attr['ref']
+                    data['labelrefs'][attr['ref']] = attr['ref']
 
-        data['filters'] = self.filters
-        return data
+            data['filters'] = self.filters
+            return data
+        except Exception:
+            print 'SLUG', self.slug
+            raise
 
 
 def load_sites():
