@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+sudo fig run offenerhaushalt python offenerhaushalt/manage.py freeze
+sudo chown $USER:$USER . -R
