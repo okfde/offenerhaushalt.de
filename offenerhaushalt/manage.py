@@ -1,9 +1,11 @@
 from flask.ext.script import Manager
+from flask_assets import ManageAssets
 
-from offenerhaushalt.web import app
+from offenerhaushalt.web import app, assets
 from offenerhaushalt.generators import freezer
 
 manager = Manager(app)
+manager.add_command("assets", ManageAssets(assets))
 
 
 @manager.command
@@ -13,6 +15,6 @@ def freeze():
     app.config['ASSETS_DEBUG'] = False
     freezer.freeze()
 
+
 if __name__ == '__main__':
     manager.run()
-
