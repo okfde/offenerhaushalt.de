@@ -88,7 +88,7 @@ $(function(){
 
     $.each(path.hierarchy.drilldowns, function(i, drilldown) {
       if (args[drilldown]) {
-        url += args[drilldown] + '/';
+        url += args[drilldown].replace('/','%2F') + '/';
         delete args[drilldown];
       }
     });
