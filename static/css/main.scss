@@ -126,12 +126,12 @@ footer {
   margin: 2em 0 0 0;
   /*border-top: 1px solid #e0e0e0;*/
   border-top: 1px solid #ccc;
-  padding: 2em 0 0 0;
+  padding: 1.5em 0 0 0;
   background-color: $bgColor;
   font-size: 0.9em;
 
   .logo img {
-    margin: 0.5em 0 0 0;
+    margin: 0;
   }
 
   .links {
@@ -147,6 +147,18 @@ footer {
 
   .pull-right .links li {
     margin: 0 0 1em 2em;
+  }
+}
+
+@media (min-width: 992px) {
+  footer .from {
+    margin: 0.5em 0 0 0;
+  }
+}
+
+@media (min-width: 1200px) {
+  footer .from {
+    margin: 1.3em 0 0 0;
   }
 }
 
