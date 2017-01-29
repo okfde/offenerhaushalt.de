@@ -1,0 +1,46 @@
+<script src="/static/js/dep.js"></script>
+<script id="table-template" type="text/x-handlebars-template">{% raw %}
+  <table class="table table-condensed">
+    <tr>
+      <th>Titel</th>
+      <th class="num">Betrag</th>
+      <th class="num">Anteil</th>
+    </tr>
+    {{#each cells}}
+      <tr {{#if _small}}class="small"{{/if}}>
+        <td>
+          <i style="color: {{_color}};" class="fa fa-square"></i>
+          {{#if _url}}
+            <a href="{{_url}}">{{_current_label}}</a>
+          {{/if}}
+          {{#if _no_url}}
+            {{_current_label}}
+          {{/if}}
+        </td>
+        <td class="num">{{_value_fmt}}</td>
+        <td class="num">{{_percentage_fmt}}</td>
+      </tr>
+    {{/each}}
+    <tr>
+      <td colspan="3">
+        <span class="pull-right">
+          <a class="show-small" href="#"><i class="fa fa-plus-square"></i> kleine Posten anzeigen</a>
+          <a class="hide-small" href="#"><i class="fa fa-minus-square"></i> kleine Posten verstecken</a></span>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        Total
+      </th>
+      <th class="num">{{summary._value_fmt}}</th>
+      <th class="num">100%</th>
+    </tr>
+  </table>
+{% endraw %}</script>
+
+<script id="embed-template" type="text/x-handlebars-template">{% raw %}<iframe src="{{baseurl}}embed/{{hash}}" width="100%" height="520px" frameborder="0" style="margin:0"><a href="{{url}}">Offener Haushalt: {{name}}</a></iframe>
+<br/><small><a href="{{url}}">OffenerHaushalt.de</a></small>{% endraw %}</script>
+
+<script id="site-config" type="application/json">{{ page.haushalt | jsonify }}</script>
+<script type="text/javascript" src="/static/js/budget.js"></script>
