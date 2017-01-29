@@ -32,9 +32,8 @@ collections:
 
 # Build settings
 markdown: kramdown
-gems:
-  - jekyll-feed
 exclude:
+  - README.md
   - Gemfile
   - Gemfile.lock
 sass:
