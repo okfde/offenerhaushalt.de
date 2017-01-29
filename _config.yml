@@ -24,6 +24,12 @@ url: ''
 twitter_username: okfde
 github_username:  okfde
 
+# Haushalte
+collections:
+  haushalt:
+    output: true
+    permalink: /haushalt/:name/
+
 # Build settings
 markdown: kramdown
 gems:
@@ -31,6 +37,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
+keep_files:
   - vendor
 sass:
   sass_dir: static/css/_scss
@@ -49,3 +57,9 @@ defaults:
     values:
       layout: page
       framed: true
+  -
+    scope:
+      path: ""
+      type: haushalt
+    values:
+      layout: haushalt
