@@ -1,0 +1,16 @@
+<script src="static/js/dep.js"></script>
+<script id="sites-data" type="application/json">
+  {
+    "sites": [
+    {% for haushalt in site.haushalt %}{% if haushalt.skip != true %}
+      {
+        "name": "{{ haushalt.name }}",
+        "state": "{{ haushalt.state }}",
+        "slug": "{{ haushalt.slug }}",
+        "tagline": "{{ haushalt.tagline }}"
+      }{% unless forloop.last %},{% endunless %}
+    {% endif %}{% endfor %}
+    ]
+  }
+</script>
+<script src="static/js/home.js"></script>

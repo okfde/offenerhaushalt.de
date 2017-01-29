@@ -37,9 +37,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - vendor
-keep_files:
-  - vendor
 sass:
   sass_dir: static/css/_scss
   style: compressed
