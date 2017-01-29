@@ -1,0 +1,40 @@
+---
+layout: haushalt
+
+# this should be in the example.yaml:
+haushalt:
+  name: Land Example
+  slug: example
+  tagline: "Landeshaushalt für Example."
+  source: Stadt Berlin
+  source_url: http://daten.example.com
+  data_url: http://example.com
+  state: EX
+  level: land
+  dataset: example
+  default: einzelplan
+  filters:
+    - field: 'year'
+      name: 'Jahr'
+      default: 2013
+    - field: 'typ'
+      name: 'Typ'
+      default: ''
+      nullable: true
+    - field: 'titelart'
+      name: 'Art'
+      default: 'Ausgabetitel'
+  hierarchies:
+      einzelplan:
+          name: Einzelpläne
+          drilldowns:
+              - einzelplan
+              - to
+              - titel
+      funktion:
+          name: Funktionen
+          drilldowns:
+              - hauptfunktion
+              - oberfunktion
+              - funktion
+---
