@@ -3,14 +3,14 @@ script_include: budget
 layout: default
 ---
 
-<h1 class="page-header site">{{page.haushalt.name}}</h1>
+<h1 class="page-header site">{{page.name}}</h1>
 
 <div class="row">
   <div class="col-sm-12 col-md-6 site-menu">
     <a class="btn btn-default btn-sm" id="parent"><strong><i class="fa fa-level-up"></i> Ebene hoch</strong></a>
     <div class="btn-group btn-group-sm" id="hierarchy-menu">
       <a class="btn btn-default"><strong>Ansicht:</strong></a>
-      {% for h in page.haushalt.hierarchies %}
+      {% for h in page.hierarchies %}
         <a class="btn btn-default {{h[0]}}" href="#{{name}}/">{{h[1].name}}</a>
       {% endfor %}
     </div>
@@ -23,7 +23,7 @@ layout: default
   <div class="col-sm-12 col-md-6 site-menu site-filters">
     <div class="btn-group btn-group-sm pull-right">
       <a class="btn btn-default"><strong>Filter:</strong></a>
-        {% for filter in page.haushalt.filters %}
+        {% for filter in page.filters %}
           <div class="btn-group btn-group-sm">
             <a class="btn btn-default dropdown-toggle" data-toggle="dropdown">
               {{filter.name}}: <strong data-field="{{filter.field}}">{{filter.default}}</strong>
@@ -57,12 +57,12 @@ layout: default
       <div class="row">
         <div class="col-md-6">
           <p>
-            <strong>Beschreibung:</strong> {{page.haushalt.tagline}}
+            <strong>Beschreibung:</strong> {{page.tagline}}
           </p>
           <p class="sources">
-            Quelle: <strong><a href="{{page.haushalt.source_url}}">{{page.haushalt.source}}</a></strong>
-            {% if page.haushalt.data_url %}
-              (<a href="{{page.haushalt.data_url}}">Rohdaten</a>)
+            Quelle: <strong><a href="{{page.source_url}}">{{page.source}}</a></strong>
+            {% if page.data_url %}
+              (<a href="{{page.data_url}}">Rohdaten</a>)
             {% endif %}
           </p>
         </div>
