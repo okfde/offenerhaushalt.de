@@ -1,28 +1,15 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-{% include head.html %}
-</head>
-<body>
-  <div id="page">
-    {% include announcement.html %}
-    {% include nav.html %}
-    <div id="airlock" class="container">
-      <div class="row">
-        {{ content }}
-      </div>
+---
+layout: basic
+---
+
+<div id="page">
+  {% include announcement.html %}
+  {% include nav.html %}
+  <div id="airlock" class="container">
+    <div class="row">
+      {{ content }}
     </div>
   </div>
+</div>
 
-  {% include footer.html %}
-
-  {% if layout.script_include %}
-  {% include script_{{ layout.script_include }}.html %}
-  {% endif %}
-  {% if page.script_include %}
-  {% include script_{{ page.script_include }}.html %}
-  {% endif %}
-
-  {% include tracking.html %}
-</body>
-</html>
+{% include footer.html %}
