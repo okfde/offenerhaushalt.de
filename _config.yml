@@ -58,4 +58,6 @@ defaults:
       path: ""
       type: haushalt
     values:
-      layout: haushalt
+      layout:
+        - haushalt
+        - embed
