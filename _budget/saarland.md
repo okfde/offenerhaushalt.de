@@ -2,27 +2,29 @@
 name: Saarland
 slug: saarland
 tagline: "Landeshaushalt Mecklenburg-Vorpommern, HH Jahr 2015."
-source: David Krcek
-source_url: https://piratenpartei-bayern.de/2015/03/10/open-haushalt-bayern/
 level: land
 state: SA
-dataset: landeshaushalt-saarland
-default: einzelplan
+budget:
+    source: David Krcek
+    source_url: https://piratenpartei-bayern.de/2015/03/10/open-haushalt-bayern/
 
-filters:
-  - field: 'einnahme_ausgabe'
-    name: 'Einnahme/Ausgabe'
-    default: 'Ausgaben'
-  - field: 'jahr'
-    name: 'Jahr'
-    default: '2015'
+    dataset: landeshaushalt-saarland
+    default: einzelplan
 
-hierarchies:
-    einzelplan:
-        name: Einzelpläne
-        drilldowns:
-            - einzelplan
-            - kapitel
-            - titelgruppe
-            - titel
+    filters:
+      - field: 'einnahme_ausgabe'
+        name: 'Einnahme/Ausgabe'
+        default: 'Ausgaben'
+      - field: 'jahr'
+        name: 'Jahr'
+        default: '2015'
+
+    hierarchies:
+        einzelplan:
+            name: Einzelpläne
+            drilldowns:
+                - einzelplan
+                - kapitel
+                - titelgruppe
+                - titel
 ---

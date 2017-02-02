@@ -2,30 +2,32 @@
 name: Stadt Hückeswagen
 slug: hueckeswagen
 tagline: "Haushalt Hueckeswagen 2016."
-source: Joerg Tillmans
-data_url: http://db.offenerhaushalt.de/api/3/datasets/haushalt-hueckeswagen-2016/serve/2016-09-30-huckeswagen-daten-offener-haushalt-hp-2016-final.txt
-state: NW
 level: kommune
-dataset: haushalt-hueckeswagen-2016
-default: produkte
+state: NW
+budget:
+  source: Joerg Tillmans
+  data_url: http://db.offenerhaushalt.de/api/3/datasets/haushalt-hueckeswagen-2016/serve/2016-09-30-huckeswagen-daten-offener-haushalt-hp-2016-final.txt
 
-filters:
-  # - field: 'jahr'
-  #   name: 'Jahr'
-  #   default: '2016'
-  - field: 'fluss'
-    name: 'Fluss'
-    default: 'Aufwendung '
+  dataset: haushalt-hueckeswagen-2016
+  default: produkte
 
-hierarchies:
-    arten:
-        name: Kostenarten
-        drilldowns:
-            - kostenarten
+  filters:
+    # - field: 'jahr'
+    #   name: 'Jahr'
+    #   default: '2016'
+    - field: 'fluss'
+      name: 'Fluss'
+      default: 'Aufwendung '
 
-    produkte:
-        name: Produkte
-        drilldowns:
-            - produktbereich
-            - produktgruppe
+  hierarchies:
+      arten:
+          name: Kostenarten
+          drilldowns:
+              - kostenarten
+
+      produkte:
+          name: Produkte
+          drilldowns:
+              - produktbereich
+              - produktgruppe
 ---

@@ -2,27 +2,29 @@
 name: Gemeinde Merzenich
 slug: merzenich
 tagline: "Haushalt Merzenich 2015"
-source: Sebastian Schmitz - kdvz-frechen
-source_url: http://db.offenerhaushalt.de/api/3/datasets/hp-2015-merzenich/serve/haushalt-2015-final.ods
 level: kommune
 state: NW
-dataset: hp-2015-merzenich
-default: produkte
+budget:
+    source: Sebastian Schmitz - kdvz-frechen
+    source_url: http://db.offenerhaushalt.de/api/3/datasets/hp-2015-merzenich/serve/haushalt-2015-final.ods
 
-filters:
-  - field: 'art'
-    name: 'Art'
-    default: 'Ausgaben'
-  - field: 'jahr'
-    name: 'Jahr'
-    default: '2015'
+    dataset: hp-2015-merzenich
+    default: produkte
 
-hierarchies:
-    produkte:
-        name: Produkt
-        drilldowns:
-            - bereich
-            - gruppe
-            - produkt
-            - konto
+    filters:
+      - field: 'art'
+        name: 'Art'
+        default: 'Ausgaben'
+      - field: 'jahr'
+        name: 'Jahr'
+        default: '2015'
+
+    hierarchies:
+        produkte:
+            name: Produkt
+            drilldowns:
+                - bereich
+                - gruppe
+                - produkt
+                - konto
 ---

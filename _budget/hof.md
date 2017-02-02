@@ -2,30 +2,32 @@
 name: Stadt Hof
 slug: hof
 tagline: "Haushalt der Stadt Hof"
-source: David Krcek
-source_url: https://piratenpartei-bayern.de/2015/03/10/open-haushalt-bayern/
-data_url: http://www.krcek.de/wp-content/uploads/2015/06/hof.csv
-state: BY
 level: kommune
-dataset: open_hof
-default: kameral
+state: BY
+budget:
+  source: David Krcek
+  source_url: https://piratenpartei-bayern.de/2015/03/10/open-haushalt-bayern/
+  data_url: http://www.krcek.de/wp-content/uploads/2015/06/hof.csv
 
-filters:
-  - field: 'jahr'
-    name: 'Jahr'
-    default: 2015
-  - field: 'einnahme_ausgabe'
-    name: 'Ein/Aus'
-    default: 'Ausgabe'
-  # - field: 'haushalt'
-  #   name: 'Haushalt'
-  #   default: 'A'
+  dataset: open_hof
+  default: kameral
 
-hierarchies:
-  kameral:
-    name: Haushalt
-    drilldowns:
-      - einzelplan
-      - unterabschnitt
-      - haushaltstelle
+  filters:
+    - field: 'jahr'
+      name: 'Jahr'
+      default: 2015
+    - field: 'einnahme_ausgabe'
+      name: 'Ein/Aus'
+      default: 'Ausgabe'
+    # - field: 'haushalt'
+    #   name: 'Haushalt'
+    #   default: 'A'
+
+  hierarchies:
+    kameral:
+      name: Haushalt
+      drilldowns:
+        - einzelplan
+        - unterabschnitt
+        - haushaltstelle
 ---

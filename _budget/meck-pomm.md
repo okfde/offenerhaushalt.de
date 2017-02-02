@@ -2,28 +2,30 @@
 name: Land Mecklenburg-Vorpommern
 slug: meck-pomm
 tagline: "Landeshaushalt Mecklenburg-Vorpommern, HH Jahr 2015."
-source: Erik Lohse
-source_url: http://db.offenerhaushalt.de/datasets/haushalt-mv-2015/about
 level: land
 state: MV
-dataset: haushalt-mv-2015
-default: einzelplan
+budget:
+    source: Erik Lohse
+    source_url: http://db.offenerhaushalt.de/datasets/haushalt-mv-2015/about
 
-filters:
-  - field: 'einnahme_ausgabe'
-    name: 'Einnahme/Ausgabe'
-    default: 'Ausgabe'
+    dataset: haushalt-mv-2015
+    default: einzelplan
 
-hierarchies:
-    einzelplan:
-        name: Einzelpläne
-        drilldowns:
-            - einzelplan
-            - kapitel
-            - haushaltstitel
+    filters:
+      - field: 'einnahme_ausgabe'
+        name: 'Einnahme/Ausgabe'
+        default: 'Ausgabe'
 
-    funktion:
-        name: Funktionen
-        drilldowns:
-            - funktion
+    hierarchies:
+        einzelplan:
+            name: Einzelpläne
+            drilldowns:
+                - einzelplan
+                - kapitel
+                - haushaltstitel
+
+        funktion:
+            name: Funktionen
+            drilldowns:
+                - funktion
 ---

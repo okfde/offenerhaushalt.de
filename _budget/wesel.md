@@ -2,29 +2,31 @@
 name: Stadt Wesel
 slug: wesel
 tagline: "Haushaltsplan der Stadt Wesel."
-source: Markus Scholten
-data_url: https://www.offenesdatenportal.de/dataset/haushaltsplan-2015-stadt-wesel-aufwand-und-ertrag/
-state: NW
 level: kommune
-dataset: wesel
-default: profitcenter
 skip: true
+state: NW
+budget:
+  source: Markus Scholten
+  data_url: https://www.offenesdatenportal.de/dataset/haushaltsplan-2015-stadt-wesel-aufwand-und-ertrag/
 
-filters:
-  - field: 'jahr'
-    name: 'Jahr'
-    default: 2015
-  - field: 'art'
-    name: 'Art'
-    default: 'Plan'
-  - field: 'einnahme_ausgabe'
-    name: 'Einnahme/Ausgabe'
-    default: 'Ausgabe'
+  dataset: wesel
+  default: profitcenter
 
-hierarchies:
-    profitcenter:
-        name: Profitcenter
-        drilldowns:
-            - profitcenter
-            - kostenart
+  filters:
+    - field: 'jahr'
+      name: 'Jahr'
+      default: 2015
+    - field: 'art'
+      name: 'Art'
+      default: 'Plan'
+    - field: 'einnahme_ausgabe'
+      name: 'Einnahme/Ausgabe'
+      default: 'Ausgabe'
+
+  hierarchies:
+      profitcenter:
+          name: Profitcenter
+          drilldowns:
+              - profitcenter
+              - kostenart
 ---

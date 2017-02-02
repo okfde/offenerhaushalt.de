@@ -2,26 +2,28 @@
 name: Stadt Laatzen
 slug: laatzen
 tagline: "Haushaltsplan 2014/2015 der Stadt Laatzen bei Hannover."
-source: Birgit Fehners
-source_url: http://www.laatzen.de/
-data_url: http://opendatalabs.org/de/haushalt
-state: NI
 level: kommune
-dataset: laatzen2014
-default: produkte
+state: NI
+budget:
+    source: Birgit Fehners
+    source_url: http://www.laatzen.de/
+    data_url: http://opendatalabs.org/de/haushalt
 
-filters:
-  - field: 'year'
-    name: 'Jahr'
-    default: 2014
-  - field: 'art'
-    name: 'Art'
-    default: 'Aufwendungen'
+    dataset: laatzen2014
+    default: produkte
 
-hierarchies:
-    produkte:
-        name: Teilhaushalt/Produkte
-        drilldowns:
-            - teilhaushalt
-            - produkt
+    filters:
+      - field: 'year'
+        name: 'Jahr'
+        default: 2014
+      - field: 'art'
+        name: 'Art'
+        default: 'Aufwendungen'
+
+    hierarchies:
+        produkte:
+            name: Teilhaushalt/Produkte
+            drilldowns:
+                - teilhaushalt
+                - produkt
 ---

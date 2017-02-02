@@ -2,27 +2,29 @@
 name: Bezirk Mittelfranken
 slug: mittelfranken
 tagline: "Haushalt des Bezirks Mittelfranken."
-source: David Krcek
-source_url: https://openspending.org/open_bzmfr/meta
-data_url: http://www.krcek.de/wp-content/uploads/2014/12/bzmfr1.csv
-state: BY
 level: bezirk
-dataset: open_bzmfr
-default: kameral
+state: BY
+budget:
+    source: David Krcek
+    source_url: https://openspending.org/open_bzmfr/meta
+    data_url: http://www.krcek.de/wp-content/uploads/2014/12/bzmfr1.csv
 
-filters:
-  - field: 'year'
-    name: 'Jahr'
-    default: 2014
-  - field: 'einnahmen_ausgaben'
-    name: 'Ein/Aus'
-    default: 'Ausgabe'
+    dataset: open_bzmfr
+    default: kameral
 
-hierarchies:
-    kameral:
-        name: Haushalt
-        drilldowns:
-            - einzelplan
-            - unterabschnitt
-            - haushaltstelle
+    filters:
+      - field: 'year'
+        name: 'Jahr'
+        default: 2014
+      - field: 'einnahmen_ausgaben'
+        name: 'Ein/Aus'
+        default: 'Ausgabe'
+
+    hierarchies:
+        kameral:
+            name: Haushalt
+            drilldowns:
+                - einzelplan
+                - unterabschnitt
+                - haushaltstelle
 ---

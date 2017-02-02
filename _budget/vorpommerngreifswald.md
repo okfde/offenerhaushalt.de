@@ -2,25 +2,27 @@
 name: Landkreis Vorpommern Greifswald
 slug: vorpommerngreifswald
 tagline: "Haushalt nach Teilhaushalten und Produkten"
-source: Martin Banduch
-data_url: "http://db.offenerhaushalt.de/api/3/datasets/lkvg_haushaltsentwurf-2016/serve/lkvk-aa.csv"
-state: MV
 level: bezirk
-dataset: "lkvg_haushaltsentwurf-2016"
-default: produkte
+state: MV
+budget:
+    source: Martin Banduch
+    data_url: "http://db.offenerhaushalt.de/api/3/datasets/lkvg_haushaltsentwurf-2016/serve/lkvk-aa.csv"
 
-filters:
-  - field: 'jahr'
-    name: 'Jahr'
-    default: 2016
-  - field: 'fluss'
-    name: 'Aufwand/Ergebnis'
-    default: 'Aufwand'
+    dataset: "lkvg_haushaltsentwurf-2016"
+    default: produkte
 
-hierarchies:
-    produkte:
-        name: Haushalt
-        drilldowns:
-            - teilhaushalt
-            - produkt
+    filters:
+      - field: 'jahr'
+        name: 'Jahr'
+        default: 2016
+      - field: 'fluss'
+        name: 'Aufwand/Ergebnis'
+        default: 'Aufwand'
+
+    hierarchies:
+        produkte:
+            name: Haushalt
+            drilldowns:
+                - teilhaushalt
+                - produkt
 ---

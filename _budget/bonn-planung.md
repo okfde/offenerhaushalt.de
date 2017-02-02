@@ -28,25 +28,27 @@
 name: Stadt Bonn Haushalt 2017-2024
 slug: bonn-planung
 tagline: "Haushaltsplanung 2017-2024 der Stadt Bonn."
-source: OpenData Bonn
-source_url: http://opendata.bonn.de/
-state: NW
 level: kommune
-dataset: haushaltbonn20172024updated
-default: produkte
+state: NW
+budget:
+    source: OpenData Bonn
+    source_url: http://opendata.bonn.de/
 
-filters:
-  - field: 'jahr'
-    name: 'Jahr'
-    default: 2017
-  - field: 'fluss'
-    name: 'Kostenart'
-    default: 'Aufwendungen'
+    dataset: haushaltbonn20172024updated
+    default: produkte
 
-hierarchies:
-    produkte:
-        name: Produkte
-        drilldowns:
-            - produktbereich
-            - produkt
+    filters:
+      - field: 'jahr'
+        name: 'Jahr'
+        default: 2017
+      - field: 'fluss'
+        name: 'Kostenart'
+        default: 'Aufwendungen'
+
+    hierarchies:
+        produkte:
+            name: Produkte
+            drilldowns:
+                - produktbereich
+                - produkt
 ---
