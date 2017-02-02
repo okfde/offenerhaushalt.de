@@ -26,7 +26,7 @@ github_username:  okfde
 
 # Haushalte
 collections:
-  haushalt:
+  budget:
     output: true
     permalink: /haushalt/:name/
 
@@ -56,7 +56,7 @@ defaults:
   -
     scope:
       path: ""
-      type: haushalt
+      type: budget
     values:
       layout:
         - budget
