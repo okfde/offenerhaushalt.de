@@ -15,8 +15,8 @@ module Jekyll
         return url.gsub(/:layout/, layout_path)
       end
 
-      # PATCH(offenerhaushalt): haushalt layout is root
-      return url if layout_path == 'haushalt'
+      # PATCH(offenerhaushalt): budget layout is root
+      return url if layout_path == 'budget'
 
       if ext.empty?
         "#{url}/#{layout_path}/"
