@@ -27,10 +27,12 @@ module Jekyll
   end
 
   class CollectionLayoutsGenerator
+    LAYOUTS = ['budget', 'embed']
+
     def generate(site)
       site.collections.each do |_, collection|
         docs = collection.docs.map! do |doc|
-          if doc.data["layout"].is_a?(Array)
+          if doc.data["layout"] == 'budget'
             create_layout_views(site, collection, doc)
           else
             doc
@@ -44,7 +46,7 @@ module Jekyll
     private
 
     def create_layout_views(site, collection, doc)
-      doc.data["layout"].map do |layout|
+      LAYOUTS.map do |layout|
         Document.new(doc.path, :site => site, :collection => collection).tap do |new_doc|
           new_doc.read
           new_doc.data["layout"] = layout

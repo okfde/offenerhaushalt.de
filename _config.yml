@@ -58,6 +58,6 @@ defaults:
       path: ""
       type: budget
     values:
-      layout:
-        - budget
-        - embed
+      layout: budget
+# We use the embed plugin here to generate the same pages
+# with the embed layout again
