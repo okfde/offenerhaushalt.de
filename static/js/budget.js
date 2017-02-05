@@ -9,7 +9,21 @@ $(function(){
   var site = JSON.parse($('#site-config').html()),
       embedTemplate = Handlebars.compile($('#embed-template').html());
       $embedCode = $('#embed-code')
-      baseFilters = {};
+      baseFilters = {},
+      SLICER_URL = 'http://db.offenerhaushalt.de/api/babbage';
+
+  site.api = SLICER_URL + '/cubes/' + site.dataset;
+  site.keyrefs = [];
+  site.labelrefs = [];
+  $.each(site.dimensions, function(name, dim){
+    site.keyrefs[name] = dim.key_ref
+    site.labelrefs[name] = dim.label_ref
+
+    $.each(dim.attributes, function(k, attr) {
+      site.keyrefs[attr.ref] = attr.ref
+      site.labelrefs[attr.ref] = attr.ref
+    });
+  });
 
   $.each(site.filters, function(i, f) {
     baseFilters[f.field] = f.default;
