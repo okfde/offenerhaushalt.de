@@ -36,6 +36,8 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - bower.json
+  - bower_components/*
 sass:
   sass_dir: static/css/_scss
   style: compressed

@@ -1,0 +1,19 @@
+{
+  "name": "offenerhaushalt",
+  "version": "2.0.0",
+  "main": "css/main.scss",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.5",
+    "jquery": "~2.0.3",
+    "moment": "~2.4.0",
+    "d3": "3.3.13",
+    "topojson": "~1.4.5",
+    "handlebars": "~1.1.2",
+    "accounting": "~0.3.2",
+    "hashtrack": "*"
+  }
+}
