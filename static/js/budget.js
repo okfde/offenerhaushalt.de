@@ -8,32 +8,93 @@ layout: null
 $(function(){
   var site = JSON.parse($('#site-config').html()),
       siteName = $('#site-name').html(),
+      filtersTemplate = Handlebars.compile($('#filters-template').html()),
       embedTemplate = Handlebars.compile($('#embed-template').html()),
       $embedCode = $('#embed-code'),
       baseFilters = {},
+      $filterValues = [],
       SLICER_URL = 'http://db.offenerhaushalt.de/api/babbage';
 
   site.api = SLICER_URL + '/cubes/' + site.dataset;
   site.keyrefs = [];
   site.labelrefs = [];
-  $.each(site.dimensions, function(name, dim){
-    site.keyrefs[name] = dim.key_ref
-    site.labelrefs[name] = dim.label_ref
+  site.dimensions = {};
 
-    $.each(dim.attributes, function(k, attr) {
-      site.keyrefs[attr.ref] = attr.ref
-      site.labelrefs[attr.ref] = attr.ref
+  $.ajax({ url: site.api + '/model', dataType: 'json'})
+  .then(function(result) {
+    if (typeof site.aggregate == "undefined") {
+      if (typeof result.model.aggregate != "undefined") {
+        site.aggregate = result.model.aggregate;
+      } else if (typeof result.model.aggregates != "undefined") {
+        var aggs = $.map(result.model.aggregates, function(a, _) {
+          if (typeof a.function == "undefined" || a.function != 'sum') {
+            return null;
+          }
+          return a;
+        });
+        if (aggs.length > 0) {
+          site.aggregate = aggs[0].ref;
+        }
+      }
+    }
+
+    $.each(result.model.dimensions, function(name, dim) {
+      site.dimensions[name] = {
+        'key_ref': dim['key_ref'],
+        'label_ref': dim['label_ref'],
+        'attributes': []
+      };
+
+      $.each(dim['attributes'], function(k, a) {
+        site.dimensions[name].attributes.push(a['ref']);
+      });
     });
-  });
 
-  $.each(site.filters, function(i, f) {
-    baseFilters[f.field] = f.default;
+    $.each(site.dimensions, function(name, dim) {
+      site.keyrefs[name] = dim.key_ref
+      site.labelrefs[name] = dim.label_ref
+
+      $.each(dim.attributes, function(k, attr) {
+        site.keyrefs[attr.ref] = attr.ref
+        site.labelrefs[attr.ref] = attr.ref
+      });
+    });
+  }).then(function() {
+    var def = $.Deferred(), dfds = [];
+    for (var i in site.filters) {
+      var filter = site.filters[i];
+      dfds.push($.ajax({ url: site.api + '/members/' + filter.field, dataType: 'json' }));
+    }
+    $.when.apply($, dfds).then(function() {
+      var ret = $.map(arguments, function(a) {
+        return a[0];
+      });
+      def.resolve(ret);
+    });
+    return def;
+  }).then(function(fmems) {
+    for (var i in site.filters) {
+      baseFilters[site.filters[i].field] = site.filters[i].default;
+
+      site.filters[i].values = $.map(fmems[i].data, function(v) {
+        var f = site.filters[i].field;
+        return {
+          key: v[site.dimensions[f]['key_ref']],
+          label: v[site.dimensions[f]['label_ref']]
+        };
+      });
+    }
+
+    $('#filters').append(filtersTemplate({ filters: site.filters }));
+    $('#filters .dropdown-toggle').dropdown();
+    $filterValues = $('.site-filters .value');
+  }).then(function() {
+    hashtrack.onhashchange(update);
   });
 
   var $hierarchyMenu = $('#hierarchy-menu'),
       $infobox = $('#infobox'),
       $parent = $('#parent'),
-      $filterValues = $('.site-filters .value'),
       treemap = new OSDE.TreeMap('#treemap'),
       table =  new OSDE.Table('#table');
 
@@ -210,12 +271,12 @@ $(function(){
       });
     });
     $embedCode.text(embedTemplate({
-      name: site.name,
+      name: siteName,
       baseurl: document.location.href.split('#')[0],
       url: document.location.href,
       hash: document.location.hash,
     }));
   }
 
-  hashtrack.onhashchange(update);
+  // hashtrack.onhashchange(update);
 });
