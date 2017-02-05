@@ -20,17 +20,17 @@ budget:
     #   default: 'Plan'
 
   hierarchies:
-      arten:
-          name: Profitcenter
-          drilldowns:
-              - profitcenter
-              - kostenarten
-              - auftrag
+    arten:
+      name: Profitcenter
+      drilldowns:
+        - profitcenter
+        - kostenarten
+        - auftrag
 
-      produkte:
-          name: Produkte
-          drilldowns:
-              - gb
-              - fachbereich
-              - im_hh
+    produkte:
+      name: Produkte
+      drilldowns:
+        - gb
+        - fachbereich
+        - im_hh
 ---

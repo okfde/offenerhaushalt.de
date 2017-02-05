@@ -20,14 +20,14 @@ budget:
       default: 'Aufwendung '
 
   hierarchies:
-      arten:
-          name: Kostenarten
-          drilldowns:
-              - kostenarten
+    arten:
+      name: Kostenarten
+      drilldowns:
+        - kostenarten
 
-      produkte:
-          name: Produkte
-          drilldowns:
-              - produktbereich
-              - produktgruppe
+    produkte:
+      name: Produkte
+      drilldowns:
+        - produktbereich
+        - produktgruppe
 ---

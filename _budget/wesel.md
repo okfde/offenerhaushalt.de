@@ -24,9 +24,9 @@ budget:
       default: 'Ausgabe'
 
   hierarchies:
-      profitcenter:
-          name: Profitcenter
-          drilldowns:
-              - profitcenter
-              - kostenart
+    profitcenter:
+      name: Profitcenter
+      drilldowns:
+        - profitcenter
+        - kostenart
 ---

@@ -5,27 +5,28 @@ tagline: "Haushaltspläne der Stadt Witten"
 level: kommune
 state: NW
 budget:
-    source: Stadt Witten
-    source_url: http://www.witten.de/
-    data_url: http://www.witten.de/fileadmin/user_upload/opendata/hhpl.csv
-    dataset: haushaltwitten
-    default: produkte
+  source: Stadt Witten
+  source_url: http://www.witten.de/
+  data_url: http://www.witten.de/fileadmin/user_upload/opendata/hhpl.csv
 
-    filters:
-      - field: 'year'
-        name: 'Jahr'
-        default: 2015
-      - field: 'kontenklasse'
-        name: 'Kontenklasse'
-        default: 5
+  dataset: haushaltwitten
+  default: produkte
 
-    hierarchies:
-        produkte:
-            name: Produkte
-            drilldowns:
-                - produktbereich
-                - produktgruppe
-                - produkt
-                - kontengruppe
-                - kontengart
+  filters:
+    - field: 'year'
+      name: 'Jahr'
+      default: 2015
+    - field: 'kontenklasse'
+      name: 'Kontenklasse'
+      default: 5
+
+  hierarchies:
+    produkte:
+      name: Produkte
+      drilldowns:
+        - produktbereich
+        - produktgruppe
+        - produkt
+        - kontengruppe
+        - kontengart
 ---

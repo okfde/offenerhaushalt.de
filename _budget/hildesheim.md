@@ -23,11 +23,11 @@ budget:
       default: 'Aufwand'
 
   hierarchies:
-      produkte:
-          name: Produkte
-          drilldowns:
-              - produktrahmen
-              - produktbereich
-              - produktgruppe
-              - produkt
+    produkte:
+      name: Produkte
+      drilldowns:
+        - produktrahmen
+        - produktbereich
+        - produktgruppe
+        - produkt
 ---
