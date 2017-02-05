@@ -1,4 +1,4 @@
-<script src="/static/js/dep.js"></script>
+<script src="{{ relative-baseurl }}static/js/dep.js"></script>
 <script id="sites-data" type="application/json">
   {
     "sites": [
@@ -10,7 +10,8 @@
         "tagline": "{{ haushalt.tagline }}"
       }
     {% endif %}{% endfor %}
-    ]
+    ],
+    "baseurl": "{{ relative-baseurl }}"
   }
 </script>
-<script src="/static/js/home.js"></script>
+<script src="{{ relative-baseurl }}static/js/home.js"></script>

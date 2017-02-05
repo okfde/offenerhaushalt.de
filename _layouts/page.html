@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include relative-baseurl.html %}
 
 <div class="col-xs-12 pages">
   <h1 class="page-header">{{ page.title }}</h1>
@@ -12,12 +13,12 @@ layout: default
       </div>
       <div class="col-xs-12 col-sm-4">
         <ul class="nav nav-list">
-          <li><a href="/page/intro.html">Einleitung</a></li>
-          <li><a href="/page/winterschlaf.html">Winterschlaf</a></li>
-          <li><a href="/page/faq.html">Häufige Fragen</a></li>
-          <!-- li><a href="/page/mitmachen.html">Mitmachen</a></li -->
-          <li><a href="/page/links.html">Links und Resourcen</a></li>
-          <li><a href="/page/kontakt.html">Kontakt und Impressum</a></li>
+          <li><a href="{{ relative-baseurl }}page/intro.html">Einleitung</a></li>
+          <li><a href="{{ relative-baseurl }}page/winterschlaf.html">Winterschlaf</a></li>
+          <li><a href="{{ relative-baseurl }}page/faq.html">Häufige Fragen</a></li>
+          <!-- li><a href="{{ relative-baseurl }}page/mitmachen.html">Mitmachen</a></li -->
+          <li><a href="{{ relative-baseurl }}page/links.html">Links und Resourcen</a></li>
+          <li><a href="{{ relative-baseurl }}page/kontakt.html">Kontakt und Impressum</a></li>
         </ul>
       </div>
   </div>

@@ -3,6 +3,7 @@ layout: default
 title: Haushalte von Bund, Ländern und Kommunen
 script_include: home
 ---
+{% include relative-baseurl.html %}
 
 <div class="row">
   <div class="col-xs-12">
@@ -14,7 +15,7 @@ script_include: home
         <div id="default-welcome">
           <p>
             Wir schaffen einen einfachen Zugang zu öffentlichen Haushalten, damit interessiere Bürger sich einen Überblick über die Finanzen in ihrer <a href="#kommunen">Stadt</a>,
-            ihrem <a href="#laender">Bundesland</a> oder der <a href="/haushalt/bund/">Bundesrepublik</a> machen können.
+            ihrem <a href="#laender">Bundesland</a> oder der <a href="{{ relative-baseurl }}haushalt/bund/">Bundesrepublik</a> machen können.
           </p>
         </div>
         <div id="listing"></div>
@@ -35,7 +36,7 @@ script_include: home
       erschlossen:</p>
     <ul>
       {{#each sites}}
-        <li><strong><a href="/haushalt/{{slug}}/">{{name}}</a></strong>: {{tagline}}</li>
+        <li><strong><a href="{{ relative-baseurl }}haushalt/{{slug}}/">{{name}}</a></strong>: {{tagline}}</li>
       {{/each}}
     </ul>
   {{/if}}
@@ -47,7 +48,7 @@ script_include: home
   {{/if}}
   <p>
     <strong>Ist ihre Kommune oder ihr Bundesland nicht verfügbar?</strong>
-    <a href="/page/mitmachen.html">Machen Sie mit</a>, und erschließen Sie
+    <a href="{{ relative-baseurl }}page/mitmachen.html">Machen Sie mit</a>, und erschließen Sie
     weitere Haushaltsdaten für OffenerHaushalt.
   </p>
 {% endraw %}</script>
@@ -66,7 +67,7 @@ script_include: home
     <div class="row">
     {% for haushalt in site.budget %}{% if haushalt.level == 'land' and haushalt.skip != true and haushalt.layout != "embed" %}
       <div class="col-xs-12 col-md-6">
-        <h3><a href="{{haushalt.url}}">{{haushalt.name}}</a></h3>
+        <h3><a href="{{ relative-baseurl }}haushalt/{{haushalt.slug}}/">{{haushalt.name}}</a></h3>
         <p>{{haushalt.tagline}}</p>
       </div>
     {% endif %}{% endfor %}
@@ -86,7 +87,7 @@ script_include: home
     <div class="row">
     {% for haushalt in site.budget %}{% if haushalt.level != 'land' and haushalt.level != 'bund' and haushalt.skip != true and haushalt.layout != "embed" %}
       <div class="col-xs-12 col-md-6">
-        <h3><a href="{{haushalt.url}}">{{haushalt.name}}</a></h3>
+        <h3><a href="{{ relative-baseurl }}haushalt/{{haushalt.slug}}/">{{haushalt.name}}</a></h3>
         <p>{{haushalt.tagline}}</p>
       </div>
     {% endif %}{% endfor %}

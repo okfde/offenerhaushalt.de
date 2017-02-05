@@ -16,7 +16,7 @@ $(function() {
     .attr("width", width)
     .attr("height", height);
 
-  d3.json("/static/img/deu.topo.json", showMap);
+  d3.json(sites.baseurl + "static/img/deu.topo.json", showMap);
 
   function showMap(error, de) {
     var subunits = topojson.feature(de, de.objects.deu);

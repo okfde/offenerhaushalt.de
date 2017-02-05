@@ -1,4 +1,4 @@
-<script src="/static/js/dep.js"></script>
+<script src="{{ relative-baseurl }}static/js/dep.js"></script>
 <script id="table-template" type="text/x-handlebars-template">{% raw %}
   <table class="table table-condensed">
     <tr>
@@ -71,4 +71,4 @@
 <br/><small><a href="{{url}}">OffenerHaushalt.de</a></small>{% endraw %}</script>
 
 <script id="site-config" type="application/json">{{ page.budget | jsonify }}</script>
-<script type="text/javascript" src="/static/js/budget.js"></script>
+<script type="text/javascript" src="{{ relative-baseurl }}static/js/budget.js"></script>

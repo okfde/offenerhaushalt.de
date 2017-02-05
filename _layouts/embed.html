@@ -2,6 +2,7 @@
 script_include: budget
 layout: basic
 ---
+{% include relative-baseurl.html %}
 
 <!-- {{page.name}} -->
 <div style="overflow:hidden">
@@ -21,7 +22,7 @@ layout: basic
   </div>
   <div class="row">
     <div class="col-md-12">
-      <a class="pull-right" href="/">OffenerHaushalt.de</a>
+      <a class="pull-right" href="{{ relative-baseurl }}">OffenerHaushalt.de</a>
     </div>
   </div>
 </div>
