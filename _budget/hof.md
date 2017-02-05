@@ -4,6 +4,9 @@ slug: hof
 tagline: "Haushalt der Stadt Hof"
 level: kommune
 state: BY
+coordinates:
+  lat: 50.3219015
+  lng: 11.9178807
 budget:
   source: David Krcek
   source_url: https://piratenpartei-bayern.de/2015/03/10/open-haushalt-bayern/

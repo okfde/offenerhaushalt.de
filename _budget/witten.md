@@ -4,6 +4,9 @@ slug: witten
 tagline: "Haushaltspläne der Stadt Witten"
 level: kommune
 state: NW
+coordinates:
+  lat: 51.4370171
+  lng: 7.335124
 budget:
   source: Stadt Witten
   source_url: http://www.witten.de/

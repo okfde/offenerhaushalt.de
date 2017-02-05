@@ -6,6 +6,7 @@ $(function() {
   $welcome = $('#default-welcome'),
   $listing = $('#listing'),
   listingTemplate = Handlebars.compile($('#listing-template').html());
+  cityTemplate = Handlebars.compile($('#city-template').html());
 
   var width = $map.width(),
       height = $map.height();
@@ -69,6 +70,26 @@ $(function() {
       .transition()
       .duration(400)
       .style('fill', '#555');
+
+    cities = $.grep(sites.sites, function(site){ return typeof site.coordinates !== "undefined"; });
+    svg.selectAll('circle')
+      .data(cities)
+      .enter()
+      .append('circle')
+      .attr("class", "city")
+      .attr("cx", function(site) {
+        return projection(site.coordinates)[0];
+      })
+      .attr("cy", function(site) {
+        return projection(site.coordinates)[1];
+      })
+      .attr("r", 4)
+      .on("mouseover", function(d) {
+        renderCity(d);
+      })
+      .on("click", function(d) {
+        location.href = d.url;
+      });
   }
 
   function renderListing(state) {
@@ -83,7 +104,22 @@ $(function() {
       'sites': stateSites,
       'has_sites': stateSites.length > 0,
       'no_sites': stateSites.length == 0,
-      'state': state
+      'state': state,
+      'relative-baseurl': sites.baseurl
+    }));
+    $listing.fadeIn(100);
+  }
+
+  function renderCity(city) {
+    if (city === null) {
+      $listing.hide();
+      $welcome.show();
+      return;
+    }
+    $welcome.hide();
+    $listing.html(cityTemplate({
+      'city': city,
+      'relative-baseurl': sites.baseurl
     }));
     $listing.fadeIn(100);
   }

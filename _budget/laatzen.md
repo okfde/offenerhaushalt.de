@@ -4,6 +4,9 @@ slug: laatzen
 tagline: "Haushaltsplan 2014/2015 der Stadt Laatzen bei Hannover."
 level: kommune
 state: NI
+coordinates:
+  lat: 52.3088889
+  lng: 9.8019002
 budget:
   source: Birgit Fehners
   source_url: http://www.laatzen.de/

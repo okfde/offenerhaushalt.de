@@ -7,7 +7,9 @@
         "name": "{{ haushalt.name }}",
         "state": "{{ haushalt.state }}",
         "slug": "{{ haushalt.slug }}",
-        "tagline": "{{ haushalt.tagline }}"
+        "url": "{{ relative-baseurl }}haushalt/{{haushalt.slug}}/",
+        "tagline": "{{ haushalt.tagline }}"{% if haushalt.coordinates %},
+        "coordinates": [{{haushalt.coordinates.lng}}, {{haushalt.coordinates.lat}}]{% endif %}
       }
     {% endif %}{% endfor %}
     ],

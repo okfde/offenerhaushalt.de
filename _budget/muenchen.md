@@ -5,6 +5,9 @@ tagline: "Ergebnishaushalt der Landeshauptstadt München 2015"
 level: kommune
 state: BY
 # skip: true
+coordinates:
+  lat: 48.1371079
+  lng: 11.5753822
 budget:
   source: Frank Börger
   # source_url: http://

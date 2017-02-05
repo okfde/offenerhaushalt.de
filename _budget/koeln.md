@@ -4,6 +4,9 @@ slug: koeln
 tagline: "Haushaltsplan 2013/2014 der Stadt Köln."
 level: kommune
 state: NW
+coordinates:
+  lat: 50.938361
+  lng: 6.959974
 budget:
   source: Stadt Köln
   source_url: http://www.stadt-koeln.de/politik-und-verwaltung/finanzen/os/#pg/2014/aufwand

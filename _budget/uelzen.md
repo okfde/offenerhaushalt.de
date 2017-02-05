@@ -4,6 +4,9 @@ slug: uelzen
 tagline: "Haushaltsplan 2013 der Stadt Uelzen in Niedersachsen."
 level: kommune
 state: NI
+coordinates:
+  lat: 52.9653701
+  lng: 10.5587693
 budget:
   source: "Titus Tschamtke, Rolf Tischler"
   data_url: "http://www.titusgames.de/Haushaltsdaten_2012_bis_2014.csv"

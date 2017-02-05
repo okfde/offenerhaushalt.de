@@ -4,6 +4,9 @@ slug: lueneburg
 tagline: "Haushaltsplan der Stadt Lüneburg."
 level: kommune
 state: NI
+coordinates:
+  lat: 53.248706
+  lng: 10.407855
 budget:
   source: Claas Heinrich
   source_url: https://openspending.org/account/cheinrich

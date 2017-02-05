@@ -4,6 +4,9 @@ slug: regensburg
 tagline: "Haushaltsplan 2015 der Stadt Regensburg."
 level: kommune
 state: BY
+coordinates:
+  lat: 49.0215974
+  lng: 12.1010870
 budget:
   source: David Krcek
   source_url: https://openspending.org/open_rgb/meta

@@ -4,6 +4,9 @@ slug: ulm
 tagline: "Inoffizielle Datenbasis zum Haushalt der Stadt Ulm"
 level: kommune
 state: BW
+coordinates:
+  lat: 48.4000363
+  lng: 9.9845997
 budget:
   source: Stefan T Kaufmann
   _source_url: http://www.laatzen.de/

@@ -4,6 +4,9 @@ slug: marktredwitz
 tagline: "Haushalt der Stadt Marktredwitz"
 level: kommune
 state: BY
+coordinates:
+  lat: 50.0009915
+  lng: 12.0856433
 budget:
   source: David Krcek
   source_url: https://piratenpartei-bayern.de/2015/03/10/open-haushalt-bayern/

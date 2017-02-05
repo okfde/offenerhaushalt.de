@@ -30,6 +30,9 @@ slug: bonn-planung
 tagline: "Haushaltsplanung 2017-2024 der Stadt Bonn."
 level: kommune
 state: NW
+coordinates:
+  lat: 50.7371862
+  lng: 7.0965505
 budget:
   source: OpenData Bonn
   source_url: http://opendata.bonn.de/

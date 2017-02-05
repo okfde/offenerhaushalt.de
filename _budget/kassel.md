@@ -4,6 +4,9 @@ slug: kassel
 tagline: "Haushaltsplan 2014-2016 der Stadt Kassel."
 level: kommune
 state: HE
+coordinates:
+  lat: 51.3090209
+  lng: 9.4762981
 budget:
   source: Volker Berkout
   data_url: http://db.offenerhaushalt.de/api/3/datasets/stadt-kassel---haushalt-2016/serve/haushalt-kassel-2016.ods

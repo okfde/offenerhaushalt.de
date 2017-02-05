@@ -4,6 +4,9 @@ slug: osnabrueck
 tagline: "Die Haushaltspläne der Jahre 2012 (Ist-Stand), 2013 (Plan) und 2014 (Verwaltungsentwurf)."
 level: kommune
 state: NI
+coordinates:
+  lat: 52.279562
+  lng: 8.0470611
 budget:
   source: Fachbereich Finanzen und Controlling der Stadt Osnabrück
   source_url: http://www.osnabrueck.de/

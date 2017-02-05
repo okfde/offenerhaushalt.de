@@ -4,6 +4,9 @@ slug: gauting
 tagline: "Haushalt der Gemeinde Gauting"
 level: kommune
 state: BY
+coordinates:
+  lat: 48.0676689
+  lng: 11.3796987
 budget:
   source: David Krcek
   source_url: https://openspending.org/open_gauting/meta

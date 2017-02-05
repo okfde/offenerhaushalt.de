@@ -5,6 +5,9 @@ tagline: "Haushaltsplan der Stadt Wesel."
 level: kommune
 skip: true
 state: NW
+coordinates:
+  lat: 51.6576909
+  lng: 6.617087
 budget:
   source: Markus Scholten
   data_url: https://www.offenesdatenportal.de/dataset/haushaltsplan-2015-stadt-wesel-aufwand-und-ertrag/

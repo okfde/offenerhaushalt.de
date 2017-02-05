@@ -4,6 +4,9 @@ slug: krefeld
 tagline: "Haushalt Krefeld 2015-2019."
 level: kommune
 state: NW
+coordinates:
+  lat: 51.3331205
+  lng: 6.5623343
 budget:
   source: Heinz-Georg van Moelken - Stadt Krefeld
   data_url: http://db.offenerhaushalt.de/api/3/datasets/krefeld20152019descriptors/serve/2016-11-18-krefeld-plan-mit-beschreibung-2016-11-18-krefeld-plan-mit-bes.csv

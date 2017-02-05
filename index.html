@@ -36,7 +36,7 @@ script_include: home
       erschlossen:</p>
     <ul>
       {{#each sites}}
-        <li><strong><a href="{{ relative-baseurl }}haushalt/{{slug}}/">{{name}}</a></strong>: {{tagline}}</li>
+        <li><strong><a href="{{url}}">{{name}}</a></strong>: {{tagline}}</li>
       {{/each}}
     </ul>
   {{/if}}
@@ -52,6 +52,17 @@ script_include: home
     weitere Haushaltsdaten für OffenerHaushalt.
   </p>
 {% endraw %}</script>
+
+<script id="city-template" type="text/x-handlebars-template">{% raw %}
+  <p><strong><a href="{{city.url}}">{{city.name}}</a></strong></p>
+  <p>{{city.tagline}}</p>
+  <p>
+    <strong>Ist ihre Kommune oder ihr Bundesland nicht verfügbar?</strong>
+    <a href="{{ relative-baseurl }}page/mitmachen.html">Machen Sie mit</a>, und erschließen Sie
+    weitere Haushaltsdaten für OffenerHaushalt.
+  </p>
+{% endraw %}</script>
+
 
 
 <hr>

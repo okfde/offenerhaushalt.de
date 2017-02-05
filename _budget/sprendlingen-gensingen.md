@@ -4,6 +4,9 @@ slug: sprendlingen-gensingen
 tagline: "Haushalt-2016-Sprendlingen-Gensingen"
 level: kommune
 state: RP
+coordinates:
+  lat: 49.87561055
+  lng: 8.005124899
 budget:
   source: Nico Heinz
   source_url: http://db.offenerhaushalt.de/api/3/datasets/sprendlingen-gensingen/serve/aufstellungoffenerhaushalt.csv

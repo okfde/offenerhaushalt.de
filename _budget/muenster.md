@@ -4,6 +4,9 @@ slug: muenster
 tagline: "Haushaltsplan 2009-2012 der Stadt Münster."
 level: kommune
 state: NW
+coordinates:
+  lat: 51.9501317
+  lng: 7.61330165
 budget:
   source: Code for Münster
   source_url: http://codeformuenster.org/

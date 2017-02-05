@@ -4,6 +4,9 @@ slug: kelkheim
 tagline: "Haushalt 2011-2016 der Stadt Kelkheim am Taunus"
 level: kommune
 state: HE
+coordinates:
+  lat: 50.1437702
+  lng: 8.4446073
 budget:
   source: Ines Albani
   source_url: http://db.offenerhaushalt.de/api/3/datasets/kelkheim-2011-bis-entwurf-2017/serve/kelkheimamtaunus2011bis2017.xlsx
