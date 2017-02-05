@@ -17,7 +17,7 @@ budget:
     - field: 'jahr'
       name: 'Jahr'
       default: 2015
-    - field: 'art.art'
+    - field: 'art'
       name: 'Art'
       default: 'Ordentliche Aufwendungen LHM'
 
@@ -25,6 +25,6 @@ budget:
     produkte:
       name: Produkte nach Referat
       drilldowns:
-        - referat.referat
-        - produkt.produkt
+        - referat
+        - produkt
 ---
