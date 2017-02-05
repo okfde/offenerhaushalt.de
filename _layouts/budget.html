@@ -11,7 +11,7 @@ layout: default
     <div class="btn-group btn-group-sm" id="hierarchy-menu">
       <a class="btn btn-default"><strong>Ansicht:</strong></a>
       {% for h in page.budget.hierarchies %}
-        <a class="btn btn-default {{h[0]}}" href="#{{name}}/">{{h[1].name}}</a>
+        <a class="btn btn-default {{h[0]}}" href="#{{h[0]}}/">{{h[1].name}}</a>
       {% endfor %}
     </div>
     <div class="btn-group btn-group-sm">
