@@ -7,8 +7,9 @@ layout: null
 
 $(function(){
   var site = JSON.parse($('#site-config').html()),
-      embedTemplate = Handlebars.compile($('#embed-template').html());
-      $embedCode = $('#embed-code')
+      siteName = $('#site-name').html(),
+      embedTemplate = Handlebars.compile($('#embed-template').html()),
+      $embedCode = $('#embed-code'),
       baseFilters = {},
       SLICER_URL = 'http://db.offenerhaushalt.de/api/babbage';
 

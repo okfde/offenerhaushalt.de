@@ -3,10 +3,10 @@ script_include: budget
 layout: default
 ---
 
-<h1 class="page-header site">{{page.name}}</h1>
+<h1 class="page-header site" id="site-name">{{page.name}}</h1>
 
 <div class="row">
-  <div class="col-sm-12 col-md-6 site-menu">
+  <div class="col-sm-12 col-md-7 site-menu">
     <a class="btn btn-default btn-sm" id="parent"><strong><i class="fa fa-level-up"></i> Ebene hoch</strong></a>
     <div class="btn-group btn-group-sm" id="hierarchy-menu">
       <a class="btn btn-default"><strong>Ansicht:</strong></a>
@@ -20,7 +20,7 @@ layout: default
       </a>
     </div>
   </div>
-  <div class="col-sm-12 col-md-6 site-menu site-filters">
+  <div class="col-sm-12 col-md-5 site-menu site-filters">
     <div class="btn-group btn-group-sm pull-right">
       <a class="btn btn-default"><strong>Filter:</strong></a>
         {% for filter in page.budget.filters %}
