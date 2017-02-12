@@ -13,7 +13,7 @@ $(function(){
       $embedCode = $('#embed-code'),
       baseFilters = {},
       $filterValues = [],
-      SLICER_URL = 'http://db.offenerhaushalt.de/api/babbage';
+      SLICER_URL = 'https://db.offenerhaushalt.de/api/babbage';
 
   site.api = SLICER_URL + '/cubes/' + site.dataset;
   site.keyrefs = [];
