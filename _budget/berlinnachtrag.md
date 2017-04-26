@@ -4,7 +4,7 @@ layout: budget_os
 skip: true
 
 name: Land Berlin [OS]
-slug: berlin
+slug: berlinnachtrag
 tagline: "Landeshaushalt für Berlin, verabschiedet durch den Senat der Stadt Berlin."
 level: land
 state: BE
