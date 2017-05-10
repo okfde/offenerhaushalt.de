@@ -7,7 +7,7 @@ name: Bundeshaushalt [OS]
 slug: bund17
 tagline: "Bundeshaushalt für 2017."
 level: land
-state: DE
+state: BE
 budget:
   source: Bundeshaushalt Info
   source_url: https://www.bundeshaushalt-info.de/download.html
