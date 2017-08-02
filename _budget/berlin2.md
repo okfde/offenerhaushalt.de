@@ -13,5 +13,7 @@ budget:
   source_url: http://daten.berlin.de
 
   os_package_id: a6a16b964a7e784f99adecc47f26318a
-  os_key: berlin20162017doppelhaushalt
+  os_key: berlin_16_17_clean
 ---
+
+
