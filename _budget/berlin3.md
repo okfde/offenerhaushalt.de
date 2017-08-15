@@ -1,7 +1,5 @@
 ---
-version: 2
 layout: budget2
-skip: true
 
 name: Land Berlin [OS]
 slug: berlin3
