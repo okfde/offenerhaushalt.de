@@ -99,6 +99,7 @@ $(function(){
       table =  new OSDE.Table('#table');
 
   function getData(drilldown, cut) {
+    console.log(site);
     var cutStr = $.map(cut, function(v, k) { if((v+'').length) { return site.keyrefs[k] + ':' + v; }});
     var drilldowns = [site.keyrefs[drilldown]]
     if (site.keyrefs[drilldown] != site.labelrefs[drilldown]) {
