@@ -1,6 +1,5 @@
 ---
 layout: budget2
-
 name: Land Berlin [OS]
 slug: berlin3
 url: /haushalt/berlin3
