@@ -12,15 +12,18 @@ budget:
   dataset: berlin_de
   default: einzelplan
 
+  os_package_id: a6a16b964a7e784f99adecc47f26318a
+  os_key: berlin_16_17_clean
+
   filters:
-    - field: 'year'
+    - field: 'date_2'
       name: 'Jahr'
-      default: 2013
-    - field: 'typ'
+      default: 2017
+    - field: 'fin_source_Typ'
       name: 'Typ'
       default: ''
       nullable: true
-    - field: 'titelart'
+    - field: 'direction_2'
       name: 'Art'
       default: 'Ausgabetitel'
 
@@ -28,14 +31,13 @@ budget:
     einzelplan:
       name: Einzelpläne
       drilldowns:
-        - einzelplan
-        - to
-        - titel
+        - administrative_classification_2.Einzelplan
+        - administrative_classification_2.Einzelplanbezeichnung
 
     funktion:
       name: Funktionen
       drilldowns:
-        - hauptfunktion
-        - oberfunktion
-        - funktion
+        - Hauptfunktion
+        - Oberfunktion
+        - Funktion
 ---

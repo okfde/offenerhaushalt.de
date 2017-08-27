@@ -11,7 +11,7 @@ OSDE.parseArgs = function(args) {
   var queryString = {};
   args.split("&").forEach(function (pair) {
       if (pair === "") return;
-      var parts = pair.split("=");
+      var parts = pair.split(":");
       queryString[parts[0]] = parts[1] &&
           decodeURIComponent(parts[1].replace(/\+/g, " "));
   });
@@ -21,7 +21,7 @@ OSDE.parseArgs = function(args) {
 OSDE.mergeArgs = function(args) {
   var queryString = '';
   var query = $.map(args, function(v, k) {
-    return encodeURIComponent(k) + '=' + encodeURIComponent(v);
+    return encodeURIComponent(k) + ':' + encodeURIComponent(v);
   });
   return query.join('&');
 };

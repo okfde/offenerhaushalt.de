@@ -7,57 +7,7 @@ layout: default
 
 <h1 class="page-header site" id="site-name">{{page.name}}</h1>
 
-<div class="row">
-  <!-- <div class="col-sm-12 col-md-7 site-menu">
-    <a class="btn btn-default btn-sm" id="parent"><strong><i class="fa fa-level-up"></i> Ebene hoch</strong></a>
-    <div class="btn-group btn-group-sm" id="hierarchy-menu">
-      <a class="btn btn-default"><strong>Ansicht:</strong></a>
-      {% for h in page.budget.hierarchies %}
-        <a class="btn btn-default {{h[0]}}" href="#{{h[0]}}/">{{h[1].name}}</a>
-      {% endfor %}
-    </div>
-    <div class="btn-group btn-group-sm">
-      <a class="btn btn-default" id="infobox-toggle">
-        <i class="fa fa-info-circle"></i> Daten &amp; Embed
-      </a>
-    </div>
-  </div>
-  <div class="col-sm-12 col-md-5 site-menu site-filters">
-    <div class="btn-group btn-group-sm pull-right" id="filters">
-      <a class="btn btn-default"><strong>Filter:</strong></a>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-  <div class="col-md-12">
-    <div id="infobox">
-      <div class="row">
-        <div class="col-md-6">
-          <p>
-            <strong>Beschreibung:</strong> {{page.tagline}}
-          </p>
-          <p class="sources">
-            Quelle: <strong><a href="{{page.source_url}}">{{page.budget.source}}</a></strong>
-            {% if page.budget.data_url %}
-              (<a href="{{page.budget.data_url}}">Rohdaten</a>)
-            {% endif %}
-          </p>
-        </div>
-        <div class="col-md-6">
-          <p>
-            <strong>Visualisierung und Tabelle einbetten:</strong> Nutzen Sie diesen Embed-Code, um die Grafik in ein eigenes Blog oder auf einer Webseite einzubinden:
-          </p>
-          <code id="embed-code"></code>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="clearfix"></div>
-  <div class="col-md-12">
-    <div id="treemap"></div>
-  </div>
-</div> -->
-
   <div class="row">
-      <dp-treemap datapackage="{{ page.datapackage }}" apiurl="https://openspending.org/api/3/cubes/"/>
+    <div id="treemap-budget"></div>
   </div>
 </div>
