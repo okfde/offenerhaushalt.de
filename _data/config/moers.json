@@ -28,9 +28,9 @@
       "description": ""
     },
     {
-      "label": "Pro Kopf",
+      "label": "Pro Person",
       "number": "104529",
-      "description": "Bevölkerung"
+      "description": " p.P."
     }
   ],
   "filters": {
@@ -83,6 +83,30 @@
         {
           "value": "Erträge",
           "label": "Erträge"
+        }
+      ]
+    },
+    "Betrag Art": {
+      "name": "value_kind_2.Betrag_Art",
+      "label_ref": "value_kind_2.Betrag_Art",
+      "ref": "value_kind_2",
+      "type": "string",
+      "default": true,
+      "defaultValue": "",
+      "defaultLabel": "All",
+      "label": "Betrag Art",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": "Ist",
+          "label": "Ist"
+        },
+        {
+          "value": "Plan",
+          "label": "Plan"
         }
       ]
     }
