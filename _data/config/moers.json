@@ -1,0 +1,90 @@
+{
+  "hierarchies": [
+    {
+      "datapackageHierarchy": "administrative_classification",
+      "url": "administrative_classification",
+      "label": "Administrative Classification"
+    }
+  ],
+  "value": [
+    {
+      "field": "Betrag.sum",
+      "formatOptions": {
+        "symbol": "",
+        "decimal": ",",
+        "thousand": ".",
+        "precision": "",
+        "format": "%s%v",
+        "postfix": "€",
+        "grouping": 3
+      },
+      "label": "Betrag"
+    }
+  ],
+  "scale": [
+    {
+      "label": "Total",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "label": "Pro Kopf",
+      "number": "104529",
+      "description": "Bevölkerung"
+    }
+  ],
+  "filters": {
+    "Jahr": {
+      "name": "date_2.Jahr",
+      "label_ref": "date_2.Jahr",
+      "ref": "date_2",
+      "type": "integer",
+      "default": true,
+      "defaultValue": "",
+      "defaultLabel": "All",
+      "label": "Jahr",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": 2015,
+          "label": 2015
+        },
+        {
+          "value": 2016,
+          "label": 2016
+        },
+        {
+          "value": 2017,
+          "label": 2017
+        }
+      ]
+    },
+    "HH Art": {
+      "name": "direction_2.HH_Art",
+      "label_ref": "direction_2.HH_Art",
+      "ref": "direction_2",
+      "type": "string",
+      "default": true,
+      "defaultValue": "",
+      "defaultLabel": "All",
+      "label": "HH Art",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": "Aufwendungen",
+          "label": "Aufwendungen"
+        },
+        {
+          "value": "Erträge",
+          "label": "Erträge"
+        }
+      ]
+    }
+  }
+}
