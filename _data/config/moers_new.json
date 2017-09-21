@@ -29,41 +29,12 @@
       "description": ""
     },
     {
-      "label": "Pro Person",
+      "label": "pro Person",
       "number": "104529",
       "description": "p. P."
-    },
-    {
-      "label": "",
-      "number": 1,
-      "description": ""
     }
   ],
   "filters": {
-    "HH Art": {
-      "name": "direction_2.HH_Art",
-      "label_ref": "direction_2.HH_Art",
-      "ref": "direction_2",
-      "type": "string",
-      "default": true,
-      "defaultValue": "",
-      "defaultLabel": "All",
-      "label": "HH Art",
-      "values": [
-        {
-          "value": "",
-          "label": "All"
-        },
-        {
-          "value": "Aufwendungen",
-          "label": "Aufwendungen"
-        },
-        {
-          "value": "Erträge",
-          "label": "Erträge"
-        }
-      ]
-    },
     "Betrag_Typ": {
       "name": "value_kind_2.Betrag_Typ",
       "label_ref": "value_kind_2.Betrag_Typ",
@@ -85,6 +56,30 @@
         {
           "value": "Plan",
           "label": "Plan"
+        }
+      ]
+    },
+    "HH Art": {
+      "name": "direction_2.HH_Art",
+      "label_ref": "direction_2.HH_Art",
+      "ref": "direction_2",
+      "type": "string",
+      "default": true,
+      "defaultValue": "",
+      "defaultLabel": "All",
+      "label": "HH Art",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": "Aufwendungen",
+          "label": "Aufwendungen"
+        },
+        {
+          "value": "Erträge",
+          "label": "Erträge"
         }
       ]
     },
