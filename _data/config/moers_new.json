@@ -1,5 +1,5 @@
 {
-  "datapackage": "a6a16b964a7e784f99adecc47f26318a:new-moers-data",
+  "datapackage": "a6a16b964a7e784f99adecc47f26318a:moers-no-negative",
   "hierarchies": [
     {
       "datapackageHierarchy": "administrative_classification",
