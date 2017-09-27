@@ -10,49 +10,62 @@
       "datapackageHierarchy": "administrative_classification",
       "url": "administrative_classification",
       "label": "Administrative Classification"
+    },
+    {
+      "datapackageHierarchy": "economic_classification",
+      "url": "economic_classification",
+      "label": "Economic Classification"
     }
   ],
   "value": [
     {
       "field": "Betrag.sum",
       "formatOptions": {
-        "symbol": "$",
-        "decimal": ".",
-        "thousand": ",",
-        "precision": 2,
-        "format": "%s %v",
+        "symbol": "",
+        "decimal": ",",
+        "thousand": ".",
+        "precision": "0",
+        "format": "%s%v",
+        "postfix": " €",
         "grouping": 3
       },
       "label": "Betrag"
     }
   ],
-  "scale": [],
+  "scale": [
+    {
+      "label": "Total",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "label": "pro Person",
+      "number": "3520031",
+      "description": "p. P."
+    }
+  ],
   "filters": {
-    "Typ": {
-      "name": "fin_source_Typ.Typ",
-      "label_ref": "fin_source_Typ.Bezeichnung",
-      "ref": "fin_source_Typ",
+    "Titelart": {
+      "name": "direction_2.Titelart",
+      "label_ref": "direction_2.Titelart",
+      "ref": "direction_2",
       "type": "string",
       "default": true,
-      "defaultValue": "",
+      "defaultValue": "Ausgabetitel",
       "defaultLabel": "All",
-      "label": "Bezeichnung",
+      "label": "Titelart",
       "values": [
         {
           "value": "",
           "label": "All"
         },
         {
-          "value": "1",
-          "label": "Senatsverwaltungen"
+          "value": "Ausgabetitel",
+          "label": "Ausgabetitel"
         },
         {
-          "value": "2",
-          "label": "Verfassungsorgane"
-        },
-        {
-          "value": "3",
-          "label": "Bezirke"
+          "value": "Einnahmetitel",
+          "label": "Einnahmetitel"
         }
       ]
     },
@@ -62,7 +75,7 @@
       "ref": "date_2",
       "type": "integer",
       "default": true,
-      "defaultValue": 2017,
+      "defaultValue": 2016,
       "defaultLabel": "All",
       "label": "Jahr",
       "values": [
