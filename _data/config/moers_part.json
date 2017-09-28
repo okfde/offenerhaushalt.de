@@ -41,7 +41,7 @@
       "ref": "value_kind_2",
       "type": "string",
       "default": true,
-      "defaultValue": "Ist",
+      "defaultValue": "Plan",
       "defaultLabel": "All",
       "label": "Betrag_Typ",
       "values": [
