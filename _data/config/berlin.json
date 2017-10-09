@@ -3,17 +3,17 @@
   "hierarchies": [
     {
       "datapackageHierarchy": "functional_classification",
-      "url": "functional_classification",
+      "url": "politikfelder",
       "label": "Politikfelder"
     },
     {
       "datapackageHierarchy": "administrative_classification",
-      "url": "administrative_classification",
+      "url": "einzelplan",
       "label": "Einzelplan"
     },
     {
       "datapackageHierarchy": "economic_classification",
-      "url": "economic_classification",
+      "url": "gruppen",
       "label": "Gruppen"
     }
   ],
@@ -26,7 +26,7 @@
         "thousand": ".",
         "precision": "0",
         "format": "%s%v",
-        "postfix": " €",
+        "postfix": "€",
         "grouping": 3
       },
       "label": "Betrag"
@@ -45,27 +45,71 @@
     }
   ],
   "filters": {
-    "Titelart": {
-      "name": "direction_2.Titelart",
-      "label_ref": "direction_2.Titelart",
-      "ref": "direction_2",
+    "Bereich": {
+      "name": "fin_source_Bereich.Bereich",
+      "label_ref": "fin_source_Bereich.Bereichsbezeichnung",
+      "ref": "fin_source_Bereich",
       "type": "string",
       "default": true,
-      "defaultValue": "Ausgabetitel",
+      "defaultValue": "",
       "defaultLabel": "All",
-      "label": "Titelart",
+      "label": "Bereichsbezeichnung",
       "values": [
         {
           "value": "",
           "label": "All"
         },
         {
-          "value": "Ausgabetitel",
-          "label": "Ausgabetitel"
+          "value": "30",
+          "label": "Hauptverwaltung"
         },
         {
-          "value": "Einnahmetitel",
-          "label": "Einnahmetitel"
+          "value": "31",
+          "label": "Mitte"
+        },
+        {
+          "value": "32",
+          "label": "Friedrichshain-Kreuzberg"
+        },
+        {
+          "value": "33",
+          "label": "Pankow"
+        },
+        {
+          "value": "34",
+          "label": "Charlottenburg-Wilmersdorf"
+        },
+        {
+          "value": "35",
+          "label": "Spandau"
+        },
+        {
+          "value": "36",
+          "label": "Steglitz-Zehlendorf"
+        },
+        {
+          "value": "37",
+          "label": "Tempelhof-Schöneberg"
+        },
+        {
+          "value": "38",
+          "label": "Neukölln"
+        },
+        {
+          "value": "39",
+          "label": "Treptow-Köpenick"
+        },
+        {
+          "value": "40",
+          "label": "Marzahn-Hellersdorf"
+        },
+        {
+          "value": "41",
+          "label": "Lichtenberg"
+        },
+        {
+          "value": "42",
+          "label": "Reinickendorf"
         }
       ]
     },
@@ -75,7 +119,7 @@
       "ref": "date_2",
       "type": "integer",
       "default": true,
-      "defaultValue": 2016,
+      "defaultValue": 2017,
       "defaultLabel": "All",
       "label": "Jahr",
       "values": [
