@@ -4,17 +4,17 @@
     {
       "datapackageHierarchy": "functional_classification",
       "url": "functional_classification",
-      "label": "Functional Classification"
+      "label": "Politikfelder"
     },
     {
       "datapackageHierarchy": "administrative_classification",
       "url": "administrative_classification",
-      "label": "Administrative Classification"
+      "label": "Einzelplan"
     },
     {
       "datapackageHierarchy": "economic_classification",
       "url": "economic_classification",
-      "label": "Economic Classification"
+      "label": "Gruppen"
     }
   ],
   "value": [
