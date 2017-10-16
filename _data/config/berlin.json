@@ -2,14 +2,14 @@
   "datapackage": "a6a16b964a7e784f99adecc47f26318a:berlin_16_17_clean",
   "hierarchies": [
     {
-      "datapackageHierarchy": "functional_classification",
-      "url": "politikfelder",
-      "label": "Politikfelder"
-    },
-    {
       "datapackageHierarchy": "administrative_classification",
       "url": "einzelplan",
       "label": "Einzelplan"
+    },
+    {
+      "datapackageHierarchy": "functional_classification",
+      "url": "politikfelder",
+      "label": "Politikfelder"
     },
     {
       "datapackageHierarchy": "economic_classification",
@@ -26,7 +26,7 @@
         "thousand": ".",
         "precision": "0",
         "format": "%s%v",
-        "postfix": "€",
+        "postfix": " €",
         "grouping": 3
       },
       "label": "Betrag"
@@ -39,7 +39,7 @@
       "description": ""
     },
     {
-      "label": "pro Person",
+      "label": "pro Einwohner",
       "number": "3520031",
       "description": "p. P."
     }
@@ -53,7 +53,7 @@
       "default": true,
       "defaultValue": "",
       "defaultLabel": "All",
-      "label": "Bereichsbezeichnung",
+      "label": "Bezirke",
       "values": [
         {
           "value": "",
@@ -110,6 +110,30 @@
         {
           "value": "42",
           "label": "Reinickendorf"
+        }
+      ]
+    },
+    "Titelart": {
+      "name": "direction_2.Titelart",
+      "label_ref": "direction_2.Titelart",
+      "ref": "direction_2",
+      "type": "string",
+      "default": true,
+      "defaultValue": "Ausgabetitel",
+      "defaultLabel": "All",
+      "label": "Budget Richtung",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": "Ausgabetitel",
+          "label": "Ausgabetitel"
+        },
+        {
+          "value": "Einnahmetitel",
+          "label": "Einnahmetitel"
         }
       ]
     },
