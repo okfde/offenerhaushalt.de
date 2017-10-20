@@ -3,8 +3,13 @@
   "hierarchies": [
     {
       "datapackageHierarchy": "administrative_classification",
-      "url": "administrative_klassifizierung",
-      "label": "Administrative Klassifizierung"
+      "url": "einzelplan",
+      "label": "Einzelplan"
+    },
+    {
+      "datapackageHierarchy": "economic_classification",
+      "url": "institutionen",
+      "label": "Institutionen"
     }
   ],
   "value": [
@@ -16,7 +21,7 @@
         "thousand": ".",
         "precision": "0",
         "format": "%s%v",
-        "postfix": "€",
+        "postfix": " €",
         "grouping": 3
       },
       "label": "Betrag"
@@ -43,7 +48,7 @@
       "default": true,
       "defaultValue": "Plan",
       "defaultLabel": "All",
-      "label": "Betrag",
+      "label": "Betrag_Typ",
       "values": [
         {
           "value": "",
@@ -65,21 +70,21 @@
       "ref": "direction_2",
       "type": "string",
       "default": true,
-      "defaultValue": "Aufwendungen",
+      "defaultValue": "Ausgaben",
       "defaultLabel": "All",
-      "label": "Budget Richtung",
+      "label": "HH Art",
       "values": [
         {
           "value": "",
           "label": "All"
         },
         {
-          "value": "Aufwendungen",
-          "label": "Aufwendungen"
+          "value": "Ausgaben",
+          "label": "Ausgaben"
         },
         {
-          "value": "Erträge",
-          "label": "Erträge"
+          "value": "Einnahmen",
+          "label": "Einnahmen"
         }
       ]
     },
