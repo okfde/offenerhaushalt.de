@@ -1,0 +1,125 @@
+{
+  "datapackage": "b847ea2743b1084c724a5cd449e1adbc:nrw-test",
+  "hierarchies": [
+    {
+      "datapackageHierarchy": "administrative_classification",
+      "url": "einzelplan",
+      "label": "Einzelplan"
+    },
+    {
+      "datapackageHierarchy": "functional_classification",
+      "url": "funktion",
+      "label": "Funktion"
+    },
+    {
+      "datapackageHierarchy": "economic_classification",
+      "url": "gruppe",
+      "label": "Gruppe"
+    }
+  ],
+  "value": [
+    {
+      "field": "value.sum",
+      "formatOptions": {
+        "symbol": "",
+        "decimal": ",",
+        "thousand": ".",
+        "precision": "0",
+        "format": "%s%v",
+        "postfix": " €",
+        "grouping": 3
+      },
+      "label": "Betrag"
+    }
+  ],
+  "scale": [
+    {
+      "label": "Total",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "label": "pro Einwohner",
+      "number": "17865516",
+      "description": "p. E."
+    }
+  ],
+  "filters": {
+    "Einnahme": {
+      "name": "direction_2.Einnahme",
+      "label_ref": "direction_2.Einnahme",
+      "ref": "direction_2",
+      "type": "string",
+      "default": true,
+      "defaultValue": "True",
+      "defaultLabel": "All",
+      "label": "Einnahme",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": "False",
+          "label": "False"
+        },
+        {
+          "value": "True",
+          "label": "True"
+        }
+      ]
+    },
+    "plan": {
+      "name": "value_kind_2.plan",
+      "label_ref": "value_kind_2.plan",
+      "ref": "value_kind_2",
+      "type": "string",
+      "default": true,
+      "defaultValue": "",
+      "defaultLabel": "All",
+      "label": "Plan",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": "False",
+          "label": "False"
+        },
+        {
+          "value": "True",
+          "label": "True"
+        }
+      ]
+    },
+    "year": {
+      "name": "date_2.year",
+      "label_ref": "date_2.year",
+      "ref": "date_2",
+      "type": "integer",
+      "default": true,
+      "defaultValue": 2017,
+      "defaultLabel": "All",
+      "label": "Jahr",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": 2015,
+          "label": 2015
+        },
+        {
+          "value": 2016,
+          "label": 2016
+        },
+        {
+          "value": 2017,
+          "label": 2017
+        }
+      ]
+    }
+  }
+}
