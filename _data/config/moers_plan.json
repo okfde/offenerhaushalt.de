@@ -8,8 +8,8 @@
     },
     {
       "datapackageHierarchy": "economic_classification",
-      "url": "institutionen",
-      "label": "Institutionen"
+      "url": "institution",
+      "label": "Institution"
     }
   ],
   "value": [
