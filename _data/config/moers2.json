@@ -8,8 +8,8 @@
     },
     {
       "datapackageHierarchy": "economic_classification",
-      "url": "institutionen",
-      "label": "Institutionen"
+      "url": "institution",
+      "label": "Institution"
     }
   ],
   "value": [
@@ -48,7 +48,7 @@
       "default": true,
       "defaultValue": "Plan",
       "defaultLabel": "All",
-      "label": "Betrag_Typ",
+      "label": "Betrag Typ",
       "values": [
         {
           "value": "",
@@ -72,7 +72,7 @@
       "default": true,
       "defaultValue": "Ausgaben",
       "defaultLabel": "All",
-      "label": "HH Art",
+      "label": "Richtung",
       "values": [
         {
           "value": "",
