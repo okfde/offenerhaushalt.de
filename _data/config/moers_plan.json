@@ -19,7 +19,7 @@
         "symbol": "",
         "decimal": ",",
         "thousand": ".",
-        "precision": "0",
+        "precision": "",
         "format": "%s%v",
         "postfix": " €",
         "grouping": 3
@@ -34,9 +34,9 @@
       "description": ""
     },
     {
-      "label": "Pro Einwohner",
+      "label": "p. P.",
       "number": "104529",
-      "description": "p. P. "
+      "description": "pro Einwohner"
     }
   ],
   "filters": {
