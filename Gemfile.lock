@@ -19,6 +19,8 @@ GEM
     faraday (0.12.2)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.18)
+    font-awesome-sass (4.7.0)
+      sass (>= 3.2)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
     github-pages (146)
@@ -197,6 +199,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  font-awesome-sass
   github-pages
   kramdown
 
@@ -204,4 +207,4 @@ RUBY VERSION
    ruby 2.3.3p222
 
 BUNDLED WITH
-   1.13.6
+   1.15.1

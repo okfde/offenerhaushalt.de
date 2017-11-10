@@ -1,3 +1,17 @@
+<div class="navbar-top collapse navbar-collapse navbar-ex1-collapse">
+  <div class="top-message">
+    Wir sind unabhängig, nicht gewinnorientiert und arbeiten viel ehrenamtlich.
+  </div>
+  <ul class="nav navbar-nav">
+    <li>
+      <a href="{{ relative-baseurl }}haushalt/bund">Über Finazdaten</a>
+    </li>
+    <li class="spendet">
+      <a href="{{ relative-baseurl }}page/intro.html">Spendet Uns!</a>
+    </li>
+  </ul>
+</div>
+
 <nav class="navbar navbar-default" role="navigation" id="menu">
   <div class="container relbox">
     <div class="navbar-header">
@@ -7,25 +21,15 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="{{ relative-baseurl }}">OffenerHaushalt</a>
+      <img src="/static/img/ohh-logo.svg" class="main-logo">
+      <a class="navbar-brand" href="{{ relative-baseurl }}/"><img src="/static/img/offener-haushalt.png" alt="Offener Haushalt"/></a>
     </div>
-
-    <div class="collapse navbar-collapse navbar-ex1-collapse">
-      <ul class="nav navbar-nav">
-        <li>
-          <a href="{{ relative-baseurl }}haushalt/bund">Bund</a>
-        </li>
-        <li>
-          <a href="{{ relative-baseurl }}#laender">Länder</a>
-        </li>
-        <li>
-          <a href="{{ relative-baseurl }}#kommunen">Kommunen</a>
-        </li>
-        <li>
-          <a href="{{ relative-baseurl }}page/intro.html">Über uns</a>
-        </li>
-      </ul>
-      <div class="donations"><a href="https://okfn.de/spenden/"><img src="{{ relative-baseurl }}static/img/buddha.png" title="Jetzt spenden!"></a></div>
-    </div>
-  </div>
+ </div>
+    <ul class="navbar right-nav">
+      <li>Datensatz finden</li>
+      <li><a href="/hinzufuegen">Datensatz hinzufügen</a></li>
+      <li>Hilfestellung</li>
+    </ul>
 </nav>
+
+

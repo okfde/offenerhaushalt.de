@@ -5,26 +5,41 @@ script_include: home
 ---
 {% include relative-baseurl.html %}
 
-<div class="row">
-  <div class="col-xs-12">
-    <div class="row welcome">
-      <div class="col-xs-12 col-md-7">
-        <p class="claim">
-          OffenerHaushalt stellt die Ausgaben und Einnahmen von Bund, Ländern und Kommunen übersichtlich dar.
-        </p>
-        <div id="default-welcome">
-          <p>
-            Wir schaffen einen einfachen Zugang zu öffentlichen Haushalten, damit interessiere Bürger sich einen Überblick über die Finanzen in ihrer <a href="#kommunen">Stadt</a>,
-            ihrem <a href="#laender">Bundesland</a> oder der <a href="{{ relative-baseurl }}haushalt/bund/">Bundesrepublik</a> machen können.
-          </p>
+<div class="main-content">
+    <div class="container message-container">
+      <div class="row welcome">
+        <div class="col-xs-12 col-md-12">
+          <div class="front-message">
+            OffenerHaushalt stellt die Ausgaben und Einnahmen von Bund, Ländern und Kommunen übersichtlich dar.
+            <img src="/static/img/treemap-preview.png">
+          </div>
         </div>
-        <div id="listing"></div>
-      </div>
-      <div class="col-xs-12 col-md-5">
-        <div id="map"></div>
       </div>
     </div>
-  </div>
+    <div class="container gray">
+      <div class="row map">
+        <div class="col-xs-12 col-md-7">
+          <p class="claim">
+            Stöbern Sie in
+            den Datensätzen
+          </p>
+          <div id="default-welcome">
+            <p>
+            <b>Wählen Sie aus:</b>
+            <p>
+            <select class="select-state">
+              <option>Thüringen</option>
+            </select>
+            </p>
+          </div>
+          <div id="listing"></div>
+        </div>
+        <div class="col-xs-12 col-md-5">
+          <div id="map"></div>
+        </div>
+      </div>
+    </div>
+    </div>
 </div>
 <div class="clearfix"></div>
 
@@ -64,7 +79,7 @@ script_include: home
 {% endraw %}</script>
 
 
-
+<!--
 <hr>
 <div class="row dataset-listing">
   <div class="col-xs-12 col-md-4">
@@ -105,3 +120,4 @@ script_include: home
     </div>
   </div>
 </div>
+-->

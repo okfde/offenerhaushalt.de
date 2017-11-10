@@ -3,10 +3,11 @@
 ---
 @charset "utf-8";
 
+@import 'overpass.scss';
 @import 'font.scss';
 @import 'bootstrap.scss';
 
-$bgColor: lighten(#dee0e2, 0%);
+$bgColor: #112339;
 $linkColor: #265475;
 $brandColor: #42928F;
 
@@ -19,7 +20,7 @@ html {
 body {
   font-family: 'Open Sans', 'Helvetica', sans-serif;
   font-weight: 400;
-  background-color: #fcfcfc;
+  background-color: #fff;
   color: #333;
   font-size: 16px;
 }
@@ -63,6 +64,34 @@ hr {
   border-bottom: 0;
 }
 
+.message-container {
+  background-color: #d5f0fc;
+}
+
+.welcome {
+  margin-left: 127px;
+  margin-bottom: 38px;
+  .front-message {
+    padding-top: 68px;
+    padding-bottom: 94px;
+    font-family: Roboto;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: left;
+    color: #000000;
+    width: 617px;
+    img {
+       position: absolute;
+       bottom: 0;
+       right: 0;
+    }
+  }
+}
+
+.map {
+  background-color: #f5f7fa;
+}
+
 .winterschlaf {
   background-color: #AD0A0A;
   color: white;
@@ -77,16 +106,75 @@ hr {
   }
 }
 
+.container {
+  min-width: 100%;
+}
+
 /* Header */
+
+.navbar-top {
+  position: absolute;
+  top: 0;
+  right: 76px;
+  font-family: Roboto;
+
+  .top-message {
+    padding-top: 6px;
+    float: left;
+    height: 20px;
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: italic;
+    line-height: 1.54;
+    text-align: left;
+    color: #87989a;
+    padding-right: 17px;
+  }
+
+ 
+
+  & > .nav.navbar-nav {
+    height: 28px;
+
+    & > li {
+      margin-right: 7px;
+      & > a {
+        background-color: #f1f3f4;
+        padding: 4px 10px;
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 1.33;
+        text-align: left;
+        color: #4b5f73;
+        display: inline;
+      }
+      &.spendet {
+        & > a {
+          background-color:#ff0035;
+          color: white;
+        }
+      }
+
+
+    }
+
+  }
+
+}
 
 #menu {
   background-color: #fff;
   background-image: none;
+  margin-top: 44px;
+  margin-bottom: 0;
   border: 0;
   min-height: 36px;
   padding-top: 5px;
+  padding-bottom: 28px;
   border-bottom: 1px solid #eee;
   box-shadow: none;
+  padding-left: 26px;
   -webkit-box-shadow: none;
 
   .navbar-brand, li > a {
@@ -96,17 +184,15 @@ hr {
   }
 
   .navbar-brand {
-    text-transform: uppercase;
-    margin-right: 3em;
-    padding-left: 0;
-    font-weight: 600;
-    color: $brandColor;
-  }
-
-  li > a {
-    text-transform: uppercase;
-    font-weight: 600;
-    color: #777;
+    height: 100%;
+    margin-left: 20px;
+    font-family: overpass;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 0.92;
+    letter-spacing: 0.3px;
+    text-align: left;
+    color: #112233;
   }
 
   .relbox {
@@ -124,12 +210,12 @@ hr {
 /* Footer */
 
 footer {
-  margin: 2em 0 0 0;
   /*border-top: 1px solid #e0e0e0;*/
   border-top: 1px solid #ccc;
-  padding: 1.5em 0 0 0;
+  padding: 30px 54px;
   background-color: $bgColor;
   font-size: 0.9em;
+  color: #8a97a6;
 
   .logo img {
     margin: 0;
@@ -169,23 +255,98 @@ footer {
   font-size: 1.3em;
 }
 
+.right-nav {
+  position: absolute !important;
+  bottom: 0;
+  right: 0;
+  margin-bottom: -1px;
+  display: inline;
+  border-bottom: 1px solid #eee;
 
-.claim {
-  font-size: 1.6em;
-  font-weight: 600;
-  line-height: 1.7em;
-  color: $brandColor;
-  padding-top: 4em;
+  li {
+    margin-right: 38px;
+    font-weight: bold;
+  }
+
+  li:hover {
+     border-bottom: 4px solid  #bfffe6;
+  }
 }
 
+.claim {
+  font-family: Roboto;
+  font-size: 1.6em;
+  line-height: 1.17;
+  color: black;
+  padding-top: 4em;
+  padding-bottom: 38px;
+  font-size: 36px;
+}
+
+.gray {
+  background-color: #f5f7fa;
+}
+
+.blue {
+  background-color: #aff5fb;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  height: 170px;
+
+}
+
+.select-state {
+  width: 288px;
+  height: 47px;
+  border-radius: 2px;
+  border: 0;
+  background-color: #ffffff;
+  box-shadow: 0 0 1px 0 #8cadb9;
+}
+
+.search-form {
+  input {
+     background-color: white;
+     border: none;
+     font-size: 22px;
+     height: 65px;
+     padding-left: 20px;
+  }
+
+  button {
+     font-family: Roboto;
+     font-size: 18px;
+     color: white;
+     background-color: #4e7f91;
+     border: none;
+     height: 65px;
+     padding: 20px 30px;
+  }
+}
+
+.container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  max-width: 1200px;
+  margin: auto;
+}
 
 #map {
   height: 35em;
+  padding-top: 46px;
+  margin-bottom: 60px;
 
   .subunit {
     stroke: #fff;
     stroke-width: 1px;
-    fill: #fff;
+    fill: #7bdae3 !important;
     cursor: pointer;
   }
 
@@ -352,4 +513,20 @@ h1.page-header.site {
 
 .controls {
   padding: 10px;
+}
+
+.main-logo {
+   width: 60px;
+   height: 60px;
+   float: left;
+}
+
+.offener-haushalt-brand {
+  font-family: Overpass;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 0.92;
+  letter-spacing: 0.3px;
+  text-align: left;
+  color: #112233;
 }
