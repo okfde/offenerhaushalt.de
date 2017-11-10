@@ -1,10 +1,15 @@
 {
-  "datapackage": "a6a16b964a7e784f99adecc47f26318a:moers-no-negative",
+  "datapackage": "a6a16b964a7e784f99adecc47f26318a:moers-plan",
   "hierarchies": [
     {
       "datapackageHierarchy": "administrative_classification",
-      "url": "administrative_classification",
-      "label": "Administrative Classification"
+      "url": "einzelplan",
+      "label": "Einzelplan"
+    },
+    {
+      "datapackageHierarchy": "economic_classification",
+      "url": "institution",
+      "label": "Institution"
     }
   ],
   "value": [
@@ -16,7 +21,7 @@
         "thousand": ".",
         "precision": "",
         "format": "%s%v",
-        "postfix": "€",
+        "postfix": " €",
         "grouping": 3
       },
       "label": "Betrag"
@@ -29,9 +34,9 @@
       "description": ""
     },
     {
-      "label": "pro Person",
+      "label": "p. P.",
       "number": "104529",
-      "description": "p. P."
+      "description": "pro Einwohner"
     }
   ],
   "filters": {
@@ -41,17 +46,13 @@
       "ref": "value_kind_2",
       "type": "string",
       "default": true,
-      "defaultValue": "",
+      "defaultValue": "Plan",
       "defaultLabel": "All",
-      "label": "Betrag_Typ",
+      "label": "Betrag Typ",
       "values": [
         {
           "value": "",
           "label": "All"
-        },
-        {
-          "value": "Ist",
-          "label": "Ist"
         },
         {
           "value": "Plan",
@@ -65,21 +66,21 @@
       "ref": "direction_2",
       "type": "string",
       "default": true,
-      "defaultValue": "",
+      "defaultValue": "Ausgaben",
       "defaultLabel": "All",
-      "label": "HH Art",
+      "label": "Richtung",
       "values": [
         {
           "value": "",
           "label": "All"
         },
         {
-          "value": "Aufwendungen",
-          "label": "Aufwendungen"
+          "value": "Ausgaben",
+          "label": "Ausgaben"
         },
         {
-          "value": "Erträge",
-          "label": "Erträge"
+          "value": "Einnahmen",
+          "label": "Einnahmen"
         }
       ]
     },
@@ -89,7 +90,7 @@
       "ref": "date_2",
       "type": "integer",
       "default": true,
-      "defaultValue": "",
+      "defaultValue": 2018,
       "defaultLabel": "All",
       "label": "Jahr",
       "values": [
@@ -98,16 +99,20 @@
           "label": "All"
         },
         {
-          "value": 2015,
-          "label": 2015
+          "value": 2018,
+          "label": 2018
         },
         {
-          "value": 2016,
-          "label": 2016
+          "value": 2019,
+          "label": 2019
         },
         {
-          "value": 2017,
-          "label": 2017
+          "value": 2020,
+          "label": 2020
+        },
+        {
+          "value": 2021,
+          "label": 2021
         }
       ]
     }
