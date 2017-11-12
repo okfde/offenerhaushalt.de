@@ -78,7 +78,7 @@ hr {
     line-height: 1.17;
     text-align: left;
     color: #000000;
-    width: 617px;
+    max-width: 417px;
     img {
        position: absolute;
        bottom: 0;
@@ -534,13 +534,94 @@ h1.page-header.site {
      margin-bottom: 26px;
    }
 
+   h3 {
+     color: #546779;
+     max-width: 400px;
+     font-size: 16px;
+   }
+
+   h4 {
+     font-weight: bold;
+     color: black;
+     margin-bottom: 20px;
+     margin-top: 40px;
+   }
+
    p {
-      max-width: 600px;
+      max-width: 700px;
+      margin-bottom: 20px;
    }
 
    .link-buttons {
      margin-top: 74px;
      margin-bottom: 80px;
+   }
+}
+
+
+.step-2-blocks {
+  margin-left: -40px;
+  width: 780px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.44;
+  text-align: left;
+  color: black;
+  .left-block {
+      
+      h4 {
+        margin: 0;
+        margin-bottom: 22px;
+      }
+      .block-content {
+        background-color: #a9f4ff;
+        padding: 38px;
+      }
+  }
+  .right-block {
+      h4 {
+        margin: 0;
+        margin-bottom: 22px;
+      }
+      .block-content {
+        background-color: #e7e7e7;
+        padding: 38px;
+      }
+  }
+}
+
+.help-content {
+   max-width: 700px;
+   margin: auto;
+   .help-text {
+     padding-top: 70px;
+
+     img {
+        margin-top: 40px;
+        margin-bottom: 40px;
+     }
+
+     .next-step {
+        display: inline-block;
+        margin-top: 30px;
+        background-color: #f2f2f2;
+        font-weight: bold;
+        color: black;
+        padding: 20px 30px;
+     }
+   }
+
+   .gray-block {
+      background-color: #f2f2f2;
+      padding: 30px;
+      font-family: SpaceMono;
+      font-size: 16px;
+      line-height: 1.56;
+      letter-spacing: -0.1px;
+      text-align: left;
+      color: #112233;
+      margin-top: 20px;
+      margin-bottom: 60px
    }
 }
 

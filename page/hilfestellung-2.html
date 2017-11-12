@@ -1,0 +1,114 @@
+---
+layout: default
+title: Hilfestellung
+permalink: /hilfestellung/2
+---
+{% include relative-baseurl.html %}
+
+<div class="row help-pages">
+  <div class="col-xs-12 col-md-12">
+    <div class="help-content">
+      <h1>02 – Was steht in meinem Datensatz?</h1>
+      <h3>Welche Informationen in einem Haushaltsdatensatz vorkommen und wofür sie gebraucht werden.</h3>
+      <p>
+      <div class="help-text">
+      <h4>Allgemein</h4>
+      <p>
+      Die Informationen variieren je nach Buchhaltungsart. Kameralistik wird
+      für Bund- und Länderhaushalte sowie kommunale Haushalte aus Bayern,
+      Schleswig-Holstein und Berlin verwendet. Doppik, für kommunale Haushalte
+      aus allen anderen Bundesländern sowie den Hessischen Landeshaushalt. 
+      </p>
+      <p>
+      Mehr Informationen zu Haushaltsdaten inklusive eines Lexikons mit
+      Fachbegriffen finden Sie auf https://www.haushaltssteuerung.de/ und auf
+      https://lexikon.haushaltsdaten.de/</p> 
+      
+      <p>
+      <b>Datum:</b> In jedem Haushalt gibt es eine
+      zeitliche Komponente, die einordnet, wann welche Ausgaben getätigt
+      werden. In der Regel ist dies das Haushaltsjahr (z.B. 2014). Diese
+      Komponente muss klar zugeordnet werden, damit später zwischen Jahren
+      unterschieden werden kann. 
+      </p>
+      <p>
+      <b>Betrag:</b> Der Betrag ist die Spalte mit der
+      Information die uns am meisten interessiert, sie enthält eine Zahl.
+      Außerdem gibt es unterschiedliche Formate (10.000€, 10,000€, 10.000,00€).
+      </p>
+      <p>
+      <b>Betrag Art:</b> Die Art des Betrags gibt an, ob es sich um einen „Ist“,
+      „Soll“ oder „Plan“ Betrag handelt. Zum Teil ergibt sich diese Information
+      aus den Metainformationen (z.B. dem Titel „Ist-Haushalt-2017“).
+      </p>
+      <p>
+      <b>Budget Richtung:</b> Die Budget Richtung zeigt an, ob ein Haushaltstitel eine
+      Einnahme oder eine Ausgabe ist, dies ist extrem wichtig um Beträge
+      richtig zuzuordnen.
+      </p>
+      <h4>Hierarchien</h4>
+      </p>
+      <img src="{{ relative-baseurl }}/static/img/help/folders-ohh.png">
+      <p>
+      Haushaltsdaten bilden immer eine Hierarchie ab: unsere Visualisierungen
+      zeigen die verschiedene Ebenen an Informationen. So können Ausgaben für
+      das Bildungswesen insgesamt, aber auch spezifisch für „öffentliche
+      Grundschulen“ beleuchtet werden. 
+      </p>
+      <p>Die Beträge in den Dateien werden auf
+      untersten Hierarchieebene (öffentliche Grundschule) angezeigt und unser
+      Programm summiert für die Oberthemen
+      </p>
+      <p>(Bildungswesen) alle darunter
+      fallenden Titel.
+
+      </p>
+      <h4>Ab jetzt gibt es Unterschiede zwischen zwei Haushaltstypen.  Bitte wählen Sie aus:</h4>
+      <div class="row step-2-blocks">
+        <div class="left-block col-xs-6 col-md-6">
+            <div class="block-content">
+              <h4>Kameralistik-Haushalt</h4>
+              Das trifft zu, wenn Sie einen Haushalt für Bund, Land, oder Kommune in Bayern oder BaWü haben.
+            </div>
+        </div>
+        <div class="right-block col-xs-6 col-md-6">
+            <div class="block-content">
+              <h4>Kameralistik-Haushalt</h4>
+              Das trifft zu, wenn Sie einen Haushalt einer Kommune aller anderen Bundesländer haben.
+            </div>
+        </div>
+      </div>
+      <h4>Bezeichnungen</h4>
+      <p>
+      In der Kameralistik werden zusätzlich zu den Bezeichnungen nach Institutionen
+      auch anhand eines Gruppierungsplans und eines Funktionenplans strukturiert. Der
+      Gruppierungsplan ordnet die Titel des Haushaltes dabei nach der Art der
+      Ausgabe, wie zum Beispiel Personalausgaben,  im Funktionenplan sind die Titel
+      nach den Aufgaben geordnet, die der Staat damit erfüllt.
+      </p>
+      <p>
+      <b>Administrative Klassifizierung</b> haben häufig die Bezeichnungen Einzelplan, Kapitel,
+      Titel/Finanzposition 
+      </p>
+      <p>
+      <b>Funktionale Klassifizierung</b> [also Politikfelder] haben
+      häufig die  Bezeichnungen Hauptfunktion, Oberfunktion und Funktion. 
+      </p>
+      <p>
+      <b>Ökonomische Klassifizierung</b> [also Gruppen] haben häufig die  Bezeichnungen Hauptgruppe,
+      Obergruppe und Gruppe. 
+      </p>
+      <h4>Codes</h4>
+      <p>
+      Zusätzlich zu den Bezeichnungen finden sich in den Daten häufig Zahlen,
+      die auf einen Haushaltstitel hinweisen. Sprich es gibt eine Zahl in der Spalte
+      (Einzelplan) „1“ und diese weist immer auf die (Einzelplanbezeichnung)
+      „Abgeordnetenhaus“ hin. Die Codes sind somit numerische Hinweise auf die
+      Bezeichnungen und doppeln die Informationen. 
+
+      </p>
+      <a class="next-step" href="{{ relative-baseurl }}/hilfestellung/3">zum nächsten Schritt</a>
+      </div>
+    </div>
+  </div>
+</div>

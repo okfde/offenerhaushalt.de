@@ -27,6 +27,16 @@ h1.constructor-title {
    font-size: 36px;
    color: black;
 }
+h2.preview-legend {
+  font-family: Roboto;
+  font-size: 25px;
+  line-height: 1.12;
+  letter-spacing: -0.3px;
+  color: #112233;
+  margin-bottom: 40px;
+  margin-top: 40px;
+
+}
 .help-os-id {
    text-decoration: underline;
 }

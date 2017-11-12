@@ -1,0 +1,96 @@
+---
+layout: default
+title: Hilfestellung
+permalink: /hilfestellung/3
+---
+{% include relative-baseurl.html %}
+
+<div class="row help-pages">
+  <div class="col-xs-12 col-md-12">
+    <div class="help-content">
+      <h1>03 – Fast geschafft. Jetzt können wir zuordnen</h1>
+      <h3>Nun gehen wir auf OpenSpending um unseren Datensatz hochzuladen, der Datensatz wird hier validiert und gespeichert.  </h3>
+      <p>
+      <div class="help-text">
+      <p>
+      Um mit OpenSpending zu arbeiten benötigst du einen Google Account. Zuerst
+      muss eine gültige .CSV Datei hochgeladen werden, wie du die gewünschter
+      Struktur erfüllst, steht unter [Schritt 1].
+      </p>
+      <p>
+      Nachdem die Datei validiert wurde, erfolgt die Zuordnung der jeweiligen
+      Spalten. Wir müssen OpenSpending mitteilen, welche Spalte, welche
+      Information enthält, z.B. dass die Spalte “Jahr” eine Zeitinformation
+      enthält. Dies ist der grundlegende Schritt damit unser Programm aus den
+      Daten eine Visualisierung erstellt. Jeder Datentypen aus Schritt 2, kann
+      wie folgt zugeordnet werden.
+      </p>
+      <h4>Zuordnung / Mapping</h4>
+      <img src="/static/img/help/video-openbudget.png">
+      <p>
+      Das Datum, in den meisten Fällen das Fiskaljahr, wird dem Datentyp “Date” und
+      dann “Fiscal Year” zugeordnet.
+      </p>
+      <div class="gray-block">
+        Datum → Date → Fiscal Year
+      </div>
+      <p>
+      Der Spalte “Betrag” wird dem Datentyp „Amount“ zugewiesen. Hier wird
+      mitgeteilt, welches Format (10.000€, 10,000.00€) die Beträge in unserer CSV
+      Datei haben. 
+      </p>
+      <div class="gray-block">
+      Betrag → „Amount“ → „Code of amount kind“ 
+      </div>
+      <p>
+      Die Budget Richtung wird dem Datentyp „Budget Direction“ zugeordnet.
+      </p>
+      <div class="gray-block">
+        Budget Richtung → „Budget Direction“
+      </div>
+      <h4>
+      Bezeichnungen</h4>
+      <p>
+      Es ist wichtig zu wissen, welche Bezeichnung welche Hierarchieebene abbildet [Schritt 3]. 
+      </p>
+      <p>
+      Für die Bezeichnungen wird erst die Klassifizierung: Administrative
+      (Institutionen), Functional (Politikfelder), Economic (Gruppen)
+      ausgewählt. Danach wird die Ebene der Titel (Level 1, Level 2…)
+      zugewiesen und “Unique Identifier” zugeordnet. </p>
+      <p>
+      Wir wählen zunächst immer
+      „Administrative Classification“ und dann „Non-Standard“. 
+      </p>
+      <div class="gray-block">
+        <p>
+        Einzelplan → „Top Level Classification“ → „Display Name“
+        </p>
+        <p>
+        Kapitel → „2nd Classification Level“ → „Unique Identifier“  → „Complete Identifier“
+        </p>
+        <p>
+        Titel → „3rd Classification Level“ → „Unique Identifier“  → „Complete Identifier“
+        </p>
+      </div>
+      <h4>Codes</h4>
+      <p>
+      Für die Zuordnung brauchen wir die Codes nicht. Diese können wir entweder
+      zuvor aus der Datei löschen, oder als „Unknown Mapping“ – „Unknown
+      String“ zugeordnet werden. 
+      </p>
+      <p>
+      Nachdem Zuordnen, müssen nur noch
+      beschreibende Informationen zum Datensatz hinzugefügt werden und die
+      Daten werden hochgeladen. Um diese auf OffenerHaushalt.de einzubinden,
+      wird „Explore and visualize your data now“ ausgewählt und [folgender]
+      Teil der URL kopiert. Der URL Teil wird für [Schritt 4] und die
+      endgültige Visualisierung benötigt.
+      </p>
+
+      <a class="next-step" href="{{ relative-baseurl }}/hilfestellung/4">zum
+        nächsten Schritt</a>
+      </div>
+    </div>
+  </div>
+</div>
