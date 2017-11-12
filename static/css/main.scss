@@ -11,7 +11,6 @@ $bgColor: #112339;
 $linkColor: #265475;
 $brandColor: #42928F;
 
-
 html {
   background-color: $bgColor;
 }
@@ -216,6 +215,7 @@ footer {
   background-color: $bgColor;
   font-size: 0.9em;
   color: #8a97a6;
+  margin-top: 120px;
 
   .logo img {
     margin: 0;
@@ -519,6 +519,107 @@ h1.page-header.site {
    width: 60px;
    height: 60px;
    float: left;
+}
+
+.help-pages {
+   margin-top: 83px;
+
+   h1 {
+     font-family: Roboto;
+     font-size: 36px;
+     line-height: 1.33;
+     text-align: left;
+     color: #000000;
+     max-width: 600px;
+     margin-bottom: 26px;
+   }
+
+   p {
+      max-width: 600px;
+   }
+
+   .link-buttons {
+     margin-top: 74px;
+     margin-bottom: 80px;
+   }
+}
+
+.blue-button {
+   background-color: #33e4ff;
+   color: white;
+   padding: 16px;
+   margin-right: 16px;
+}
+
+.green-button {
+   background-color: #1fe09f;
+   color: white;
+   padding: 16px;
+   margin-right: 16px;
+}
+
+.help-block {
+   height: 370px;
+   background-color: #f1f3f4;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-right: 13px;
+   max-width: 45%;
+
+   &.step-1 {
+    background-image: url('/static/img/help/01.png');
+    background-repeat: no-repeat;
+    background-position: 30px 25px;
+   }
+
+   &.step-2 {
+    background-image: url('/static/img/help/02.png');
+    background-repeat: no-repeat;
+    background-position: 30px 25px;
+   }
+
+   &.step-3 {
+    background-image: url('/static/img/help/03.png');
+    background-repeat: no-repeat;
+    background-position: 30px 25px;
+   }
+
+   &.step-4 {
+    background-image: url('/static/img/help/04.png');
+    background-repeat: no-repeat;
+    background-position: 30px 25px;
+   }
+
+   .help-content {
+      max-width: 70%;
+
+      h2 {
+        color: black;
+        font-family: Roboto;
+        font-size: 25px;
+        font-weight: 500;
+        max-width: 250px;
+        margin-bottom: 18px;
+      }
+
+      p {
+        margin-bottom: 18px;
+      }
+
+      .help-step-link {
+        background-color: #61f2ff;
+        color: black;
+        display: block;
+        font-weight: bold;
+        max-width: 250px;
+        padding: 5px 10px;
+        font-family: Roboto;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 1.56;
+      }
+   }
 }
 
 .offener-haushalt-brand {
