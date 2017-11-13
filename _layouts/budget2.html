@@ -6,9 +6,15 @@ layout: default
 ---
 {% include relative-baseurl.html %}
 
-<h1 class="page-header site" id="site-name">{{page.name}}</h1>
 
   <div class="row">
+    <div class="budget-page col-xs-12 col-md-12">
+    <h1>{{page.name}}</h1>
+    <h2>Wählen Sie aus, nach welchen Feldern der Haushalt sortiert sein soll</h2>
     <div id="treemap-budget"></div>
+    <div class="city-info">
+    {{ content }}
+    </div>
+    </div>
   </div>
 </div>

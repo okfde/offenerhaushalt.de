@@ -625,6 +625,48 @@ h1.page-header.site {
    }
 }
 
+.budget-page {
+   margin-top: 71px;
+
+  font-family: Roboto;
+  font-size: 22px;
+  line-height: 1.59;
+  letter-spacing: -0.2px;
+  text-align: left;
+  color: #112233;
+
+   h1 {
+    font-family: Roboto;
+    font-size: 36px;
+    line-height: 1.33;
+    text-align: left;
+    color: #000000;
+    margin-bottom: 33px;
+   }
+
+   h2 {
+    font-family: Roboto;
+    font-size: 20px;
+    line-height: 0.75;
+    text-align: left;
+    color: #112233;
+   }
+
+   p {
+      margin-bottom: 20px;
+   }
+
+   .city-info {
+      max-width: 700px;
+      margin: auto;
+      margin-top: 64px;
+
+      h1 {
+        margin-bottom: 33px;
+      }
+   }
+}
+
 .blue-button {
    background-color: #33e4ff;
    color: white;
