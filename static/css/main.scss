@@ -625,6 +625,28 @@ h1.page-header.site {
    }
 }
 
+.button {
+	margin-right: 7px !important;
+	font-size: 12px !important;
+	font-weight: 500 !important;
+	&.is-primary {
+	color: black !important;
+	background-color: #e1e1e1 !important;
+	}
+}
+
+.select {
+	select {
+		font-size: 12px !important;
+	}
+}
+
+.filter {
+	font-size: 12px !important;
+	text-align: left;
+	color: #112233;
+}
+
 .budget-page {
    margin-top: 71px;
 
