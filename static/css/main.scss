@@ -6,6 +6,7 @@
 @import 'overpass.scss';
 @import 'font.scss';
 @import 'bootstrap.scss';
+@import 'fontawesome/font-awesome.scss';
 
 $bgColor: #112339;
 $linkColor: #265475;
@@ -15,12 +16,15 @@ html {
   background-color: $bgColor;
 }
 
+.fa {
+  font-size: 13px;
+}
 
 body {
-  font-family: 'Open Sans', 'Helvetica', sans-serif;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica', sans-serif;
   font-weight: 400;
   background-color: #fff;
-  color: #333;
+  color: black;
   font-size: 16px;
 }
 
@@ -176,10 +180,17 @@ hr {
   padding-left: 26px;
   -webkit-box-shadow: none;
 
+  .navbar-brand li {
+		&:hover {
+			 background-color: #eee;
+		}
+
+  }
   .navbar-brand, li > a {
     color: #333;
     font-weight: 400;
     text-shadow: none;
+    text-decoration: none;
   }
 
   .navbar-brand {
@@ -626,25 +637,25 @@ h1.page-header.site {
 }
 
 .button {
-	margin-right: 7px !important;
-	font-size: 12px !important;
-	font-weight: 500 !important;
-	&.is-primary {
-	color: black !important;
-	background-color: #e1e1e1 !important;
-	}
+  margin-right: 7px !important;
+  font-size: 12px !important;
+  font-weight: 500 !important;
+  &.is-primary {
+  color: black !important;
+  background-color: #e1e1e1 !important;
+  }
 }
 
 .select {
-	select {
-		font-size: 12px !important;
-	}
+  select {
+    font-size: 12px !important;
+  }
 }
 
 .filter {
-	font-size: 12px !important;
-	text-align: left;
-	color: #112233;
+  font-size: 12px !important;
+  text-align: left;
+  color: #112233;
 }
 
 .budget-page {

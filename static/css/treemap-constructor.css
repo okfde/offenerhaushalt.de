@@ -750,10 +750,6 @@ button.button,input[type=submit].button{line-height:1;padding-bottom:.4em;paddin
 .control.is-loading.is-medium:after{font-size:1.25rem}
 .control.is-loading.is-large:after{font-size:1.5rem}
 .icon{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;height:1.5rem;width:1.5rem}
-.icon .fa,.icon .mdi{font-size:21px}
-.icon.is-small .fa,.icon.is-small .mdi{font-size:14px}
-.icon.is-medium .fa,.icon.is-medium .mdi{font-size:28px}
-.icon.is-large .fa,.icon.is-large .mdi{font-size:42px}
 .image{display:block;position:relative}
 .image img{display:block;height:auto;width:100%}
 .image.is-1by1 img,.image.is-2by1 img,.image.is-3by2 img,.image.is-4by3 img,.image.is-16by9 img,.image.is-square img{bottom:0;left:0;position:absolute;right:0;top:0;height:100%;width:100%}
@@ -887,7 +883,6 @@ button.button,input[type=submit].button{line-height:1;padding-bottom:.4em;paddin
 .delete.is-small{height:16px;max-height:16px;max-width:16px;min-height:16px;min-width:16px;width:16px}
 .delete.is-medium{height:24px;max-height:24px;max-width:24px;min-height:24px;min-width:24px;width:24px}
 .delete.is-large{height:32px;max-height:32px;max-width:32px;min-height:32px;min-width:32px;width:32px}
-.fa,.icon .mdi{font-size:21px;text-align:center;vertical-align:top}
 .heading{display:block;font-size:11px;letter-spacing:1px;margin-bottom:5px;text-transform:uppercase}
 .highlight{font-weight:400;max-width:100%;overflow:hidden;padding:0}
 .highlight:not(:last-child){margin-bottom:1.5rem}
