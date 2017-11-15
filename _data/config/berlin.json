@@ -51,7 +51,8 @@
       "ref": "fin_source_Bereich",
       "type": "string",
       "default": true,
-      "defaultValue": "",
+      "hasAll": false,
+      "defaultValue": "All",
       "defaultLabel": "All",
       "label": "Bezirke",
       "values": [
