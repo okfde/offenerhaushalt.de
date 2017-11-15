@@ -6,7 +6,7 @@ url: /haushalt/nrw
 tagline: "Landeshaushalt für Nordrhein-Westfalen"
 level: land
 state: NRW
-config: nrw
+config: config-nrw
 ---
 
 
