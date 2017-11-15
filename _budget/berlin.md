@@ -1,8 +1,8 @@
 ---
 layout: budget2
 name: Berlin
-slug: berlin3
-url: /haushalt/berlin3
+slug: berlin
+url: /haushalt/berlin
 tagline: "Landeshaushalt für Berlin, verabschiedet durch den Senat der Stadt Berlin."
 level: land
 state: BE
