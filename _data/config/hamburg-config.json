@@ -1,0 +1,135 @@
+{
+  "datapackage": "979a04af3ee49595c1881cffe7554549:budget_germany_hamburg_test",
+  "hierarchies": [
+    {
+      "datapackageHierarchy": "functional_classification",
+      "url": "einzelplan",
+      "label": "Einzelpan"
+    }
+  ],
+  "value": [
+    {
+      "field": "Betrag.sum",
+      "formatOptions": {
+        "symbol": "€",
+        "decimal": ".",
+        "thousand": ",",
+        "precision": "0",
+        "format": "%s%v",
+        "postfix": "",
+        "grouping": 3
+      },
+      "label": "Betrag €"
+    }
+  ],
+  "scale": [
+    {
+      "label": "Total",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "label": "pro Einwohner",
+      "number": "1800000",
+      "description": "p.E."
+    },
+    {
+      "label": "",
+      "number": 1,
+      "description": ""
+    }
+  ],
+  "filters": {
+    "Jahr": {
+      "name": "date_2.Jahr",
+      "label_ref": "date_2.Jahr",
+      "ref": "date_2",
+      "type": "integer",
+      "default": true,
+      "hasAll": false,
+      "defaultValue": 2018,
+      "defaultLabel": "All",
+      "label": "Jahr",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": 2014,
+          "label": 2014
+        },
+        {
+          "value": 2015,
+          "label": 2015
+        },
+        {
+          "value": 2017,
+          "label": 2017
+        },
+        {
+          "value": 2018,
+          "label": 2018
+        },
+        {
+          "value": 2019,
+          "label": 2019
+        },
+        {
+          "value": 2020,
+          "label": 2020
+        }
+      ]
+    },
+    "Soll/Ist": {
+      "name": "phase_2.Soll_Ist",
+      "label_ref": "phase_2.Soll_Ist",
+      "ref": "phase_2",
+      "type": "string",
+      "default": true,
+      "hasAll": false,
+      "defaultValue": "",
+      "defaultLabel": "All",
+      "label": "Soll/Ist",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": "Ist",
+          "label": "Ist"
+        },
+        {
+          "value": "Soll",
+          "label": "Soll"
+        }
+      ]
+    },
+    "E/A": {
+      "name": "direction_2.E_A",
+      "label_ref": "direction_2.E_A",
+      "ref": "direction_2",
+      "type": "string",
+      "default": true,
+      "hasAll": false,
+      "defaultValue": "",
+      "defaultLabel": "All",
+      "label": "E/A",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": "A",
+          "label": "A"
+        },
+        {
+          "value": "E",
+          "label": "E"
+        }
+      ]
+    }
+  }
+}
