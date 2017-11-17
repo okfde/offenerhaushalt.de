@@ -11,15 +11,15 @@
     {
       "field": "Betrag.sum",
       "formatOptions": {
-        "symbol": "€",
+        "symbol": "",
         "decimal": ",",
         "thousand": ".",
         "precision": "0",
         "format": "%s%v",
-        "postfix": "",
+        "postfix": " €",
         "grouping": 3
       },
-      "label": "Betrag €"
+      "label": "Betrag"
     }
   ],
   "scale": [
