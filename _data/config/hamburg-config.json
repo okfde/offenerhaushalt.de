@@ -81,9 +81,9 @@
       "label_ref": "phase_2.Soll_Ist",
       "ref": "phase_2",
       "type": "string",
-      "default": "Soll",
+      "default": true,
       "hasAll": false,
-      "defaultValue": "",
+      "defaultValue": "Soll",
       "defaultLabel": "All",
       "label": "Soll/Ist",
       "values": [
@@ -106,9 +106,9 @@
       "label_ref": "direction_2.E_A",
       "ref": "direction_2",
       "type": "string",
-      "default": "A",
+      "default": true,
       "hasAll": false,
-      "defaultValue": "",
+      "defaultValue": "A",
       "defaultLabel": "All",
       "label": "E/A",
       "values": [
