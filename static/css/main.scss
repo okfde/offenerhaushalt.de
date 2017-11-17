@@ -836,6 +836,12 @@ h1.page-header.site {
     border: solid 1px #dee1e7;
   }
 
+  ul {
+    li {
+      display: list-item;
+    }
+  }
+
   .bundesland-box {
     background-color: #f5f7fa;
     padding: 23px;
@@ -869,6 +875,14 @@ h1.page-header.site {
       box-shadow: 0 0 2px 0 #d1d1d1;
       font-weight: bold;
       margin-left: auto;
+    }
+  }
+}
+
+.cities-list {
+  ul {
+    li {
+      display: list-item;
     }
   }
 }

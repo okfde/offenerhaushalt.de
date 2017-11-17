@@ -5,7 +5,7 @@ slug: Moers
 url: /haushalt/Moers
 tagline: "Kommunalhaushalt für Moers 2015 - 2017."
 level: kommune
-state: NRW
+state: NW
 config: moers2
 ---
 
