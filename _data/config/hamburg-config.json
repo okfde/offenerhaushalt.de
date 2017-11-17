@@ -12,8 +12,8 @@
       "field": "Betrag.sum",
       "formatOptions": {
         "symbol": "€",
-        "decimal": ".",
-        "thousand": ",",
+        "decimal": ",",
+        "thousand": ".",
         "precision": "0",
         "format": "%s%v",
         "postfix": "",
@@ -29,15 +29,10 @@
       "description": ""
     },
     {
-      "label": "pro Einwohner",
-      "number": "1800000",
+      "label": "pro Einwohner (1.807.551)",
+      "number": "1807551 ",
       "description": "p.E."
     },
-    {
-      "label": "",
-      "number": 1,
-      "description": ""
-    }
   ],
   "filters": {
     "Jahr": {
