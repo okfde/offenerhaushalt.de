@@ -181,9 +181,9 @@ hr {
   -webkit-box-shadow: none;
 
   .navbar-brand li {
-		&:hover {
-			 background-color: #eee;
-		}
+    &:hover {
+       background-color: #eee;
+    }
 
   }
   .navbar-brand, li > a {
@@ -284,6 +284,20 @@ footer {
   }
 }
 
+#search {
+  margin-top: 22px;
+  border-radius: 2px;
+  border: none;
+  background-color: #ffffff;
+  box-shadow: 0 0 1px 0 #8cadb9;
+  padding: 5px 10px;
+  font-family: Overpass;
+  font-size: 15px;
+  letter-spacing: 0.3px;
+  text-align: left;
+  color: #687683;
+}
+
 .claim {
   font-family: Roboto;
   font-size: 1.6em;
@@ -310,12 +324,17 @@ footer {
 }
 
 .select-state {
-  width: 288px;
-  height: 47px;
   border-radius: 2px;
-  border: 0;
+  border: none;
   background-color: #ffffff;
   box-shadow: 0 0 1px 0 #8cadb9;
+  padding: 8px 10px;
+  margin-top: 22px;
+  font-family: Overpass;
+  font-size: 15px;
+  letter-spacing: 0.3px;
+  text-align: left;
+  color: #687683;
 }
 
 .search-form {
@@ -697,6 +716,16 @@ h1.page-header.site {
       h1 {
         margin-bottom: 33px;
       }
+
+      ul {
+         list-style-type: disc;
+         list-style: inside;
+         padding: 0 10px 20px 20px;
+         li {
+           width: 100%;
+           display: list-item;
+         }
+      }
    }
 }
 
@@ -786,4 +815,81 @@ h1.page-header.site {
   letter-spacing: 0.3px;
   text-align: left;
   color: #112233;
+}
+
+.cities-list {
+  margin-top: 97px;
+  margin-bottom: 97px;
+
+  h1 {
+    font-family: Roboto;
+    font-size: 36px;
+    line-height: 1.33;
+    text-align: left;
+    color: #000000;
+    margin-bottom: 20px;
+  }
+
+  hr {
+    max-width: 359px;
+    height: 3px;
+    border: solid 1px #dee1e7;
+  }
+
+  .bundesland-box {
+    background-color: #f5f7fa;
+    padding: 23px;
+    align-items: center;
+    display: flex;
+    &:after {
+      content: "";
+      clear: both;
+      display: block;
+      visibility: hidden;
+      height: 0px;
+    }
+    .name {
+      float: left;
+      h2 {
+        font-family: Roboto;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 1.56;
+        text-align: left;
+        color: #112233; 
+         
+      }
+    }
+    .visualisierung {
+      float: right;
+      padding: 5px 10px;
+      background-color: white;
+      border-radius: 3px;
+      background-color: #ffffff;
+      box-shadow: 0 0 2px 0 #d1d1d1;
+      font-weight: bold;
+      margin-left: auto;
+    }
+  }
+}
+
+.cities-count {
+  background-color: #ddffec;
+  max-width: 100%;
+
+  .cities-message {
+    max-width: 1200px;
+    margin: 50px 0;
+
+    h1 {
+      font-family: Roboto;
+      font-size: 36px;
+      font-weight: 500;
+      line-height: 0.94;
+      text-align: left;
+      color: #112233;
+      max-width: 530px;
+      margin-bottom: 28px;
+    }
+  }
 }

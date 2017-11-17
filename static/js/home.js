@@ -2,6 +2,13 @@ $(function() {
   var sites = JSON.parse($('#sites-data').html()),
   selectedState = null;
 
+  var $stateSelect = $('#selectState')
+
+  $stateSelect.change(function (event) {
+    var bundesland = $(this).val()
+    $('#cities').load('/bundesland/' + bundesland)
+  });
+
   var $map = $('#map'),
   $welcome = $('#default-welcome'),
   $listing = $('#listing'),
@@ -36,24 +43,24 @@ $(function() {
       .enter().append("path")
       .attr("class", function(d) { return "subunit " + d.properties.code; })
       .attr("d", path)
-      .on("mouseover", function(d) {
-        if (d.properties.code != selectedState) {
-          d3.select(this).transition().duration(200)
-          .style({'fill':'#333'});
-        }
-        if (selectedState===null) {
-          renderListing(d.properties);
-        }
-      })
-      .on("mouseout", function(d) {
-        if (d.properties.code != selectedState) {
-          d3.select(this).transition().duration(500)
-          .style({'fill':'#555'});
-        }
-        if (selectedState===null) {
-          renderListing(null);
-        }
-      })
+//      .on("mouseover", function(d) {
+//        if (d.properties.code != selectedState) {
+//          d3.select(this).transition().duration(200)
+//          .style({'fill':'#333'});
+//        }
+//        if (selectedState===null) {
+//          renderListing(d.properties);
+//        }
+//      })
+//      .on("mouseout", function(d) {
+//        if (d.properties.code != selectedState) {
+//          d3.select(this).transition().duration(500)
+//          .style({'fill':'#555'});
+//        }
+//        if (selectedState===null) {
+//          renderListing(null);
+//        }
+//      })
       .on("click", function(d) {
         if (d.properties.code == selectedState) {
           selectedState = null;
@@ -84,9 +91,9 @@ $(function() {
         return projection(site.coordinates)[1];
       })
       .attr("r", 4)
-      .on("mouseover", function(d) {
-        renderCity(d);
-      })
+//      .on("mouseover", function(d) {
+//        renderCity(d);
+//      })
       .on("click", function(d) {
         location.href = d.url;
       });

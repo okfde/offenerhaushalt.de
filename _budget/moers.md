@@ -15,6 +15,7 @@ Bewertetes Ressourcenaufkommen (erfolgswirksame Wertezuflüsse)
  
 **Ordentliche Erträge**
 Unter der Wertgröße „Ordentliche Erträge“ sind die Erträge nach §2 Abs.1 Nr.1 bis 9 GemHVO (Ergebnisplan) bzw. §38 Abs.1 S.3 GemHVO (Ergebnisrechnung) zu erfassen. „Summierung“ der Erträge: 
+
 * Steuern und ähnliche Abgaben
 * Zuwendungen und allgemeine Umlagen
 * Sonstige Transfererträge
