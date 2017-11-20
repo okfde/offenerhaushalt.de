@@ -11,15 +11,15 @@
     {
       "field": "Betrag.sum",
       "formatOptions": {
-        "symbol": "€",
-        "decimal": ".",
-        "thousand": ",",
+        "symbol": "",
+        "decimal": ",",
+        "thousand": ".",
         "precision": "0",
         "format": "%s%v",
-        "postfix": "",
+        "postfix": " €",
         "grouping": 3
       },
-      "label": "Betrag €"
+      "label": "Betrag"
     }
   ],
   "scale": [
@@ -29,15 +29,10 @@
       "description": ""
     },
     {
-      "label": "pro Einwohner",
-      "number": "1800000",
+      "label": "pro Einwohner (1.807.551)",
+      "number": "1807551 ",
       "description": "p.E."
     },
-    {
-      "label": "",
-      "number": 1,
-      "description": ""
-    }
   ],
   "filters": {
     "Jahr": {
@@ -88,7 +83,7 @@
       "type": "string",
       "default": true,
       "hasAll": false,
-      "defaultValue": "",
+      "defaultValue": "Soll",
       "defaultLabel": "All",
       "label": "Soll/Ist",
       "values": [
@@ -113,7 +108,7 @@
       "type": "string",
       "default": true,
       "hasAll": false,
-      "defaultValue": "",
+      "defaultValue": "A",
       "defaultLabel": "All",
       "label": "E/A",
       "values": [
