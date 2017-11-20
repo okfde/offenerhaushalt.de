@@ -5,6 +5,6 @@ slug: niedersachsen
 url: /haushalt/niedersachsen
 tagline: "Landeshaushalt für Niedersachsen."
 level: land
-state: NS
+state: NI
 config: niedersachsen
 ---
