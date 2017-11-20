@@ -6,5 +6,5 @@ url: /haushalt/niedersachsen
 tagline: "Landeshaushalt für Niedersachsen."
 level: land
 state: NS
-config: niedersachsen-config
+config: niedersachsen
 ---
