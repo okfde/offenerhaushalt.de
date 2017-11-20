@@ -8,14 +8,26 @@ layout: city
     <div class="bundesland-box">
       <div class="name">
         <h2> {{ page.land }}</h2>
-        Länderhaushalt - 2016
+        Länderhaushalt {{ page.years }}
       </div>
-      <div class="visualisierung">
-        zur Visualisierung {% icon fa-long-arrow-right %}
-      </div>
+      {% assign land = site.haushalte | where: "state", page.code | where: "level", "land"  %}
+      {% assign land_size = land | size %}
+      {% if land_size > 0 %}
+        {% for l in land %}
+          {% if l.config %}
+          <div class="visualisierung">
+            <a href="{{ l.url }}">  zur Visualisierung {% icon fa-long-arrow-right %}</a>
+          </div>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
     </div>
+    {% assign cities = site.haushalte | where: "state", page.code %}
+    {% assign cities = cities | where: "level", "kommune" %}
+    {% assign cities_size = cities | size %}
+    {% if cities_size > 0 %}
     <hr>
-    {% assign cities = site.budget | where: "state", page.code  %}
+    {% endif %}
     {% for c in cities %}
     {% if c.config %}
     <div class="bundesland-box">
@@ -31,16 +43,22 @@ layout: city
     {% endfor %}
   </div>
 </div>
+{% if page.code != 'BE' %}
 <div class="row cities-count">
   <div class="container">
     <div class="row">
       <div class="cities-message col-xs-12 col-md-12">
         {% assign count = site.budget | where: "state", page.code | size %}
         {% assign kommunen_nummer = site.data.kommunen[page.code] | size %}
-        <h1>{{ page.land }} hat {{ kommunen_nummer }} Kommunen. Wir haben aber erst {{ count }} Haushalte.</h1>
+        <h1>{{ page.land }} hat {{ kommunen_nummer }} Kommunen. {% if cities_size > 0 %}{% if cities_size == 1 %}Wir haben erst einen Haushalt. {% else %}Wir haben aber erst {{ cities_size }} Haushalte.{% endif %}{% else %}Wir haben noch keine Haushalte.{% endif %}</h1>
         <p>Helfen Sie mit einen weiteren Haushalt zu veröffentlichen und fragen ihn bei der Behörde an!</p>
       </div>
-    </div>
+   </div>
+   <div class="row">
+      <div class="letters">
+        A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+      </div>
+   </div>
   </div>
 </div>
 <div class="row cities-list">
@@ -50,3 +68,4 @@ layout: city
   {% endfor %}
   </ul>
 </div>
+{% endif %}

@@ -1,5 +1,6 @@
 ---
 title: Mitmachen beim OffenenHaushalt
+layout: page
 ---
 
 OffenerHaushalt ist ein ehrenamtlich organisiertes Projekt, alle Arbeit wird von Freiwilligen erledigt. Wir sind daher auf Ihre Unterstützung angewiesen: entweder durch Ihre Teilnahme, oder durch [Spenden](http://okfn.de/about/spenden/), die den Betrieb der Seite ermöglichen.

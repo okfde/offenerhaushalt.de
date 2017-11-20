@@ -28,8 +28,11 @@ github_username:  okfde
 collections:
   budget:
     output: true
+    permalink: /ohaushalt/:name/
+  haushalte:
+    output: true
     permalink: /haushalt/:name/
-
+ 
 # Build settings
 markdown: kramdown
 exclude:
@@ -61,5 +64,12 @@ defaults:
       type: budget
     values:
       layout: budget
+  -
+    scope:
+      path: ""
+      type: haushalte
+    values:
+      layout: budget
+#
 # We use the embed plugin here to generate the same pages
 # with the embed layout again

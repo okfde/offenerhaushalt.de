@@ -423,6 +423,9 @@ h1.page-header.site {
 
 /* Documentation */
 .pages {
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 73px;
   .textual {
 
     a {
@@ -551,8 +554,31 @@ h1.page-header.site {
    float: left;
 }
 
-.help-pages {
-   margin-top: 83px;
+.info-box {
+  padding: 73px 80px;
+  color: white;
+  height: 100%;
+
+
+  h1 {
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 1.12;
+    text-align: left;
+    margin-bottom: 24px;
+  }
+
+  &.green {
+      background-color: #13e1a0;
+  }
+  &.blue {
+      background-color: #2be5ff;
+  }
+}
+
+.help-pages, .pages {
+   margin-top: 63px;
 
    h1 {
      font-family: Roboto;
@@ -562,6 +588,13 @@ h1.page-header.site {
      color: #000000;
      max-width: 600px;
      margin-bottom: 26px;
+   }
+
+   h2 {
+     color: #546779;
+     max-width: 400px;
+     font-size: 16px;
+     margin-bottom: 10px;
    }
 
    h3 {
@@ -905,5 +938,19 @@ h1.page-header.site {
       max-width: 530px;
       margin-bottom: 28px;
     }
+  }
+
+  .letters {
+    padding: 13px 20px;
+    float: right;
+    background-color: #ffffff;
+    border: solid 2px #098480;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.28;
+    letter-spacing: 5px;
+    text-align: left;
+    color: #009d8e;
   }
 }
