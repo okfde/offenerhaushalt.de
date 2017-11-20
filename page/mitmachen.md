@@ -3,15 +3,15 @@ title: Mitmachen beim OffenenHaushalt
 layout: page
 ---
 
-OffenerHaushalt ist ein ehrenamtlich organisiertes Projekt, alle Arbeit wird von Freiwilligen erledigt. Wir sind daher auf Ihre Unterstützung angewiesen: entweder durch Ihre Teilnahme, oder durch [Spenden](http://okfn.de/about/spenden/), die den Betrieb der Seite ermöglichen.
+OffenerHaushalt ist ein ehrenamtlich organisiertes Projekt, alle Arbeit wird von Freiwilligen erledigt. Wir sind daher auf Ihre Unterstützung angewiesen: entweder durch Ihre Teilnahme, oder durch [Spenden](http://beta.offenerhaushalt.de/page/intro.html), die den Betrieb der Seite ermöglichen.
 
 ## Wie kann ich mitmachen?
 
 Die Aufgaben im Projekt OffenerHaushalt sind vielfältig, es gibt sowohl inhaltliche, technische wie politische Arbeit zu erledigen. Einige Beispiele:
 
-* **Datensammlung:** Treten Sie in Kontakt mit Ihrer Landes-, Kreis- oder Kommunalregierung und bitten Sie um die Bereitstellung maschinenlesbarer Haushaltsdaten. Wichtig ist dabei, dass die Daten in einem Tabellenformat wie CSV oder Microsoft Excel vorliegen, und nicht als PDF-Dokument. Detailierte [Anweisungen zum Format finden Sie hier](/page/format.html).
+* **Datensammlung:** Treten Sie in Kontakt mit Ihrer Landes-, Kreis- oder Kommunalregierung und bitten Sie um die Bereitstellung maschinenlesbarer Haushaltsdaten. Wichtig ist dabei, dass die Daten in einem Tabellenformat wie CSV oder Microsoft Excel vorliegen, und nicht als PDF-Dokument. Detailierte [Anweisungen zum Format finden Sie hier](http://beta.offenerhaushalt.de/hilfestellung/1/).
 
-* **Haushalte einbinden:** OffenerHaushalt greift auf eine Datenbank, um die Haushalte darzustellen. Die Haushaltsdaten sollten Sie daher [zunächst in die Hauhsaltsdatenbank](http://db.offenerhaushalt.de) hochladen. Sobald Sie einen Haushalt in der Datenbank bereitgestellt haben, benachrichtigen Sie die [Mailingliste](http://lists.okfn.org/mailman/listinfo/offener-haushalt), damit er auf der Startseite von OffenerHaushalt eingebunden wird.
+* **Haushalte einbinden:** OffenerHaushalt greift auf eine Datenbank zu, um die Haushalte darzustellen. Die Haushaltsdaten sollten Sie daher [zunächst in die Hauhsaltsdatenbank](https://openspending.org/packager/) hochladen. Sobald Sie einen Haushalt in der Datenbank bereitgestellt haben, können Sie diesen mit der zugehörigen [ID]() auf OffenerHaushalt.de hinzufügen.  
 
 * **Visualisierung und Analyse:** OffenerHaushalt stellt ein umfangreiches Archiv von Haushaltsdaten bereit, die in verschiedener Form dargestellt, interpretiert und verglichen werden können. Wir freuen uns, wenn Sie eine spannende Datengeschichte oder -visalisierung zu einem deutschen Haushalt beitragen.
 
