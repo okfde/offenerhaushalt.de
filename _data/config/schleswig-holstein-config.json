@@ -52,7 +52,7 @@
       "type": "string",
       "default": true,
       "hasAll": false,
-      "defaultValue": "Ausabe",
+      "defaultValue": "Ausgabe",
       "defaultLabel": "All",
       "label": "Budget Richtung",
       "values": [
