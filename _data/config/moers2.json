@@ -80,7 +80,7 @@
       "ref": "direction_2",
       "type": "string",
       "default": true,
-      "defaultValue": "Aufwendungen",
+      "defaultValue": "Ausgaben",
       "defaultLabel": "All",
       "label": "HH Art",
       "values": [
@@ -89,8 +89,8 @@
           "label": "All"
         },
         {
-          "value": "Aufwendungen",
-          "label": "Aufwendungen"
+          "value": "Ausgaben",
+          "label": "Ausgaben"
         },
         {
           "value": "Einnahmen",
