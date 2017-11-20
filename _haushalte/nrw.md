@@ -5,7 +5,7 @@ slug: nrw
 url: /haushalt/nrw
 tagline: "Landeshaushalt für Nordrhein-Westfalen"
 level: land
-state: NRW
+state: NW
 config: config-nrw
 ---
 
