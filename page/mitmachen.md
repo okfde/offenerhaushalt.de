@@ -7,13 +7,17 @@ OffenerHaushalt ist ein ehrenamtlich organisiertes Projekt, alle Arbeit wird von
 
 ## Wie kann ich mitmachen?
 
-Die Aufgaben im Projekt OffenerHaushalt sind vielfältig, es gibt sowohl inhaltliche, technische wie politische Arbeit zu erledigen. Einige Beispiele:
+Die Aufgaben im Projekt OffenerHaushalt sind vielfältig, es gibt sowohl inhaltliche, technische wie politische Arbeit zu erledigen. Sie können die Arbeit auch schrittweise erledigen und Unterstützung aus der Community(SLACK) bekommen. 
 
-* **Datensammlung:** Treten Sie in Kontakt mit Ihrer Landes-, Kreis- oder Kommunalregierung und bitten Sie um die Bereitstellung maschinenlesbarer Haushaltsdaten. Wichtig ist dabei, dass die Daten in einem Tabellenformat wie CSV oder Microsoft Excel vorliegen, und nicht als PDF-Dokument. Detailierte [Anweisungen zum Format finden Sie hier](http://beta.offenerhaushalt.de/hilfestellung/1/).
+* **Datensammlung:** Treten Sie in Kontakt mit Ihrer Landes-, Kreis- oder Kommunalregierung (zum Beispiel über [FragdenStaat.de](https://fragdenstaat.de/) und bitten Sie um die Bereitstellung maschinenlesbarer Haushaltsdaten. Wichtig ist dabei, dass die Daten in einem Tabellenformat wie CSV oder Microsoft Excel vorliegen, und nicht als PDF-Dokument. 
 
-* **Haushalte einbinden:** OffenerHaushalt greift auf eine Datenbank zu, um die Haushalte darzustellen. Die Haushaltsdaten sollten Sie daher [zunächst in die Hauhsaltsdatenbank](https://openspending.org/packager/) hochladen. Sobald Sie einen Haushalt in der Datenbank bereitgestellt haben, können Sie diesen mit der zugehörigen [ID]() auf OffenerHaushalt.de hinzufügen.  
+* **Haushaltsdaten säubern:**
+Auch wenn die Dateien in maschinenlesbaren Formaten vorliegen, sind zum Teil noch kleinere Veränderungen notwendig. Dies lässt sich mit Programmierkenntnissen zumeist leichter erledigen. Detailierte [Anweisungen zum Format finden Sie hier](http://beta.offenerhaushalt.de/hilfestellung/1/).
 
-* **Visualisierung und Analyse:** OffenerHaushalt stellt ein umfangreiches Archiv von Haushaltsdaten bereit, die in verschiedener Form dargestellt, interpretiert und verglichen werden können. Wir freuen uns, wenn Sie eine spannende Datengeschichte oder -visalisierung zu einem deutschen Haushalt beitragen.
+* **Haushaltdaten hochladen:** OffenerHaushalt greift auf eine Datenbank zu, um die Haushalte darzustellen.  Hier müssen Sie die Daten entsprechend Ihrer Struktur [zuordnen](http://beta.offenerhaushalt.de/hilfestellung/3/). Die Haushaltsdaten sollten Sie daher zunächst in die [Hauhsaltsdatenbank Open Spending](https://openspending.org/packager/) hochladen.
+ 
+
+* **Visualisierung und Analyse:** Sobald Sie einen Haushalt in der Datenbank bereitgestellt haben, können Sie diesen mit der zugehörigen [ID]() auf OffenerHaushalt.de hinzufügen. Sie könnne die Daten mit einer Skala versehen und bspw. die Zahlen pro Einwohner oder Erwerbstätigen Personen analysieren. Außerdem können Sie Haushaltsdaten in einem Text (unterhalb der Visualisierung) erklären. 
 
 * **Weiterentwicklung:** Die Projektseite von OffenerHaushalt ist natürlich freie Software (MIT-lizenziert) und [kann durch jeden weiterentwickelt werden](https://github.com/okfde/offenerhaushalt.de). Wir freuen uns über neue Funktionen, Analysemethoden oder Visualisierungsformen. Dabei lohnt auch der Blick in den [Issue Tracker](https://github.com/okfde/offenerhaushalt.de/issues).
 
