@@ -6,10 +6,10 @@ title: Kontakt und Impressum
 
 Für allgemeine Fragen und Vorschläge zur Seite steht die **[Mailingliste
 Offener-Haushalt](http://lists.okfn.org/mailman/listinfo/offener-haushalt)**
-bereit.
+bereit. 
 
-Pressekontakte oder persönliche Anfragen können auch direkt an die [Open
-Knowledge Foundation Deutschland](mailto:info@okfn.de) gerichtet werden.
+Pressekontakte oder persönliche Anfragen können direkt an die [Open
+Knowledge Foundation Deutschland](mailto:michael.peters@okfn.de) gerichtet werden.
 
 #### Hinweis zu ehrenamtlicher Arbeit
 
