@@ -1,6 +1,6 @@
 ---
 layout: budget2
-name: Gemeinde Gilching
+name: Gemeinde Gilching Verwaltungshaushalt
 slug: gilching
 url: /haushalt/gilching
 tagline: "Verwaltungshaushalt für Gemeinde Gilching 2015 - 2017."
