@@ -1,5 +1,5 @@
 {
-  "datapackage": "a6a16b964a7e784f99adecc47f26318a:moers2",
+  "datapackage": "a6a16b964a7e784f99adecc47f26318a:schleswig-holstein",
   "hierarchies": [
     {
       "datapackageHierarchy": "administrative_classification",
@@ -7,19 +7,24 @@
       "label": "Einzelplan"
     },
     {
+      "datapackageHierarchy": "functional_classification",
+      "url": "politikfelder",
+      "label": "Politikfelder"
+    },
+    {
       "datapackageHierarchy": "economic_classification",
-      "url": "institutionen",
-      "label": "Institutionen"
+      "url": "gruppen",
+      "label": "Gruppen"
     }
   ],
   "value": [
     {
-      "field": "Betrag.sum",
+      "field": "Wert.sum",
       "formatOptions": {
         "symbol": "",
         "decimal": ",",
         "thousand": ".",
-        "precision": "0",
+        "precision": "",
         "format": "%s%v",
         "postfix": " €",
         "grouping": 3
@@ -34,67 +39,34 @@
       "description": ""
     },
     {
-      "label": "Pro Einwohner (104.529)",
-      "number": "104529",
-      "description": "p. P."
-    },
-    {
-      "label": "Erwerbstätige Person (32.769)",
-      "number": "32769",
-      "description": "p. P."
-    },  
-    {
-      "label": "Pro 6-18 Jährige (11.014)",
-      "number": "11014",
-      "description": "p. P."
-    }        
+      "label": "Pro Einwohner (2.881.737)",
+      "number": "2881737",
+      "description": "p. E."
+    }
   ],
   "filters": {
-    "Betrag_Typ": {
-      "name": "value_kind_2.Betrag_Typ",
-      "label_ref": "value_kind_2.Betrag_Typ",
-      "ref": "value_kind_2",
-      "type": "string",
-      "default": true,
-      "defaultValue": "Plan",
-      "defaultLabel": "All",
-      "label": "Betrag_Typ",
-      "values": [
-        {
-          "value": "",
-          "label": "All"
-        },
-        {
-          "value": "Ist",
-          "label": "Ist"
-        },
-        {
-          "value": "Plan",
-          "label": "Plan"
-        }
-      ]
-    },
-    "HH Art": {
-      "name": "direction_2.HH_Art",
-      "label_ref": "direction_2.HH_Art",
+    "Art": {
+      "name": "direction_2.Art",
+      "label_ref": "direction_2.Art",
       "ref": "direction_2",
       "type": "string",
       "default": true,
-      "defaultValue": "Ausgaben",
+      "hasAll": false,
+      "defaultValue": "Ausgabe",
       "defaultLabel": "All",
-      "label": "HH Art",
+      "label": "Budget Richtung",
       "values": [
         {
           "value": "",
           "label": "All"
         },
         {
-          "value": "Ausgaben",
-          "label": "Ausgaben"
+          "value": "Ausgabe",
+          "label": "Ausgabe"
         },
         {
-          "value": "Einnahmen",
-          "label": "Einnahmen"
+          "value": "Einnahme",
+          "label": "Einnahme"
         }
       ]
     },
@@ -104,6 +76,7 @@
       "ref": "date_2",
       "type": "integer",
       "default": true,
+      "hasAll": false,
       "defaultValue": 2017,
       "defaultLabel": "All",
       "label": "Jahr",
