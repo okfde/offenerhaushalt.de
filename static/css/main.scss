@@ -233,18 +233,25 @@ footer {
   }
 
   .links {
-    list-style-type: none;
     margin: 0.5em 0 2em 0;
     padding: 0;
+    float: right;
+    ul {
+      list-style-image: url('/static/img/footer-list-arrow.svg');
+      column-count: 3;
+    }
   }
 
   .links li {
-    display: inline-block;
+    display: list-item;
     margin: 0 2em 1em 0;
+    a {
+      color: #8a97a6;
+    }
   }
 
   .pull-right .links li {
-    margin: 0 0 1em 2em;
+    //margin: 0 0 1em 2em;
   }
 }
 
