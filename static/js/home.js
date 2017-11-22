@@ -1,11 +1,26 @@
+$.fn.d3Click = function () {
+  this.each(function (i, e) {
+        var evt = new MouseEvent("click");
+            e.dispatchEvent(evt);
+  });
+};
+
 $(function() {
   var sites = JSON.parse($('#sites-data').html()),
   selectedState = null;
+  oldSelected = null;
 
   var $stateSelect = $('#selectState')
 
   $stateSelect.change(function (event) {
     var bundesland = $(this).val()
+
+    if (bundesland !== selectedState) {
+      var evt = new MouseEvent("click")
+      var mapPoly = d3.select('.subunit.' + bundesland).node()
+      selectStateOnMap(bundesland, mapPoly, true)
+    }
+
     $('#cities').load('/bundesland/' + bundesland)
   });
 
@@ -62,41 +77,51 @@ $(function() {
 //        }
 //      })
       .on("click", function(d) {
-        if (d.properties.code == selectedState) {
-          selectedState = null;
-          d3.selectAll('.subunit').style({'fill':'#555'});
-          renderListing(null);
-        } else {
-          selectedState = d.properties.code;
-          d3.selectAll('.subunit').style({'fill':'#555'});
-          d3.select(this).style({'fill':'#42928F'});
-          renderListing(d.properties);
-        }
-
+        var that = this
+        selectStateOnMap(d.properties.code, that, false)
       })
       .transition()
       .duration(400)
-      .style('fill', '#555');
+      .style('fill', '#7bdae3');
 
-    cities = $.grep(sites.sites, function(site){ return typeof site.coordinates !== "undefined"; });
-    svg.selectAll('circle')
-      .data(cities)
-      .enter()
-      .append('circle')
-      .attr("class", "city")
-      .attr("cx", function(site) {
-        return projection(site.coordinates)[0];
-      })
-      .attr("cy", function(site) {
-        return projection(site.coordinates)[1];
-      })
-      .attr("r", 4)
+  //   cities = $.grep(sites.sites, function(site){ return typeof site.coordinates !== "undefined"; });
+  //   svg.selectAll('circle')
+  //     .data(cities)
+  //     .enter()
+  //     .append('circle')
+  //     .attr("class", "city")
+  //     .attr("cx", function(site) {
+  //       return projection(site.coordinates)[0];
+  //     })
+  //     .attr("cy", function(site) {
+  //       return projection(site.coordinates)[1];
+  //     })
+  //     .attr("r", 4)
 //      .on("mouseover", function(d) {
 //        renderCity(d);
 //      })
-      .on("click", function(d) {
-        location.href = d.url;
-      });
+//      .on("click", function(d) {
+//        location.href = d.url;
+//      });
+  }
+
+  function selectStateOnMap(state, mapPoly, nochange) {
+     if (state == selectedState) {
+      selectedState = null;
+      d3.selectAll('.subunit').transition()
+                        .duration(400)
+                        .style({'fill':'#7bdae3'});
+      if (!nochange) selectState('');
+    } else {
+      selectedState = state;
+      d3.selectAll('.subunit').style({'fill':'#7bdae3'});
+      d3.select(mapPoly).transition().duration(400).style({'fill':'#42928F'});
+      if (!nochange) selectState(selectedState);
+    }
+  }
+
+  function selectState(state) {
+    $stateSelect.val(state).change();
   }
 
   function renderListing(state) {
