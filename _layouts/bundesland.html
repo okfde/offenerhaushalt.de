@@ -55,7 +55,7 @@ layout: city
       </div>
    </div>
    <div class="row">
-      <div class="letters">
+      <div class="letters-list">
         A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
       </div>
    </div>
@@ -63,8 +63,46 @@ layout: city
 </div>
 <div class="row cities-list">
   <ul>
+  {% assign letters = [] %}
+  {% assign cities_count = 0 %}
+  {% assign old_letter = '' %}
   {% for k in site.data.kommunen[page.code] %}
-    <li>{{ k }}</li>
+    {% assign cities_count = cities_count + 1 %}
+    {% assign city = k %}
+    {% assign letter = city | slice: 0 %}
+    {% if letter != old_letter %}
+      {% if forloop.index0 != 0 %}
+        {% assign cols_size = cs | size %}
+        {% if cols_size >= 15 %}
+        {% assign cols_size = cols_size | divided_by: 3 %}
+        {% else %}
+        {% assign cols_size = cols_size %}
+        {% endif %}
+        <div class="container letters">
+          <div class="letter-background">
+            {{ old_letter }}
+          </div>
+        {% for c in cs %}
+          {% if forloop.index > cols_size %}
+            {% assign cols_size = cols_size | plus: cols_size %}
+            </div>
+            <div class="letter-col col-xs-3 col-md-3">
+          {% endif %}
+          {% if forloop.index == 1 %}
+            <div class="letter-col first col-xs-3 col-md-3">
+          {% endif%}
+            {{ c }}
+            <p>
+        {% endfor %}
+          </div>
+        </div>
+      {% endif %}
+       {% assign cs = '' | split:'' | push: city %}
+      {% assign cities_count = 1 %}
+    {% else %}
+      {% assign cs = cs | push: city %}
+    {% endif %}
+    {% assign old_letter = letter %}
   {% endfor %}
   </ul>
 </div>

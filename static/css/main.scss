@@ -947,7 +947,7 @@ h1.page-header.site {
     }
   }
 
-  .letters {
+  .letters-list {
     padding: 13px 20px;
     float: right;
     background-color: #ffffff;
@@ -960,4 +960,28 @@ h1.page-header.site {
     text-align: left;
     color: #009d8e;
   }
+}
+
+.letters {
+  color: #0d9789;
+  min-height: 200px;
+
+  .letter-background {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    top: 0;
+    font-size: 180px;
+    line-height: 180px;
+    color: #ddffec;
+  }
+
+  .letter-col{
+    margin-top: 60px;
+    &.first {
+     margin-left: 60px;
+    }
+  }
+
+
 }
