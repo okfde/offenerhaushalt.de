@@ -1,5 +1,5 @@
 ---
-title: Das Projekt OffenerHaushalt.de
+title: Über Finanzdaten
 ---
 
 ## Die Herausforderung
@@ -9,7 +9,7 @@ Die zentrale Aufgabe eines Parlaments - sei es ein Stadtrat, Landesparlament, od
 Hier setzt unser Projekt OffenerHaushalt.de an: wir wollen die Frage, wieviel Geld der Staat wofür ausgibt, im Detail beantworten. Durch unsere Darstellungen werden die komplexen Daten des Bundeshaushalts und verschiedener Haushalte auf Landes- und Kommunalebene grafisch erschlossen und zudem in offenen und wiederverwendbaren Dateiformaten zugänglich gemacht. So können die Informationen ausgewertet, visualisiert, und ins Verhältnis zu anderen Daten gesetzt werden. 
 
 
-## Unser Ansatz
+## Lexikon 
 
 OffenerHaushalt.de ist ein ehrenamtliches Projekt der Open Knowledge Foundation Deutschland, welches nur mit Hilfe unserer Community möglich ist. Interessierte Bürger können fehlende Haushaltsdaten Ihrer lokalen Kommunen über unser Portal ‘fragdenstaat.de’ anfragen und auf Offenerhaushalt.de hochladen. 
 
