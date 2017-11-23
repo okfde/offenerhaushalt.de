@@ -3,7 +3,7 @@ title: Offene Haushaltsdaten
 layout: page
 ---
 
-OffenerHaushalt ist ein ehrenamtlich organisiertes Projekt, alle Arbeit wird von Freiwilligen erledigt. Wir sind daher auf Ihre Unterstützung angewiesen: entweder durch Ihre Teilnahme, oder durch [Spenden](http://beta.offenerhaushalt.de/page/intro.html), die den Betrieb der Seite ermöglichen.
+OffenerHaushalt.de ist ein ehrenamtlich organisiertes Projekt, alle Arbeit wird von Freiwilligen erledigt. Wir sind daher auf Ihre Unterstützung angewiesen: entweder durch Ihre Teilnahme, oder durch [Spenden](http://beta.offenerhaushalt.de/page/intro.html), die den Betrieb der Seite ermöglichen.
 
 ## Wie kann ich mitmachen?
 
