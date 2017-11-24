@@ -2,6 +2,8 @@
 title: Über Finanzdaten
 ---
 
+Finanzdaten wirken häufig trocken und langweilig, obwohl sie für die Beantwortung vieler politischer Fragestellung höchstrelevant sind. So liefern Haushaltsdaten beispielsweise die Informationen darüber wie viel Geld in einer Stadt für Bildung ausgegeben wird,  
+
 ## Die Herausforderung
 
 Die zentrale Aufgabe eines Parlaments - sei es ein Stadtrat, Landesparlament, oder der Bundestag - ist die Aufstellung und Debatte eines Haushalts. Dieser essentielle politische Prozess entscheidet, welche Tätigkeiten der Staat ausführen kann, und welche Leistungen nicht bereitgestellt werden können. Trotz ihrer fundamentalen Relevanz werden Haushaltspläne von vielen Bürgern als unverständliche, technische Dokumente verstanden. Ein wesentlicher Aspekt politischer Arbeit bleibt damit für viele verschlossen.
