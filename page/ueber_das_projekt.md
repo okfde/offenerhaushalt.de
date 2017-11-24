@@ -1,5 +1,5 @@
 ---
-title: Offene Haushaltsdaten
+title: Über das Projekt 
 layout: page
 ---
 
@@ -9,9 +9,9 @@ Die zentrale Aufgabe eines Parlaments - sei es ein Stadtrat, Landesparlament, od
 
 Hier setzt unser Projekt OffenerHaushalt.de an: wir wollen die Frage, wieviel Geld der Staat wofür ausgibt, im Detail beantworten. Durch unsere Darstellungen werden die komplexen Daten des Bundeshaushalts und verschiedener Haushalte auf Landes- und Kommunalebene grafisch erschlossen und zudem in offenen und wiederverwendbaren Dateiformaten zugänglich gemacht. So können die Informationen ausgewertet, visualisiert, und ins Verhältnis zu anderen Daten gesetzt werden. 
 
-## Lexikon 
+## Community Projekt  
 
-OffenerHaushalt.de ist ein ehrenamtliches Projekt der Open Knowledge Foundation Deutschland, welches nur mit Hilfe unserer Community möglich ist. Interessierte Bürger können fehlende Haushaltsdaten Ihrer lokalen Kommunen über unser Portal ‘fragdenstaat.de’ anfragen und auf Offenerhaushalt.de hochladen, visualisieren und überall einbetten. 
+OffenerHaushalt.de ist ein ehrenamtliches Projekt der Open Knowledge Foundation Deutschland, welches nur mit Hilfe unserer Community möglich ist. Interessierte Bürger können fehlende Haushaltsdaten Ihrer lokalen Kommunen über unser Portal ‘fragdenstaat.de’ anfragen und auf Offenerhaushalt.de hochladen, visualisieren und überall einbetten. In Deutschland gibt es über 11.000 Kommunen um die Haushaltsdaten für alle Kommunen zu visualisieren brauchen wir eure Unterstützung. Wir Ihr euch am besten einbringen könnt erfahrt Ihr hier [mitmachen](http://beta.offenerhaushalt.de//page/mitmachen.html).
 
 Im Rahmen des “DatenmachenSchule” Projektes von Open NRW gemeinsam mit der Stadt Moers, haben wir die Plattform OffenerHaushalt.de neugestaltet, damit diese zielgerichtet auch im Unterricht angewendet werden kann. So wurden neue Funktionalitäten eingebaut, wie die Ansicht der Ausgaben pro Einwohner oder pro Erwerbstätiger Person. Zusätzlich zu den Haushaltsprodukten haben wir einen thematischen Zugang zum Haushalt geschaffen über die Aufteilung der  Stadtverwaltung selbst (Beigeordnete, Bürgermeister) und die zugeordneten Fachbereiche (Jugend, Schule und Sport, Soziales Senioren und Wohnen). 
 
