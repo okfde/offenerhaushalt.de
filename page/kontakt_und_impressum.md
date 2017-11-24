@@ -1,5 +1,5 @@
 ---
-title: Kontakt und Impressum
+title: Impressum
 ---
 
 ## Kontakt
