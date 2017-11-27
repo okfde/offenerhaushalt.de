@@ -164,6 +164,9 @@ hr {
         color: #4b5f73;
         display: inline;
       }
+      & > a:hover {
+        background-color: #E5E7E8;
+      }
       &.spendet {
         & > a {
           background-color:#ff0035;
