@@ -817,6 +817,14 @@ h1.page-header.site {
    color: white;
    padding: 16px;
    margin-right: 16px;
+   -webkit-transition: background-color 1s ease-out;
+   -moz-transition: background-color 1s ease-out;
+   -o-transition: background-color 1s ease-out;
+   transition: background-color 1s ease-out;
+}
+
+.blue-button:hover{
+   background-color: #009EB6;
 }
 
 .green-button {
@@ -824,7 +832,16 @@ h1.page-header.site {
    color: white;
    padding: 16px;
    margin-right: 16px;
+   -webkit-transition: background-color 1s ease-out;
+   -moz-transition: background-color 1s ease-out;
+   -o-transition: background-color 1s ease-out;
+   transition: background-color 1s ease-out;
 }
+
+.green-button:hover{
+   background-color: #008A5B;
+}
+
 
 .help-block {
    height: 370px;
