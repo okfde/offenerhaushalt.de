@@ -335,6 +335,10 @@ footer {
     margin-right: 38px;
     margin-bottom: 0;
     font-weight: bold;
+    -webkit-transition: background-color 0.5s ease-out;
+    -moz-transition: background-color 0.5s ease-out;
+    -o-transition: background-color 0.5s ease-out;
+    transition: background-color 0.5s ease-out;
     i {
        margin-right: 10px;
     }
@@ -342,10 +346,6 @@ footer {
 
   li:hover {
      border-bottom: 4px solid  #bfffe6;
-     -webkit-transition: background-color 0.5s ease-out;
-     -moz-transition: background-color 0.5s ease-out;
-     -o-transition: background-color 0.5s ease-out;
-     transition: background-color 0.5s ease-out;
   }
 }
 
