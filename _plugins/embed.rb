@@ -16,7 +16,7 @@ module Jekyll
       end
 
       # PATCH(offenerhaushalt): budget layout is root
-      return url if layout_path == 'budget'
+      return url if layout_path == 'budget2'
 
       if ext.empty?
         "#{url}/#{layout_path}/"
@@ -27,7 +27,7 @@ module Jekyll
   end
 
   class CollectionLayoutsGenerator
-    LAYOUTS = ['budget', 'embed']
+    LAYOUTS = ['budget2', 'embed']
 
     def generate(site)
       site.collections.each do |_, collection|
