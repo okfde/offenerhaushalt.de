@@ -817,14 +817,16 @@ h1.page-header.site {
    color: white;
    padding: 16px;
    margin-right: 16px;
-   -webkit-transition: background-color 1s ease-out;
-   -moz-transition: background-color 1s ease-out;
-   -o-transition: background-color 1s ease-out;
-   transition: background-color 1s ease-out;
+   -webkit-transition: background-color 0.5s ease-out;
+   -moz-transition: background-color 0.5s ease-out;
+   -o-transition: background-color 0.5s ease-out;
+   transition: background-color 0.5s ease-out;
 }
 
 .blue-button:hover{
    background-color: #009EB6;
+   color: white;
+   text-decoration: none;
 }
 
 .green-button {
@@ -832,14 +834,16 @@ h1.page-header.site {
    color: white;
    padding: 16px;
    margin-right: 16px;
-   -webkit-transition: background-color 1s ease-out;
-   -moz-transition: background-color 1s ease-out;
-   -o-transition: background-color 1s ease-out;
-   transition: background-color 1s ease-out;
+   -webkit-transition: background-color 0.5s ease-out;
+   -moz-transition: background-color 0.5s ease-out;
+   -o-transition: background-color 0.5s ease-out;
+   transition: background-color 0.5s ease-out;
 }
 
 .green-button:hover{
    background-color: #008A5B;
+   color: white;
+   text-decoration: none;
 }
 
 
