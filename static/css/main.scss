@@ -163,9 +163,14 @@ hr {
         text-align: left;
         color: #4b5f73;
         display: inline;
+        -webkit-transition: background-color 0.5s ease-out;
+        -moz-transition: background-color 0.5s ease-out;
+        -o-transition: background-color 0.5s ease-out;
+        transition: background-color 0.5s ease-out;
       }
       & > a:hover {
         background-color: #E5E7E8;
+        color: #112233;
       }
       &.spendet {
         & > a {
