@@ -32,6 +32,10 @@ collections:
   haushalte:
     output: true
     permalink: /haushalt/:name/
+  embed:
+    output: true
+    permalink: /haushalt/:name/embed
+ 
  
 # Build settings
 markdown: kramdown
@@ -70,6 +74,12 @@ defaults:
       type: haushalte
     values:
       layout: budget
+  -
+    scope:
+      path: "_embed"
+    values:
+      layout: embed
+#
 #
 # We use the embed plugin here to generate the same pages
 # with the embed layout again

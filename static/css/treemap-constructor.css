@@ -2109,5 +2109,17 @@ to{opacity:1;-webkit-transform:none;transform:none}
 .tooltip.is-dashed{border-bottom:1px dashed #b5b5b5;cursor:default}
 .tooltip.is-square:after{border-radius:0}
 .tooltip.is-animated:after,.tooltip.is-animated:before{transition:opacity 86ms ease-out,visibility 86ms ease-out}
+.treemap-tooltip {
+  position: absolute;
+  text-align: center;
+  padding: 10px;
+  font: 12px sans-serif;
+  background: #eee;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+  z-index: 10;
+  display: block;
+}
 
 /*# sourceMappingURL=app.css.map*/

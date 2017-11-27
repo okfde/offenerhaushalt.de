@@ -8,7 +8,7 @@
 @import 'bootstrap.scss';
 @import 'fontawesome/font-awesome.scss';
 
-$bgColor: #112339;
+$bgColor: white;
 $linkColor: #265475;
 $brandColor: #42928F;
 
@@ -18,6 +18,18 @@ html {
 
 .fa {
   font-size: 13px;
+}
+
+.row.embed {
+   max-width: none;
+   .budget-page.embed {
+     margin-top: 0;
+     #app {
+       .treemap-content {
+         max-width: none;
+       }
+     }
+   }
 }
 
 body {
@@ -217,13 +229,33 @@ hr {
   }
 }
 
+.account-block {
+  &:hover {
+      opacity: 0.3;
+      filter: alpha(opacity=30);
+  }
+}
+
+.kameralistik-help.account-help {
+  padding: 30px;
+  background-color: rgba(169, 244, 255, 0.5);
+}
+
+.doppik-help.account-help {
+  padding: 30px;
+  background-color: rgba(0,0,0, 0.05);
+}
+
+
+
+
 /* Footer */
 
 footer {
   /*border-top: 1px solid #e0e0e0;*/
   border-top: 1px solid #ccc;
   padding: 30px 54px;
-  background-color: $bgColor;
+  background-color: #112339;
   font-size: 0.9em;
   color: #8a97a6;
   margin-top: 120px;
@@ -278,12 +310,17 @@ footer {
   bottom: 0;
   right: 0;
   margin-bottom: -1px;
-  display: inline;
+  display: flex;
   border-bottom: 1px solid #eee;
+  list-style: none;
 
   li {
     margin-right: 38px;
+    margin-bottom: 0;
     font-weight: bold;
+    i {
+       margin-right: 10px;
+    }
   }
 
   li:hover {
@@ -291,7 +328,7 @@ footer {
   }
 }
 
-#search {
+#search-input {
   margin-top: 22px;
   border-radius: 2px;
   border: none;
@@ -545,6 +582,7 @@ h1.page-header.site {
 #embed-code {
   white-space: pre-line;
   display: block;
+  clear: both;
 }
 
 .hierarchies {
@@ -857,8 +895,21 @@ h1.page-header.site {
   color: #112233;
 }
 
+#search-back-button {
+  background-color: #f5f7fa;
+  padding: 10px;
+  border: 1px solid rgba(0,0,0,0.3);
+  float: right;
+  margin-top: 20px;
+  cursor: pointer;
+  &:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+  }
+}
+
 .cities-list {
-  margin-top: 97px;
+  margin-top: 20px;
   margin-bottom: 97px;
 
   h1 {
@@ -952,6 +1003,7 @@ h1.page-header.site {
     float: right;
     background-color: #ffffff;
     border: solid 2px #098480;
+    a {
     font-family: Roboto;
     font-size: 18px;
     font-weight: 500;
@@ -959,6 +1011,7 @@ h1.page-header.site {
     letter-spacing: 5px;
     text-align: left;
     color: #009d8e;
+    }
   }
 }
 
@@ -967,9 +1020,10 @@ h1.page-header.site {
   min-height: 200px;
 
   .letter-background {
-    position: absolute;
+    position: relative;
     padding: 0;
     margin: 0;
+    margin-bottom: -50%;
     top: 0;
     font-size: 180px;
     line-height: 180px;
@@ -982,6 +1036,8 @@ h1.page-header.site {
      margin-left: 60px;
     }
   }
+}
 
-
+#embed-treemap {
+   float: left;
 }

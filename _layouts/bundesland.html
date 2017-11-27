@@ -2,9 +2,49 @@
 layout: city
 ---
 
+{% assign cities = site.haushalte | where: "state", page.code %}
+{% assign cities = cities | where: "level", "kommune" %}
+
+{% if page.code == 'DE' %}
+
+Bundesland
+
+{% else %}
+<div class="row">
+  <div class="col-xs-12 col-md-12">
+    <div id="search-back-button"><img src="/static/img/mini-map.png">Wählen Sie</div>
+  </div>
+</div>
 <div class="row">
   <div class="cities-list col-xs-12 col-md-12">
     <h1>{{ page.land }}</h1>
+    <p>
+    <input id="search-input" name="search" placeholder="Ort eingeben">
+    <script type="text/javascript">
+      $('#search-back-button').click(function () {
+        $('#map-selector').slideDown(400)
+      })
+
+      var options = {
+        data: [{% for k in site.data.kommunen[page.code] %}
+               "{{k}}"{% if forloop.last == false %}, {% endif %}
+              {% endfor %}
+        ],
+        list: {
+          maxNumberOfElements: 8,
+          match: {
+            enabled: true
+          },
+          onLoadEvent: function (evt) {
+           console.log(evt)
+          }
+        }
+      }
+
+      $('#search-input').easyAutocomplete(options);
+    </script>
+
+    </p>
     <div class="bundesland-box">
       <div class="name">
         <h2> {{ page.land }}</h2>
@@ -22,8 +62,6 @@ layout: city
         {% endfor %}
       {% endif %}
     </div>
-    {% assign cities = site.haushalte | where: "state", page.code %}
-    {% assign cities = cities | where: "level", "kommune" %}
     {% assign cities_size = cities | size %}
     {% if cities_size > 0 %}
     <hr>
@@ -56,7 +94,7 @@ layout: city
    </div>
    <div class="row">
       <div class="letters-list">
-        A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+        <a href="#A">A</a> <a href="#B">B</a> <a href="#C">C</a> <a href="#D">D</a> <a href="#E">E</a> <a href="#F">F</a> <a href="#G">G</a> <a href="#H">H</a> <a href="#I">I</a> <a href="#J">J</a> <a href="#K">K</a> <a href="#L">L</a> <a href="#M">M</a> <a href="#N">N</a> <a href="#O">O</a> <a href="#P">P</a> <a href="#Q">Q</a> <a href="#R">R</a> <a href="#S">S</a> <a href="#T">T</a> <a href="#U">U</a> <a href="#V">V</a> <a href="#W">W</a> <a href="#X">X</a> <a href="#Y">Y</a> <a href="#Z">Z</a>
       </div>
    </div>
   </div>
@@ -80,7 +118,7 @@ layout: city
         {% endif %}
         <div class="container letters">
           <div class="letter-background">
-            {{ old_letter }}
+            <span id="{{old_letter}}">{{ old_letter }}</span>
           </div>
         {% for c in cs %}
           {% if forloop.index > cols_size %}
@@ -106,4 +144,5 @@ layout: city
   {% endfor %}
   </ul>
 </div>
+{% endif %}
 {% endif %}

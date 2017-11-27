@@ -2,6 +2,7 @@
 layout: default
 title: Hilfestellung
 permalink: /hilfestellung/2/
+script_include: help
 ---
 {% include relative-baseurl.html %}
 
@@ -66,18 +67,101 @@ permalink: /hilfestellung/2/
       <h4>Ab jetzt gibt es Unterschiede zwischen zwei Haushaltstypen.  Bitte wählen Sie aus:</h4>
       <div class="row step-2-blocks">
         <div class="left-block col-xs-6 col-md-6">
-            <div class="block-content">
+            <div id="kameralistik-block" class="account-block block-content">
               <h4>Kameralistik-Haushalt</h4>
               Das trifft zu, wenn Sie einen Haushalt für Bund, Land, oder Kommune in Bayern oder BaWü haben.
             </div>
         </div>
         <div class="right-block col-xs-6 col-md-6">
-            <div class="block-content">
+            <div id="doppik-block" class="account-block block-content">
               <h4>Kameralistik-Haushalt</h4>
               Das trifft zu, wenn Sie einen Haushalt einer Kommune aller anderen Bundesländer haben.
             </div>
         </div>
       </div>
+      <div class="doppik-help account-help" style="display: none">
+        <p>
+        <a href="http://offenerhaushalt.de/haushalt/moers/#/administrative_classification?Betrag_Typ=Plan&HH%20Art=Aufwendungen&Jahr=2017">Beispielvisualisierung Doppik Stadt Moers</a>
+        </p>
+        
+        
+        <h3>Bezeichnungen:</h3>
+        
+        <p>
+        In der Doppik werden die Bezeichnungen nur nach einer
+        Klassifizierung, den Institutionen aufgelistet. Das Buchhaltungssystem
+        [Doppik](https://www.haushaltssteuerung.de/lexikon-doppik.html) nutzt das
+        Prinzip der doppelten Buchhaltung und wurde in einem Großteil der Bundesländer
+        implementiert . 
+        </p>
+        
+        <p>
+        Administrative Klassifizierung (Institutionen) - Bezeichnungen häufig:
+        </p>
+        
+        <ol>
+          <li>Profitcenter</li> 
+          <li>Kontengruppe </li> 
+          <li>Kostenart </li> 
+        </ol>
+        
+        <h3>Codes</h3>
+        
+        <p>
+        Zusätzlich zu den Bezeichnungen finden sich in den Daten häufig Zahlen,
+        die auf einen Haushaltstitel hinweisen. Sprich es gibt eine Zahl in der Spalte
+        (Einzelplan) “1” und diese weist immer auf die (Einzelplanbezeichnung)
+        “Abgeordnetenhaus” hin. Die Codes sind somit numerische Hinweise auf die
+        Bezeichnungen und doppeln die Informationen.
+        </p>
+      </div>
+      <div class="kameralistik-help account-help" style="display: none">
+        <h3>Titel / Bezeichnungen</h3>
+        
+        <p>In der Kameralistik werden zusätzlich zu den
+        Bezeichnungen nach Institutionen auch anhand eines Gruppierungsplans und eines
+        Funktionenplans strukturiert. Der Gruppierungsplan ordnet die Titel des
+        Haushaltes dabei nach der Art der Ausgabe, wie zum Beispiel Personalausgaben,
+        im Funktionenplan sind die Titel nach den Aufgaben geordnet, die der Staat
+        damit erfüllt.
+        </p>
+        
+        <p>
+        Administrative Klassifizierung (Institutionen) - Bezeichnungen häufig:</p>
+        
+        <ol>
+        
+        <li>Einzelplan</li>
+        <li> Kapitel</li>
+        <li> Titel / Finanzposition</li>
+        </ol>
+        
+        
+        <p>Funktionalen Klassifizierung (Politikfelder) - Bezeichnungen häufig:</p>
+        
+        <ol>
+        <li>Hauptfunktion</li><li> Oberfunktion</li><li> Funktion</li>
+        </ol>
+        
+        <p>Ökonomische Klassifizierung (Gruppen) - Bezeichnungen häufig:</p>
+        
+        <ol>
+         <li>Hauptgruppe</li>
+         <li>Obergruppe</li>
+         <li>Gruppe</li>
+        </ol>
+        
+        <h3>Codes</h3>
+        
+        <p>
+        Zusätzlich zu den Bezeichnungen finden sich in den Daten häufig Zahlen,
+        die auf einen Haushaltstitel hinweisen. Sprich es gibt eine Zahl in der Spalte
+        (Einzelplan) “1” und diese weist immer auf die (Einzelplanbezeichnung)
+        “Abgeordnetenhaus” hin. Die Codes sind somit numerische Hinweise auf die
+        Bezeichnungen und doppeln die Informationen. 
+        </p>
+      </div>
+
       <h4>Bezeichnungen</h4>
       <p>
       In der Kameralistik werden zusätzlich zu den Bezeichnungen nach Institutionen

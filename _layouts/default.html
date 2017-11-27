@@ -4,11 +4,14 @@ layout: basic
 {% include relative-baseurl.html %}
 
 <div id="page">
+  {% unless page.url contains 'embed' %}
   {% include announcement.html %}
   {% include nav.html %}
+  {% endunless %}
   <div class="container">
       {{ content }}
   </div>
 </div>
-
+{% unless page.url contains 'embed' %}
 {% include footer.html %}
+{% endunless %}

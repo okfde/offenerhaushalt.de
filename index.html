@@ -17,7 +17,7 @@ script_include: home
         </div>
       </div>
     </div>
-    <div class="container gray">
+    <div id="map-selector" class="container gray">
       <div class="row map">
         <div class="col-xs-12 col-md-7">
           <p class="claim">
@@ -34,9 +34,6 @@ script_include: home
               <option value="{{ bundesland['code'] }}">{{ bundesland['name'] }}</option>
               {% endfor %}
             </select>
-            <p>
-            <input id="search" name="search" placeholder="Ort eingeben">
-            </p>
           </div>
           <div id="listing"></div>
         </div>
@@ -46,6 +43,7 @@ script_include: home
       </div>
     </div>
     <div id="cities" class="container">
+      {% include bund.html %}
     </div>
     </div>
 </div>

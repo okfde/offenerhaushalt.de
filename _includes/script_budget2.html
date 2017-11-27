@@ -1,8 +1,16 @@
-<script type=text/javascript src="{{ relative-baseurl }}static/js/dptreemap.js"></script>
+<link rel="stylesheet" href="{{ relative-baseurl }}static/css/app.css" />
+<script src="/static/js/dep.js"></script>
+<script type=text/javascript src="/static/js/dptreemap.js"></script>
 <script type=text/javascript>
 
   var config = {{ site.data.config[page.config] | jsonify }}
+  var embedCode = $('#embed-code')
 
   dpvis.treemap('#treemap-budget', config)
 
+  $('#embed-button').click(function () {
+    $('#embed-code').toggle(400)
+  })
+
+  $("#download").append($("#embed-treemap"))
 </script>

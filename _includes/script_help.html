@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="{{ relative-baseurl }}static/css/easy-autocomplete.css" />
 <script src="{{ relative-baseurl }}static/js/dep.js"></script>
-<script src="{{ relative-baseurl }}static/js/jquery.easy-autocomplete.min.js"></script>
 <script id="sites-data" type="application/json">
   {
     "sites": [
@@ -19,3 +17,16 @@
   }
 </script>
 <script src="{{ relative-baseurl }}static/js/home.js"></script>
+<script type="text/javascript">
+  $(function () {
+    $('#kameralistik-block').click(function () {
+      $('.doppik-help').hide(400)
+      $('.kameralistik-help').slideToggle(400)
+    })
+    $('#doppik-block').click(function () {
+      $('.kameralistik-help').hide()
+      $('.doppik-help').slideToggle(400)
+    })
+ 
+  })
+</script>

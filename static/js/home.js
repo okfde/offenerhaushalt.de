@@ -21,7 +21,15 @@ $(function() {
       selectStateOnMap(bundesland, mapPoly, true)
     }
 
-    $('#cities').load('/bundesland/' + bundesland)
+    if (!bundesland) {
+      bundesland = ''
+    }
+    $('#cities').load('/bundesland/' + bundesland,
+      function () {
+        if (bundesland !== '')
+          $('#map-selector').slideUp(400);
+      }
+    )
   });
 
   var $map = $('#map'),
