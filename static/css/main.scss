@@ -56,6 +56,7 @@ h1, h2, h3, h4, h5 {
 
 h1 {
   font-size: 1.8em;
+  margin-top: 60px
 }
 
 h2 {
@@ -94,7 +95,7 @@ hr {
     line-height: 1.17;
     text-align: left;
     color: #000000;
-    max-width: 417px;
+    max-width: 520px;
     img {
        position: absolute;
        bottom: 0;
@@ -163,12 +164,24 @@ hr {
         text-align: left;
         color: #4b5f73;
         display: inline;
+        -webkit-transition: background-color 0.5s ease-out;
+        -moz-transition: background-color 0.5s ease-out;
+        -o-transition: background-color 0.5s ease-out;
+        transition: background-color 0.5s ease-out;
+      }
+      & > a:hover {
+        background-color: #E4E4E4;
+        color: #4b5f73;
       }
       &.spendet {
         & > a {
           background-color:#ff0035;
           color: white;
         }
+        & > a:hover {
+          background-color: #DA0330;
+          color: white;
+      }
       }
 
 
@@ -278,7 +291,12 @@ footer {
     display: list-item;
     margin: 0 2em 1em 0;
     a {
-      color: #8a97a6;
+      color: #8A97A6;
+      text-decoration: none;
+    }
+    a:hover {
+      color: white;
+      text-decoration: none;
     }
   }
 
@@ -318,6 +336,10 @@ footer {
     margin-right: 38px;
     margin-bottom: 0;
     font-weight: bold;
+    -webkit-transition: background-color 0.5s ease-out;
+    -moz-transition: background-color 0.5s ease-out;
+    -o-transition: background-color 0.5s ease-out;
+    transition: background-color 0.5s ease-out;
     i {
        margin-right: 10px;
     }
@@ -449,8 +471,7 @@ footer {
 h1.page-header {
   text-align: left;
   margin-top: 0;
-  text-transform: uppercase;
-  font-weight: 300;
+  font-weight: 400;
 
   small {
     font-size: 0.6em;
@@ -641,10 +662,12 @@ h1.page-header.site {
    }
 
    h2 {
-     color: #546779;
+     color: #112233;
      max-width: 400px;
-     font-size: 16px;
+     font-size: 24px;
      margin-bottom: 10px;
+     font-weight: 400;
+     margin-top: 50px;
    }
 
    h3 {
@@ -663,6 +686,7 @@ h1.page-header.site {
    p {
       max-width: 700px;
       margin-bottom: 20px;
+      line-height: 1.6em;
    }
 
    .link-buttons {
@@ -722,6 +746,13 @@ h1.page-header.site {
         color: black;
         padding: 20px 30px;
      }
+     
+     .next-step:hover {
+        background-color: #E2E2E2;
+        text-decoration: none;
+        color: black;
+     }
+     
    }
 
    .gray-block {
@@ -817,6 +848,16 @@ h1.page-header.site {
    color: white;
    padding: 16px;
    margin-right: 16px;
+   -webkit-transition: background-color 0.5s ease-out;
+   -moz-transition: background-color 0.5s ease-out;
+   -o-transition: background-color 0.5s ease-out;
+   transition: background-color 0.5s ease-out;
+}
+
+.blue-button:hover{
+   background-color: #009EB6;
+   color: white;
+   text-decoration: none;
 }
 
 .green-button {
@@ -824,6 +865,16 @@ h1.page-header.site {
    color: white;
    padding: 16px;
    margin-right: 16px;
+   -webkit-transition: background-color 0.5s ease-out;
+   -moz-transition: background-color 0.5s ease-out;
+   -o-transition: background-color 0.5s ease-out;
+   transition: background-color 0.5s ease-out;
+}
+
+.green-button:hover{
+   background-color: #008A5B;
+   color: white;
+   text-decoration: none;
 }
 
 .bluegreen-button {
@@ -885,15 +936,25 @@ h1.page-header.site {
 
       .help-step-link {
         background-color: #61f2ff;
-        color: black;
+        color: white;
         display: block;
         font-weight: bold;
         max-width: 250px;
-        padding: 5px 10px;
+        padding: 8px 20px;
         font-family: Roboto;
-        font-size: 18px;
+        font-size: 15px;
         font-weight: 500;
         line-height: 1.56;
+        -webkit-transition: background-color 0.5s ease-out;
+        -moz-transition: background-color 0.5s ease-out;
+        -o-transition: background-color 0.5s ease-out;
+        transition: background-color 0.5s ease-out;
+      }
+     
+     .help-step-link:hover {
+       background-color: #009EB6;
+       color: white;
+       text-decoration: none;
       }
    }
 }
