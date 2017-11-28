@@ -5,7 +5,7 @@ layout: page
 
 Um Haushaltsdaten bei Offenerhaushalt.de visualisieren zukönnen, müssen die Daten einige Kriterien erfüllen. Zur Orientierung finden Sie hier unseren idealtypischen Datensatz zum [Download](https://github.com/okfde/offenerhaushalt.de/blob/dev/_haushalte/standard-datensatz-ohh.csv).  
 
-Gerne wollen wir gemeinsam mit kommunalen Verwaltungen einen Standard für Haushaltsdaten in Deutschland entwickeln. Sie können dafür mit uns über unsere [Mailingliste] in den Austausch treten. 
+Gerne wollen wir gemeinsam mit kommunalen Verwaltungen einen Standard für Haushaltsdaten in Deutschland entwickeln. Sie können dafür mit uns über unsere [Mailingliste](https://lists.okfn.org/mailman/listinfo/offener-haushalt) in den Austausch treten. 
 
 Auf Grund der unterschiedlichen verwendeten Software in den kommunalen Verwaltungen, haben wir nicht immer Detailwissen über die jeweiligen Exportfunktionen für Haushaltsdaten. Hier zählen wir auf die Unterstützung von Verwaltungsmitarbeitern, Sie können die Informationen welche Software sie verwenden in unsere Liste (hier) eintragen, dies fördert 
 den Austausch über einen Datenstandard. 
