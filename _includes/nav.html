@@ -26,9 +26,21 @@
     </div>
  </div>
     <ul class="navbar right-nav">
+      {% if page.url == '/' %}
       <li>{%icon fa-search %}Datensatz finden</li>
-      <li><a href="{{ relative-baseurl }}/hinzufuegen/">{%icon fa-plus %} Datensatz hinzufügen</a></li>
-      <li><a href="{{ relative-baseurl }}/hilfestellung/">{%icon fa-life-ring %} Hilfestellung</a></li>
+      {% else %}
+      <li><a href="{{ relative-baseurl }}">{%icon fa-search %}Datensatz finden</a></li>
+      {% endif %}
+      {% if page.url contains 'hinzufuegen' %}
+      <li>{%icon fa-plus %} Datensatz hinzufügen</li>
+      {% else %}
+      <li><a href="{{ relative-baseurl }}hinzufuegen/">{%icon fa-plus %} Datensatz hinzufügen</a></li>
+      {% endif %}
+      {% if page.url contains 'hilfestellung' %}
+      <li class="active">{%icon fa-life-ring %} Hilfestellung</li>
+      {% else %}
+      <li><a href="{{ relative-baseurl }}hilfestellung/">{%icon fa-life-ring %} Hilfestellung</a></li>
+      {% endif %}
     </ul>
 </nav>
 

@@ -1,6 +1,7 @@
 ---
 layout: budget2
-name: Stadt Moers 
+name: Stadt Moers
+real_name: Moers
 slug: Moers
 url: /haushalt/Moers
 tagline: "Kommunalhaushalt für Moers 2015 - 2017."

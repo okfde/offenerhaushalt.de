@@ -2,14 +2,22 @@
 layout: city
 ---
 
-{% assign cities = site.haushalte | where: "state", page.code %}
-{% assign cities = cities | where: "level", "kommune" %}
+{% assign landcities = site.haushalte | where: "state", page.code %}
+{% assign cities = landcities | where: "level", "kommune" %}
 
 {% if page.code == 'DE' %}
 {% else %}
+<script type="text/javascript">
+  var cities = {
+    {% for c in landcities %}
+      "{{c.name}}": "{{c.url}}"{% unless forloop.last == true %},{% endunless %}
+    {% endfor %}
+  }
+
+</script>
 <div class="row">
   <div class="col-xs-12 col-md-12">
-    <div id="search-back-button"><img src="/static/img/mini-map.png">Wählen Sie</div>
+    <div class="search-back-button"><img src="/static/img/mini-map.png">Wählen Sie</div>
   </div>
 </div>
 <div class="row">
@@ -18,25 +26,44 @@ layout: city
     <p>
     <input id="search-input" name="search" placeholder="Ort eingeben">
     <script type="text/javascript">
-      $('#search-back-button').click(function () {
+      $('.search-back-button').click(function () {
         $('#map-selector').slideDown(400)
       })
+
+      var citiesDiv = $('#cities')
+      var searchResultsDiv = $('#search-results')
 
       var options = {
         data: [{% for k in site.data.kommunen[page.code] %}
                "{{k}}"{% if forloop.last == false %}, {% endif %}
               {% endfor %}
-        ],
+       ].concat([{% for c in landcities %}"{{c.name}}"{% unless forloop.last == true %},{% endunless %}{% endfor %}]),
         list: {
           maxNumberOfElements: 8,
           match: {
-            enabled: true
+            enabled: true,
+            method: function(element, phrase) {
+              return (element.lastIndexOf(phrase, 0) === 0);
+            }
           },
-          onLoadEvent: function (evt) {
-           console.log(evt)
+          onChooseEvent: function () {
+            var city = $('#search-input').getSelectedItemData()
+
+              if (cities.hasOwnProperty(city)) {
+                var cityUrl = cities[city]
+                window.location.href = window.location.origin + cityUrl
+              } else {
+                $('#cities').toggle()
+                $('#search-city-name').text(city)
+                $('#search-results').toggle(400);
+              }
           }
         }
       }
+      $('.close-search').click(function () {
+        $(this).parents('#search-results').toggle()
+        citiesDiv.toggle()
+      })
 
       $('#search-input').easyAutocomplete(options);
     </script>

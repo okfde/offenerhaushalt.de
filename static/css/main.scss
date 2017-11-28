@@ -826,6 +826,14 @@ h1.page-header.site {
    margin-right: 16px;
 }
 
+.bluegreen-button {
+   background-color: #5bc7cf;
+   color: white;
+   padding: 16px;
+   margin-right: 16px;
+   display: inline-block;
+}
+
 .help-block {
    height: 370px;
    background-color: #f1f3f4;
@@ -900,7 +908,7 @@ h1.page-header.site {
   color: #112233;
 }
 
-#search-back-button {
+.search-back-button, .close-search {
   background-color: #f5f7fa;
   padding: 10px;
   border: 1px solid rgba(0,0,0,0.3);
@@ -911,6 +919,11 @@ h1.page-header.site {
     opacity: 0.5;
     filter: alpha(opacity=50);
   }
+}
+
+#search-city-name {
+  background-color: #ffeeba;
+  padding: 10px;
 }
 
 .cities-list {
@@ -1050,4 +1063,56 @@ h1.page-header.site {
 
 #embed-treemap {
    float: left;
+}
+
+#search-results {
+  .row {
+    background-color: white;
+    .col {
+      h1 {
+        margin-top: 100px;
+        max-width: 428px;
+      }
+
+      h2 {
+        max-width: 619px;
+        margin-top: 68px;
+        margin-bottom: 35px;
+        font-family: Roboto;
+        font-size: 25px;
+        line-height: 1.4;
+        text-align: left;
+        color: #000000;
+      }
+
+      hr {
+        height: 3px;
+        border: solid 1px #ddedf3;
+      }
+
+      .fragdenstaat {
+         width: 100%;
+         background-color: #c8fbff;
+         padding: 73px 65px;
+
+         h3 {
+           font-family: Roboto;
+           font-size: 26px;
+           font-weight: 500;
+           line-height: 1.85;
+           text-align: left;
+           color: #000000;
+           margin-top: 0;
+           margin-bottom: 29px;
+         }
+
+         p {
+          margin-bottom: 24px;
+          max-width: 347px;
+          font-size: 18px;
+         }
+      }
+    }
+  }
+
 }

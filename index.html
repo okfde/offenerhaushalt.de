@@ -11,7 +11,7 @@ script_include: home
         <div class="col-xs-12 col-md-12">
           <div class="front-message">
             Haushaltsdaten einfach 
-            verständlich präsentieren. 
+            verständlich präsentieren.
             <img src="/static/img/treemap-preview.png">
           </div>
         </div>
@@ -45,6 +45,39 @@ script_include: home
     <div id="cities" class="container">
       {% include bund.html %}
     </div>
+    <div id="search-results" class="container" style="display: none">
+      <div class="row">
+        <div class="col col-xs-12 col-md-12">
+          <div class="close-search"><img src="/static/img/mini-map.png">Wählen Sie</div>
+          <h1>Wir haben leider noch keinen Haushalt für <span id="search-city-name"></span></h1>
+
+          <hr>
+
+          <h2 id="search-info">
+          Schauen Sie auf der Webseite von Gera nach, ob es Haushaltsdaten
+          online verfügbar gibt. Oder Fragen sie den Datensatz an, entweder…</h2>
+
+          <div class="fragdenstaat">
+            <h3>Oder über FragDenStaat</h3>
+
+            <p>
+              Mit nur zwei Klicks können Sie eine verbindliche
+              Informationsfreiheitsanfrage stellen.
+            </p>
+            <a class="bluegreen-button" href="https://fragdenstaat.de/">zur Anfrage{% icon fa-long-arrow-right %}</a>
+          </div>
+
+          <h1>Was müssen Sie beachten?</h1>
+
+          <ul>
+            <li>Wir brauchen einen Datensatz im CSV- oder Excel-Format</li>
+            <li>Das Minimum an Informationen sind: Zeitpunkt (Jahr), Betrag, die Richtung (Einnahme / Ausgabe), Haushaltstitel</li>
+            <li>Long Format: nur ein Jahr und ein Betrag pro Spalte</li>
+          </ul>
+
+        </div>
+      </div>
+    </div>
     <div class="row">
       <div class="col-xs-12 col-md-12">
         <h1>Oder schauen Sie sich den 
@@ -61,7 +94,6 @@ script_include: home
     </div>
 </div>
 <div class="clearfix"></div>
-
 
 <script id="listing-template" type="text/x-handlebars-template">{% raw %}
   {{#if has_sites}}
