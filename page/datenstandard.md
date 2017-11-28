@@ -34,16 +34,3 @@ Format:
 * Texttrenner: Anführungszeichen “
 * Encoding: UTF-8 
 
-Häufige Fragen:  
-Was für Haushaltsdaten kann OffenerHaushalt visualisieren?
-* Kamerale Haushalte (Vermögens- und Verwaltungshaushalte)
-* Doppische Haushalte (Ergebnispläne, Finanzpläne) 
-
-Wie funktioniert unser Datenspeicher OpenSpending?
-* Summiert die Beträge von der untersten Ebene auf die nächsthöhere Ebene. Dies geschieht getrennt voneinander durch Einnahmen und Ausgaben (solange es diesen Filter gibt). Die Hierarchie hierfür wird im Mapping (Schritt 3) festgelegt. 
-
-Brauchen wir die Codes für die Bezeichnungen? 
-* Mapping sowohl mit Codes als auch ohne Codes möglich 
-* Speichert und validiert die Daten
-* Gibt die Visualisierung aus, die wir danach anpassen können
-
