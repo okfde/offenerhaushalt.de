@@ -26,7 +26,7 @@ BIC
 : GENODEF1ETK
 
 Für Spenden bis zu 200 Euro jährlich genügt der Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem 
-[Vereinfachten Zuwendungsnachweis]({{ site.url }}/files/verein/OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf).
+[Vereinfachten Zuwendungsnachweis](https://okfn.de/files/verein/OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf).
 
   <br>
 
@@ -40,9 +40,9 @@ Hier können Sie auch einfach und bequem an uns spenden:
 
 Wenn Sie Fragen haben oder weitere Informationen benötigen, schreiben Sie bitte eine kurze Mail an <a href="mailto:info@okfn.de">info@okfn.de</a>.
 
-Spenden und Daueraufträge sind nur eine Möglichkeit, uns zu unterstützen. Wir suchen ständig motivierte Leute für die ehrenamtliche und aktive Mitarbeit in [unseren Projekten](../projekte/)! Wir freuen uns über Anregungen, Fragen und Kritik.
+Spenden und Daueraufträge sind nur eine Möglichkeit, uns zu unterstützen. Wir suchen ständig motivierte Leute für die ehrenamtliche und aktive Mitarbeit in [unseren Projekten](https://okfn.de/projekte/)! Wir freuen uns über Anregungen, Fragen und Kritik.
 
-Wenn Sie mehr darüber wissen wollen, wie wir uns finanzieren und wie wir investieren, kannst das [hier](../verein/) nachgelesen werden.
+Wenn Sie mehr darüber wissen wollen, wie wir uns finanzieren und wie wir investieren, kannst das [hier](https://okfn.de/verein/) nachgelesen werden.
 
 Wir bedanken uns für Ihre Unterstützung!
 
