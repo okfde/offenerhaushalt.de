@@ -27,7 +27,7 @@ Betrag:
 Struktur: 
 * Erste Zeile: Namen der Spalte
 * Zweite Zeile: direkt die Information
-* Long Format (https://de.wikipedia.org/wiki/Wide-Format_und_Long-Format) d.h. genau ein Zeitpunkt und ein Betrag pro Zeile
+* [Long Format](https://de.wikipedia.org/wiki/Wide-Format_und_Long-Format) d.h. genau ein Zeitpunkt und ein Betrag pro Zeile
 
 Format:
 * CSV Datei 
