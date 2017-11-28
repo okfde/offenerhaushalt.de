@@ -10,7 +10,6 @@ Gerne wollen wir gemeinsam mit kommunalen Verwaltungen einen Standard für Haush
 Auf Grund der unterschiedlichen verwendeten Software in den kommunalen Verwaltungen, haben wir nicht immer Detailwissen über die jeweiligen Exportfunktionen für Haushaltsdaten. Hier zählen wir auf die Unterstützung von Verwaltungsmitarbeitern, Sie können die Informationen welche Software sie verwenden in unsere Liste (hier) eintragen, dies fördert 
 den Austausch über einen Datenstandard. 
 
-
 Enthaltene Informationen: 
 * Bezeichnungen der Haushaltstitel auf allen Ebenen 
 * Zugehörige Codes (Zahlen) für Bezeichnungen
