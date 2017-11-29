@@ -18,6 +18,7 @@ html {
 
 .fa {
   font-size: 13px;
+  margin-left: 7px;
 }
 
 .row.embed {
@@ -1013,6 +1014,7 @@ h1.page-header.site {
 
   .bundesland-box {
     background-color: #f5f7fa;
+    margin-top: 12px;
     padding: 23px;
     align-items: center;
     display: flex;
@@ -1022,6 +1024,11 @@ h1.page-header.site {
       display: block;
       visibility: hidden;
       height: 0px;
+    }
+    &:hover {
+      border-radius: 2px;
+      background-color: #e4e8ed;
+      box-shadow: 0 0 1px 0 rgba(107, 107, 107, 0.5);
     }
     .name {
       float: left;

@@ -1,6 +1,7 @@
 ---
 layout: budget2
 name: Stadt Wesel 
+real_name: Wesel
 slug: Wesel 
 url: /haushalt/wesel
 tagline: "Haushalt der Stadt Wesel für 2015 - 2020."

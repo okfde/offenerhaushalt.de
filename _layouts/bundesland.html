@@ -16,12 +16,8 @@ layout: city
 
 </script>
 <div class="row">
-  <div class="col-xs-12 col-md-12">
-    <div class="search-back-button"><img src="/static/img/mini-map.png">Wählen Sie</div>
-  </div>
-</div>
-<div class="row">
   <div class="cities-list col-xs-12 col-md-12">
+    <div class="search-back-button">zurück <img src="/static/img/karte-bundesrepublik-deutschland-small.svg"></div>
     <h1>{{ page.land }}</h1>
     <p>
     <input id="search-input" name="search" placeholder="Ort eingeben">
@@ -54,7 +50,7 @@ layout: city
                 window.location.href = window.location.origin + cityUrl
               } else {
                 $('#cities').toggle()
-                $('#search-city-name').text(city)
+                $('.city-name').text(city)
                 $('#search-results').toggle(400);
               }
           }
@@ -72,7 +68,6 @@ layout: city
     <div class="bundesland-box">
       <div class="name">
         <h2> {{ page.land }}</h2>
-        Länderhaushalt {{ page.years }}
       </div>
       {% assign land = site.haushalte | where: "state", page.code | where: "level", "land"  %}
       {% assign land_size = land | size %}
@@ -95,7 +90,6 @@ layout: city
     <div class="bundesland-box">
       <div class="name">
         <h2>{{ c.name }}</h2>
-        Länderhaushalt - 2016
       </div>
       <div class="visualisierung">
         <a href="{{ c.url }}"> zur Visualisierung {% icon fa-long-arrow-right %}</a>
