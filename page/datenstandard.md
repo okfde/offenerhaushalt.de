@@ -21,9 +21,10 @@ Enthaltene Informationen:
 Betrag: 
 * Beträge als richtige Zahlen definiert (Datentyp: float) 
 * Im Idealfall mit Punkt als Dezimalstelle 10345.12 und keinen Tausendertrennzeichen 
-* Negative Zahlen nur negativ lassen, wenn sie auch so in die Berechnung eingehen sollen
+* Der Default sind positive Zahlen (keine Minuszeichen) 
 
-  * Wenn bspw. alle Einnahmen ein Minuszeichen vorweisen, müssen diese mit (* -1) multipliziert werden 
+  * Wenn z.B. alle Einnahmen negativ (-10.345.12) sind, müssen diese mit (* -1) multipliziert werden 
+  * Zahlen die wirklich negativ in die Berechnung eingehen sollen, bleiben negativ
   * Die Trennung zwischen Einnahmen und Ausgaben erfolgt über eine Indikatorspalte
 
 Struktur: 
