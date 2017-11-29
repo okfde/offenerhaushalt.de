@@ -1,5 +1,5 @@
 ---
-title: Literatur und Links 
+title: Weitere Informationen
 ---
 Um die Haushaltsdaten verständlicher zu visualisieren, hilft es häufig eine Skala anzulegen, durch welche die Millionenbeträge geteilt zum Beispiel pro Person geteilt werden. Dafür können wir weitere Daten heranziehen und diese als Skala im 4. Schritt hinzufügen. 
 
