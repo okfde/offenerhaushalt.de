@@ -16,8 +16,7 @@ Knowledge Foundation Deutschland](mailto:michael.peters@okfn.de) gerichtet werde
 Obwohl wir uns immer über Ideen und Vorschläge zu diesem Angebot freuen,
 bitten wir daran, die Seite als das Resultat ehrenamtlicher
 Arbeit zu begreifen. Viele Ideen können mangels Ressourcen gar nicht
-oder nur verzögert umgesetzt werden. Daher arbeiten wir vornehmlich an
-Funktionen die wir selbst auch nutzen wollen.
+oder nur verzögert umgesetzt werden. Sie können uns über ["Spenden"](http://beta.offenerhaushalt.de/page/spenden.html) unterstützen. 
 
 Falls Sie uns bei der Arbeit helfen wollen, bitten wir Sie entweder an der
 Seite [mit zu arbeiten](/page/mitmachen.html), oder [unseren Trägerverein mit einer Spende zu
