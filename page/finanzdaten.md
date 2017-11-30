@@ -12,7 +12,7 @@ OffenerHaushalt trägt dazu bei, dass Bürger ein klareres Bild über die Finanz
 * sämtliche Haushaltsdaten maschinenlesbar mit einer [offenen Lizenz](http://opendefinition.org/od/2.0/de/) (z.B. als CSV-Datei) zur Weiterverwendung veröffentlicht werden.  
 * die Daten  ausreichende Informationen liefern, um eine aussagekräftige Analyse der regionalen / lokalen Haushaltspolitik vornehmen zu können. Das bedeutet, dass zusätzlich zu Haushaltsplänen auch die Sondervermögen und Beteiligungen der jeweiligen Kommune maschinenlesbar veröffentlicht werden.  
 
-* Gemeinsam mit der Zivilgesellschaft und öffentlichen Verwaltungen, möchten wir  einen deutschen Standard für offene Finanzdaten erarbeiten und laden Sie hierfür zur Mitarbeit ein [Datenstandard](http://beta.offenerhaushalt.de/page/datenstandard.html).
+* Gemeinsam mit der Zivilgesellschaft und öffentlichen Verwaltungen, möchten wir  einen deutschen Standard für offene Finanzdaten erarbeiten und laden Sie hierfür zur [Mitarbeit](http://beta.offenerhaushalt.de/page/datenstandard.html) ein.
 
 Erfahren sie mehr über unsere Ziele und das [Projekt](http://beta.offenerhaushalt.de/page/ueber_das_projekt.html). 
 
