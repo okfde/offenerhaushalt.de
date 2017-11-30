@@ -15,7 +15,7 @@ OffenerHaushalt trägt dazu bei, dass Bürger die Finanzen ihrer Gemeinde leicht
 
 Lesen sie mehr über unsere Ziele und das [Projekt](http://beta.offenerhaushalt.de/page/ueber_das_projekt.html). 
 
-Unser befreundetes Projekt [Haushaltssteuerung.de](https://www.haushaltssteuerung.de/) bietet ein wunderbares [Lexikon 
+Unser befreundetes Projekt [Haushaltssteuerung.de](https://www.haushaltssteuerung.de/) bietet ein wunderbares [Lexikon](https://www.haushaltssteuerung.de/lexikon.html) mit tollen Erklärungen zu haushaltsspezifischen Begriffen. 
 
 
 
