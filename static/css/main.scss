@@ -148,7 +148,6 @@ hr {
     padding-right: 17px;
   }
 
- 
 
   & > .nav.navbar-nav {
     height: 28px;
@@ -501,7 +500,13 @@ h1.page-header.site {
     h1, h2, h3, h4, h5 {
       font-weight: 600;
     }
+
   }
+
+  ul {
+    max-width: 700px;
+  }
+
 }
 
 /* Site menu */
