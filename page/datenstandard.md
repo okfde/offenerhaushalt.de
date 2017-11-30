@@ -7,7 +7,7 @@ Um Haushaltsdaten bei Offenerhaushalt.de visualisieren zukönnen, müssen die Da
 
 Gerne wollen wir gemeinsam mit kommunalen Verwaltungen einen Standard für Haushaltsdaten in Deutschland entwickeln. Sie können dafür mit uns über unsere [Mailingliste](https://lists.okfn.org/mailman/listinfo/offener-haushalt) in den Austausch treten. 
 
-Auf Grund der unterschiedlichen verwendeten Software in den kommunalen Verwaltungen, haben wir nicht immer Detailwissen über die jeweiligen Exportfunktionen für Haushaltsdaten. Hier zählen wir auf die Unterstützung von Verwaltungsmitarbeitern, Sie können die Informationen welche Software sie verwenden in unsere Liste (hier) eintragen, dies fördert 
+Auf Grund der unterschiedlichen verwendeten Software in den kommunalen Verwaltungen, haben wir nicht immer Detailwissen über die jeweiligen Exportfunktionen für Haushaltsdaten. Hier zählen wir auf die Unterstützung von Verwaltungsmitarbeitern: Sie können die Informationen welche Software sie verwenden, in unsere Liste (hier) eintragen. Dies fördert 
 den Austausch über einen Datenstandard. 
 
 Enthaltene Informationen: 
@@ -24,7 +24,7 @@ Betrag:
 * Der Default sind positive Zahlen (keine Minuszeichen) 
 
   * Wenn z.B. alle Einnahmen negativ (-10.345.12) sind, müssen diese mit (* -1) multipliziert werden 
-  * Zahlen die wirklich negativ in die Berechnung eingehen sollen, bleiben negativ
+  * Zahlen, die wirklich negativ in die Berechnung eingehen sollen, bleiben negativ
   * Die Trennung zwischen Einnahmen und Ausgaben erfolgt über eine Indikatorspalte
 
 Struktur: 
