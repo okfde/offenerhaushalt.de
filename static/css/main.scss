@@ -884,6 +884,10 @@ h1.page-header.site {
    padding: 16px;
    margin-right: 16px;
    display: inline-block;
+  -webkit-transition: background-color 0.5s ease-out;
+   -moz-transition: background-color 0.5s ease-out;
+   -o-transition: background-color 0.5s ease-out;
+   transition: background-color 0.5s ease-out;
 }
 
 .help-block {
@@ -1212,6 +1216,10 @@ h1.page-header.site {
           text-align: left;
           color: #112233;
        }
+
+       a:hover {
+          color: white;
+       }
      }
    }
 }
@@ -1219,11 +1227,7 @@ h1.page-header.site {
 .treemap-big-preview {
    text-align: left;
    width: 100%;
-
-
 }
-
-
 
 .treemap-constructor {
   padding-top: 68px;
