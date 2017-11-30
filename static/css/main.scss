@@ -33,6 +33,7 @@ html {
    }
 }
 
+
 body {
   font-family: 'Roboto', 'Open Sans', 'Helvetica', sans-serif;
   font-weight: 400;
@@ -82,7 +83,8 @@ hr {
 }
 
 .message-container {
-  background-color: #d5f0fc;
+  background-image: url('/static/img/treemap-preview.png');
+  height: 302px;
 }
 
 .welcome {
@@ -97,11 +99,6 @@ hr {
     text-align: left;
     color: #000000;
     max-width: 520px;
-    img {
-       position: absolute;
-       bottom: 0;
-       right: 0;
-    }
   }
 }
 
@@ -271,7 +268,6 @@ footer {
   background-color: #112339;
   font-size: 0.9em;
   color: #8a97a6;
-  margin-top: 120px;
 
   .logo img {
     margin: 0;
@@ -955,7 +951,7 @@ h1.page-header.site {
         -o-transition: background-color 0.5s ease-out;
         transition: background-color 0.5s ease-out;
       }
-     
+
      .help-step-link:hover {
        background-color: #009EB6;
        color: white;
@@ -1044,7 +1040,6 @@ h1.page-header.site {
         line-height: 1.56;
         text-align: left;
         color: #112233; 
-         
       }
     }
     .visualisierung {
@@ -1128,14 +1123,15 @@ h1.page-header.site {
   }
 }
 
-.treemap-big-preview {
-   text-align: center;
-   width: 100%;
-}
-
 #embed-treemap {
    float: left;
 }
+
+/************************************
+
+  Search results on frontpage
+
+**************************************/
 
 #search-results {
   .row {
@@ -1186,5 +1182,50 @@ h1.page-header.site {
       }
     }
   }
+}
+
+.bundesland-bottom-karte {
+   background-color: #e5f7ff;
+   .row {
+     .col {
+       background-repeat: no-repeat;
+       background-position: right bottom;
+       background-image: url('/static/img/blue-karte-frontpage.svg');
+       padding-bottom:77px;
+
+       h1 {
+         max-width: 429px;
+         font-family: Roboto;
+         font-size: 36px;
+         line-height: 1.33;
+         text-align: left;
+       }
+
+       p {
+          max-width: 355px;
+          margin-top: 27px;
+          margin-bottom: 36px;
+          font-family: Roboto;
+          font-size: 18px;
+          line-height: 1.56;
+          letter-spacing: -0.2px;
+          text-align: left;
+          color: #112233;
+       }
+     }
+   }
+}
+
+.treemap-big-preview {
+   text-align: left;
+   width: 100%;
+
 
 }
+
+
+
+.treemap-constructor {
+  padding-top: 68px;
+}
+
