@@ -92,6 +92,10 @@ hr {
 
 .message-container {
   background-image: url('/static/img/treemap-preview.png');
+  background-size: contain;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  background-color: #d5f0fd;
   height: 302px;
 }
 
@@ -133,11 +137,19 @@ hr {
 }
 
 /* Header */
+.navbar-top {
+  display: none;
+}
+
+@media (min-width:768px) {
+  .navbar-top {
+    position: absolute;
+    top: 0;
+    right: 76px;
+  }
+}
 
 .navbar-top {
-  position: absolute;
-  top: 0;
-  right: 76px;
   font-family: Roboto;
 
   .top-message {
@@ -196,10 +208,16 @@ hr {
 
 }
 
+@media (min-width:768px) {
+  #menu {
+    margin-top: 44px;
+    padding-left: 26px;
+  }
+}
+
 #menu {
   background-color: #fff;
   background-image: none;
-  margin-top: 44px;
   margin-bottom: 0;
   border: 0;
   min-height: 36px;
@@ -207,7 +225,6 @@ hr {
   padding-bottom: 28px;
   border-bottom: 1px solid #eee;
   box-shadow: none;
-  padding-left: 26px;
   -webkit-box-shadow: none;
 
   .navbar-brand li {
@@ -237,6 +254,15 @@ hr {
 
   .relbox {
     position: relative;
+    padding-bottom: 13px;
+  }
+
+  .navbar-header {
+    width: 100%;
+  }
+
+  .navbar-toggle {
+    margin-top: 27px;
   }
 
   .donations {
@@ -327,14 +353,21 @@ footer {
   font-size: 1.3em;
 }
 
+
+@media (min-width:768px) {
+  .right-nav {
+    position: absolute !important;
+    border-bottom: 1px solid #eee;
+  }
+}
+
 .right-nav {
-  position: absolute !important;
   bottom: 0;
   right: 0;
   margin-bottom: -1px;
   display: flex;
-  border-bottom: 1px solid #eee;
   list-style: none;
+  padding-left: 1em;
 
   li {
     margin-right: 38px;
