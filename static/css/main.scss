@@ -9,7 +9,7 @@
 @import 'fontawesome/font-awesome.scss';
 
 $bgColor: white;
-$linkColor: #265475;
+$linkColor: #0001FF;
 $brandColor: #42928F;
 
 html {
@@ -74,10 +74,18 @@ li {
     margin: 0 0 0.4em;
 }
 
-a, a:hover {
+a {
   color: $linkColor;
+  -webkit-transition: background-color 2s ease-out;
+  -moz-transition: background-color 2s ease-out;
+  -o-transition: background-color 2s ease-out;
+  transition: background-color 2s ease-out;
 }
 
+a:hover {
+  color: #FF005D;
+  
+}
 hr {
   border-bottom: 0;
 }
