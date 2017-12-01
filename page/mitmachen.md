@@ -12,7 +12,7 @@ Die Aufgaben sind vielfältig, es gibt sowohl inhaltliche, technische und politi
 * **Datensammlung:** Treten Sie in Kontakt mit Ihrer Landes-, Kreis- oder Kommunalregierung (zum Beispiel über [FragdenStaat.de](https://fragdenstaat.de/) und bitten Sie um die Bereitstellung maschinenlesbarer Haushaltsdaten. Wichtig ist dabei, dass die Daten in einem Tabellenformat wie CSV oder Microsoft Excel vorliegen, und nicht als PDF-Dokument. 
 
 * **Haushaltsdaten säubern:**
-Um unserer Struktur gerecht zu werden, müssen die Haushaltsdateien häufig noch angepasst werden. Dies lässt sich mit einführenden Programmierkenntnissen einfach erledigen. Detailierte Anweisungen zum [Format] finden Sie hier(http://beta.offenerhaushalt.de/hilfestellung/1/).
+Um unserer Struktur gerecht zu werden, müssen die Haushaltsdateien häufig noch angepasst werden. Dies lässt sich mit einführenden Programmierkenntnissen einfach erledigen. Detailierte Anweisungen zum Format finden Sie [hier](http://beta.offenerhaushalt.de/hilfestellung/1/).
 
 * **Haushaltdaten hochladen:** OffenerHaushalt greift auf eine [Datenbank](https://openspending.org/packager/) zu, um die Haushalte darzustellen. Dort müssen die Daten hochgeladen und entsprechend Ihrer [Struktur](http://beta.offenerhaushalt.de/hilfestellung/3/) zugeordnet werden. 
  
