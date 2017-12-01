@@ -142,6 +142,21 @@ hr {
 }
 
 @media (min-width:768px) {
+  .top-message {
+    float: left;
+    height: 20px;
+  }
+
+  .navbar-top .nav.navbar-nav {
+    height: 28px;
+  }
+
+  .navbar-top .nav.navbar-nav > li {
+    display: block;
+  }
+}
+
+@media (min-width:1024px) {
   .navbar-top {
     position: absolute;
     top: 0;
@@ -154,8 +169,7 @@ hr {
 
   .top-message {
     padding-top: 6px;
-    float: left;
-    height: 20px;
+    padding-bottom: 6px;
     font-family: Roboto;
     font-size: 13px;
     font-style: italic;
@@ -166,53 +180,42 @@ hr {
   }
 
 
-  & > .nav.navbar-nav {
-    height: 28px;
+  & > .nav.navbar-nav > li {
+    display: inline-block;
+    margin: 0;
+    margin-right: 7px;
 
-    & > li {
-      margin-right: 7px;
+    & > a {
+      background-color: #f1f3f4;
+      padding: 4px 10px;
+      font-family: Roboto;
+      font-size: 15px;
+      font-weight: 500;
+      line-height: 1.33;
+      text-align: left;
+      color: #4b5f73;
+      display: inline;
+      -webkit-transition: background-color 0.5s ease-out;
+      -moz-transition: background-color 0.5s ease-out;
+      -o-transition: background-color 0.5s ease-out;
+      transition: background-color 0.5s ease-out;
+    }
+    & > a:hover {
+      background-color: #E4E4E4;
+      color: #4b5f73;
+    }
+    &.spendet {
       & > a {
-        background-color: #f1f3f4;
-        padding: 4px 10px;
-        font-family: Roboto;
-        font-size: 15px;
-        font-weight: 500;
-        line-height: 1.33;
-        text-align: left;
-        color: #4b5f73;
-        display: inline;
-        -webkit-transition: background-color 0.5s ease-out;
-        -moz-transition: background-color 0.5s ease-out;
-        -o-transition: background-color 0.5s ease-out;
-        transition: background-color 0.5s ease-out;
+        background-color:#ff0035;
+        color: white;
       }
       & > a:hover {
-        background-color: #E4E4E4;
-        color: #4b5f73;
+        background-color: #DA0330;
+        color: white;
       }
-      &.spendet {
-        & > a {
-          background-color:#ff0035;
-          color: white;
-        }
-        & > a:hover {
-          background-color: #DA0330;
-          color: white;
-      }
-      }
-
-
     }
-
   }
 
-}
-
-@media (min-width:768px) {
-  #menu {
-    margin-top: 44px;
-    padding-left: 26px;
-  }
 }
 
 #menu {
@@ -222,7 +225,7 @@ hr {
   border: 0;
   min-height: 36px;
   padding-top: 5px;
-  padding-bottom: 28px;
+  padding-bottom: 14px;
   border-bottom: 1px solid #eee;
   box-shadow: none;
   -webkit-box-shadow: none;
@@ -270,6 +273,23 @@ hr {
     right: 0em;
     z-index: 1000;
     margin-top: -7px;
+  }
+}
+
+
+@media (min-width: 768px) {
+  #menu {
+    padding-bottom: 28px;
+  }
+  #menu .navbar-header {
+    padding-bottom: 17px;
+  }
+}
+
+@media (min-width: 1024px) {
+  #menu {
+    margin-top: 44px;
+    padding-left: 26px;
   }
 }
 
