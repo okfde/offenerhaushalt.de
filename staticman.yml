@@ -1,0 +1,15 @@
+budget:
+  allowedFields     : ['config', 'state', 'name', 'text']
+  branch            : "dev"
+  commitMessage     : "New budget."
+  filename          : "{fields.slug}"
+  format            : "frontmatter"
+  moderation        : true
+  path              : "_haushalte/{options.slug}"
+  requiredFields    : ['config', 'state', 'name', 'text']
+  transforms:
+    content         : frontmatterContent
+  slug:
+    type          : "slugify"
+    options:
+      field       :  name

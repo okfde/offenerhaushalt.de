@@ -440,6 +440,14 @@ footer {
     stroke-width: 1px;
     fill: #7bdae3;
     cursor: pointer;
+    -webkit-transition: opacity 0.5s ease-out;
+    -moz-transition: opacity 0.5s ease-out;
+    -o-transition: opacity 0.5s ease-out;
+    transition: opacity 0.5s ease-out;
+    &:hover {
+      opacity: 0.5;
+    }
+
   }
 
   .city {
