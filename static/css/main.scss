@@ -9,7 +9,7 @@
 @import 'fontawesome/font-awesome.scss';
 
 $bgColor: white;
-$linkColor: #265475;
+$linkColor: #0001FF;
 $brandColor: #42928F;
 
 html {
@@ -74,8 +74,16 @@ li {
     margin: 0 0 0.4em;
 }
 
-a, a:hover {
+a {
   color: $linkColor;
+}
+
+a:hover {
+  color: #FF005D;
+  -webkit-transition: background-color 2s ease-out;
+  -moz-transition: background-color 2s ease-out;
+  -o-transition: background-color 2s ease-out;
+  transition: background-color 2s ease-out;
 }
 
 hr {
@@ -84,6 +92,10 @@ hr {
 
 .message-container {
   background-image: url('/static/img/treemap-preview.png');
+  background-size: contain;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  background-color: #d5f0fd;
   height: 302px;
 }
 
@@ -125,17 +137,39 @@ hr {
 }
 
 /* Header */
+.navbar-top {
+  display: none;
+}
+
+@media (min-width:768px) {
+  .top-message {
+    float: left;
+    height: 20px;
+  }
+
+  .navbar-top .nav.navbar-nav {
+    height: 28px;
+  }
+
+  .navbar-top .nav.navbar-nav > li {
+    display: block;
+  }
+}
+
+@media (min-width:1024px) {
+  .navbar-top {
+    position: absolute;
+    top: 0;
+    right: 76px;
+  }
+}
 
 .navbar-top {
-  position: absolute;
-  top: 0;
-  right: 76px;
   font-family: Roboto;
 
   .top-message {
     padding-top: 6px;
-    float: left;
-    height: 20px;
+    padding-bottom: 6px;
     font-family: Roboto;
     font-size: 13px;
     font-style: italic;
@@ -146,44 +180,40 @@ hr {
   }
 
 
-  & > .nav.navbar-nav {
-    height: 28px;
+  & > .nav.navbar-nav > li {
+    display: inline-block;
+    margin: 0;
+    margin-right: 7px;
 
-    & > li {
-      margin-right: 7px;
+    & > a {
+      background-color: #f1f3f4;
+      padding: 4px 10px;
+      font-family: Roboto;
+      font-size: 15px;
+      font-weight: 500;
+      line-height: 1.33;
+      text-align: left;
+      color: #4b5f73;
+      display: inline;
+      -webkit-transition: background-color 0.5s ease-out;
+      -moz-transition: background-color 0.5s ease-out;
+      -o-transition: background-color 0.5s ease-out;
+      transition: background-color 0.5s ease-out;
+    }
+    & > a:hover {
+      background-color: #E4E4E4;
+      color: #4b5f73;
+    }
+    &.spendet {
       & > a {
-        background-color: #f1f3f4;
-        padding: 4px 10px;
-        font-family: Roboto;
-        font-size: 15px;
-        font-weight: 500;
-        line-height: 1.33;
-        text-align: left;
-        color: #4b5f73;
-        display: inline;
-        -webkit-transition: background-color 0.5s ease-out;
-        -moz-transition: background-color 0.5s ease-out;
-        -o-transition: background-color 0.5s ease-out;
-        transition: background-color 0.5s ease-out;
+        background-color:#ff0035;
+        color: white;
       }
       & > a:hover {
-        background-color: #E4E4E4;
-        color: #4b5f73;
+        background-color: #DA0330;
+        color: white;
       }
-      &.spendet {
-        & > a {
-          background-color:#ff0035;
-          color: white;
-        }
-        & > a:hover {
-          background-color: #DA0330;
-          color: white;
-      }
-      }
-
-
     }
-
   }
 
 }
@@ -191,15 +221,13 @@ hr {
 #menu {
   background-color: #fff;
   background-image: none;
-  margin-top: 44px;
   margin-bottom: 0;
   border: 0;
   min-height: 36px;
   padding-top: 5px;
-  padding-bottom: 28px;
+  padding-bottom: 14px;
   border-bottom: 1px solid #eee;
   box-shadow: none;
-  padding-left: 26px;
   -webkit-box-shadow: none;
 
   .navbar-brand li {
@@ -229,6 +257,15 @@ hr {
 
   .relbox {
     position: relative;
+    padding-bottom: 13px;
+  }
+
+  .navbar-header {
+    width: 100%;
+  }
+
+  .navbar-toggle {
+    margin-top: 27px;
   }
 
   .donations {
@@ -236,6 +273,23 @@ hr {
     right: 0em;
     z-index: 1000;
     margin-top: -7px;
+  }
+}
+
+
+@media (min-width: 768px) {
+  #menu {
+    padding-bottom: 28px;
+  }
+  #menu .navbar-header {
+    padding-bottom: 17px;
+  }
+}
+
+@media (min-width: 1024px) {
+  #menu {
+    margin-top: 44px;
+    padding-left: 26px;
   }
 }
 
@@ -319,14 +373,21 @@ footer {
   font-size: 1.3em;
 }
 
+
+@media (min-width:768px) {
+  .right-nav {
+    position: absolute !important;
+    border-bottom: 1px solid #eee;
+  }
+}
+
 .right-nav {
-  position: absolute !important;
   bottom: 0;
   right: 0;
   margin-bottom: -1px;
   display: flex;
-  border-bottom: 1px solid #eee;
   list-style: none;
+  padding-left: 1em;
 
   li {
     margin-right: 38px;
@@ -896,6 +957,13 @@ h1.page-header.site {
    -moz-transition: background-color 0.5s ease-out;
    -o-transition: background-color 0.5s ease-out;
    transition: background-color 0.5s ease-out;
+}
+
+
+.bluegreen-button:hover{
+   background-color: #29969E;
+   color: white;
+   text-decoration: none;
 }
 
 .help-block {
