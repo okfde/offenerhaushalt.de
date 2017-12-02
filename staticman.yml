@@ -9,7 +9,8 @@ budget:
   requiredFields    : ['config', 'state', 'name', 'text']
   transforms:
     content         : frontmatterContent
-  slug:
-    type          : "slugify"
-    options:
-      field       :  name
+  generatedFields:
+    slug:
+      type          : "slugify"
+      options:
+        field       :  name
