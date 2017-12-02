@@ -8,7 +8,7 @@ budget:
   path              : "_haushalte/{options.slug}"
   requiredFields    : ['config', 'state', 'name', 'text']
   transforms:
-    content         : text
+    text            : frontmatterContent
   generatedFields:
     slug:
       type          : "slugify"
