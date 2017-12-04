@@ -1,7 +1,7 @@
 ---
-_id: a7724f30-d935-11e7-be94-057620f1b5ea
+_id: ecc7b110-d93a-11e7-be94-057620f1b5ea
 state: BE
-name: Berlin-Test
+name: berlin-test
 config: |-
   {
     "datapackage": "a6a16b964a7e784f99adecc47f26318a:berlin_16_17_clean",
@@ -21,13 +21,12 @@ config: |-
       {
         "field": "Betrag.sum",
         "formatOptions": {
-          "symbol": "$",
+          "symbol": "",
           "decimal": ".",
           "thousand": ",",
           "precision": 2,
           "format": "%s%v",
-          "postfix": "",
-          "grouping": 3
+          "postfix": " €"
         },
         "label": "Betrag"
       }
@@ -40,7 +39,7 @@ config: |-
         "ref": "functional_classification_4",
         "type": "string",
         "default": true,
-        "defaultValue": "",
+        "defaultValue": "11",
         "defaultLabel": "All",
         "label": "Funktionsbezeichnung",
         "values": [
@@ -449,9 +448,37 @@ config: |-
             "label": "Versorgung einschließlich Beihilfen für Versorgungsempfängerinnen und Versorgungsempfänger im Bereich des Rechtsschutzes"
           }
         ]
+      },
+      "Typ": {
+        "name": "fin_source_Typ.Typ",
+        "label_ref": "fin_source_Typ.Bezeichnung",
+        "ref": "fin_source_Typ",
+        "type": "string",
+        "default": true,
+        "defaultValue": "1",
+        "defaultLabel": "All",
+        "label": "Bezeichnung",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": "1",
+            "label": "Senatsverwaltungen"
+          },
+          {
+            "value": "2",
+            "label": "Verfassungsorgane"
+          },
+          {
+            "value": "3",
+            "label": "Bezirke"
+          }
+        ]
       }
     }
   }
 slug: berlin-test
 ---
-Just a test
+another test
