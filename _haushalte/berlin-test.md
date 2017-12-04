@@ -1,5 +1,5 @@
 ---
-_id: ecc7b110-d93a-11e7-be94-057620f1b5ea
+_id: 3ecf2470-d93b-11e7-be94-057620f1b5ea
 state: BE
 name: berlin-test
 config: |-
@@ -21,17 +21,28 @@ config: |-
       {
         "field": "Betrag.sum",
         "formatOptions": {
-          "symbol": "",
+          "symbol": "$",
           "decimal": ".",
           "thousand": ",",
           "precision": 2,
           "format": "%s%v",
-          "postfix": " €"
+          "postfix": ""
         },
         "label": "Betrag"
       }
     ],
-    "scale": [],
+    "scale": [
+      {
+        "label": "Total",
+        "number": 1,
+        "description": ""
+      },
+      {
+        "label": "Test",
+        "number": "2",
+        "description": "Test"
+      }
+    ],
     "filters": {
       "Funktion": {
         "name": "functional_classification_4.Funktion",
@@ -481,4 +492,4 @@ config: |-
   }
 slug: berlin-test
 ---
-another test
+just another test
