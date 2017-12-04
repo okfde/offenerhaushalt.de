@@ -4,9 +4,9 @@ title: Über Finanzdaten
 
 Alle Kommunen, die Länder sowie der Bund verabschieden jedes Jahr einen Haushalt, der die Handlungsgrundlage für alle Aufgaben der öffentlichen Verwaltung bietet. Hier wird geregelt wie viel Geld der Staat für welche Aufgaben zur Verfügung hat. 
 Wenn man von öffentlichen “Haushalten” spricht, denkt man erstmal an Finanzkennzahlen. 
-Im rechtlichen Sinne ist der “Haushalt” das Gesetz, durch das festlegt wird, wie hoch das Haushaltsvolumen, die Kreditaufnahme und die Verpflichtungsermächtigung für das jeweilige Haushaltsjahr sind.  Auf Bundes- bzw. Länderebene werden [Haushaltsgesetze](https://www.haushaltssteuerung.de/lexikon-haushaltsgesetz.html) verabschiedet, auf kommunaler Ebene gibt es dafür [Haushaltssatzungen](https://www.haushaltssteuerung.de/lexikon-haushaltssatzung.html). 
+Im rechtlichen Sinne ist der Haushalt das Gesetz durch das festlegt wird, wie hoch das Haushaltsvolumen, die Kreditaufnahme und die Verpflichtungsermächtigung für das jeweilige Haushaltsjahr sind.  Auf Bundes- bzw. Länderebene werden [Haushaltsgesetze](https://www.haushaltssteuerung.de/lexikon-haushaltsgesetz.html) verabschiedet, auf kommunaler Ebene gibt es dafür [Haushaltssatzungen](https://www.haushaltssteuerung.de/lexikon-haushaltssatzung.html). 
 
-Als Anhang dieser Gesetze werden die Haushaltspläne nach der jeweiligen Buchhaltungsart ([doppisch](https://www.haushaltssteuerung.de/lexikon-haushaltsplan-doppisch.html), [kameral](https://www.haushaltssteuerung.de/lexikon-haushaltsplan-kameral.html)) veröffentlicht. Die Haushaltspläne sind das was wir gemeinhin mit "Haushalt" assoziieren, sie zeigen die  Einnahmen und Ausgaben auf. Zusätzlich werden [Wirtschaftspläne](https://www.haushaltssteuerung.de/lexikon-wirtschaftsplan.html) und [Stellenpläne](https://www.haushaltssteuerung.de/lexikon-stellenplan.html) veröffentlicht, sowie Jahresabschlüsse für doppische buchende Gebietskörperschaften. Bei Kameralistischen Gebietskörperschaften besteht der Haushaltplan aus zwei Teilen, dem [Vermögenshaushalt](https://www.haushaltssteuerung.de/lexikon-vermoegensuebersicht.html) und dem [Verwaltungshaushalt](https://www.haushaltssteuerung.de/lexikon-verwaltungshaushalt-kameral.html). 
+Als Anhang dieser Gesetze werden die Haushaltspläne nach der jeweiligen Buchhaltungsart ([doppisch](https://www.haushaltssteuerung.de/lexikon-haushaltsplan-doppisch.html) bzw. [kameral](https://www.haushaltssteuerung.de/lexikon-haushaltsplan-kameral.html)) veröffentlicht. Die Haushaltspläne sind das was wir gemeinhin mit "Haushalt" assoziieren, sie zeigen detailliert die  Einnahmen und Ausgaben einer Gebietskörperschaft auf. Zusätzlich werden [Wirtschaftspläne](https://www.haushaltssteuerung.de/lexikon-wirtschaftsplan.html) und [Stellenpläne](https://www.haushaltssteuerung.de/lexikon-stellenplan.html) veröffentlicht, sowie Jahresabschlüsse für doppische buchende Gebietskörperschaften. Bei Kameralistischen Gebietskörperschaften besteht der Haushaltplan aus zwei Teilen, dem [Vermögenshaushalt](https://www.haushaltssteuerung.de/lexikon-vermoegensuebersicht.html) und dem [Verwaltungshaushalt](https://www.haushaltssteuerung.de/lexikon-verwaltungshaushalt-kameral.html). 
 
 Auf OffenerHaushalt.de visualisieren wir sowohl kameralistische als auch doppische Haushaltspläne, um für mehr Transparenz des staatlichen Handelns zu sorgen. Politische Veränderungen können nur mit finanziellen Mitteln umgesetzt werden, genau deshalb ist das Verständnis des Haushaltsprozesses vor allem auf kommunaler Ebene elementar. Viele der Posten innerhalb eines Haushalts sind über Jahre festgelegt: [Beteiligungen](https://www.haushaltssteuerung.de/lexikon-beteiligung.html) einer Stadt sind beispielsweise nur über die Wirtschaftspläne, Bilanzen oder Vermögenshaushalte nachzuvollziehen. Zusätzlich ist bundesweit vorgeschrieben, welche [Selbstverwaltungsaufgaben](https://de.wikipedia.org/wiki/Kommunale_Aufgabenstruktur) einer Kommune verpflichtend sind und welche diese freiwillig ausführen können.  
 
@@ -20,6 +20,10 @@ OffenerHaushalt.de trägt dazu bei, dass Bürger ein klareres Bild über die Fin
 Erfahren sie mehr über unsere Ziele und das [Projekt](http://beta.offenerhaushalt.de/page/ueber_das_projekt.html). 
 
 Außerdem bietet unser befreundetes Projekt [Haushaltssteuerung.de](https://www.haushaltssteuerung.de/) ein wunderbares [Lexikon](https://www.haushaltssteuerung.de/lexikon.html) mit tollen Erklärungen zu haushaltspezifischen Begriffen. 
+
+
+
+
 
 
 
