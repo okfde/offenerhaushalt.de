@@ -17,9 +17,8 @@ OffenerHaushalt.de trägt dazu bei, dass Bürger ein klareres Bild über die Fin
 
 * sich öffentliche Verwaltungen gemeinsam mit der Zivilgesellschaft austauschen und einen deutschen Standard für offene Finanzdaten erarbeiten. Hierfür laden wir Sie herzlich zur [Mitarbeit](http://beta.offenerhaushalt.de/page/datenstandard.html) ein.
 
-Erfahren sie mehr über unsere Ziele und das [Projekt](http://beta.offenerhaushalt.de/page/ueber_das_projekt.html). 
-
-Außerdem bietet unser befreundetes Projekt [Haushaltssteuerung.de](https://www.haushaltssteuerung.de/) ein wunderbares [Lexikon](https://www.haushaltssteuerung.de/lexikon.html) mit tollen Erklärungen zu haushaltspezifischen Begriffen. 
+Erfahren sie mehr über unsere [Ziele](http://beta.offenerhaushalt.de/page/ueber_das_projekt.html) und das Projekt. 
+Außerdem bietet unser Kooperationspartner [Haushaltssteuerung.de](https://www.haushaltssteuerung.de/) ein wunderbares [Lexikon](https://www.haushaltssteuerung.de/lexikon.html) mit tollen Erklärungen zu haushaltspezifischen Begriffen. 
 
 
 
