@@ -1,5 +1,5 @@
 ---
-_id: 3ecf2470-d93b-11e7-be94-057620f1b5ea
+_id: 51b41130-d93c-11e7-be94-057620f1b5ea
 state: BE
 name: berlin-test
 config: |-
@@ -488,8 +488,11 @@ config: |-
           }
         ]
       }
-    }
+    },
+    "land": "BE",
+    "kommune": "berlin-test",
+    "text": "saving in config"
   }
 slug: berlin-test
 ---
-just another test
+saving in config
