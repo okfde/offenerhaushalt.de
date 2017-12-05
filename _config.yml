@@ -67,7 +67,7 @@ defaults:
       framed: true
   -
     scope:
-      path: ""
+      path: "_budget"
       type: budget
     values:
       layout: budget

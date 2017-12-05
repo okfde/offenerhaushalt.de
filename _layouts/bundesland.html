@@ -3,7 +3,7 @@ layout: city
 ---
 
 {% assign landcities = site.haushalte | where: "state", page.code %}
-{% assign cities = landcities | where: "level", "kommune" %}
+{% assign cities = landcities | where: "level", "kommune" | where: "layout", "budget2" %}
 
 {% if page.code == 'DE' %}
 {% else %}
@@ -63,7 +63,7 @@ layout: city
 
       $('#search-input').easyAutocomplete(options);
     </script>
-    {% assign land = site.haushalte | where: "state", page.code | where: "level", "land"  %}
+    {% assign land = site.haushalte | where: "state", page.code | where: "level", "land" | where: "layout", "budget2" %}
     {% assign land_size = land | size %}
     {% assign land_has_data = false %}
     {% for l in land %}
@@ -83,11 +83,9 @@ layout: city
       </div>
      {% if land_size > 0 %}
         {% for l in land %}
-          {% if l.config %}
           <div class="visualisierung">
             <a href="{{ l.url }}">  zur Visualisierung {% icon fa-long-arrow-right %}</a>
           </div>
-          {% endif %}
         {% endfor %}
       {% endif %}
     </div>
