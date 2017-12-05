@@ -1,5 +1,5 @@
 budget:
-  allowedFields     : ['config', 'state', 'name', 'text']
+  allowedFields     : ['config', 'state', 'name', 'level', 'text']
   branch            : "dev"
   commitMessage     : "New budget."
   filename          : "{fields.slug}"
