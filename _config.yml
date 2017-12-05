@@ -32,11 +32,14 @@ collections:
   haushalte:
     output: true
     permalink: /haushalt/:name/
+  haushalte-edit:
+    output: true
+    permalink: /haushalt/:name/edit
   embed:
     output: true
     permalink: /haushalt/:name/embed
- 
- 
+
+
 # Build settings
 markdown: kramdown
 exclude:
@@ -70,10 +73,16 @@ defaults:
       layout: budget
   -
     scope:
-      path: ""
+      path: "_haushalte"
       type: haushalte
     values:
-      layout: budget
+      layout: budget2
+  -
+    scope:
+      path: "_haushalte-edit"
+      type: haushalte-edit
+    values:
+      layout: budget-edit
   -
     scope:
       path: "_embed"
