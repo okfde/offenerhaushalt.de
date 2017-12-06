@@ -2,11 +2,10 @@
 title: Datenstandard
 layout: page
 ---
-{% include relative-baseurl.html %}
 
 Um Haushaltsdaten bei Offenerhaushalt.de visualisieren zukönnen, müssen die Daten einige Kriterien erfüllen. Zur Orientierung finden Sie hier unseren idealtypischen Datensatz zum [Download](https://github.com/okfde/offenerhaushalt.de/blob/dev/_haushalte/standard-datensatz-ohh.csv).  
 
-<a href="{{ relative-baseurl }}/_haushalte/standard-datensatz-ohh.csv" download="Datensatz"</a> 
+[standard-datensatz-ohh.csv]({{file name='https://github.com/okfde/offenerhaushalt.de/blob/dev/_haushalte/standard-datensatz-ohh.csv'}})
 
 Gerne wollen wir gemeinsam mit kommunalen Verwaltungen einen Standard für Haushaltsdaten in Deutschland entwickeln. Sie können dafür mit uns über unsere [Mailingliste](https://lists.okfn.org/mailman/listinfo/offener-haushalt) in den Austausch treten. 
 
