@@ -67,7 +67,6 @@ h2.preview-legend {
   font-size: 18px;
 }
 
-
 .datapackage .datapackage-loader.container .field.has-addons {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
@@ -81,9 +80,13 @@ h2.preview-legend {
     color: black;
   }
 }
+.finde-id-help {
+  margin-top: 10px;
+  display: block;
+}
 .datapackage .datapackage-loader.container .field.has-addons .datapackageHash input {
   min-width: 600px;
-  height: 46px;
+  height: 56px;
   font-family: Roboto;
   font-size: 18px;
   line-height: 1.56;
@@ -114,12 +117,6 @@ h1.config-description {
 }
 .columns {
   margin-top: 10px;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-}
-.columns:last-child {
-    margin-bottom: 0;
 }
 .column {
   max-width: 500px;
@@ -131,6 +128,7 @@ h1.config-description {
   max-width: none;
 }
 #treemap {
+  margin-top: 40px;
   width: 1200px;
 }
 .number-format .control {
@@ -161,15 +159,21 @@ h1.config-description {
 .filters-buttons {
   min-height: 100px;
 }
+.filters {
+  float: right;
+}
+.filter {
+  float: right;
+}
+.scales {
+   float: left;
+}
 .button-ui {
   margin-right: 5px;
   margin-top: 5px;
   float: left;
 }
 .buttons {
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -177,7 +181,8 @@ h1.config-description {
       -ms-flex-align: center;
           align-items: center;
   -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  flex-wrap: wrap;
+  min-height: 60px;
 }
 /*! bulma.io v0.4.4 | MIT License | github.com/jgthms/bulma */@-webkit-keyframes spinAround{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}@keyframes spinAround{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}
 
