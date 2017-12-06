@@ -1,22 +1,7 @@
 ---
-_id: 7f40a450-da6e-11e7-bda3-d16508eff2f8
+_id: 73ea6ef0-da97-11e7-b3cb-638432b53ca7
 state: BE
 name: Land Berlin
-text: >-
-  # Über den Haushalt der Stadt Berlin 
-
-
-  Der Haushaltsplan dient der Feststellung und Deckung des Finanzbedarfs, der
-  zur Erfüllung der Aufgaben Berlins im jeweiligen Zeitraum notwendig ist. Er
-  bildet die Zweistufigkeit der Berliner Verwaltung ab. Der Haushaltsplan
-  besteht deshalb aus den Einzelplänen der Senatsverwaltungen (Einzelpläne 03
-  bis 15) und der Bezirkshaushaltspläne (jeweils Einzelpläne 31 bis 59). Darüber
-  hinaus beinhaltet er die Einnahmen und Ausgaben der durch die Verfassung von
-  Berlin bestimmten Organe Abgeordnetenhaus (Einzelplan 01),
-  Verfassungsgerichtshof (Einzelplan 02), Rechnungshof (Einzelplan 20) und des
-  Beauftragten für Datenschutz und Informationsfreiheit (Einzelplan 21).
-  Zuweisungen an und Programme für die Bezirke sowie Landesweite Personal- und
-  Finanzangelegenheiten werden zentral in den Einzelpläne 27 und 29 abgebildet.
 level: land
 config: |-
   {
@@ -43,11 +28,11 @@ config: |-
         "field": "Betrag.sum",
         "formatOptions": {
           "symbol": "",
-          "decimal": ",",
-          "thousand": ".",
-          "precision": "0",
+          "decimal": ".",
+          "thousand": ",",
+          "precision": 2,
           "format": "%s%v",
-          "postfix": " €",
+          "postfix": "€",
           "grouping": 3
         },
         "label": "Betrag"
@@ -188,7 +173,8 @@ config: |-
     "level": "land",
     "text": "\n# Über den Haushalt der Stadt Berlin \n\nDer Haushaltsplan dient der Feststellung und Deckung des Finanzbedarfs, der zur Erfüllung der Aufgaben Berlins im jeweiligen Zeitraum notwendig ist. Er bildet die Zweistufigkeit der Berliner Verwaltung ab. Der Haushaltsplan besteht deshalb aus den Einzelplänen der Senatsverwaltungen (Einzelpläne 03 bis 15) und der Bezirkshaushaltspläne (jeweils Einzelpläne 31 bis 59). Darüber hinaus beinhaltet er die Einnahmen und Ausgaben der durch die Verfassung von Berlin bestimmten Organe Abgeordnetenhaus (Einzelplan 01), Verfassungsgerichtshof (Einzelplan 02), Rechnungshof (Einzelplan 20) und des Beauftragten für Datenschutz und Informationsfreiheit (Einzelplan 21). Zuweisungen an und Programme für die Bezirke sowie Landesweite Personal- und Finanzangelegenheiten werden zentral in den Einzelpläne 27 und 29 abgebildet.\n"
   }
-date: '2017-12-06T10:16:17.602Z'
 slug: land-berlin
 ---
-undefined
+# Über den Haushalt der Stadt Berlin 
+
+Der Haushaltsplan dient der Feststellung und Deckung des Finanzbedarfs, der zur Erfüllung der Aufgaben Berlins im jeweiligen Zeitraum notwendig ist. Er bildet die Zweistufigkeit der Berliner Verwaltung ab. Der Haushaltsplan besteht deshalb aus den Einzelplänen der Senatsverwaltungen (Einzelpläne 03 bis 15) und der Bezirkshaushaltspläne (jeweils Einzelpläne 31 bis 59). Darüber hinaus beinhaltet er die Einnahmen und Ausgaben der durch die Verfassung von Berlin bestimmten Organe Abgeordnetenhaus (Einzelplan 01), Verfassungsgerichtshof (Einzelplan 02), Rechnungshof (Einzelplan 20) und des Beauftragten für Datenschutz und Informationsfreiheit (Einzelplan 21). Zuweisungen an und Programme für die Bezirke sowie Landesweite Personal- und Finanzangelegenheiten werden zentral in den Einzelpläne 27 und 29 abgebildet.
