@@ -1183,9 +1183,10 @@ h1.page-header.site {
 .letters {
   color: #0d9789;
   min-height: 200px;
+  position: relative;
 
   .letter-background {
-    position: relative;
+    position: absolute;
     padding: 0;
     margin: 0;
     margin-bottom: -50%;
