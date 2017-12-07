@@ -9,7 +9,7 @@ Offener-Haushalt](http://lists.okfn.org/mailman/listinfo/offener-haushalt)**
 bereit. 
 
 Pressekontakte oder persönliche Anfragen können direkt an die [Open
-Knowledge Foundation Deutschland](mailto:michael.peters@okfn.de) gerichtet werden.
+Knowledge Foundation Deutschland](mailto: michael.peters@okfn.de) gerichtet werden.
 
 #### Hinweis zu ehrenamtlicher Arbeit
 
