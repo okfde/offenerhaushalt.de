@@ -2,7 +2,7 @@
 title: Datenstandard
 layout: page
 ---
-Zur Umsetzung von OffenerHaushalt sind maschinenlesbare Haushaltsdaten notwendig. Gemeint ist damit, dass die Daten in der Form bereit gestellt werden sollen, in der ihre intendierte Struktur möglichst weitgehend nachvollzogen werden kann. Während es sich zum Beispiel beim PDF-Format zwar um digitale Daten handelt, sind die enthaltenen Informationen für die Ausgabe durch Bildschirme und Drucker optimiert - Informationen zur eigentlichen Struktur (z.B. zu tabellarischen Aufführungen) können jedoch nicht ausgelesen werden.
+Zur Umsetzung von OffenerHaushalt sind maschinenlesbare Haushaltsdaten notwendig. Gemeint ist damit, dass die Daten in der Form bereitgestellt werden sollen, in der ihre intendierte Struktur möglichst weitgehend nachvollzogen werden kann. Während es sich zum Beispiel beim PDF-Format zwar um digitale Daten handelt, sind die enthaltenen Informationen für die Ausgabe durch Bildschirme und Drucker optimiert - Informationen zur eigentlichen Struktur (z.B. zu tabellarischen Aufführungen) können jedoch nicht ausgelesen werden.
 Um Haushaltsdaten bei Offenerhaushalt.de visualisieren zukönnen müssen diese in maschinenlesbarer Form vorliegen. Im Idealfall ist das ein CSV Format oder eine Datei die sich leicht in ein CSV konvertieren lässt (Excel Dateien).
 
 ### Idealtypischer Datensatz
