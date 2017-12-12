@@ -1,756 +1,756 @@
--	Zarrentin am Schaalsee
--	Zarrendorf
--	Ludwigslust
--	Zapel
--	Barth
--	Boizenburg/Elbe
--	Glewitz
--	Sternberg
--	Garz/Rügen
--	Ziegendorf
--	Zickhusen
--	Zierzow
--	Zepelin
--	Zerrenthin
--	Ziethen
--	Zierow
--	Zemitz
--	Zempin
--	Kruckow
--	Krugsdorf
--	Gneven
--	Zehna
--	Zinnowitz
--	Plöwen
--	Zingst
--	Zirkow
--	Zirchow
--	Roggendorf
--	Zölkow
--	Glasin
--	Zurow
--	Zülow
--	Züsow
--	Züssow
--	Cramonshagen
--	Grambow
--	Hohen Pritz
--	Schaprode
--	Trassenheide
--	Ückeritz
--	Spornitz
--	Lietzow
--	Dobbin-Linstow
--	Gischow
--	Hoppenrade
--	Altwigshagen
--	Teldau
--	Langen Brütz
--	Anklam
--	Altkalen
--	Am Salzhaff
--	Banzkow
--	Plate
--	Gützkow
--	Sassnitz
--	Gager
--	Groß Roge
--	Born a. Darß
--	Passow
--	Demen
--	Jakobsdorf
--	Wustrow
--	Pasewalk
--	Wolgast
--	Peenemünde
--	Bergen auf Rügen
--	Velgast
--	Altenpleen
--	Dorf Mecklenburg
--	Polzow
--	Alt Krenzlin
--	Alt Meteln
--	Lassan
--	Alt Tellin
--	Ahrenshoop
--	Alt Sührkow
--	Alt Bukow
--	Alt Zachun
--	Kluis
--	Altenkirchen
--	Poseritz
--	Altefähr
--	Lüssow
--	Kramerhof
--	Splietsdorf
--	Neu Kosenow
--	Sellin
--	Dragun
--	Groß Laasch
--	Heringsdorf
--	Wittendörp
--	Prerow
--	Grevesmühlen
--	Mönkebude
--	Ferdinandshof
--	Karlsburg
--	Bargischow
--	Wrangelsburg
--	Kenz-Küstrow
--	Binz
--	Kalkhorst
--	Gägelow
--	Dummerstorf
--	Lübstorf
--	Middelhagen
--	Ueckermünde
--	Glowe
--	Wittenburg
--	Gadebusch
--	Gingst
--	Rappin
--	Dranske
--	Rögnitz
--	Friedrichsruhe
--	Klütz
--	Pruchten
--	Sagard
--	Dreschvitz
--	Samtens
--	Lancken-Granitz
--	Gremersdorf-Buchholz
--	Dersekow
--	Dargelin
--	Bad Kleinen
--	Kühlungsborn
--	Strasburg
--	Hagenow
--	Laage
--	Rehna
--	Göhren
--	Neukloster
--	Gnoien
--	Krakow am See
--	Dassow
--	Schwaan
--	Warin
--	Lübtheen
--	Neustadt-Glewe
--	Grabow
--	Bützow
--	Rerik
--	Dömitz
--	Marlow
--	Groß Wüstenfelde
--	Gülzow-Prüzen
--	Kröslin
--	Groß Wokern
--	Groß Krams
--	Groß Siemz
--	Tessin b. Boizenburg
--	Lübs
--	Wittenförden
--	Diekhof
--	Meiersberg
--	Baabe
--	Spantekow
--	Kuchelmiß
--	Siggelkow
--	Rollwitz
--	Liepgarten
--	Baumgarten
--	Grambin
--	Fahrenwalde
--	Groß Luckow
--	Parchim
--	Karrenzin
--	Rothenklempenow
--	Bülow
--	Crivitz
--	Dobin am See
--	Brüel
--	Barkhagen
--	Groß Godems
--	Kritzow
--	Lübz
--	Neu Poserin
--	Domsühl
--	Barnin
--	Dobbertin
--	Goldberg
--	Rossow
--	Ganzlin
--	Dabel
--	Kobrow
--	Marnitz
--	Daberkow
--	Krackow
--	Viereck
--	Pritzier
--	Bergholz
--	Ramin
--	Koblentz
--	Rastow
--	Brietzig
--	Vogelsang-Warsin
--	Wilhelmsburg
--	Schlagsdorf
--	Jesendorf
--	Gottesgabe
--	Krembz
--	Metelsdorf
--	Wendisch Baggendorf
--	Hanshagen
--	Plüschow
--	Dechow
--	Mühlen Eichsen
--	Neuburg
--	Rambin
--	Klein Trebbow
--	Seehof
--	Hohenkirchen
--	Roggenstorf
--	Rüting
--	Damshagen
--	Krusenhagen
--	Hornstorf
--	Bad Sülze
--	Groß Molzahn
--	Hohen Sprenz
--	Jördenstorf
--	Mühl Rosin
--	Schorssow
--	Dalkendorf
--	Hohen Demzin
--	Sehlen
--	Hohen Viecheln
--	Brünzow
--	Bugewitz
--	Mustin
--	Jürgenshagen
--	Klein Upahl
--	Schwasdorf
--	Neuenkirchen
--	Gustow
--	Patzig
--	Groß Stieten
--	Stralendorf
--	Groß Schwiesow
--	Gutow
--	Sarmstorf
--	Putgarten
--	Wusterhusen
--	Lüblow
--	Testorf-Steinfort
--	Fuhlendorf
--	Postlow
--	Stolpe auf Usedom
--	Buschvitz
--	Finkenthal
--	Mesekenhagen
--	Neuenkirchen
--	Rühn
--	Dolgen am See
--	Buggenhagen
--	Krien
--	Wackerow
--	Sanitz
--	Teterow
--	Lüttow-Valluhn
--	Nadrensee
--	Kröpelin
--	Schönberg
--	Groß Kiesow
--	Lubmin
--	Leopoldshagen
--	Graal-Müritz
--	Franzburg
--	Jarmen
--	Penkun
--	Grimmen
--	Richtenberg
--	Eggesin
--	Parchtitz
--	Tribsees
--	Loitz
--	Torgelow
--	Putbus
--	Klausdorf
--	Groß Mohrdorf
--	Groß Kordshagen
--	Dierhagen
--	Sarnow
--	Balow
--	Setzin
--	Rukieten
--	Benz
--	Moraas
--	Kirch Mulsow
--	Kassow
--	Bibow
--	Boiensdorf
--	Ventschow
--	Bobitz
--	Pampow
--	Klein Rogahn
--	Neu Kaliß
--	Muchow
--	Karenz
--	Malliß
--	Schossin
--	Kirch Jesar
--	Hülseburg
--	Bandenitz
--	Gammelin
--	Gorlosen
--	Neu Gülze
--	Schwanheide
--	Tutow
--	Bernitt
--	Breege
--	Wöbbelin
--	Lockwisch
--	Lüdersdorf
--	Selmsdorf
--	Roduchelstorf
--	Neubukow
--	Bad Doberan
--	Kogel
--	Dersenow
--	Wieck a. Darß
--	Saal
--	Trent
--	Waren (Müritz)
--	Neubrandenburg
--	Kuhstorf
--	Wiek
--	Holthusen
--	Milow
--	Stralsund
--	Greifswald
--	Stolpe an der Peene
--	Güstrow
--	Neu Bartelshagen
--	Millienhagen-Oebelitz
--	Divitz-Spoldershagen
--	Grammendorf
--	Lüdershagen
--	Karnin
--	Hugoldsdorf
--	Süderholz
--	Deyelsdorf
--	Drechow
--	Gransebieth
--	Lindholz
--	Wittenhagen
--	Elmenhorst
--	Jatznick
--	Boltenhagen
--	Warnkenhagen
--	Rieps
--	Tessenow
--	Techentin
--	Rom
--	Weitendorf
--	Mestlin
--	Witzin
--	Kuhlen-Wendorf
--	Kreien
--	Lohme
--	Thiessow
--	Leussow
--	Hoort
--	Blankensee
--	Papendorf
--	Dreetz
--	Vorbeck
--	Boock
--	Grambow
--	Brenz
--	Benitz
--	Wiendorf
--	Lohmen
--	Belsch
--	Gallin
--	Pätow-Steegen
--	Picher
--	Sülstorf
--	Göhlen
--	Bresegard bei Picher
--	Karstädt
--	Uelitz
--	Warlow
--	Lüssow
--	Brahlstorf
--	Bresegard bei Eldena
--	Redefin
--	Warlitz
--	Nostorf
--	Strohkirchen
--	Toddin
--	Möllenbeck
--	Glasow
--	Iven
--	Medow
--	Blankenberg
--	Luckow
--	Granzin
--	Rossin
--	Besitz
--	Krusenfelde
--	Tramm
--	Eldena
--	Grebs-Niendorf
--	Blowatz
--	Gallin-Kuppentin
--	Leezen
--	Grieben
--	Cambs
--	Schönwalde
--	Lelkendorf
--	Lützow
--	Völschow
--	Thürkow
--	Vielank
--	Behren-Lübchin
--	Prebberede
--	Walkendorf
--	Boddin
--	Weitenhagen
--	Preetz
--	Wendorf
--	Kemnitz
--	Penzin
--	Gribow
--	Reimershagen
--	Sukow-Levitzow
--	Dahmen
--	Stolpe
--	Weitenhagen
--	Suckow
--	Perlin
--	Blievenstorf
--	Plaaz
--	Breest
--	Bastorf
--	Bengerstorf
--	Wardow
--	Prislich
--	Warnow
--	Werder
--	Steinhagen
--	Benz
--	Greven
--	Pinnow
--	Schildetal
--	Passee
--	Steinhagen
--	Tarnow
--	Warnow
--	Usedom
--	Q33529065
--	Löcknitz
--	Insel Hiddensee
--	Garz
--	Ostseebad Insel Poel
--	Gresse
--	Hammer a. d. Uecker
--	Kamminke
--	Mistorf
--	Satow
--	Mellenthin
--	Nieden
--	Kummerow
--	Dettmannsdorf
--	Malk Göhren
--	Ralswiek
--	Karlshagen
--	Ducherow
--	Wismar
--	Kargow
--	Grabowhöfe
--	Jabel
--	Groß Plasten
--	Hohen Wangelin
--	Bentzin
--	Katzow
--	Murchin
--	Rubkow
--	Melz
--	Rubenow
--	Behrenhoff
--	Fincken
--	Buchholz
--	Klein Belitz
--	Lühburg
--	Ludorf
--	Moltzow
--	Priborn
--	Sietow
--	Alt Schwerin
--	Bollewick
--	Bütow
--	Gotthun
--	Varchentin
--	Vollrathsruhe
--	Zislow
--	Dargen
--	Ankershagen
--	Vipperow
--	Rechlin
--	Fünfseen
--	Göhren-Lebbin
--	Malchow
--	Nossentiner Hütte
--	Walow
--	Wredenhagen
--	Zepkow
--	Grabow-Below
--	Kieve
--	Lärz
--	Mirow
--	Leizen
--	Klocksin
--	Möllenhagen
--	Penkow
--	Schwarz
--	Silz
--	Stuer
--	Torgelow am See
--	Levenhagen
--	Groß Polzin
--	Altenhof
--	Klink
--	Korswandt
--	Neu Boltenhagen
--	Diedrichshagen
--	Klein Bünzow
--	Mölschow
--	Sauzin
--	Lalendorf
--	Lühmannsdorf
--	Bandelin
--	Groß Kelle
--	Massow
--	Penzlin
--	Röbel/Müritz
--	Wesenberg
--	Priepert
--	Godendorf
--	Blumenholz
--	Feldberger Seenlandschaft
--	Möllenbeck
--	Userin
--	Kratzeburg
--	Klein Vielen
--	Loissin
--	Hohenzieritz
--	Grünow
--	Wustrow
--	Carpin
--	Neustrelitz
--	Wokuhl-Dabelow
--	Hinrichshagen
--	Bobzin
--	Krummin
--	Pudagla
--	Warsow
--	Boldekow
--	Rothemühl
--	Lübesse
--	Veelböken
--	Dambeck
--	Raben Steinfeld
--	Sukow
--	Brunow
--	Menzendorf
--	Cölpin
--	Genzkow
--	Datzetal
--	Galenbeck
--	Lindetal
--	Groß Nemerow
--	Pragsdorf
--	Holldorf
--	Borrentin
--	Papenhagen
--	Loddin
--	Lübberstorf
--	Prohn
--	Sassen-Trantow
--	Eixen
--	Vellahn
--	Butzow
--	Heinrichswalde
--	Trinwillershagen
--	Neddemin
--	Staven
--	Blesewitz
--	Briggow
--	Gnevkow
--	Golchen
--	Hohenbollentin
--	Kriesow
--	Voigtsdorf
--	Basedow
--	Burow
--	Grapzow
--	Kentzlin
--	Mölln
--	Röckwitz
--	Dalberg-Wendelstorf
--	Duckow
--	Faulenrost
--	Kittendorf
--	Nossendorf
--	Trollenhagen
--	Verchen
--	Warrenzin
--	Woggersin
--	Zettemin
--	Brunn
--	Schönfeld
--	Demmin
--	Meesiger
--	Rosenow
--	Petersdorf
--	Bartow
--	Dargun
--	Neetzka
--	Sarow
--	Schönhausen
--	Sponholz
--	Altentreptow
--	Beggerow
--	Bredenfelde
--	Jürgenstorf
--	Malchin
--	Pantelitz
--	Beseritz
--	Blankenhof
--	Gielow
--	Grammentin
--	Knorrendorf
--	Pripsleben
--	Wulkenzin
--	Groß Teetzleben
--	Ivenack
--	Kletzin
--	Siedenbrünzow
--	Tützpatz
--	Gülzow
--	Neukalen
--	Stavenhagen
--	Utzedel
--	Breesen
--	Gültz
--	Hohenmocker
--	Kublank
--	Neverin
--	Schönbeck
--	Sommersdorf
--	Zirzow
--	Altenhagen
--	Neuenkirchen
--	Woldegk
--	Lindenberg
--	Ritzerow
--	Kummerow
--	Görmin
--	Grischow
--	Werder
--	Kremmin
--	Wolde
--	Carlow
--	Gehlsbach
--	Siedenbollentin
--	Löbnitz
--	Groß Miltzow
--	Neetzow-Liepen
--	Plau am See
--	Wildberg
--	Zarnewanz
--	Ahrenshagen-Daskow
--	Cammin
--	Tessin
--	Ahlbeck
--	Carinerland
--	Admannshagen-Bargeshagen
--	Rövershagen
--	Ziesendorf
--	Altwarp
--	Semlow
--	Schmatzin
--	Obere Warnow
--	Schlemmin
--	Wedendorfersee
--	Wittenbeck
--	Ribnitz-Damgarten
--	Poppendorf
--	Börgerende-Rethwisch
--	Klein Kussewitz
--	Koserow
--	Roggentin
--	Biendorf
--	Broderstorf
--	Lambrechtshagen
--	Niendorf
--	Hintersee
--	Kritzmow
--	Papendorf
--	Selpin
--	Mönchhagen
--	Gnewitz
--	Grammow
--	Elmenhorst/Lichtenhagen
--	Retschow
--	Küstengewässer einschl. Anteil am Festlandsockel
--	Bentwisch
--	Nustrow
--	Bartenshagen-Parkentin
--	Lewitzrand
--	Stäbelow
--	Lütow
--	Kloster Tempzin
--	Thulendorf
--	Blankenhagen
--	Hohenfelde
--	Pölchow
--	Stubbendorf
--	Gelbensande
--	Reddelich
--	Schwerin
--	Karin
--	Steffenshagen
--	Nienhagen
--	Ummanz
--	Teschendorf
--	Thelkow
--	Sundhagen
--	Stepenitztal
--	Bröbberow
--	Rostock
--	Peenehagen
--	Schloen-Dratow
--	Burg Stargard
--	Blankensee
--	Kuckssee
--	Friedland
--	Niepars
--	Pingelshagen
--	Thandorf
--	Kuhs
--	Holdorf
--	Brüsewitz
--	Lübow
--	Upahl
--	Dümmer
--	Barnekow
--	Kneese
--	Glasewitz
--	Bernstorf
--	Borkow
--	Königsfeld
--	Pokrent
--	Utecht
--	Rankwitz
+-    Zarrentin am Schaalsee
+-    Zarrendorf
+-    Ludwigslust
+-    Zapel
+-    Barth
+-    Boizenburg/Elbe
+-    Glewitz
+-    Sternberg
+-    Garz/Rügen
+-    Ziegendorf
+-    Zickhusen
+-    Zierzow
+-    Zepelin
+-    Zerrenthin
+-    Ziethen
+-    Zierow
+-    Zemitz
+-    Zempin
+-    Kruckow
+-    Krugsdorf
+-    Gneven
+-    Zehna
+-    Zinnowitz
+-    Plöwen
+-    Zingst
+-    Zirkow
+-    Zirchow
+-    Roggendorf
+-    Zölkow
+-    Glasin
+-    Zurow
+-    Zülow
+-    Züsow
+-    Züssow
+-    Cramonshagen
+-    Grambow
+-    Hohen Pritz
+-    Schaprode
+-    Trassenheide
+-    Ückeritz
+-    Spornitz
+-    Lietzow
+-    Dobbin-Linstow
+-    Gischow
+-    Hoppenrade
+-    Altwigshagen
+-    Teldau
+-    Langen Brütz
+-    Anklam
+-    Altkalen
+-    Am Salzhaff
+-    Banzkow
+-    Plate
+-    Gützkow
+-    Sassnitz
+-    Gager
+-    Groß Roge
+-    Born a. Darß
+-    Passow
+-    Demen
+-    Jakobsdorf
+-    Wustrow
+-    Pasewalk
+-    Wolgast
+-    Peenemünde
+-    Bergen auf Rügen
+-    Velgast
+-    Altenpleen
+-    Dorf Mecklenburg
+-    Polzow
+-    Alt Krenzlin
+-    Alt Meteln
+-    Lassan
+-    Alt Tellin
+-    Ahrenshoop
+-    Alt Sührkow
+-    Alt Bukow
+-    Alt Zachun
+-    Kluis
+-    Altenkirchen
+-    Poseritz
+-    Altefähr
+-    Lüssow
+-    Kramerhof
+-    Splietsdorf
+-    Neu Kosenow
+-    Sellin
+-    Dragun
+-    Groß Laasch
+-    Heringsdorf
+-    Wittendörp
+-    Prerow
+-    Grevesmühlen
+-    Mönkebude
+-    Ferdinandshof
+-    Karlsburg
+-    Bargischow
+-    Wrangelsburg
+-    Kenz-Küstrow
+-    Binz
+-    Kalkhorst
+-    Gägelow
+-    Dummerstorf
+-    Lübstorf
+-    Middelhagen
+-    Ueckermünde
+-    Glowe
+-    Wittenburg
+-    Gadebusch
+-    Gingst
+-    Rappin
+-    Dranske
+-    Rögnitz
+-    Friedrichsruhe
+-    Klütz
+-    Pruchten
+-    Sagard
+-    Dreschvitz
+-    Samtens
+-    Lancken-Granitz
+-    Gremersdorf-Buchholz
+-    Dersekow
+-    Dargelin
+-    Bad Kleinen
+-    Kühlungsborn
+-    Strasburg
+-    Hagenow
+-    Laage
+-    Rehna
+-    Göhren
+-    Neukloster
+-    Gnoien
+-    Krakow am See
+-    Dassow
+-    Schwaan
+-    Warin
+-    Lübtheen
+-    Neustadt-Glewe
+-    Grabow
+-    Bützow
+-    Rerik
+-    Dömitz
+-    Marlow
+-    Groß Wüstenfelde
+-    Gülzow-Prüzen
+-    Kröslin
+-    Groß Wokern
+-    Groß Krams
+-    Groß Siemz
+-    Tessin b. Boizenburg
+-    Lübs
+-    Wittenförden
+-    Diekhof
+-    Meiersberg
+-    Baabe
+-    Spantekow
+-    Kuchelmiß
+-    Siggelkow
+-    Rollwitz
+-    Liepgarten
+-    Baumgarten
+-    Grambin
+-    Fahrenwalde
+-    Groß Luckow
+-    Parchim
+-    Karrenzin
+-    Rothenklempenow
+-    Bülow
+-    Crivitz
+-    Dobin am See
+-    Brüel
+-    Barkhagen
+-    Groß Godems
+-    Kritzow
+-    Lübz
+-    Neu Poserin
+-    Domsühl
+-    Barnin
+-    Dobbertin
+-    Goldberg
+-    Rossow
+-    Ganzlin
+-    Dabel
+-    Kobrow
+-    Marnitz
+-    Daberkow
+-    Krackow
+-    Viereck
+-    Pritzier
+-    Bergholz
+-    Ramin
+-    Koblentz
+-    Rastow
+-    Brietzig
+-    Vogelsang-Warsin
+-    Wilhelmsburg
+-    Schlagsdorf
+-    Jesendorf
+-    Gottesgabe
+-    Krembz
+-    Metelsdorf
+-    Wendisch Baggendorf
+-    Hanshagen
+-    Plüschow
+-    Dechow
+-    Mühlen Eichsen
+-    Neuburg
+-    Rambin
+-    Klein Trebbow
+-    Seehof
+-    Hohenkirchen
+-    Roggenstorf
+-    Rüting
+-    Damshagen
+-    Krusenhagen
+-    Hornstorf
+-    Bad Sülze
+-    Groß Molzahn
+-    Hohen Sprenz
+-    Jördenstorf
+-    Mühl Rosin
+-    Schorssow
+-    Dalkendorf
+-    Hohen Demzin
+-    Sehlen
+-    Hohen Viecheln
+-    Brünzow
+-    Bugewitz
+-    Mustin
+-    Jürgenshagen
+-    Klein Upahl
+-    Schwasdorf
+-    Neuenkirchen
+-    Gustow
+-    Patzig
+-    Groß Stieten
+-    Stralendorf
+-    Groß Schwiesow
+-    Gutow
+-    Sarmstorf
+-    Putgarten
+-    Wusterhusen
+-    Lüblow
+-    Testorf-Steinfort
+-    Fuhlendorf
+-    Postlow
+-    Stolpe auf Usedom
+-    Buschvitz
+-    Finkenthal
+-    Mesekenhagen
+-    Neuenkirchen
+-    Rühn
+-    Dolgen am See
+-    Buggenhagen
+-    Krien
+-    Wackerow
+-    Sanitz
+-    Teterow
+-    Lüttow-Valluhn
+-    Nadrensee
+-    Kröpelin
+-    Schönberg
+-    Groß Kiesow
+-    Lubmin
+-    Leopoldshagen
+-    Graal-Müritz
+-    Franzburg
+-    Jarmen
+-    Penkun
+-    Grimmen
+-    Richtenberg
+-    Eggesin
+-    Parchtitz
+-    Tribsees
+-    Loitz
+-    Torgelow
+-    Putbus
+-    Klausdorf
+-    Groß Mohrdorf
+-    Groß Kordshagen
+-    Dierhagen
+-    Sarnow
+-    Balow
+-    Setzin
+-    Rukieten
+-    Benz
+-    Moraas
+-    Kirch Mulsow
+-    Kassow
+-    Bibow
+-    Boiensdorf
+-    Ventschow
+-    Bobitz
+-    Pampow
+-    Klein Rogahn
+-    Neu Kaliß
+-    Muchow
+-    Karenz
+-    Malliß
+-    Schossin
+-    Kirch Jesar
+-    Hülseburg
+-    Bandenitz
+-    Gammelin
+-    Gorlosen
+-    Neu Gülze
+-    Schwanheide
+-    Tutow
+-    Bernitt
+-    Breege
+-    Wöbbelin
+-    Lockwisch
+-    Lüdersdorf
+-    Selmsdorf
+-    Roduchelstorf
+-    Neubukow
+-    Bad Doberan
+-    Kogel
+-    Dersenow
+-    Wieck a. Darß
+-    Saal
+-    Trent
+-    Waren (Müritz)
+-    Neubrandenburg
+-    Kuhstorf
+-    Wiek
+-    Holthusen
+-    Milow
+-    Stralsund
+-    Greifswald
+-    Stolpe an der Peene
+-    Güstrow
+-    Neu Bartelshagen
+-    Millienhagen-Oebelitz
+-    Divitz-Spoldershagen
+-    Grammendorf
+-    Lüdershagen
+-    Karnin
+-    Hugoldsdorf
+-    Süderholz
+-    Deyelsdorf
+-    Drechow
+-    Gransebieth
+-    Lindholz
+-    Wittenhagen
+-    Elmenhorst
+-    Jatznick
+-    Boltenhagen
+-    Warnkenhagen
+-    Rieps
+-    Tessenow
+-    Techentin
+-    Rom
+-    Weitendorf
+-    Mestlin
+-    Witzin
+-    Kuhlen-Wendorf
+-    Kreien
+-    Lohme
+-    Thiessow
+-    Leussow
+-    Hoort
+-    Blankensee
+-    Papendorf
+-    Dreetz
+-    Vorbeck
+-    Boock
+-    Grambow
+-    Brenz
+-    Benitz
+-    Wiendorf
+-    Lohmen
+-    Belsch
+-    Gallin
+-    Pätow-Steegen
+-    Picher
+-    Sülstorf
+-    Göhlen
+-    Bresegard bei Picher
+-    Karstädt
+-    Uelitz
+-    Warlow
+-    Lüssow
+-    Brahlstorf
+-    Bresegard bei Eldena
+-    Redefin
+-    Warlitz
+-    Nostorf
+-    Strohkirchen
+-    Toddin
+-    Möllenbeck
+-    Glasow
+-    Iven
+-    Medow
+-    Blankenberg
+-    Luckow
+-    Granzin
+-    Rossin
+-    Besitz
+-    Krusenfelde
+-    Tramm
+-    Eldena
+-    Grebs-Niendorf
+-    Blowatz
+-    Gallin-Kuppentin
+-    Leezen
+-    Grieben
+-    Cambs
+-    Schönwalde
+-    Lelkendorf
+-    Lützow
+-    Völschow
+-    Thürkow
+-    Vielank
+-    Behren-Lübchin
+-    Prebberede
+-    Walkendorf
+-    Boddin
+-    Weitenhagen
+-    Preetz
+-    Wendorf
+-    Kemnitz
+-    Penzin
+-    Gribow
+-    Reimershagen
+-    Sukow-Levitzow
+-    Dahmen
+-    Stolpe
+-    Weitenhagen
+-    Suckow
+-    Perlin
+-    Blievenstorf
+-    Plaaz
+-    Breest
+-    Bastorf
+-    Bengerstorf
+-    Wardow
+-    Prislich
+-    Warnow
+-    Werder
+-    Steinhagen
+-    Benz
+-    Greven
+-    Pinnow
+-    Schildetal
+-    Passee
+-    Steinhagen
+-    Tarnow
+-    Warnow
+-    Usedom
+-    Q33529065
+-    Löcknitz
+-    Insel Hiddensee
+-    Garz
+-    Ostseebad Insel Poel
+-    Gresse
+-    Hammer a. d. Uecker
+-    Kamminke
+-    Mistorf
+-    Satow
+-    Mellenthin
+-    Nieden
+-    Kummerow
+-    Dettmannsdorf
+-    Malk Göhren
+-    Ralswiek
+-    Karlshagen
+-    Ducherow
+-    Wismar
+-    Kargow
+-    Grabowhöfe
+-    Jabel
+-    Groß Plasten
+-    Hohen Wangelin
+-    Bentzin
+-    Katzow
+-    Murchin
+-    Rubkow
+-    Melz
+-    Rubenow
+-    Behrenhoff
+-    Fincken
+-    Buchholz
+-    Klein Belitz
+-    Lühburg
+-    Ludorf
+-    Moltzow
+-    Priborn
+-    Sietow
+-    Alt Schwerin
+-    Bollewick
+-    Bütow
+-    Gotthun
+-    Varchentin
+-    Vollrathsruhe
+-    Zislow
+-    Dargen
+-    Ankershagen
+-    Vipperow
+-    Rechlin
+-    Fünfseen
+-    Göhren-Lebbin
+-    Malchow
+-    Nossentiner Hütte
+-    Walow
+-    Wredenhagen
+-    Zepkow
+-    Grabow-Below
+-    Kieve
+-    Lärz
+-    Mirow
+-    Leizen
+-    Klocksin
+-    Möllenhagen
+-    Penkow
+-    Schwarz
+-    Silz
+-    Stuer
+-    Torgelow am See
+-    Levenhagen
+-    Groß Polzin
+-    Altenhof
+-    Klink
+-    Korswandt
+-    Neu Boltenhagen
+-    Diedrichshagen
+-    Klein Bünzow
+-    Mölschow
+-    Sauzin
+-    Lalendorf
+-    Lühmannsdorf
+-    Bandelin
+-    Groß Kelle
+-    Massow
+-    Penzlin
+-    Röbel/Müritz
+-    Wesenberg
+-    Priepert
+-    Godendorf
+-    Blumenholz
+-    Feldberger Seenlandschaft
+-    Möllenbeck
+-    Userin
+-    Kratzeburg
+-    Klein Vielen
+-    Loissin
+-    Hohenzieritz
+-    Grünow
+-    Wustrow
+-    Carpin
+-    Neustrelitz
+-    Wokuhl-Dabelow
+-    Hinrichshagen
+-    Bobzin
+-    Krummin
+-    Pudagla
+-    Warsow
+-    Boldekow
+-    Rothemühl
+-    Lübesse
+-    Veelböken
+-    Dambeck
+-    Raben Steinfeld
+-    Sukow
+-    Brunow
+-    Menzendorf
+-    Cölpin
+-    Genzkow
+-    Datzetal
+-    Galenbeck
+-    Lindetal
+-    Groß Nemerow
+-    Pragsdorf
+-    Holldorf
+-    Borrentin
+-    Papenhagen
+-    Loddin
+-    Lübberstorf
+-    Prohn
+-    Sassen-Trantow
+-    Eixen
+-    Vellahn
+-    Butzow
+-    Heinrichswalde
+-    Trinwillershagen
+-    Neddemin
+-    Staven
+-    Blesewitz
+-    Briggow
+-    Gnevkow
+-    Golchen
+-    Hohenbollentin
+-    Kriesow
+-    Voigtsdorf
+-    Basedow
+-    Burow
+-    Grapzow
+-    Kentzlin
+-    Mölln
+-    Röckwitz
+-    Dalberg-Wendelstorf
+-    Duckow
+-    Faulenrost
+-    Kittendorf
+-    Nossendorf
+-    Trollenhagen
+-    Verchen
+-    Warrenzin
+-    Woggersin
+-    Zettemin
+-    Brunn
+-    Schönfeld
+-    Demmin
+-    Meesiger
+-    Rosenow
+-    Petersdorf
+-    Bartow
+-    Dargun
+-    Neetzka
+-    Sarow
+-    Schönhausen
+-    Sponholz
+-    Altentreptow
+-    Beggerow
+-    Bredenfelde
+-    Jürgenstorf
+-    Malchin
+-    Pantelitz
+-    Beseritz
+-    Blankenhof
+-    Gielow
+-    Grammentin
+-    Knorrendorf
+-    Pripsleben
+-    Wulkenzin
+-    Groß Teetzleben
+-    Ivenack
+-    Kletzin
+-    Siedenbrünzow
+-    Tützpatz
+-    Gülzow
+-    Neukalen
+-    Stavenhagen
+-    Utzedel
+-    Breesen
+-    Gültz
+-    Hohenmocker
+-    Kublank
+-    Neverin
+-    Schönbeck
+-    Sommersdorf
+-    Zirzow
+-    Altenhagen
+-    Neuenkirchen
+-    Woldegk
+-    Lindenberg
+-    Ritzerow
+-    Kummerow
+-    Görmin
+-    Grischow
+-    Werder
+-    Kremmin
+-    Wolde
+-    Carlow
+-    Gehlsbach
+-    Siedenbollentin
+-    Löbnitz
+-    Groß Miltzow
+-    Neetzow-Liepen
+-    Plau am See
+-    Wildberg
+-    Zarnewanz
+-    Ahrenshagen-Daskow
+-    Cammin
+-    Tessin
+-    Ahlbeck
+-    Carinerland
+-    Admannshagen-Bargeshagen
+-    Rövershagen
+-    Ziesendorf
+-    Altwarp
+-    Semlow
+-    Schmatzin
+-    Obere Warnow
+-    Schlemmin
+-    Wedendorfersee
+-    Wittenbeck
+-    Ribnitz-Damgarten
+-    Poppendorf
+-    Börgerende-Rethwisch
+-    Klein Kussewitz
+-    Koserow
+-    Roggentin
+-    Biendorf
+-    Broderstorf
+-    Lambrechtshagen
+-    Niendorf
+-    Hintersee
+-    Kritzmow
+-    Papendorf
+-    Selpin
+-    Mönchhagen
+-    Gnewitz
+-    Grammow
+-    Elmenhorst/Lichtenhagen
+-    Retschow
+-    Küstengewässer einschl. Anteil am Festlandsockel
+-    Bentwisch
+-    Nustrow
+-    Bartenshagen-Parkentin
+-    Lewitzrand
+-    Stäbelow
+-    Lütow
+-    Kloster Tempzin
+-    Thulendorf
+-    Blankenhagen
+-    Hohenfelde
+-    Pölchow
+-    Stubbendorf
+-    Gelbensande
+-    Reddelich
+-    Schwerin
+-    Karin
+-    Steffenshagen
+-    Nienhagen
+-    Ummanz
+-    Teschendorf
+-    Thelkow
+-    Sundhagen
+-    Stepenitztal
+-    Bröbberow
+-    Rostock
+-    Peenehagen
+-    Schloen-Dratow
+-    Burg Stargard
+-    Blankensee
+-    Kuckssee
+-    Friedland
+-    Niepars
+-    Pingelshagen
+-    Thandorf
+-    Kuhs
+-    Holdorf
+-    Brüsewitz
+-    Lübow
+-    Upahl
+-    Dümmer
+-    Barnekow
+-    Kneese
+-    Glasewitz
+-    Bernstorf
+-    Borkow
+-    Königsfeld
+-    Pokrent
+-    Utecht
+-    Rankwitz

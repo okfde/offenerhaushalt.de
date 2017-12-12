@@ -1,2051 +1,2051 @@
--	Massing
--	Gauting
--	Wörth am Main
--	Weichering
--	Heroldsberg
--	Weiding
--	Ruhpolding
--	Weißensberg
--	Sparneck
--	Zirndorf
--	Möhrendorf
--	Stammbach
--	Wiesenttal
--	Neuschönau
--	Wollbach
--	Maitenbeth
--	Ludwigsstadt
--	Baiersdorf
--	Zwiesel
--	Lindau
--	Lichtenfels
--	Zangberg
--	Zapfendorf
--	Zandt
--	Feilitzsch
--	Sonthofen
--	Kulmbach
--	Neumarkt-Sankt Veit
--	Münchberg
--	Hofheim in Unterfranken
--	Irschenberg
--	Mönchsroth
--	Zeil am Main
--	Zellingen
--	Stadelhofen
--	Zenting
--	Mariaposching
--	Ziemetshausen
--	Ziertheim
--	Zeitlarn
--	Betzenstein
--	Zell
--	Zeitlofs
--	Zeilarn
--	Kienberg
--	Marktschellenberg
--	Aschau im Chiemgau
--	Egg an der Günz
--	Oberstaufen
--	Bad Windsheim
--	Isen
--	Petting
--	Zachenberg
--	Berg
--	Bernau am Chiemsee
--	Birgland
--	Winterhausen
--	Bärnau
--	Otzing
--	Gerzen
--	Neuburg an der Donau
--	Sulzbach am Main
--	Randersacker
--	Dörfles-Esbach
--	Mittenwald
--	Wittelshofen
--	Mickhausen
--	Garmisch-Partenkirchen
--	Frasdorf
--	Seefeld
--	Allershausen
--	Zolling
--	Pullach im Isartal
--	Dingolfing
--	Emmering
--	Hopferau
--	Bolsterlang
--	Edling
--	Schmiechen
--	Grünwald
--	Tirschenreuth
--	Laufen
--	Albertshofen
--	Parkstetten
--	Oberreute
--	Lauben
--	Seeon-Seebruck
--	Zöschingen
--	Wilhelmsdorf
--	Zusamaltheim
--	Walkertshofen
--	Scheßlitz
--	Waldsassen
--	Berching
--	Zusmarshausen
--	Zorneding
--	Nußdorf
--	Altenstadt an der Waldnaab
--	Burgkirchen an der Alz
--	Buch am Erlbach
--	Icking
--	Taching am See
--	Erharting
--	Puchheim
--	Pfaffing
--	Penzberg
--	Brunnthal
--	Kottgeisering
--	Bayerbach bei Ergoldsbach
--	Aham
--	Bad Griesbach im Rottal
--	Ebersberg
--	Bergtheim
--	Pöttmes
--	Planegg
--	Eichstätt
--	Aidenbach
--	Hauzenberg
--	Töging am Inn
--	Simbach am Inn
--	Staudach-Egerndach
--	Teugn
--	Mauern
--	Eggenfelden
--	Pittenhart
--	Inzell
--	Ismaning
--	Landsberied
--	Mammendorf
--	Alling
--	Adelshofen
--	Bad Endorf
--	Schechen
--	Vohburg an der Donau
--	Meitingen
--	Uffing am Staffelsee
--	Maisach
--	Ramsau bei Berchtesgaden
--	Schneizlreuth
--	Grabenstätt
--	Bad Heilbrunn
--	Schönberg
--	Obing
--	Aichach
--	Babensham
--	Sielenbach
--	Ernsgaden
--	Abensberg
--	Aholfing
--	Chieming
--	Surberg
--	Traunstein
--	Murnau am Staffelsee
--	Pleinfeld
--	Adlkofen
--	Manching
--	Markt Erlbach
--	Treuchtlingen
--	Aying
--	Grainau
--	Bobingen
--	Petersdorf
--	Oberding
--	Grafenwöhr
--	Baar
--	Maxhütte-Haidhof
--	Reit im Winkl
--	Elsendorf
--	Bischofsgrün
--	Obersöchering
--	Mitterteich
--	Oberschleißheim
--	Kolbermoor
--	Eching
--	Bad Abbach
--	Kirchdorf
--	Olching
--	Auerbach
--	Eching am Ammersee
--	Kirchham
--	Wiesentheid
--	Hohenwarth
--	Oberschweinbach
--	Stegaurach
--	Haiming
--	Haunsheim
--	Rödelsee
--	Grassau
--	Kahl am Main
--	Waigolshausen
--	Herrsching am Ammersee
--	Rottenburg an der Laaber
--	Lechbruck am See
--	Altendorf
--	Partenstein
--	Ellzee
--	Eschenlohe
--	Andechs
--	Dießen am Ammersee
--	Absberg
--	Bibertal
--	Sommerach
--	Essing
--	Kirchroth
--	Burk
--	Hohenberg an der Eger
--	Utting am Ammersee
--	Schirmitz
--	Bessenbach
--	Theres
--	Markt Bibart
--	Oerlenbach
--	Eberfing
--	Adelschlag
--	Kaufering
--	Otterfing
--	Adelshofen
--	Oberaurach
--	Polsingen
--	Adelsried
--	Nagel
--	Abtswind
--	Üchtelhausen
--	Adelsdorf
--	Wörth an der Donau
--	Ammerthal
--	Altmannstein
--	Eibelstadt
--	Altenstadt
--	Mantel
--	Bad Kissingen
--	Amberg
--	Altusried
--	Kollnburg
--	Marktl
--	Amerang
--	Alzenau
--	Kelheim
--	Rinchnach
--	Altenstadt
--	Ammerndorf
--	Bad Reichenhall
--	Althegnenberg
--	Teisnach
--	Amorbach
--	Altenthann
--	Altomünster
--	Neutraubling
--	Marktzeuln
--	Schwarzenbach am Wald
--	Hollfeld
--	Burgbernheim
--	Heideck
--	Obernburg am Main
--	Buchdorf
--	Wunsiedel
--	Wiesenthau
--	Eichenbühl
--	Flossenbürg
--	Aurach
--	Hochstadt am Main
--	Kronach
--	Hiltpoltstein
--	Dormitz
--	Kleinsendelbach
--	Waischenfeld
--	Freyung
--	Furth im Wald
--	Pinzberg
--	Tapfheim
--	Erlenbach am Main
--	Dillingen an der Donau
--	Fürstenzell
--	Huisheim
--	Nandlstadt
--	Ichenhausen
--	Kammeltal
--	Marktbergel
--	Saldenburg
--	Schwarzenbach an der Saale
--	Presseck
--	Goldkronach
--	Plankenfels
--	Reischach
--	Kissing
--	Aholming
--	Kreuth
--	Obergriesbach
--	Harburg
--	Illertissen
--	Irchenrieth
--	Pirk
--	Elchingen
--	Pleystein
--	Altötting
--	Waldmünchen
--	Traunreut
--	Hetzles
--	Ehingen am Ries
--	Mitterskirchen
--	Jandelsbrunn
--	Mauth
--	Münster
--	Bischofswiesen
--	Daiting
--	Reimlingen
--	Mitteleschenbach
--	Osterhofen
--	Burgheim
--	Innernzell
--	Vohenstrauß
--	Hösbach
--	Oberkotzau
--	Ringelai
--	Kochel am See
--	Motten
--	Marktleugast
--	Marktoffingen
--	Wallerstein
--	Wolferstadt
--	Albaching
--	Kirchenthumbach
--	Adelzhausen
--	Aystetten
--	Untermeitingen
--	Bachhagel
--	Unterdießen
--	Pyrbaum
--	Wolfratshausen
--	Neusäß
--	Steindorf
--	Schöfweg
--	Taufkirchen
--	Trogen
--	Stadtbergen
--	Röhrnbach
--	Effeltrich
--	Oberviechtach
--	Hahnbach
--	Maßbach
--	Schwarzach am Main
--	Egenhofen
--	Emersacker
--	Naila
--	Schöllnach
--	Straßlach-Dingharting
--	Schwangau
--	Neustadt an der Waldnaab
--	Herrngiersdorf
--	Aiglsbach
--	Konzell
--	Opfenbach
--	Aicha vorm Wald
--	Etzenricht
--	Tegernsee
--	Palling
--	Mitterfels
--	Bodenkirchen
--	Holzheim
--	Jesenwang
--	Eitensheim
--	Affing
--	Inchenhofen
--	Rehling
--	Todtenweis
--	Neuried
--	Neubiberg
--	Hausen
--	Kirchensittenbach
--	Holzkirchen
--	Abenberg
--	Baierbach
--	Cham
--	Ergoldsbach
--	Garching an der Alz
--	Perach
--	Röthlein
--	Niederbergkirchen
--	Parkstein
--	Stephansposching
--	Wasserburg am Inn
--	Bernried
--	Grasbrunn
--	Neunkirchen am Brand
--	Putzbrunn
--	Ramerberg
--	Schliersee
--	Soyen
--	Waging am See
--	Ustersbach
--	Hinterschmiding
--	Schleching
--	Vachendorf
--	Aindling
--	Denkendorf
--	Geisenfeld
--	Fridolfing
--	Landsberg am Lech
--	Polling
--	Altertheim
--	Gerolsbach
--	Kumhausen
--	Anger
--	Helmbrechts
--	Achslach
--	Übersee
--	Viechtach
--	Plech
--	Kastl
--	Bergen
--	Haarbach
--	Mallersdorf-Pfaffenberg
--	Eching
--	Mittelneufnach
--	Reichertshausen
--	Ilmmünster
--	Möttingen
--	Barbing
--	Lindberg
--	Patersdorf
--	Langdorf
--	Burgkunstadt
--	Nördlingen
--	Ampfing
--	Seukendorf
--	Brennberg
--	Schweitenkirchen
--	Ruhmannsfelden
--	Geiersthal
--	Aislingen
--	Ebern
--	Königsdorf
--	Wehringen
--	Reichertshofen
--	Brunn
--	Regen
--	Gotteszell
--	Drachselsried
--	Frauenau
--	Bad Kohlgrub
--	Bach an der Donau
--	Stadtlauringen
--	Günzburg
--	Hohenwart
--	Bernhardswald
--	Kirchdorf im Wald
--	Kallmünz
--	Köfering
--	Hohenaltheim
--	Mötzing
--	Sinzing
--	Pfaffenhofen an der Ilm
--	Riekofen
--	Thalmassing
--	Mainburg
--	Painten
--	Attenhofen
--	Speichersdorf
--	Sulzbach-Rosenberg
--	Scheyern
--	Tegernheim
--	Rain
--	Bruckberg
--	Insingen
--	Pettendorf
--	Lappersdorf
--	Bad Rodach
--	Ihrlerstein
--	Riedenburg
--	Aschheim
--	Wolfsegg
--	Arnbruck
--	Benediktbeuern
--	Wenzenbach
--	Baar-Ebenhausen
--	Rohrbach
--	Gunzenhausen
--	Bubenreuth
--	Eckental
--	Kirchberg im Wald
--	Neudrossenfeld
--	Wonsees
--	Mintraching
--	Regenstauf
--	Grafrath
--	Jetzendorf
--	Farchant
--	Holzheim am Forst
--	Obertraubling
--	Pfakofen
--	Pfatter
--	Schierling
--	Baierbrunn
--	Schönau am Königssee
--	Aufhausen
--	Prackenbach
--	Bischofsmais
--	Böbrach
--	Frammersbach
--	Prebitz
--	Bayerisch Eisenstein
--	Wolnzach
--	Hagelstadt
--	Hemau
--	Hettenshausen
--	Laaber
--	Nittendorf
--	Sünching
--	Wiesent
--	Pentling
--	Pielenhofen
--	Haßfurt
--	Thannhausen
--	Geiselbach
--	Arzberg
--	Mönchsdeggingen
--	Kirchdorf
--	Konradsreuth
--	Kirchanschöring
--	Weißdorf
--	Buchloe
--	Oberammergau
--	Winhöring
--	Altfraunhofen
--	Theisseil
--	Deisenhausen
--	Siegsdorf
--	Störnstein
--	Oberdolling
--	Kreuzwertheim
--	Oberndorf am Lech
--	Eichenau
--	Oberstdorf
--	Ahorn
--	Türkenfeld
--	Reichenbach
--	Bayerisch Gmain
--	Feldkirchen
--	Füssen
--	Künzing
--	Altenkunstadt
--	Iffeldorf
--	Saal an der Donau
--	Egling
--	Pösing
--	Pemfling
--	Wildenberg
--	Ergolding
--	Altenmünster
--	Dorfen
--	Hainsfarth
--	Dürrlauingen
--	Kirchendemenreuth
--	Garching bei München
--	Reichenberg
--	Siegenburg
--	Burgpreppach
--	Kirchlauter
--	Rauhenebrach
--	Wörnitz
--	Unterhaching
--	Buchbrunn
--	Gädheim
--	Burghausen
--	Pappenheim
--	Perlesreut
--	Maroldsweisach
--	Schönau
--	Rohrenfels
--	Ortenburg
--	Kirchenpingarten
--	Mehlmeisel
--	Töpen
--	Baiern
--	Schöngeising
--	Dinkelscherben
--	Nordheim am Main
--	Balzhausen
--	Deining
--	Schaufling
--	Burgsinn
--	Eußenheim
--	Trebgast
--	Ebensfeld
--	Schauenstein
--	Ellgau
--	Marktsteft
--	Hirschau
--	Döhlau
--	Nüdlingen
--	Castell
--	Otting
--	Lichtenberg
--	Trautskirchen
--	Pressath
--	Weismain
--	Büchlberg
--	Marktgraitz
--	Marktoberdorf
--	Eggolsheim
--	Neuendettelsau
--	Bürgstadt
--	Creußen
--	Klingenberg am Main
--	Spalt
--	Hersbruck
--	Mühldorf am Inn
--	Buch am Wald
--	Hallerndorf
--	Windischeschenbach
--	Bad Wiessee
--	Eppenschlag
--	Auhausen
--	Wemding
--	Igensdorf
--	Kirchehrenbach
--	Wertingen
--	Heroldsbach
--	Obertrubach
--	Iphofen
--	Gersthofen
--	Stadtprozelten
--	Wallenfels
--	Berg
--	Dorfprozelten
--	Miltenberg
--	Eschenbach in der Oberpfalz
--	Burgoberbach
--	Teuschnitz
--	Issigau
--	Thurmansbang
--	Senden
--	Gattendorf
--	Elsenfeld
--	Burkardroth
--	Eging am See
--	Bad Bocklet
--	Großheubach
--	Geroldsgrün
--	Prichsenstadt
--	Diebach
--	Egloffstein
--	Gräfenberg
--	Aichen
--	Altenbuch
--	Neubrunn
--	Stamsried
--	Ainring
--	Iggensbach
--	Stadtsteinach
--	Altenmarkt an der Alz
--	Altendorf
--	Tröstau
--	Pocking
--	Aiterhofen
--	Falkenfels
--	Megesheim
--	Moos
--	Pettstadt
--	Apfeltrach
--	Alteglofsheim
--	Altdorf
--	Schnaitsee
--	Seehausen am Staffelsee
--	Aitrang
--	Bad Tölz
--	Aidhausen
--	Ohlstadt
--	Altdorf bei Nürnberg
--	Waldkraiburg
--	Beratzhausen
--	Burghaslach
--	Amerdingen
--	Mainleus
--	Inning am Ammersee
--	Unterroth
--	Außernzell
--	Hammelburg
--	Wiesen
--	Lam
--	Hallbergmoos
--	Winterrieden
--	Ruhstorf an der Rott
--	Leinach
--	Waldthurn
--	Hallstadt
--	Thierhaupten
--	Wiesenbronn
--	Oberelsbach
--	Bad Neustadt an der Saale
--	Wielenbach
--	Habach
--	Penzing
--	Bischofsheim an der Rhön
--	Oettingen in Bayern
--	Rednitzhembach
--	Erdweg
--	Wilhermsdorf
--	Sommerkahl
--	Schwabbruck
--	Vaterstetten
--	Ettenstatt
--	Scherstetten
--	Blaichach
--	Eisingen
--	Kümmersbruck
--	Pfeffenhausen
--	Langenneufnach
--	Ebermannsdorf
--	Schwabsoien
--	Eitting
--	Roden
--	Hergatz
--	Georgenberg
--	Bodenmais
--	Steinfeld
--	Bonstetten
--	Hergensweiler
--	Obersüßbach
--	Leutenbach
--	Aura im Sinngrund
--	Leinburg
--	Hartenstein
--	Markt Indersdorf
--	Riegsee
--	Maierhöfen
--	Bergkirchen
--	Geiselwind
--	Hengersberg
--	Jengen
--	Kraftisried
--	Obergünzburg
--	Oberostendorf
--	Forheim
--	Fremdingen
--	Blindheim
--	Rottach-Egern
--	Sulzthal
--	Breitbrunn
--	Reichertsheim
--	Eglfing
--	Ingenried
--	Langenmosen
--	Ehingen
--	Elfershausen
--	Burgebrach
--	Unterpleichfeld
--	Rannungen
--	Malching
--	Obertaufkirchen
--	Untersteinach
--	Buchhofen
--	Hofstetten
--	Nersingen
--	Roth
--	Halblech
--	Riedbach
--	Oberbergkirchen
--	Schneckenlohe
--	Witzmannsberg
--	Röslau
--	Ehekirchen
--	Mistelbach
--	Großostheim
--	Wang
--	Traitsching
--	Wirsberg
--	Esselbach
--	Hutthurm
--	Ederheim
--	Heinrichsthal
--	Himmelkron
--	Niedertaufkirchen
--	Pöcking
--	Rattenkirchen
--	Rögling
--	Tagmersheim
--	Windelsbach
--	Mauerstetten
--	Schnelldorf
--	Martinsheim
--	Erlabrunn
--	Görisried
--	Osterzell
--	Pressig
--	Fischach
--	Bischbrunn
--	Bad Alexandersbad
--	Küps
--	Rügland
--	Bernbeuren
--	Schnabelwaid
--	Bechtsrieth
--	Sonnen
--	Ohrenbach
--	Stiefenhofen
--	Hohenfurch
--	Jettenbach
--	Bergheim
--	Rüdenhausen
--	Willanzheim
--	Offenhausen
--	Waakirchen
--	Kemnath
--	Pforzen
--	Waidhaus
--	Thüngen
--	Wiedergeltingen
--	Eggenthal
--	Huglfing
--	Wildsteig
--	Mengkofen
--	Poppenricht
--	Thundorf in Unterfranken
--	Wernberg-Köblitz
--	Aletshausen
--	Margetshöchheim
--	Böbing
--	Schmidmühlen
--	Mespelbrunn
--	Freihung
--	Goldbach
--	Neualbenreuth
--	Kellmünz an der Iller
--	Rott
--	Weißenstadt
--	Atting
--	Geiselhöring
--	Bissingen
--	Schlüsselfeld
--	Buxheim
--	Königsberg in Bayern
--	Schalkham
--	Weißenbrunn
--	Fuchstal
--	Höslwang
--	Krummennaab
--	Bergrheinfeld
--	Neuendorf
--	Pechbrunn
--	Johanniskirchen
--	Vorra
--	Hebertsfelden
--	Schonungen
--	Schwebheim
--	Walsdorf
--	Neuhaus an der Pegnitz
--	Oberasbach
--	Steinsfeld
--	Erbendorf
--	Ellingen
--	Obernbreit
--	Kleinwallstadt
--	Bad Staffelstein
--	Rentweinsdorf
--	Berg im Gau
--	Seybothenreuth
--	Arnstein
--	Trabitz
--	Titting
--	Kasendorf
--	Berngau
--	Ebermannstadt
--	Gefrees
--	Dettelbach
--	Weisendorf
--	Dietfurt an der Altmühl
--	Wonfurt
--	Schrobenhausen
--	Marktschorgast
--	Bad Wörishofen
--	Niederalteich
--	Kirchheim bei München
--	Nordhalben
--	Oberhaching
--	Winzer
--	Langweid am Lech
--	Geretsried
--	Münchsteinach
--	Heimbuchenthal
--	Seinsheim
--	Lindenberg im Allgäu
--	Bindlach
--	Waidhofen
--	Großlangheim
--	Kleinlangheim
--	Scheinfeld
--	Gräfendorf
--	Untermerzbach
--	Neuenmarkt
--	Oberthulba
--	Schwandorf
--	Markt Taschendorf
--	Simmershofen
--	Heinersreuth
--	Salzweg
--	Tittmoning
--	Thyrnau
--	Wilhelmsthal
--	Gutenstetten
--	Ochsenfurt
--	Krumbach
--	Sachsen bei Ansbach
--	Höhenkirchen-Siegertsbrunn
--	Marktrodach
--	Steinwiesen
--	Hemmersheim
--	Mainbernheim
--	Neuhof an der Zenn
--	Haldenwang
--	Haar
--	Großenseebach
--	Gräfelfing
--	Velburg
--	Baunach
--	Volkach
--	Rüdenau
--	Markt Einersheim
--	Markt Nordheim
--	Oberickelsheim
--	Pottenstein
--	Nordendorf
--	Lohr am Main
--	Taufkirchen
--	Bodenwöhr
--	Schönbrunn im Steigerwald
--	Waal
--	Dingolshausen
--	Bruck
--	Eiselfing
--	Pfaffenhofen an der Glonn
--	Kulmain
--	Karbach
--	Fellheim
--	Schwarzenfeld
--	Stulln
--	Tuntenhausen
--	Haldenwang
--	Pfarrkirchen
--	Buttenheim
--	Sulzheim
--	Arrach
--	Westerheim
--	Schönthal
--	Falkenberg
--	Gerbrunn
--	Legau
--	Bruckmühl
--	Rammingen
--	Greiling
--	Saal an der Saale
--	Ettringen
--	Julbach
--	Wittibreut
--	Wald
--	Mähring
--	Großeibstadt
--	Stetten
--	Auerbach in der Oberpfalz
--	Breitenbrunn
--	Reckendorf
--	Winkelhaid
--	Veitsbronn
--	Geratskirchen
--	Neunburg vorm Wald
--	Attenkirchen
--	Langquaid
--	Au in der Hallertau
--	Nassenfels
--	Hilgertshausen-Tandern
--	Lautrach
--	Sulzemoos
--	Hohenfels
--	Henfenfeld
--	Loitzendorf
--	Marktbreit
--	Hohenlinden
--	Neunkirchen am Sand
--	Babenhausen
--	Balderschwang
--	Wiesthal
--	Breitenberg
--	Hausen
--	Thüngersheim
--	Weidenberg
--	Langerringen
--	Theilenhofen
--	Weibersbrunn
--	Peiting
--	Schongau
--	Bellenberg
--	Tiefenbach
--	Oberaudorf
--	Nonnenhorn
--	Ottensoos
--	Breitenberg
--	Lauterhofen
--	Rottenbuch
--	Mindelheim
--	Seeshaupt
--	Engelthal
--	Stettfeld
--	Gelchsheim
--	Ruderting
--	Stammham
--	Weyarn
--	Weißenohe
--	Egglkofen
--	Rothenbuch
--	Wittislingen
--	Tittling
--	Moosach
--	Haag an der Amper
--	Lenting
--	Neuhaus am Inn
--	Rotthalmünster
--	Graben
--	Gollhofen
--	Untergriesbach
--	Neunkirchen
--	Dittelbrunn
--	Oberrieden
--	Hunderdorf
--	Hohenburg
--	Haag in Oberbayern
--	Sennfeld
--	Weißenhorn
--	Kösching
--	Neukirchen beim Heiligen Blut
--	Rattiszell
--	Salching
--	Niederwinkling
--	Postmünster
--	Dietersburg
--	Gerolzhofen
--	Petersaurach
--	Wilburgstetten
--	Blankenbach
--	Hausham
--	Feldafing
--	Hagenbüchach
--	Offingen
--	Sulzfeld am Main
--	Schnaittenbach
--	Neureichenau
--	Kirchzell
--	Asbach-Bäumenheim
--	Aufseß
--	Oberdachstetten
--	Berg bei Neumarkt in der Oberpfalz
--	Sauerlach
--	Friedberg
--	Glattbach
--	Wieseth
--	Schlammersdorf
--	Mertingen
--	Kipfenberg
--	Kalchreuth
--	Gößweinstein
--	Thurnau
--	Langensendelbach
--	Rieneck
--	Bad Füssing
--	Kirchenlamitz
--	Teublitz
--	Diedorf
--	Ebelsbach
--	Eggstätt
--	Viereth-Trunstadt
--	Gaißach
--	Vilseck
--	Wartenberg
--	Schonstett
--	Vogtareuth
--	Weichs
--	Georgensgmünd
--	Schlehdorf
--	Griesstätt
--	Erlenbach bei Marktheidenfeld
--	Alesheim
--	Schwaig bei Nürnberg
--	Steinach
--	Wallersdorf
--	Polling
--	Velden
--	Syrgenstein
--	Oberpleichfeld
--	Höchberg
--	Estenfeld
--	Hettstadt
--	Ursberg
--	Bichl
--	Mittelsinn
--	Urspringen
--	Hafenlohr
--	Westendorf
--	Blaibach
--	Denklingen
--	Krombach
--	Frickenhausen am Main
--	Kleinrinderfeld
--	Königsbrunn
--	Krün
--	Ried
--	Schwabmünchen
--	Neuhütten
--	Kleinheubach
--	Kleinkahl
--	Retzstadt
--	Grattersdorf
--	Rechtenbach
--	Reichenschwand
--	Königsmoos
--	Ettal
--	Hepberg
--	Schneeberg
--	Kiefersfelden
--	Kößlarn
--	Himmelstadt
--	Neustadt am Main
--	Luhe-Wildenau
--	Mindelstetten
--	Gundelfingen an der Donau
--	Lupburg
--	Schwindegg
--	Westerngrund
--	Plattling
--	Pommelsbrunn
--	Lohberg
--	Landau an der Isar
--	Hausen bei Würzburg
--	Gössenheim
--	Burgthann
--	Marktredwitz
--	Parsberg
--	Kohlberg
--	Offenberg
--	Schwarzenbach
--	Eichendorf
--	Bundorf
--	Schwarzenbruck
--	Fürstenstein
--	Birkenfeld
--	Faulbach
--	Eisenheim
--	Hebertshausen
--	Prosselsheim
--	Riedenheim
--	Theilheim
--	Triefenstein
--	Höttingen
--	Brunnen
--	Nennslingen
--	Oberhausen
--	Vilsheim
--	Waffenbrunn
--	Oy-Mittelberg
--	Walderbach
--	Wörthsee
--	Kutzenhausen
--	Haundorf
--	Pfofeld
--	Vierkirchen
--	Buch am Buchrain
--	Oberroth
--	Glött
--	Laugna
--	Ensdorf
--	Westheim
--	Burgsalach
--	Gleißenberg
--	Meinheim
--	Walpertskirchen
--	Untrasried
--	Obermaiselstein
--	Weihmichl
--	Kaisheim
--	Uehlfeld
--	Ippesheim
--	Mömlingen
--	Kirchberg
--	Karlskron
--	Biberbach
--	Wildflecken
--	Kammerstein
--	Greußenheim
--	Holzkirchen
--	Illesheim
--	Münsterhausen
--	Waldstetten
--	Mistelgau
--	Lengdorf
--	Glashütten
--	Spatzenhausen
--	Tännesberg
--	Mainaschaff
--	Egling an der Paar
--	Laudenbach
--	Bieberehren
--	Mittelstetten
--	Aura an der Saale
--	Geroldshausen
--	Frauenneuharting
--	Reichenbach
--	Spiegelau
--	Emskirchen
--	Kaltental
--	Kupferberg
--	Thalmässing
--	Baudenbach
--	Gaukönigshofen
--	Markt Rettenbach
--	Büchenbach
--	Hohenbrunn
--	Dammbach
--	Werneck
--	Thierstein
--	Kirchheim
--	Frontenhausen
--	Diespeck
--	Dietersheim
--	Ipsheim
--	Obernzenn
--	Oberottmarshausen
--	Oberscheinfeld
--	Gemünden am Main
--	Roßhaupten
--	Pfronten
--	Reichling
--	Sengenthal
--	Michelau in Oberfranken
--	Rennertshofen
--	Philippsreut
--	Mainstockheim
--	Chamerau
--	Irsee
--	Pilsach
--	Schondorf am Ammersee
--	Stötten am Auerberg
--	Thaining
--	Eckersdorf
--	Hummeltal
--	Schwaigen
--	Unterammergau
--	Rückholz
--	Deiningen
--	Scheidegg
--	Neusitz
--	Obermeitingen
--	Hurlach
--	Rettenbach am Auerberg
--	Köditz
--	Fürsteneck
--	Rieden am Forggensee
--	Schwifting
--	Karlshuld
--	Günzach
--	Prittriching
--	Ronsberg
--	Niedernberg
--	Seeg
--	Lalling
--	Tuchenbach
--	Güntersleben
--	Weigenheim
--	Forstinning
--	Bütthard
--	Landensberg
--	Waltenhausen
--	Gachenbach
--	Wiesenbach
--	Obersinn
--	Haag
--	Marklkofen
--	Grafling
--	Gerolfingen
--	Winterbach
--	Uettingen
--	Böhmfeld
--	Poing
--	Willmering
--	Pilsting
--	Schollbrunn
--	Grafengehaig
--	Johannesberg
--	Volkenschwand
--	Wellheim
--	Geslau
--	Riedenberg
--	Sindelsdorf
--	Finningen
--	Gerhardshofen
--	Egweil
--	Wettstetten
--	Fellen
--	Gebsattel
--	Harsdorf
--	Wechingen
--	Buttenwiesen
--	Treffelstein
--	Mamming
--	Weiherhammer
--	Ködnitz
--	Geroda
--	Ergersheim
--	Binswangen
--	Weihenzell
--	Grafenwiesen
--	Hitzhofen
--	Moosbach
--	Langfurth
--	Wartmannsroth
--	Gremsdorf
--	Röfingen
--	Höchstadt an der Aisch
--	Eurasburg
--	Taufkirchen
--	Roggenburg
--	Gundelsheim
--	Wiesenfelden
--	Kleinaitingen
--	Happurg
--	Hirschbach
--	Moosthenning
--	Gestratz
--	Grünenbach
--	Finning
--	Hohenthann
--	Schwabhausen
--	Haimhausen
--	Simmelsdorf
--	Vilgertshofen
--	Fünfstetten
--	Sulzberg
--	Türkheim
--	Sailauf
--	Königstein
--	Biebelried
--	Mellrichstadt
--	Röllbach
--	Bodolz
--	Gilching
--	Heimenkirch
--	Bächingen an der Brenz
--	Markt Schwaben
--	Heretsried
--	Stockheim
--	Feucht
--	Gessertshausen
--	Odelzhausen
--	Wallgau
--	Bockhorn
--	Großkarolinenfeld
--	Prutting
--	Germaringen
--	Schönberg
--	Riedering
--	Samerberg
--	Freudenberg
--	Hohenpeißenberg
--	Remlingen
--	Burggen
--	Oberhausen
--	Tutzing
--	Friesenried
--	Bischberg
--	Flintsbach am Inn
--	Wegscheid
--	Gars am Inn
--	Lohkirchen
--	Niederfüllbach
--	Pullenreuth
--	Geisenhausen
--	Beutelsbach
--	Hattenhofen
--	Buchbach
--	Buch
--	Horgau
--	Rimsting
--	Eisenberg
--	Warngau
--	Krailling
--	Train
--	Waldaschaff
--	Lamerdingen
--	Biessenhofen
--	Saaldorf-Surheim
--	Hofkirchen
--	Brannenburg
--	Söchtenau
--	Stephanskirchen
--	Reichersbeuern
--	Kröning
--	Fuchsmühl
--	Ursensollen
--	Münsing
--	Fischen im Allgäu
--	Lenggries
--	Missen-Wilhams
--	Langenbach
--	Feldkirchen-Westerham
--	Ottobeuren
--	Petershausen
--	Priesendorf
--	Antdorf
--	Mettenheim
--	Oberneukirchen
--	Poppenhausen
--	Velden
--	Rott am Inn
--	Friedenfels
--	Pleß
--	Neukirchen-Balbini
--	Hohenpolding
--	Inning am Holz
--	Hohenroth
--	Herbstadt
--	Aßling
--	Donnersdorf
--	Breitenbrunn
--	Langenfeld
--	Burgwindheim
--	Kemmern
--	Kühlenthal
--	Breitengüßbach
--	Buchenberg
--	Rückersdorf
--	Gablingen
--	Holzheim
--	Rettenbach
--	Thiersheim
--	Simbach
--	Gaimersheim
--	Neufahrn in Niederbayern
--	Rohr in Niederbayern
--	Sigmarszell
--	Rettenberg
--	Rattelsdorf
--	Schwanstetten
--	Dietmannsried
--	Wörth an der Isar
--	Wörth
--	Fichtelberg
--	Bubesheim
--	Hawangen
--	Langenpreising
--	Alerheim
--	Munningen
--	Prem
--	Lengenwang
--	Frensdorf
--	Weng
--	Reisbach
--	Egglham
--	Schönsee
--	Leupoldsgrün
--	Nittenau
--	Pähl
--	Burgberg im Allgäu
--	Burgau
--	Laberweinting
--	Schwarzach bei Nabburg
--	Eppishausen
--	Erkheim
--	Jettingen-Scheppach
--	Medlingen
--	Plößberg
--	Eschlkam
--	Klosterlechfeld
--	Schmidgaden
--	Teunz
--	Gnotzheim
--	Markt Wald
--	Frankenwinheim
--	Guteneck
--	Thanstein
--	Sontheim
--	Miltach
--	Dirlewang
--	Kronburg
--	Langenaltheim
--	Tussenhausen
--	Stadlern
--	Immenreuth
--	Fensterbach
--	Niedermurach
--	Rötz
--	Marktleuthen
--	Oberschneiding
--	Schorndorf
--	Memmingerberg
--	Vorbach
--	Duggendorf
--	Allmannshofen
--	Immenstadt im Allgäu
--	Benningen
--	Wolfertschwenden
--	Höchstädt an der Donau
--	Steinbach am Wald
--	Waldershof
--	Unteregg
--	Kirchhaslach
--	Salgen
--	Neusorg
--	Mitwitz
--	Oberschönegg
--	Pfaffenhausen
--	Sankt Wolfgang
--	Dieterskirchen
--	Wipfeld
--	Rieden
--	Wald
--	Niederrieden
--	Konnersreuth
--	Mödingen
--	Böhen
--	Rothenfels
--	Heiligenstadt in Oberfranken
--	Pfaffenhofen an der Roth
--	Kettershausen
--	Ungerhausen
--	Bad Kötzting
--	Lachen
--	Weil
--	Markt Berolzheim
--	Raisting
--	Laufach
--	Röthenbach
--	Weigendorf
--	Weiler-Simmerberg
--	Hirschaid
--	Raubling
--	Furth
--	Strullendorf
--	Walting
--	Gstadt am Chiemsee
--	Durach
--	Rohrdorf
--	Glonn
--	Wallerfing
--	Kunreuth
--	Pretzfeld
--	Marzling
--	Röttingen
--	Fahrenzhausen
--	Großweil
--	Saulgrub
--	Oberau
--	Ermershausen
--	Waldkirchen
--	Kranzberg
--	Mömbris
--	Karlstein am Main
--	Weilersbach
--	Dietramszell
--	Nesselwang
--	Ottobrunn
--	Metten
--	Hohenau
--	Grainet
--	Redwitz an der Rodach
--	Hohenkammer
--	Kirchdorf an der Amper
--	Neuburg am Inn
--	Paunzhausen
--	Tettenweis
--	Marktheidenfeld
--	Windach
--	Vestenbergsgreuth
--	Mönchberg
--	Hörgertshausen
--	Pförring
--	Poxdorf
--	Haidmühle
--	Knetzgau
--	Eresing
--	Kinsau
--	Hiltenfingen
--	Wachenroth
--	Wildpoldsried
--	Schäftlarn
--	Dachsbach
--	Bad Bayersoien
--	Bayrischzell
--	Collenberg
--	Sankt Oswald-Riedlhütte
--	Steinberg am See
--	Gerach
--	Rattenberg
--	Wasserburg
--	Bastheim
--	Bad Hindelang
--	Cadolzburg
--	Obermichelbach
--	Schöllkrippen
--	Etzelwang
--	Pfreimd
--	Pliening
--	Vilsbiburg
--	Apfeldorf
--	Eurasburg
--	Großaitingen
--	Rottendorf
--	Weilbach
--	Dollnstein
--	Kinding
--	Kirchseeon
--	Wessobrunn
--	Falkenstein
--	Aschau am Inn
--	Moorenweis
--	Wendelstein
--	Rimpar
--	Rechtmehring
--	Wettringen
--	Arnschwang
--	Hilpoltstein
--	Großhabersdorf
--	Schnaittach
--	Ebrach
--	Tauberrettersheim
--	Peißenberg
--	Runding
--	Edelsfeld
--	Anzing
--	Röttenbach
--	Puschendorf
--	Roßtal
--	Stein
--	Röthenbach an der Pegnitz
--	Leidersbach
--	Aresing
--	Bad Feilnbach
--	Bad Steben
--	Guttenberg
--	Stöttwang
--	Niederschönenfeld
--	Baisweil
--	Eltmann
--	Tettau
--	Miesbach
--	Moosinning
--	Pastetten
--	Euerdorf
--	Ruderatshofen
--	Unterthingau
--	Lauf an der Pegnitz
--	Leuchtenberg
--	Speinshart
--	Wurmsham
--	Pürgen
--	Niederviehbach
--	Neustadt an der Donau
--	Floß
--	Gesees
--	Oberleichtersbach
--	Ramsthal
--	Ahorntal
--	Warmensteinach
--	Regnitzlosau
--	Neuching
--	Eschau
--	Donaustauf
--	Sommerhausen
--	Biburg
--	Helmstadt
--	Kraiburg am Inn
--	Gröbenzell
--	Sugenheim
--	Welden
--	Berglern
--	Forstern
--	Pfarrweisach
--	Genderkingen
--	Oberpöring
--	Hollenbach
--	Oberpframmern
--	Essenbach, Markt
--	Vilshofen an der Donau
--	Mering
--	Freystadt
--	Leipheim
--	Ludwigschorgast
--	Rugendorf
--	Haselbach
--	Finsing
--	Ottenhofen
--	Oberpöring
--	Schondra
--	Berchtesgaden
--	Grafenau
--	Unterföhring
--	Illschwang
--	Karlstadt
--	Freilassing
--	Tiefenbach
--	Bad Berneck im Fichtelgebirge
--	Röhrmoos
--	Segnitz
--	Sonderhofen
--	Bad Brückenau
--	Neuötting
--	Obernzell
--	Heigenbrücken
--	Monheim
--	Maihingen
--	Mörnsheim
--	Aldersbach
--	Piding
--	Kitzingen
--	Geltendorf
--	Seubersdorf in der Oberpfalz
--	Aub
--	Muhr am See
--	Pörnbach
--	Kleinostheim
--	Stockstadt am Main
--	Eslarn
--	Püchersreuth
--	Windorf
--	Marquartstein
--	Egmating
--	Neufraunhofen
--	Rudelzhausen
--	Gundremmingen
--	Karlsfeld
--	Roding
--	Niederaichbach
--	Postau
--	Steinhöring
--	Münchsmünster
--	Fuchsstadt
--	Schwarzach
--	Weiding
--	Feldkirchen
--	Rimbach
--	Fladungen
--	Rain
--	Arnstorf
--	Haibach
--	Wackersdorf
--	Ascha
--	Neukirchen
--	Sandberg
--	Euerbach
--	Unterdietfurt
--	Wurmannsquick
--	Roßbach
--	Tacherting
--	Bruck in der Oberpfalz
--	Irlbach
--	Leiblfing
--	Gangkofen
--	Hausen
--	Wülfershausen an der Saale
--	Falkenberg
--	Alfeld
--	Gochsheim
--	Tann
--	Stockheim
--	Halfing
--	Oberstreu
--	Sulzfeld
--	Wasserlosen
--	Großbardorf
--	Schönau an der Brend
--	Malgersdorf
--	Bayerbach
--	Rohr
--	Sondheim vor der Rhön
--	Grettstadt
--	Kirchdorf am Inn
--	Trappstadt
--	Willmars
--	Lülsfeld
--	Oberschwarzach
--	Villenbach
--	Burglauer
--	Kolitzheim
--	Heustreu
--	Nordheim vor der Rhön
--	Rödelmaier
--	Strahlungen
--	Schwanfeld
--	Holzheim
--	Aubstadt
--	Hendungen
--	Hollstadt
--	Stallwang
--	Perkam
--	Winklarn
--	Unsleben
--	Gleiritsch
--	Schwarzhofen
--	Niederlauer
--	Geldersheim
--	Lutzingen
--	Trausnitz
--	Bergen
--	Heidenheim
--	Raitenbuch
--	Holzgünz
--	Wertach
--	Rieden
--	Kammlach
--	Trunkelsberg
--	Sankt Englmar
--	Bidingen
--	Wiesau
--	Woringen
--	Waldbrunn
--	Windberg
--	Ebnath
--	Rimbach
--	Rettenbach
--	Westendorf
--	Dittenheim
--	Heimertingen
--	Betzigau
--	Lisberg
--	Wattendorf
--	Bad Grönenbach
--	Weitnau
--	Litzendorf
--	Triftern
--	Wackersberg
--	Höchstädt im Fichtelgebirge
--	Lauter
--	Dasing
--	Gottfrieding
--	Igling
--	Münnerstadt
--	Bad Königshofen im Grabfeld
--	Breitbrunn am Chiemsee
--	Loiching
--	Teisendorf
--	Röttenbach
--	Germering
--	Neumarkt in der Oberpfalz
--	Gammelsdorf
--	Oberhaid
--	Röckingen
--	Scheuring
--	Tschirn
--	Wiggensbach
--	Unterleinleiter
--	Burtenbach
--	Gebenbach
--	Vöhringen
--	Hunding
--	Pollenfeld
--	Waltenhofen
--	Nabburg
--	Memmelsdorf
--	Ostheim vor der Rhön
--	Neubeuern
--	Waldbüttelbrunn
--	Engelsberg
--	Pommersfelden
--	Nußdorf am Inn
--	Weilheim in Oberbayern
--	Haibach
--	Gallmersgarten
--	Neuburg an der Kammel
--	Steingaden
--	Unterreit
--	Kötz
--	Ehingen
--	Kürnach
--	Giebelstadt
--	Wolfersdorf
--	Weßling
--	Breitenthal
--	Jachenau
--	Wonneberg
--	Greding
--	Greifenberg
--	Schernfeld
--	Unterwössen
--	Steinkirchen
--	Dachau
--	Erding
--	Fürstenfeldbruck
--	Neu-Ulm
--	Postbauer-Heng
--	Deggendorf
--	Forchheim
--	Reut
--	Stubenberg
--	Untersiemau
--	Uffenheim
--	Hasloch
--	Weitramsdorf
--	Solnhofen
--	Rödental
--	Seßlach
--	Grub am Forst
--	Itzgrund
--	Sonnefeld
--	Weidhausen bei Coburg
--	Fischbachau
--	Ebersdorf bei Coburg
--	Meeder
--	Lauingen
--	Lautertal
--	Ebershausen
--	Mühlhausen
--	Veitshöchheim
--	Valley
--	Sulzdorf an der Lederhecke
--	Allersberg
--	Beilngries
--	Burglengenfeld
--	Niederwerrn
--	Michelau im Steigerwald
--	Starnberg
--	Kist
--	Feichten an der Alz
--	Emmering
--	Brand
--	Kastl
--	Kirchweidach
--	Lauben
--	Buxheim
--	Aurachtal
--	Grafenrheinfeld
--	Leonberg
--	Boos
--	Kastl
--	Stammham
--	Königsfeld
--	Teising
--	Emmerting
--	Chiemsee
--	Wildenranna
--	Meßnerschlag
--	Eidenberg
--	Möslberg
--	Gegenbach
--	Langenzenn
--	Oberneureuth
--	Gollnerberg
--	Jahrdorf
--	Raßreuth
--	Thalberg
--	Kasberg
--	Schönberg
--	Windpassing
--	Ederlsdorf
--	Germannsdorf
--	Schaibing
--	Thurnreuth
--	Höchheim
--	Bad Birnbach
--	Perasdorf
--	Ering
--	Salz
--	Michelsneukirchen
--	Bernried am Starnberger See
--	Großwallstadt
--	Neukirchen bei Sulzbach-Rosenberg
--	Pegnitz
--	Osterberg
--	Straßkirchen
--	Zell im Fichtelgebirge
--	Grafing bei München
--	Großmehring
--	Neufahrn bei Freising
--	Neustadt am Kulm
--	Trostberg
--	Schirnding
--	Unterschwaningen
--	Bogen
--	Neustadt an der Aisch
--	Gmund am Tegernsee
--	Prien am Chiemsee
--	Bad Aibling
--	Freising
--	Ofterschwang
--	Tiefenbach
--	Karsbach
--	Sachsenkam
--	Schwenningen
--	Kirchheim in Schwaben
--	Buckenhof
--	Unterneukirchen
--	Erlbach
--	Bruckberg
--	Großheirath
--	Reuth bei Erbendorf
--	Neustadt bei Coburg
--	Moosburg an der Isar
--	Neukirchen vorm Wald
--	Hausen
--	Sand am Main
--	Deuerling
--	Zell am Main
--	Weißenburg in Bayern
--	Fraunberg
--	Schiltberg
--	Mühlhausen
--	Schönwald
--	Tüßling
--	Marxheim
--	Tyrlaching
--	Kühbach
--	Gemeinde im Landkreis Main-Spessart
--	Merching
--	Hemhofen
--	Donauwörth
--	Herzogenaurach
--	Uttenreuth
--	Selb
--	Heßdorf
--	Pleiskirchen
--	Spardorf
--	Rehau
--	Halsbach
--	Marloffstein
--	Lonnerstadt
--	Mehring
--	Heldenstein
--	Oberreichenbach
--	Selbitz
--	Unterschleißheim
--	München
--	Regensburg
--	Aschaffenburg
--	Augsburg
--	Bayreuth
--	Nürnberg
--	Würzburg
--	Fürth
--	Erlangen
--	Ingolstadt
--	Bamberg
--	Weiden in der Oberpfalz
--	Kempten
--	Landshut
--	Straubing
--	Memmingen
--	Schwabach
--	Schweinfurt
--	Rosenheim
--	Ansbach
--	Kaufbeuren
--	Hof
--	Coburg
--	Passau
--	Emtmannsberg
--	Amberg
+-    Massing
+-    Gauting
+-    Wörth am Main
+-    Weichering
+-    Heroldsberg
+-    Weiding
+-    Ruhpolding
+-    Weißensberg
+-    Sparneck
+-    Zirndorf
+-    Möhrendorf
+-    Stammbach
+-    Wiesenttal
+-    Neuschönau
+-    Wollbach
+-    Maitenbeth
+-    Ludwigsstadt
+-    Baiersdorf
+-    Zwiesel
+-    Lindau
+-    Lichtenfels
+-    Zangberg
+-    Zapfendorf
+-    Zandt
+-    Feilitzsch
+-    Sonthofen
+-    Kulmbach
+-    Neumarkt-Sankt Veit
+-    Münchberg
+-    Hofheim in Unterfranken
+-    Irschenberg
+-    Mönchsroth
+-    Zeil am Main
+-    Zellingen
+-    Stadelhofen
+-    Zenting
+-    Mariaposching
+-    Ziemetshausen
+-    Ziertheim
+-    Zeitlarn
+-    Betzenstein
+-    Zell
+-    Zeitlofs
+-    Zeilarn
+-    Kienberg
+-    Marktschellenberg
+-    Aschau im Chiemgau
+-    Egg an der Günz
+-    Oberstaufen
+-    Bad Windsheim
+-    Isen
+-    Petting
+-    Zachenberg
+-    Berg
+-    Bernau am Chiemsee
+-    Birgland
+-    Winterhausen
+-    Bärnau
+-    Otzing
+-    Gerzen
+-    Neuburg an der Donau
+-    Sulzbach am Main
+-    Randersacker
+-    Dörfles-Esbach
+-    Mittenwald
+-    Wittelshofen
+-    Mickhausen
+-    Garmisch-Partenkirchen
+-    Frasdorf
+-    Seefeld
+-    Allershausen
+-    Zolling
+-    Pullach im Isartal
+-    Dingolfing
+-    Emmering
+-    Hopferau
+-    Bolsterlang
+-    Edling
+-    Schmiechen
+-    Grünwald
+-    Tirschenreuth
+-    Laufen
+-    Albertshofen
+-    Parkstetten
+-    Oberreute
+-    Lauben
+-    Seeon-Seebruck
+-    Zöschingen
+-    Wilhelmsdorf
+-    Zusamaltheim
+-    Walkertshofen
+-    Scheßlitz
+-    Waldsassen
+-    Berching
+-    Zusmarshausen
+-    Zorneding
+-    Nußdorf
+-    Altenstadt an der Waldnaab
+-    Burgkirchen an der Alz
+-    Buch am Erlbach
+-    Icking
+-    Taching am See
+-    Erharting
+-    Puchheim
+-    Pfaffing
+-    Penzberg
+-    Brunnthal
+-    Kottgeisering
+-    Bayerbach bei Ergoldsbach
+-    Aham
+-    Bad Griesbach im Rottal
+-    Ebersberg
+-    Bergtheim
+-    Pöttmes
+-    Planegg
+-    Eichstätt
+-    Aidenbach
+-    Hauzenberg
+-    Töging am Inn
+-    Simbach am Inn
+-    Staudach-Egerndach
+-    Teugn
+-    Mauern
+-    Eggenfelden
+-    Pittenhart
+-    Inzell
+-    Ismaning
+-    Landsberied
+-    Mammendorf
+-    Alling
+-    Adelshofen
+-    Bad Endorf
+-    Schechen
+-    Vohburg an der Donau
+-    Meitingen
+-    Uffing am Staffelsee
+-    Maisach
+-    Ramsau bei Berchtesgaden
+-    Schneizlreuth
+-    Grabenstätt
+-    Bad Heilbrunn
+-    Schönberg
+-    Obing
+-    Aichach
+-    Babensham
+-    Sielenbach
+-    Ernsgaden
+-    Abensberg
+-    Aholfing
+-    Chieming
+-    Surberg
+-    Traunstein
+-    Murnau am Staffelsee
+-    Pleinfeld
+-    Adlkofen
+-    Manching
+-    Markt Erlbach
+-    Treuchtlingen
+-    Aying
+-    Grainau
+-    Bobingen
+-    Petersdorf
+-    Oberding
+-    Grafenwöhr
+-    Baar
+-    Maxhütte-Haidhof
+-    Reit im Winkl
+-    Elsendorf
+-    Bischofsgrün
+-    Obersöchering
+-    Mitterteich
+-    Oberschleißheim
+-    Kolbermoor
+-    Eching
+-    Bad Abbach
+-    Kirchdorf
+-    Olching
+-    Auerbach
+-    Eching am Ammersee
+-    Kirchham
+-    Wiesentheid
+-    Hohenwarth
+-    Oberschweinbach
+-    Stegaurach
+-    Haiming
+-    Haunsheim
+-    Rödelsee
+-    Grassau
+-    Kahl am Main
+-    Waigolshausen
+-    Herrsching am Ammersee
+-    Rottenburg an der Laaber
+-    Lechbruck am See
+-    Altendorf
+-    Partenstein
+-    Ellzee
+-    Eschenlohe
+-    Andechs
+-    Dießen am Ammersee
+-    Absberg
+-    Bibertal
+-    Sommerach
+-    Essing
+-    Kirchroth
+-    Burk
+-    Hohenberg an der Eger
+-    Utting am Ammersee
+-    Schirmitz
+-    Bessenbach
+-    Theres
+-    Markt Bibart
+-    Oerlenbach
+-    Eberfing
+-    Adelschlag
+-    Kaufering
+-    Otterfing
+-    Adelshofen
+-    Oberaurach
+-    Polsingen
+-    Adelsried
+-    Nagel
+-    Abtswind
+-    Üchtelhausen
+-    Adelsdorf
+-    Wörth an der Donau
+-    Ammerthal
+-    Altmannstein
+-    Eibelstadt
+-    Altenstadt
+-    Mantel
+-    Bad Kissingen
+-    Amberg
+-    Altusried
+-    Kollnburg
+-    Marktl
+-    Amerang
+-    Alzenau
+-    Kelheim
+-    Rinchnach
+-    Altenstadt
+-    Ammerndorf
+-    Bad Reichenhall
+-    Althegnenberg
+-    Teisnach
+-    Amorbach
+-    Altenthann
+-    Altomünster
+-    Neutraubling
+-    Marktzeuln
+-    Schwarzenbach am Wald
+-    Hollfeld
+-    Burgbernheim
+-    Heideck
+-    Obernburg am Main
+-    Buchdorf
+-    Wunsiedel
+-    Wiesenthau
+-    Eichenbühl
+-    Flossenbürg
+-    Aurach
+-    Hochstadt am Main
+-    Kronach
+-    Hiltpoltstein
+-    Dormitz
+-    Kleinsendelbach
+-    Waischenfeld
+-    Freyung
+-    Furth im Wald
+-    Pinzberg
+-    Tapfheim
+-    Erlenbach am Main
+-    Dillingen an der Donau
+-    Fürstenzell
+-    Huisheim
+-    Nandlstadt
+-    Ichenhausen
+-    Kammeltal
+-    Marktbergel
+-    Saldenburg
+-    Schwarzenbach an der Saale
+-    Presseck
+-    Goldkronach
+-    Plankenfels
+-    Reischach
+-    Kissing
+-    Aholming
+-    Kreuth
+-    Obergriesbach
+-    Harburg
+-    Illertissen
+-    Irchenrieth
+-    Pirk
+-    Elchingen
+-    Pleystein
+-    Altötting
+-    Waldmünchen
+-    Traunreut
+-    Hetzles
+-    Ehingen am Ries
+-    Mitterskirchen
+-    Jandelsbrunn
+-    Mauth
+-    Münster
+-    Bischofswiesen
+-    Daiting
+-    Reimlingen
+-    Mitteleschenbach
+-    Osterhofen
+-    Burgheim
+-    Innernzell
+-    Vohenstrauß
+-    Hösbach
+-    Oberkotzau
+-    Ringelai
+-    Kochel am See
+-    Motten
+-    Marktleugast
+-    Marktoffingen
+-    Wallerstein
+-    Wolferstadt
+-    Albaching
+-    Kirchenthumbach
+-    Adelzhausen
+-    Aystetten
+-    Untermeitingen
+-    Bachhagel
+-    Unterdießen
+-    Pyrbaum
+-    Wolfratshausen
+-    Neusäß
+-    Steindorf
+-    Schöfweg
+-    Taufkirchen
+-    Trogen
+-    Stadtbergen
+-    Röhrnbach
+-    Effeltrich
+-    Oberviechtach
+-    Hahnbach
+-    Maßbach
+-    Schwarzach am Main
+-    Egenhofen
+-    Emersacker
+-    Naila
+-    Schöllnach
+-    Straßlach-Dingharting
+-    Schwangau
+-    Neustadt an der Waldnaab
+-    Herrngiersdorf
+-    Aiglsbach
+-    Konzell
+-    Opfenbach
+-    Aicha vorm Wald
+-    Etzenricht
+-    Tegernsee
+-    Palling
+-    Mitterfels
+-    Bodenkirchen
+-    Holzheim
+-    Jesenwang
+-    Eitensheim
+-    Affing
+-    Inchenhofen
+-    Rehling
+-    Todtenweis
+-    Neuried
+-    Neubiberg
+-    Hausen
+-    Kirchensittenbach
+-    Holzkirchen
+-    Abenberg
+-    Baierbach
+-    Cham
+-    Ergoldsbach
+-    Garching an der Alz
+-    Perach
+-    Röthlein
+-    Niederbergkirchen
+-    Parkstein
+-    Stephansposching
+-    Wasserburg am Inn
+-    Bernried
+-    Grasbrunn
+-    Neunkirchen am Brand
+-    Putzbrunn
+-    Ramerberg
+-    Schliersee
+-    Soyen
+-    Waging am See
+-    Ustersbach
+-    Hinterschmiding
+-    Schleching
+-    Vachendorf
+-    Aindling
+-    Denkendorf
+-    Geisenfeld
+-    Fridolfing
+-    Landsberg am Lech
+-    Polling
+-    Altertheim
+-    Gerolsbach
+-    Kumhausen
+-    Anger
+-    Helmbrechts
+-    Achslach
+-    Übersee
+-    Viechtach
+-    Plech
+-    Kastl
+-    Bergen
+-    Haarbach
+-    Mallersdorf-Pfaffenberg
+-    Eching
+-    Mittelneufnach
+-    Reichertshausen
+-    Ilmmünster
+-    Möttingen
+-    Barbing
+-    Lindberg
+-    Patersdorf
+-    Langdorf
+-    Burgkunstadt
+-    Nördlingen
+-    Ampfing
+-    Seukendorf
+-    Brennberg
+-    Schweitenkirchen
+-    Ruhmannsfelden
+-    Geiersthal
+-    Aislingen
+-    Ebern
+-    Königsdorf
+-    Wehringen
+-    Reichertshofen
+-    Brunn
+-    Regen
+-    Gotteszell
+-    Drachselsried
+-    Frauenau
+-    Bad Kohlgrub
+-    Bach an der Donau
+-    Stadtlauringen
+-    Günzburg
+-    Hohenwart
+-    Bernhardswald
+-    Kirchdorf im Wald
+-    Kallmünz
+-    Köfering
+-    Hohenaltheim
+-    Mötzing
+-    Sinzing
+-    Pfaffenhofen an der Ilm
+-    Riekofen
+-    Thalmassing
+-    Mainburg
+-    Painten
+-    Attenhofen
+-    Speichersdorf
+-    Sulzbach-Rosenberg
+-    Scheyern
+-    Tegernheim
+-    Rain
+-    Bruckberg
+-    Insingen
+-    Pettendorf
+-    Lappersdorf
+-    Bad Rodach
+-    Ihrlerstein
+-    Riedenburg
+-    Aschheim
+-    Wolfsegg
+-    Arnbruck
+-    Benediktbeuern
+-    Wenzenbach
+-    Baar-Ebenhausen
+-    Rohrbach
+-    Gunzenhausen
+-    Bubenreuth
+-    Eckental
+-    Kirchberg im Wald
+-    Neudrossenfeld
+-    Wonsees
+-    Mintraching
+-    Regenstauf
+-    Grafrath
+-    Jetzendorf
+-    Farchant
+-    Holzheim am Forst
+-    Obertraubling
+-    Pfakofen
+-    Pfatter
+-    Schierling
+-    Baierbrunn
+-    Schönau am Königssee
+-    Aufhausen
+-    Prackenbach
+-    Bischofsmais
+-    Böbrach
+-    Frammersbach
+-    Prebitz
+-    Bayerisch Eisenstein
+-    Wolnzach
+-    Hagelstadt
+-    Hemau
+-    Hettenshausen
+-    Laaber
+-    Nittendorf
+-    Sünching
+-    Wiesent
+-    Pentling
+-    Pielenhofen
+-    Haßfurt
+-    Thannhausen
+-    Geiselbach
+-    Arzberg
+-    Mönchsdeggingen
+-    Kirchdorf
+-    Konradsreuth
+-    Kirchanschöring
+-    Weißdorf
+-    Buchloe
+-    Oberammergau
+-    Winhöring
+-    Altfraunhofen
+-    Theisseil
+-    Deisenhausen
+-    Siegsdorf
+-    Störnstein
+-    Oberdolling
+-    Kreuzwertheim
+-    Oberndorf am Lech
+-    Eichenau
+-    Oberstdorf
+-    Ahorn
+-    Türkenfeld
+-    Reichenbach
+-    Bayerisch Gmain
+-    Feldkirchen
+-    Füssen
+-    Künzing
+-    Altenkunstadt
+-    Iffeldorf
+-    Saal an der Donau
+-    Egling
+-    Pösing
+-    Pemfling
+-    Wildenberg
+-    Ergolding
+-    Altenmünster
+-    Dorfen
+-    Hainsfarth
+-    Dürrlauingen
+-    Kirchendemenreuth
+-    Garching bei München
+-    Reichenberg
+-    Siegenburg
+-    Burgpreppach
+-    Kirchlauter
+-    Rauhenebrach
+-    Wörnitz
+-    Unterhaching
+-    Buchbrunn
+-    Gädheim
+-    Burghausen
+-    Pappenheim
+-    Perlesreut
+-    Maroldsweisach
+-    Schönau
+-    Rohrenfels
+-    Ortenburg
+-    Kirchenpingarten
+-    Mehlmeisel
+-    Töpen
+-    Baiern
+-    Schöngeising
+-    Dinkelscherben
+-    Nordheim am Main
+-    Balzhausen
+-    Deining
+-    Schaufling
+-    Burgsinn
+-    Eußenheim
+-    Trebgast
+-    Ebensfeld
+-    Schauenstein
+-    Ellgau
+-    Marktsteft
+-    Hirschau
+-    Döhlau
+-    Nüdlingen
+-    Castell
+-    Otting
+-    Lichtenberg
+-    Trautskirchen
+-    Pressath
+-    Weismain
+-    Büchlberg
+-    Marktgraitz
+-    Marktoberdorf
+-    Eggolsheim
+-    Neuendettelsau
+-    Bürgstadt
+-    Creußen
+-    Klingenberg am Main
+-    Spalt
+-    Hersbruck
+-    Mühldorf am Inn
+-    Buch am Wald
+-    Hallerndorf
+-    Windischeschenbach
+-    Bad Wiessee
+-    Eppenschlag
+-    Auhausen
+-    Wemding
+-    Igensdorf
+-    Kirchehrenbach
+-    Wertingen
+-    Heroldsbach
+-    Obertrubach
+-    Iphofen
+-    Gersthofen
+-    Stadtprozelten
+-    Wallenfels
+-    Berg
+-    Dorfprozelten
+-    Miltenberg
+-    Eschenbach in der Oberpfalz
+-    Burgoberbach
+-    Teuschnitz
+-    Issigau
+-    Thurmansbang
+-    Senden
+-    Gattendorf
+-    Elsenfeld
+-    Burkardroth
+-    Eging am See
+-    Bad Bocklet
+-    Großheubach
+-    Geroldsgrün
+-    Prichsenstadt
+-    Diebach
+-    Egloffstein
+-    Gräfenberg
+-    Aichen
+-    Altenbuch
+-    Neubrunn
+-    Stamsried
+-    Ainring
+-    Iggensbach
+-    Stadtsteinach
+-    Altenmarkt an der Alz
+-    Altendorf
+-    Tröstau
+-    Pocking
+-    Aiterhofen
+-    Falkenfels
+-    Megesheim
+-    Moos
+-    Pettstadt
+-    Apfeltrach
+-    Alteglofsheim
+-    Altdorf
+-    Schnaitsee
+-    Seehausen am Staffelsee
+-    Aitrang
+-    Bad Tölz
+-    Aidhausen
+-    Ohlstadt
+-    Altdorf bei Nürnberg
+-    Waldkraiburg
+-    Beratzhausen
+-    Burghaslach
+-    Amerdingen
+-    Mainleus
+-    Inning am Ammersee
+-    Unterroth
+-    Außernzell
+-    Hammelburg
+-    Wiesen
+-    Lam
+-    Hallbergmoos
+-    Winterrieden
+-    Ruhstorf an der Rott
+-    Leinach
+-    Waldthurn
+-    Hallstadt
+-    Thierhaupten
+-    Wiesenbronn
+-    Oberelsbach
+-    Bad Neustadt an der Saale
+-    Wielenbach
+-    Habach
+-    Penzing
+-    Bischofsheim an der Rhön
+-    Oettingen in Bayern
+-    Rednitzhembach
+-    Erdweg
+-    Wilhermsdorf
+-    Sommerkahl
+-    Schwabbruck
+-    Vaterstetten
+-    Ettenstatt
+-    Scherstetten
+-    Blaichach
+-    Eisingen
+-    Kümmersbruck
+-    Pfeffenhausen
+-    Langenneufnach
+-    Ebermannsdorf
+-    Schwabsoien
+-    Eitting
+-    Roden
+-    Hergatz
+-    Georgenberg
+-    Bodenmais
+-    Steinfeld
+-    Bonstetten
+-    Hergensweiler
+-    Obersüßbach
+-    Leutenbach
+-    Aura im Sinngrund
+-    Leinburg
+-    Hartenstein
+-    Markt Indersdorf
+-    Riegsee
+-    Maierhöfen
+-    Bergkirchen
+-    Geiselwind
+-    Hengersberg
+-    Jengen
+-    Kraftisried
+-    Obergünzburg
+-    Oberostendorf
+-    Forheim
+-    Fremdingen
+-    Blindheim
+-    Rottach-Egern
+-    Sulzthal
+-    Breitbrunn
+-    Reichertsheim
+-    Eglfing
+-    Ingenried
+-    Langenmosen
+-    Ehingen
+-    Elfershausen
+-    Burgebrach
+-    Unterpleichfeld
+-    Rannungen
+-    Malching
+-    Obertaufkirchen
+-    Untersteinach
+-    Buchhofen
+-    Hofstetten
+-    Nersingen
+-    Roth
+-    Halblech
+-    Riedbach
+-    Oberbergkirchen
+-    Schneckenlohe
+-    Witzmannsberg
+-    Röslau
+-    Ehekirchen
+-    Mistelbach
+-    Großostheim
+-    Wang
+-    Traitsching
+-    Wirsberg
+-    Esselbach
+-    Hutthurm
+-    Ederheim
+-    Heinrichsthal
+-    Himmelkron
+-    Niedertaufkirchen
+-    Pöcking
+-    Rattenkirchen
+-    Rögling
+-    Tagmersheim
+-    Windelsbach
+-    Mauerstetten
+-    Schnelldorf
+-    Martinsheim
+-    Erlabrunn
+-    Görisried
+-    Osterzell
+-    Pressig
+-    Fischach
+-    Bischbrunn
+-    Bad Alexandersbad
+-    Küps
+-    Rügland
+-    Bernbeuren
+-    Schnabelwaid
+-    Bechtsrieth
+-    Sonnen
+-    Ohrenbach
+-    Stiefenhofen
+-    Hohenfurch
+-    Jettenbach
+-    Bergheim
+-    Rüdenhausen
+-    Willanzheim
+-    Offenhausen
+-    Waakirchen
+-    Kemnath
+-    Pforzen
+-    Waidhaus
+-    Thüngen
+-    Wiedergeltingen
+-    Eggenthal
+-    Huglfing
+-    Wildsteig
+-    Mengkofen
+-    Poppenricht
+-    Thundorf in Unterfranken
+-    Wernberg-Köblitz
+-    Aletshausen
+-    Margetshöchheim
+-    Böbing
+-    Schmidmühlen
+-    Mespelbrunn
+-    Freihung
+-    Goldbach
+-    Neualbenreuth
+-    Kellmünz an der Iller
+-    Rott
+-    Weißenstadt
+-    Atting
+-    Geiselhöring
+-    Bissingen
+-    Schlüsselfeld
+-    Buxheim
+-    Königsberg in Bayern
+-    Schalkham
+-    Weißenbrunn
+-    Fuchstal
+-    Höslwang
+-    Krummennaab
+-    Bergrheinfeld
+-    Neuendorf
+-    Pechbrunn
+-    Johanniskirchen
+-    Vorra
+-    Hebertsfelden
+-    Schonungen
+-    Schwebheim
+-    Walsdorf
+-    Neuhaus an der Pegnitz
+-    Oberasbach
+-    Steinsfeld
+-    Erbendorf
+-    Ellingen
+-    Obernbreit
+-    Kleinwallstadt
+-    Bad Staffelstein
+-    Rentweinsdorf
+-    Berg im Gau
+-    Seybothenreuth
+-    Arnstein
+-    Trabitz
+-    Titting
+-    Kasendorf
+-    Berngau
+-    Ebermannstadt
+-    Gefrees
+-    Dettelbach
+-    Weisendorf
+-    Dietfurt an der Altmühl
+-    Wonfurt
+-    Schrobenhausen
+-    Marktschorgast
+-    Bad Wörishofen
+-    Niederalteich
+-    Kirchheim bei München
+-    Nordhalben
+-    Oberhaching
+-    Winzer
+-    Langweid am Lech
+-    Geretsried
+-    Münchsteinach
+-    Heimbuchenthal
+-    Seinsheim
+-    Lindenberg im Allgäu
+-    Bindlach
+-    Waidhofen
+-    Großlangheim
+-    Kleinlangheim
+-    Scheinfeld
+-    Gräfendorf
+-    Untermerzbach
+-    Neuenmarkt
+-    Oberthulba
+-    Schwandorf
+-    Markt Taschendorf
+-    Simmershofen
+-    Heinersreuth
+-    Salzweg
+-    Tittmoning
+-    Thyrnau
+-    Wilhelmsthal
+-    Gutenstetten
+-    Ochsenfurt
+-    Krumbach
+-    Sachsen bei Ansbach
+-    Höhenkirchen-Siegertsbrunn
+-    Marktrodach
+-    Steinwiesen
+-    Hemmersheim
+-    Mainbernheim
+-    Neuhof an der Zenn
+-    Haldenwang
+-    Haar
+-    Großenseebach
+-    Gräfelfing
+-    Velburg
+-    Baunach
+-    Volkach
+-    Rüdenau
+-    Markt Einersheim
+-    Markt Nordheim
+-    Oberickelsheim
+-    Pottenstein
+-    Nordendorf
+-    Lohr am Main
+-    Taufkirchen
+-    Bodenwöhr
+-    Schönbrunn im Steigerwald
+-    Waal
+-    Dingolshausen
+-    Bruck
+-    Eiselfing
+-    Pfaffenhofen an der Glonn
+-    Kulmain
+-    Karbach
+-    Fellheim
+-    Schwarzenfeld
+-    Stulln
+-    Tuntenhausen
+-    Haldenwang
+-    Pfarrkirchen
+-    Buttenheim
+-    Sulzheim
+-    Arrach
+-    Westerheim
+-    Schönthal
+-    Falkenberg
+-    Gerbrunn
+-    Legau
+-    Bruckmühl
+-    Rammingen
+-    Greiling
+-    Saal an der Saale
+-    Ettringen
+-    Julbach
+-    Wittibreut
+-    Wald
+-    Mähring
+-    Großeibstadt
+-    Stetten
+-    Auerbach in der Oberpfalz
+-    Breitenbrunn
+-    Reckendorf
+-    Winkelhaid
+-    Veitsbronn
+-    Geratskirchen
+-    Neunburg vorm Wald
+-    Attenkirchen
+-    Langquaid
+-    Au in der Hallertau
+-    Nassenfels
+-    Hilgertshausen-Tandern
+-    Lautrach
+-    Sulzemoos
+-    Hohenfels
+-    Henfenfeld
+-    Loitzendorf
+-    Marktbreit
+-    Hohenlinden
+-    Neunkirchen am Sand
+-    Babenhausen
+-    Balderschwang
+-    Wiesthal
+-    Breitenberg
+-    Hausen
+-    Thüngersheim
+-    Weidenberg
+-    Langerringen
+-    Theilenhofen
+-    Weibersbrunn
+-    Peiting
+-    Schongau
+-    Bellenberg
+-    Tiefenbach
+-    Oberaudorf
+-    Nonnenhorn
+-    Ottensoos
+-    Breitenberg
+-    Lauterhofen
+-    Rottenbuch
+-    Mindelheim
+-    Seeshaupt
+-    Engelthal
+-    Stettfeld
+-    Gelchsheim
+-    Ruderting
+-    Stammham
+-    Weyarn
+-    Weißenohe
+-    Egglkofen
+-    Rothenbuch
+-    Wittislingen
+-    Tittling
+-    Moosach
+-    Haag an der Amper
+-    Lenting
+-    Neuhaus am Inn
+-    Rotthalmünster
+-    Graben
+-    Gollhofen
+-    Untergriesbach
+-    Neunkirchen
+-    Dittelbrunn
+-    Oberrieden
+-    Hunderdorf
+-    Hohenburg
+-    Haag in Oberbayern
+-    Sennfeld
+-    Weißenhorn
+-    Kösching
+-    Neukirchen beim Heiligen Blut
+-    Rattiszell
+-    Salching
+-    Niederwinkling
+-    Postmünster
+-    Dietersburg
+-    Gerolzhofen
+-    Petersaurach
+-    Wilburgstetten
+-    Blankenbach
+-    Hausham
+-    Feldafing
+-    Hagenbüchach
+-    Offingen
+-    Sulzfeld am Main
+-    Schnaittenbach
+-    Neureichenau
+-    Kirchzell
+-    Asbach-Bäumenheim
+-    Aufseß
+-    Oberdachstetten
+-    Berg bei Neumarkt in der Oberpfalz
+-    Sauerlach
+-    Friedberg
+-    Glattbach
+-    Wieseth
+-    Schlammersdorf
+-    Mertingen
+-    Kipfenberg
+-    Kalchreuth
+-    Gößweinstein
+-    Thurnau
+-    Langensendelbach
+-    Rieneck
+-    Bad Füssing
+-    Kirchenlamitz
+-    Teublitz
+-    Diedorf
+-    Ebelsbach
+-    Eggstätt
+-    Viereth-Trunstadt
+-    Gaißach
+-    Vilseck
+-    Wartenberg
+-    Schonstett
+-    Vogtareuth
+-    Weichs
+-    Georgensgmünd
+-    Schlehdorf
+-    Griesstätt
+-    Erlenbach bei Marktheidenfeld
+-    Alesheim
+-    Schwaig bei Nürnberg
+-    Steinach
+-    Wallersdorf
+-    Polling
+-    Velden
+-    Syrgenstein
+-    Oberpleichfeld
+-    Höchberg
+-    Estenfeld
+-    Hettstadt
+-    Ursberg
+-    Bichl
+-    Mittelsinn
+-    Urspringen
+-    Hafenlohr
+-    Westendorf
+-    Blaibach
+-    Denklingen
+-    Krombach
+-    Frickenhausen am Main
+-    Kleinrinderfeld
+-    Königsbrunn
+-    Krün
+-    Ried
+-    Schwabmünchen
+-    Neuhütten
+-    Kleinheubach
+-    Kleinkahl
+-    Retzstadt
+-    Grattersdorf
+-    Rechtenbach
+-    Reichenschwand
+-    Königsmoos
+-    Ettal
+-    Hepberg
+-    Schneeberg
+-    Kiefersfelden
+-    Kößlarn
+-    Himmelstadt
+-    Neustadt am Main
+-    Luhe-Wildenau
+-    Mindelstetten
+-    Gundelfingen an der Donau
+-    Lupburg
+-    Schwindegg
+-    Westerngrund
+-    Plattling
+-    Pommelsbrunn
+-    Lohberg
+-    Landau an der Isar
+-    Hausen bei Würzburg
+-    Gössenheim
+-    Burgthann
+-    Marktredwitz
+-    Parsberg
+-    Kohlberg
+-    Offenberg
+-    Schwarzenbach
+-    Eichendorf
+-    Bundorf
+-    Schwarzenbruck
+-    Fürstenstein
+-    Birkenfeld
+-    Faulbach
+-    Eisenheim
+-    Hebertshausen
+-    Prosselsheim
+-    Riedenheim
+-    Theilheim
+-    Triefenstein
+-    Höttingen
+-    Brunnen
+-    Nennslingen
+-    Oberhausen
+-    Vilsheim
+-    Waffenbrunn
+-    Oy-Mittelberg
+-    Walderbach
+-    Wörthsee
+-    Kutzenhausen
+-    Haundorf
+-    Pfofeld
+-    Vierkirchen
+-    Buch am Buchrain
+-    Oberroth
+-    Glött
+-    Laugna
+-    Ensdorf
+-    Westheim
+-    Burgsalach
+-    Gleißenberg
+-    Meinheim
+-    Walpertskirchen
+-    Untrasried
+-    Obermaiselstein
+-    Weihmichl
+-    Kaisheim
+-    Uehlfeld
+-    Ippesheim
+-    Mömlingen
+-    Kirchberg
+-    Karlskron
+-    Biberbach
+-    Wildflecken
+-    Kammerstein
+-    Greußenheim
+-    Holzkirchen
+-    Illesheim
+-    Münsterhausen
+-    Waldstetten
+-    Mistelgau
+-    Lengdorf
+-    Glashütten
+-    Spatzenhausen
+-    Tännesberg
+-    Mainaschaff
+-    Egling an der Paar
+-    Laudenbach
+-    Bieberehren
+-    Mittelstetten
+-    Aura an der Saale
+-    Geroldshausen
+-    Frauenneuharting
+-    Reichenbach
+-    Spiegelau
+-    Emskirchen
+-    Kaltental
+-    Kupferberg
+-    Thalmässing
+-    Baudenbach
+-    Gaukönigshofen
+-    Markt Rettenbach
+-    Büchenbach
+-    Hohenbrunn
+-    Dammbach
+-    Werneck
+-    Thierstein
+-    Kirchheim
+-    Frontenhausen
+-    Diespeck
+-    Dietersheim
+-    Ipsheim
+-    Obernzenn
+-    Oberottmarshausen
+-    Oberscheinfeld
+-    Gemünden am Main
+-    Roßhaupten
+-    Pfronten
+-    Reichling
+-    Sengenthal
+-    Michelau in Oberfranken
+-    Rennertshofen
+-    Philippsreut
+-    Mainstockheim
+-    Chamerau
+-    Irsee
+-    Pilsach
+-    Schondorf am Ammersee
+-    Stötten am Auerberg
+-    Thaining
+-    Eckersdorf
+-    Hummeltal
+-    Schwaigen
+-    Unterammergau
+-    Rückholz
+-    Deiningen
+-    Scheidegg
+-    Neusitz
+-    Obermeitingen
+-    Hurlach
+-    Rettenbach am Auerberg
+-    Köditz
+-    Fürsteneck
+-    Rieden am Forggensee
+-    Schwifting
+-    Karlshuld
+-    Günzach
+-    Prittriching
+-    Ronsberg
+-    Niedernberg
+-    Seeg
+-    Lalling
+-    Tuchenbach
+-    Güntersleben
+-    Weigenheim
+-    Forstinning
+-    Bütthard
+-    Landensberg
+-    Waltenhausen
+-    Gachenbach
+-    Wiesenbach
+-    Obersinn
+-    Haag
+-    Marklkofen
+-    Grafling
+-    Gerolfingen
+-    Winterbach
+-    Uettingen
+-    Böhmfeld
+-    Poing
+-    Willmering
+-    Pilsting
+-    Schollbrunn
+-    Grafengehaig
+-    Johannesberg
+-    Volkenschwand
+-    Wellheim
+-    Geslau
+-    Riedenberg
+-    Sindelsdorf
+-    Finningen
+-    Gerhardshofen
+-    Egweil
+-    Wettstetten
+-    Fellen
+-    Gebsattel
+-    Harsdorf
+-    Wechingen
+-    Buttenwiesen
+-    Treffelstein
+-    Mamming
+-    Weiherhammer
+-    Ködnitz
+-    Geroda
+-    Ergersheim
+-    Binswangen
+-    Weihenzell
+-    Grafenwiesen
+-    Hitzhofen
+-    Moosbach
+-    Langfurth
+-    Wartmannsroth
+-    Gremsdorf
+-    Röfingen
+-    Höchstadt an der Aisch
+-    Eurasburg
+-    Taufkirchen
+-    Roggenburg
+-    Gundelsheim
+-    Wiesenfelden
+-    Kleinaitingen
+-    Happurg
+-    Hirschbach
+-    Moosthenning
+-    Gestratz
+-    Grünenbach
+-    Finning
+-    Hohenthann
+-    Schwabhausen
+-    Haimhausen
+-    Simmelsdorf
+-    Vilgertshofen
+-    Fünfstetten
+-    Sulzberg
+-    Türkheim
+-    Sailauf
+-    Königstein
+-    Biebelried
+-    Mellrichstadt
+-    Röllbach
+-    Bodolz
+-    Gilching
+-    Heimenkirch
+-    Bächingen an der Brenz
+-    Markt Schwaben
+-    Heretsried
+-    Stockheim
+-    Feucht
+-    Gessertshausen
+-    Odelzhausen
+-    Wallgau
+-    Bockhorn
+-    Großkarolinenfeld
+-    Prutting
+-    Germaringen
+-    Schönberg
+-    Riedering
+-    Samerberg
+-    Freudenberg
+-    Hohenpeißenberg
+-    Remlingen
+-    Burggen
+-    Oberhausen
+-    Tutzing
+-    Friesenried
+-    Bischberg
+-    Flintsbach am Inn
+-    Wegscheid
+-    Gars am Inn
+-    Lohkirchen
+-    Niederfüllbach
+-    Pullenreuth
+-    Geisenhausen
+-    Beutelsbach
+-    Hattenhofen
+-    Buchbach
+-    Buch
+-    Horgau
+-    Rimsting
+-    Eisenberg
+-    Warngau
+-    Krailling
+-    Train
+-    Waldaschaff
+-    Lamerdingen
+-    Biessenhofen
+-    Saaldorf-Surheim
+-    Hofkirchen
+-    Brannenburg
+-    Söchtenau
+-    Stephanskirchen
+-    Reichersbeuern
+-    Kröning
+-    Fuchsmühl
+-    Ursensollen
+-    Münsing
+-    Fischen im Allgäu
+-    Lenggries
+-    Missen-Wilhams
+-    Langenbach
+-    Feldkirchen-Westerham
+-    Ottobeuren
+-    Petershausen
+-    Priesendorf
+-    Antdorf
+-    Mettenheim
+-    Oberneukirchen
+-    Poppenhausen
+-    Velden
+-    Rott am Inn
+-    Friedenfels
+-    Pleß
+-    Neukirchen-Balbini
+-    Hohenpolding
+-    Inning am Holz
+-    Hohenroth
+-    Herbstadt
+-    Aßling
+-    Donnersdorf
+-    Breitenbrunn
+-    Langenfeld
+-    Burgwindheim
+-    Kemmern
+-    Kühlenthal
+-    Breitengüßbach
+-    Buchenberg
+-    Rückersdorf
+-    Gablingen
+-    Holzheim
+-    Rettenbach
+-    Thiersheim
+-    Simbach
+-    Gaimersheim
+-    Neufahrn in Niederbayern
+-    Rohr in Niederbayern
+-    Sigmarszell
+-    Rettenberg
+-    Rattelsdorf
+-    Schwanstetten
+-    Dietmannsried
+-    Wörth an der Isar
+-    Wörth
+-    Fichtelberg
+-    Bubesheim
+-    Hawangen
+-    Langenpreising
+-    Alerheim
+-    Munningen
+-    Prem
+-    Lengenwang
+-    Frensdorf
+-    Weng
+-    Reisbach
+-    Egglham
+-    Schönsee
+-    Leupoldsgrün
+-    Nittenau
+-    Pähl
+-    Burgberg im Allgäu
+-    Burgau
+-    Laberweinting
+-    Schwarzach bei Nabburg
+-    Eppishausen
+-    Erkheim
+-    Jettingen-Scheppach
+-    Medlingen
+-    Plößberg
+-    Eschlkam
+-    Klosterlechfeld
+-    Schmidgaden
+-    Teunz
+-    Gnotzheim
+-    Markt Wald
+-    Frankenwinheim
+-    Guteneck
+-    Thanstein
+-    Sontheim
+-    Miltach
+-    Dirlewang
+-    Kronburg
+-    Langenaltheim
+-    Tussenhausen
+-    Stadlern
+-    Immenreuth
+-    Fensterbach
+-    Niedermurach
+-    Rötz
+-    Marktleuthen
+-    Oberschneiding
+-    Schorndorf
+-    Memmingerberg
+-    Vorbach
+-    Duggendorf
+-    Allmannshofen
+-    Immenstadt im Allgäu
+-    Benningen
+-    Wolfertschwenden
+-    Höchstädt an der Donau
+-    Steinbach am Wald
+-    Waldershof
+-    Unteregg
+-    Kirchhaslach
+-    Salgen
+-    Neusorg
+-    Mitwitz
+-    Oberschönegg
+-    Pfaffenhausen
+-    Sankt Wolfgang
+-    Dieterskirchen
+-    Wipfeld
+-    Rieden
+-    Wald
+-    Niederrieden
+-    Konnersreuth
+-    Mödingen
+-    Böhen
+-    Rothenfels
+-    Heiligenstadt in Oberfranken
+-    Pfaffenhofen an der Roth
+-    Kettershausen
+-    Ungerhausen
+-    Bad Kötzting
+-    Lachen
+-    Weil
+-    Markt Berolzheim
+-    Raisting
+-    Laufach
+-    Röthenbach
+-    Weigendorf
+-    Weiler-Simmerberg
+-    Hirschaid
+-    Raubling
+-    Furth
+-    Strullendorf
+-    Walting
+-    Gstadt am Chiemsee
+-    Durach
+-    Rohrdorf
+-    Glonn
+-    Wallerfing
+-    Kunreuth
+-    Pretzfeld
+-    Marzling
+-    Röttingen
+-    Fahrenzhausen
+-    Großweil
+-    Saulgrub
+-    Oberau
+-    Ermershausen
+-    Waldkirchen
+-    Kranzberg
+-    Mömbris
+-    Karlstein am Main
+-    Weilersbach
+-    Dietramszell
+-    Nesselwang
+-    Ottobrunn
+-    Metten
+-    Hohenau
+-    Grainet
+-    Redwitz an der Rodach
+-    Hohenkammer
+-    Kirchdorf an der Amper
+-    Neuburg am Inn
+-    Paunzhausen
+-    Tettenweis
+-    Marktheidenfeld
+-    Windach
+-    Vestenbergsgreuth
+-    Mönchberg
+-    Hörgertshausen
+-    Pförring
+-    Poxdorf
+-    Haidmühle
+-    Knetzgau
+-    Eresing
+-    Kinsau
+-    Hiltenfingen
+-    Wachenroth
+-    Wildpoldsried
+-    Schäftlarn
+-    Dachsbach
+-    Bad Bayersoien
+-    Bayrischzell
+-    Collenberg
+-    Sankt Oswald-Riedlhütte
+-    Steinberg am See
+-    Gerach
+-    Rattenberg
+-    Wasserburg
+-    Bastheim
+-    Bad Hindelang
+-    Cadolzburg
+-    Obermichelbach
+-    Schöllkrippen
+-    Etzelwang
+-    Pfreimd
+-    Pliening
+-    Vilsbiburg
+-    Apfeldorf
+-    Eurasburg
+-    Großaitingen
+-    Rottendorf
+-    Weilbach
+-    Dollnstein
+-    Kinding
+-    Kirchseeon
+-    Wessobrunn
+-    Falkenstein
+-    Aschau am Inn
+-    Moorenweis
+-    Wendelstein
+-    Rimpar
+-    Rechtmehring
+-    Wettringen
+-    Arnschwang
+-    Hilpoltstein
+-    Großhabersdorf
+-    Schnaittach
+-    Ebrach
+-    Tauberrettersheim
+-    Peißenberg
+-    Runding
+-    Edelsfeld
+-    Anzing
+-    Röttenbach
+-    Puschendorf
+-    Roßtal
+-    Stein
+-    Röthenbach an der Pegnitz
+-    Leidersbach
+-    Aresing
+-    Bad Feilnbach
+-    Bad Steben
+-    Guttenberg
+-    Stöttwang
+-    Niederschönenfeld
+-    Baisweil
+-    Eltmann
+-    Tettau
+-    Miesbach
+-    Moosinning
+-    Pastetten
+-    Euerdorf
+-    Ruderatshofen
+-    Unterthingau
+-    Lauf an der Pegnitz
+-    Leuchtenberg
+-    Speinshart
+-    Wurmsham
+-    Pürgen
+-    Niederviehbach
+-    Neustadt an der Donau
+-    Floß
+-    Gesees
+-    Oberleichtersbach
+-    Ramsthal
+-    Ahorntal
+-    Warmensteinach
+-    Regnitzlosau
+-    Neuching
+-    Eschau
+-    Donaustauf
+-    Sommerhausen
+-    Biburg
+-    Helmstadt
+-    Kraiburg am Inn
+-    Gröbenzell
+-    Sugenheim
+-    Welden
+-    Berglern
+-    Forstern
+-    Pfarrweisach
+-    Genderkingen
+-    Oberpöring
+-    Hollenbach
+-    Oberpframmern
+-    Essenbach, Markt
+-    Vilshofen an der Donau
+-    Mering
+-    Freystadt
+-    Leipheim
+-    Ludwigschorgast
+-    Rugendorf
+-    Haselbach
+-    Finsing
+-    Ottenhofen
+-    Oberpöring
+-    Schondra
+-    Berchtesgaden
+-    Grafenau
+-    Unterföhring
+-    Illschwang
+-    Karlstadt
+-    Freilassing
+-    Tiefenbach
+-    Bad Berneck im Fichtelgebirge
+-    Röhrmoos
+-    Segnitz
+-    Sonderhofen
+-    Bad Brückenau
+-    Neuötting
+-    Obernzell
+-    Heigenbrücken
+-    Monheim
+-    Maihingen
+-    Mörnsheim
+-    Aldersbach
+-    Piding
+-    Kitzingen
+-    Geltendorf
+-    Seubersdorf in der Oberpfalz
+-    Aub
+-    Muhr am See
+-    Pörnbach
+-    Kleinostheim
+-    Stockstadt am Main
+-    Eslarn
+-    Püchersreuth
+-    Windorf
+-    Marquartstein
+-    Egmating
+-    Neufraunhofen
+-    Rudelzhausen
+-    Gundremmingen
+-    Karlsfeld
+-    Roding
+-    Niederaichbach
+-    Postau
+-    Steinhöring
+-    Münchsmünster
+-    Fuchsstadt
+-    Schwarzach
+-    Weiding
+-    Feldkirchen
+-    Rimbach
+-    Fladungen
+-    Rain
+-    Arnstorf
+-    Haibach
+-    Wackersdorf
+-    Ascha
+-    Neukirchen
+-    Sandberg
+-    Euerbach
+-    Unterdietfurt
+-    Wurmannsquick
+-    Roßbach
+-    Tacherting
+-    Bruck in der Oberpfalz
+-    Irlbach
+-    Leiblfing
+-    Gangkofen
+-    Hausen
+-    Wülfershausen an der Saale
+-    Falkenberg
+-    Alfeld
+-    Gochsheim
+-    Tann
+-    Stockheim
+-    Halfing
+-    Oberstreu
+-    Sulzfeld
+-    Wasserlosen
+-    Großbardorf
+-    Schönau an der Brend
+-    Malgersdorf
+-    Bayerbach
+-    Rohr
+-    Sondheim vor der Rhön
+-    Grettstadt
+-    Kirchdorf am Inn
+-    Trappstadt
+-    Willmars
+-    Lülsfeld
+-    Oberschwarzach
+-    Villenbach
+-    Burglauer
+-    Kolitzheim
+-    Heustreu
+-    Nordheim vor der Rhön
+-    Rödelmaier
+-    Strahlungen
+-    Schwanfeld
+-    Holzheim
+-    Aubstadt
+-    Hendungen
+-    Hollstadt
+-    Stallwang
+-    Perkam
+-    Winklarn
+-    Unsleben
+-    Gleiritsch
+-    Schwarzhofen
+-    Niederlauer
+-    Geldersheim
+-    Lutzingen
+-    Trausnitz
+-    Bergen
+-    Heidenheim
+-    Raitenbuch
+-    Holzgünz
+-    Wertach
+-    Rieden
+-    Kammlach
+-    Trunkelsberg
+-    Sankt Englmar
+-    Bidingen
+-    Wiesau
+-    Woringen
+-    Waldbrunn
+-    Windberg
+-    Ebnath
+-    Rimbach
+-    Rettenbach
+-    Westendorf
+-    Dittenheim
+-    Heimertingen
+-    Betzigau
+-    Lisberg
+-    Wattendorf
+-    Bad Grönenbach
+-    Weitnau
+-    Litzendorf
+-    Triftern
+-    Wackersberg
+-    Höchstädt im Fichtelgebirge
+-    Lauter
+-    Dasing
+-    Gottfrieding
+-    Igling
+-    Münnerstadt
+-    Bad Königshofen im Grabfeld
+-    Breitbrunn am Chiemsee
+-    Loiching
+-    Teisendorf
+-    Röttenbach
+-    Germering
+-    Neumarkt in der Oberpfalz
+-    Gammelsdorf
+-    Oberhaid
+-    Röckingen
+-    Scheuring
+-    Tschirn
+-    Wiggensbach
+-    Unterleinleiter
+-    Burtenbach
+-    Gebenbach
+-    Vöhringen
+-    Hunding
+-    Pollenfeld
+-    Waltenhofen
+-    Nabburg
+-    Memmelsdorf
+-    Ostheim vor der Rhön
+-    Neubeuern
+-    Waldbüttelbrunn
+-    Engelsberg
+-    Pommersfelden
+-    Nußdorf am Inn
+-    Weilheim in Oberbayern
+-    Haibach
+-    Gallmersgarten
+-    Neuburg an der Kammel
+-    Steingaden
+-    Unterreit
+-    Kötz
+-    Ehingen
+-    Kürnach
+-    Giebelstadt
+-    Wolfersdorf
+-    Weßling
+-    Breitenthal
+-    Jachenau
+-    Wonneberg
+-    Greding
+-    Greifenberg
+-    Schernfeld
+-    Unterwössen
+-    Steinkirchen
+-    Dachau
+-    Erding
+-    Fürstenfeldbruck
+-    Neu-Ulm
+-    Postbauer-Heng
+-    Deggendorf
+-    Forchheim
+-    Reut
+-    Stubenberg
+-    Untersiemau
+-    Uffenheim
+-    Hasloch
+-    Weitramsdorf
+-    Solnhofen
+-    Rödental
+-    Seßlach
+-    Grub am Forst
+-    Itzgrund
+-    Sonnefeld
+-    Weidhausen bei Coburg
+-    Fischbachau
+-    Ebersdorf bei Coburg
+-    Meeder
+-    Lauingen
+-    Lautertal
+-    Ebershausen
+-    Mühlhausen
+-    Veitshöchheim
+-    Valley
+-    Sulzdorf an der Lederhecke
+-    Allersberg
+-    Beilngries
+-    Burglengenfeld
+-    Niederwerrn
+-    Michelau im Steigerwald
+-    Starnberg
+-    Kist
+-    Feichten an der Alz
+-    Emmering
+-    Brand
+-    Kastl
+-    Kirchweidach
+-    Lauben
+-    Buxheim
+-    Aurachtal
+-    Grafenrheinfeld
+-    Leonberg
+-    Boos
+-    Kastl
+-    Stammham
+-    Königsfeld
+-    Teising
+-    Emmerting
+-    Chiemsee
+-    Wildenranna
+-    Meßnerschlag
+-    Eidenberg
+-    Möslberg
+-    Gegenbach
+-    Langenzenn
+-    Oberneureuth
+-    Gollnerberg
+-    Jahrdorf
+-    Raßreuth
+-    Thalberg
+-    Kasberg
+-    Schönberg
+-    Windpassing
+-    Ederlsdorf
+-    Germannsdorf
+-    Schaibing
+-    Thurnreuth
+-    Höchheim
+-    Bad Birnbach
+-    Perasdorf
+-    Ering
+-    Salz
+-    Michelsneukirchen
+-    Bernried am Starnberger See
+-    Großwallstadt
+-    Neukirchen bei Sulzbach-Rosenberg
+-    Pegnitz
+-    Osterberg
+-    Straßkirchen
+-    Zell im Fichtelgebirge
+-    Grafing bei München
+-    Großmehring
+-    Neufahrn bei Freising
+-    Neustadt am Kulm
+-    Trostberg
+-    Schirnding
+-    Unterschwaningen
+-    Bogen
+-    Neustadt an der Aisch
+-    Gmund am Tegernsee
+-    Prien am Chiemsee
+-    Bad Aibling
+-    Freising
+-    Ofterschwang
+-    Tiefenbach
+-    Karsbach
+-    Sachsenkam
+-    Schwenningen
+-    Kirchheim in Schwaben
+-    Buckenhof
+-    Unterneukirchen
+-    Erlbach
+-    Bruckberg
+-    Großheirath
+-    Reuth bei Erbendorf
+-    Neustadt bei Coburg
+-    Moosburg an der Isar
+-    Neukirchen vorm Wald
+-    Hausen
+-    Sand am Main
+-    Deuerling
+-    Zell am Main
+-    Weißenburg in Bayern
+-    Fraunberg
+-    Schiltberg
+-    Mühlhausen
+-    Schönwald
+-    Tüßling
+-    Marxheim
+-    Tyrlaching
+-    Kühbach
+-    Gemeinde im Landkreis Main-Spessart
+-    Merching
+-    Hemhofen
+-    Donauwörth
+-    Herzogenaurach
+-    Uttenreuth
+-    Selb
+-    Heßdorf
+-    Pleiskirchen
+-    Spardorf
+-    Rehau
+-    Halsbach
+-    Marloffstein
+-    Lonnerstadt
+-    Mehring
+-    Heldenstein
+-    Oberreichenbach
+-    Selbitz
+-    Unterschleißheim
+-    München
+-    Regensburg
+-    Aschaffenburg
+-    Augsburg
+-    Bayreuth
+-    Nürnberg
+-    Würzburg
+-    Fürth
+-    Erlangen
+-    Ingolstadt
+-    Bamberg
+-    Weiden in der Oberpfalz
+-    Kempten
+-    Landshut
+-    Straubing
+-    Memmingen
+-    Schwabach
+-    Schweinfurt
+-    Rosenheim
+-    Ansbach
+-    Kaufbeuren
+-    Hof
+-    Coburg
+-    Passau
+-    Emtmannsberg
+-    Amberg

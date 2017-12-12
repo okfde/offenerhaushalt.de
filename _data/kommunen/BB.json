@@ -1,416 +1,416 @@
--	Wittstock/Dosse
--	Vetschau/Spreewald
--	Lübbenau/Spreewald
--	Neuhausen/Spree
--	Zehdenick
--	Zeschdorf
--	Zechin
--	Zichow
--	Zernitz-Lohm
--	Ziethen
--	Kleinmachnow
--	Flieth-Stegelitz
--	Panketal
--	Heckelberg-Brunow
--	Müncheberg
--	Ziltendorf
--	Oderaue
--	Neustadt
--	Friedrichswalde
--	Zossen
--	Temnitzquell
--	Mühlberg/Elbe
--	Hohenbocka
--	Zeuthen
--	Hirschfeld
--	Doberlug-Kirchhain
--	Groß Pankow (Prignitz)
--	Ahrensfelde
--	Jüterbog
--	Kolkwitz
--	Althüttendorf
--	Am Mellensee
--	Altlandsberg
--	Guben
--	Legde/Quitzöbel
--	Perleberg
--	Mühlenberge
--	Temmen-Ringenwalde
--	Küstriner Vorland
--	Hoppegarten
--	Senftenberg
--	Angermünde
--	Strausberg
--	Milower Land
--	Fürstenberg/Havel
--	Werneuchen
--	Baruth/Mark
--	Alt Zauche-Wußwerk
--	Altdöbern
--	Drahnsdorf
--	Bad Freienwalde
--	Alt Tucheband
--	Lichterfeld-Schacksdorf
--	Gorden-Staupitz
--	Röderland
--	Biesenthal
--	Wittenberge
--	Uebigau-Wahrenbrück
--	Herzberg
--	Beelitz
--	Golßen
--	Märkisch Buchholz
--	Döbern
--	Sonnewalde
--	Massen-Niederlausitz
--	Hohen Neuendorf
--	Merzdorf
--	Wildau
--	Bad Belzig
--	Schönewalde
--	Krausnick-Groß Wasserburg
--	Werder
--	Rathenow
--	Wandlitz
--	Melchow
--	Parsteinsee
--	Templin
--	Liepe
--	Lunow-Stolzenhagen
--	Rückersdorf
--	Schlieben
--	Briesen
--	Lebusa
--	Plessa
--	Großthiemig
--	Hohenbucko
--	Gröden
--	Schönborn
--	Hohenleipisch
--	Pritzwalk
--	Kyritz
--	Retzow
--	Oderberg
--	Fichtwald
--	Kremitzaue
--	Buckow
--	Halbe
--	Leegebruch
--	Schilda
--	Calau
--	Rhinow
--	Schorfheide
--	Groß Köris
--	Putlitz
--	Herzberg
--	Tröbitz
--	Sallgast
--	Berkenbrück
--	Pirow
--	Meyenburg
--	Schlaubetal
--	Großbeeren
--	Langewahl
--	Kloster Lehnin
--	Woltersdorf
--	Brieskow-Finkenheerd
--	Teupitz
--	Rüdnitz
--	Gumtow
--	Dahmetal
--	Schöneiche
--	Schmogrow-Fehrow
--	Rauen
--	Seddiner See
--	Ihlow
--	Rabenstein/Fläming
--	Wiesenburg/Mark
--	Sieversdorf-Hohenofen
--	Groß Lindow
--	Milmersdorf
--	Wendisch Rietz
--	Marienfließ
--	Casekow
--	Mühlenfließ
--	Drehnow
--	Jämlitz-Klein Düben
--	Spreenhagen
--	Storbeck-Frankendorf
--	Wusterhausen/Dosse
--	Steinhöfel
--	Rüthnick
--	Vielitzsee
--	Roskow
--	Gosen-Neu Zittau
--	Grünow
--	Schwarzbach
--	Rühstädt
--	Reitwein
--	Prenzlau
--	Rheinsberg
--	Luckau
--	Schönefeld
--	Heiligengrabe
--	Britz
--	Wiesenaue
--	Mühlenbecker Land
--	Niederfinow
--	Schönwalde-Glien
--	Breydin
--	Boitzenburger Land
--	Chorin
--	Stechlin
--	Sydower Fließ
--	Oberkrämer
--	Beiersdorf-Freudenberg
--	Fredersdorf-Vogelsdorf
--	Brieselang
--	Nauen
--	Pessin
--	Heinersbrück
--	Bleyen-Genschmar
--	Frauendorf
--	Märkische Heide
--	Spreewaldheide
--	Bronkow
--	Oberbarnim
--	Mittenwalde
--	Neu Zauche
--	Werben
--	Lindenau
--	Treplin
--	Drachhausen
--	Heideblick
--	Tauer
--	Wustermark
--	Sonnenberg
--	Schulzendorf
--	Löwenberger Land
--	Heideland
--	Jamlitz
--	Havelaue
--	Kotzen
--	Bestensee
--	Stechow-Ferchesar
--	Schipkau
--	Crinitz
--	Fichtenhöhe
--	Neuhardenberg
--	Petershagen/Eggersdorf
--	Byhleguhre-Byhlen
--	Dissen-Striesow
--	Peitz
--	Höhenland
--	Neuenhagen bei Berlin
--	Neutrebbin
--	Reichenow-Möglin
--	Neulewin
--	Großkmehlen
--	Glienicke/Nordbahn
--	Lindendorf
--	Märkische Höhe
--	Vierlinden
--	Rietzneuendorf-Staakow
--	Kasel-Golzig
--	Schlepzig
--	Letschin
--	Waldsieversdorf
--	Friesack
--	Nennhausen
--	Paulinenaue
--	Lübben (Spreewald)
--	Steinreich
--	Eichwalde
--	Seeblick
--	Walsleben
--	Gransee
--	Lieberose
--	Schönwald
--	Dallgow-Döberitz
--	Märkisch Luch
--	Schwarzheide
--	Tettau
--	Münchehofe
--	Elsterwerda
--	Gusow-Platkow
--	Lietzen
--	Unterspreewald
--	Gollenberg
--	Luckaitztal
--	Premnitz
--	Ketzin/Havel
--	Kleßen-Görne
--	Hennigsdorf
--	Liebenwalde
--	Podelzig
--	Bersteland
--	Velten
--	Garzau-Garzin
--	Trebbin
--	Bad Wilsnack
--	Falkenberg/Elster
--	Ragow-Merz
--	Friedland
--	Stüdenitz-Schönermark
--	Guhrow
--	Stahnsdorf
--	Gartz
--	Oranienburg
--	Falkensee
--	Rangsdorf
--	Groß Kreutz
--	Briesen (Mark)
--	Schwielowsee
--	Treuenbrietzen
--	Tauche
--	Planetal
--	Märkisch Linden
--	Hohenselchow-Groß Pinnow
--	Siehdichum
--	Wollin
--	Wusterwitz
--	Dabergotz
--	Fehrbellin
--	Lindow
--	Passow
--	Lenzen
--	Mescherin
--	Karstädt
--	Neißemünde
--	Randowtal
--	Uckerfelde
--	Breddin
--	Lanz
--	Vogelsang
--	Breese
--	Niedergörsdorf
--	Pinnow
--	Kümmernitztal
--	Rosenau
--	Uckerland
--	Lawitz
--	Diensdorf-Radlow
--	Eberswalde
--	Nordwestuckermark
--	Schöneberg
--	Wiesenau
--	Michendorf
--	Nuthe-Urstromtal
--	Mixdorf
--	Bernau bei Berlin
--	Temnitztal
--	Weisen
--	Gerdshagen
--	Dreetz
--	Berkholz-Meyenburg
--	Grünheide (Mark)
--	Reichenwalde
--	Mark Landin
--	Oberuckersee
--	Joachimsthal
--	Königs Wusterhausen
--	Schwedt/Oder
--	Neuruppin
--	Eisenhüttenstadt
--	Fürstenwalde/Spree
--	Müllrose
--	Nuthetal
--	Tschernitz
--	Wiesengrund
--	Beeskow
--	Forst (Lausitz)
--	Teltow
--	Straupitz
--	Drebkau
--	Spremberg
--	Welzow
--	Erkner
--	Ruhland
--	Ortrand
--	Jänschwalde
--	Storkow (Mark)
--	Großderschau
--	Neupetershain
--	Guteborn
--	Seelow
--	Bad Liebenwerda
--	Schönermark
--	Birkenwerder
--	Blankenfelde-Mahlow
--	Heidesee
--	Lauchhammer
--	Hohenfinow
--	Bliesdorf
--	Luckenwalde
--	Ludwigsfelde
--	Rehfelde
--	Kroppen
--	Kremmen
--	Neu-Seeland
--	Falkenberg
--	Schraden
--	Großräschen
--	Wriezen
--	Grunow-Dammendorf
--	Grünewald
--	Finsterwalde
--	Niederer Fläming
--	Lychen
--	Neuzelle
--	Schenkendöbern
--	Turnow-Preilack
--	Neiße-Malxetal
--	Gramzow
--	Gülitz-Reetz
--	Lenzerwische
--	Triglitz
--	Cumlosen
--	Niemegk
--	Mittenwalde
--	Hermsdorf
--	Halenbeck-Rohlsdorf
--	Berge
--	Jacobsdorf
--	Tantow
--	Bensdorf
--	Plattenburg
--	Teichland
--	Rietz-Neuendorf
--	Prötzel
--	Rüdersdorf
--	Groß Schacksdorf-Simmersdorf
--	Bad Saarow
--	Schenkenberg
--	Planebruch
--	Ziesar
--	Linthe
--	Marienwerder
--	Brüssow
--	Golzow
--	Carmzow-Wallmow
--	Schwerin
--	Schwielochsee
--	Schönfeld
--	Brück
--	Falkenhagen (Mark)
--	Päwesin
--	Felixsee
--	Dahme/Mark
--	Göritz
--	Wenzlow
--	Beetzseeheide
--	Borkheide
--	Görzke
--	Borkwalde
--	Gräben
--	Gerswalde
--	Havelsee
--	Burg (Spreewald)
--	Buckautal
--	Potsdam
--	Beetzsee
--	Cottbus
--	Brandenburg an der Havel
--	Lebus
--	Frankfurt (Oder)
--	Großwoltersdorf
+-    Wittstock/Dosse
+-    Vetschau/Spreewald
+-    Lübbenau/Spreewald
+-    Neuhausen/Spree
+-    Zehdenick
+-    Zeschdorf
+-    Zechin
+-    Zichow
+-    Zernitz-Lohm
+-    Ziethen
+-    Kleinmachnow
+-    Flieth-Stegelitz
+-    Panketal
+-    Heckelberg-Brunow
+-    Müncheberg
+-    Ziltendorf
+-    Oderaue
+-    Neustadt
+-    Friedrichswalde
+-    Zossen
+-    Temnitzquell
+-    Mühlberg/Elbe
+-    Hohenbocka
+-    Zeuthen
+-    Hirschfeld
+-    Doberlug-Kirchhain
+-    Groß Pankow (Prignitz)
+-    Ahrensfelde
+-    Jüterbog
+-    Kolkwitz
+-    Althüttendorf
+-    Am Mellensee
+-    Altlandsberg
+-    Guben
+-    Legde/Quitzöbel
+-    Perleberg
+-    Mühlenberge
+-    Temmen-Ringenwalde
+-    Küstriner Vorland
+-    Hoppegarten
+-    Senftenberg
+-    Angermünde
+-    Strausberg
+-    Milower Land
+-    Fürstenberg/Havel
+-    Werneuchen
+-    Baruth/Mark
+-    Alt Zauche-Wußwerk
+-    Altdöbern
+-    Drahnsdorf
+-    Bad Freienwalde
+-    Alt Tucheband
+-    Lichterfeld-Schacksdorf
+-    Gorden-Staupitz
+-    Röderland
+-    Biesenthal
+-    Wittenberge
+-    Uebigau-Wahrenbrück
+-    Herzberg
+-    Beelitz
+-    Golßen
+-    Märkisch Buchholz
+-    Döbern
+-    Sonnewalde
+-    Massen-Niederlausitz
+-    Hohen Neuendorf
+-    Merzdorf
+-    Wildau
+-    Bad Belzig
+-    Schönewalde
+-    Krausnick-Groß Wasserburg
+-    Werder
+-    Rathenow
+-    Wandlitz
+-    Melchow
+-    Parsteinsee
+-    Templin
+-    Liepe
+-    Lunow-Stolzenhagen
+-    Rückersdorf
+-    Schlieben
+-    Briesen
+-    Lebusa
+-    Plessa
+-    Großthiemig
+-    Hohenbucko
+-    Gröden
+-    Schönborn
+-    Hohenleipisch
+-    Pritzwalk
+-    Kyritz
+-    Retzow
+-    Oderberg
+-    Fichtwald
+-    Kremitzaue
+-    Buckow
+-    Halbe
+-    Leegebruch
+-    Schilda
+-    Calau
+-    Rhinow
+-    Schorfheide
+-    Groß Köris
+-    Putlitz
+-    Herzberg
+-    Tröbitz
+-    Sallgast
+-    Berkenbrück
+-    Pirow
+-    Meyenburg
+-    Schlaubetal
+-    Großbeeren
+-    Langewahl
+-    Kloster Lehnin
+-    Woltersdorf
+-    Brieskow-Finkenheerd
+-    Teupitz
+-    Rüdnitz
+-    Gumtow
+-    Dahmetal
+-    Schöneiche
+-    Schmogrow-Fehrow
+-    Rauen
+-    Seddiner See
+-    Ihlow
+-    Rabenstein/Fläming
+-    Wiesenburg/Mark
+-    Sieversdorf-Hohenofen
+-    Groß Lindow
+-    Milmersdorf
+-    Wendisch Rietz
+-    Marienfließ
+-    Casekow
+-    Mühlenfließ
+-    Drehnow
+-    Jämlitz-Klein Düben
+-    Spreenhagen
+-    Storbeck-Frankendorf
+-    Wusterhausen/Dosse
+-    Steinhöfel
+-    Rüthnick
+-    Vielitzsee
+-    Roskow
+-    Gosen-Neu Zittau
+-    Grünow
+-    Schwarzbach
+-    Rühstädt
+-    Reitwein
+-    Prenzlau
+-    Rheinsberg
+-    Luckau
+-    Schönefeld
+-    Heiligengrabe
+-    Britz
+-    Wiesenaue
+-    Mühlenbecker Land
+-    Niederfinow
+-    Schönwalde-Glien
+-    Breydin
+-    Boitzenburger Land
+-    Chorin
+-    Stechlin
+-    Sydower Fließ
+-    Oberkrämer
+-    Beiersdorf-Freudenberg
+-    Fredersdorf-Vogelsdorf
+-    Brieselang
+-    Nauen
+-    Pessin
+-    Heinersbrück
+-    Bleyen-Genschmar
+-    Frauendorf
+-    Märkische Heide
+-    Spreewaldheide
+-    Bronkow
+-    Oberbarnim
+-    Mittenwalde
+-    Neu Zauche
+-    Werben
+-    Lindenau
+-    Treplin
+-    Drachhausen
+-    Heideblick
+-    Tauer
+-    Wustermark
+-    Sonnenberg
+-    Schulzendorf
+-    Löwenberger Land
+-    Heideland
+-    Jamlitz
+-    Havelaue
+-    Kotzen
+-    Bestensee
+-    Stechow-Ferchesar
+-    Schipkau
+-    Crinitz
+-    Fichtenhöhe
+-    Neuhardenberg
+-    Petershagen/Eggersdorf
+-    Byhleguhre-Byhlen
+-    Dissen-Striesow
+-    Peitz
+-    Höhenland
+-    Neuenhagen bei Berlin
+-    Neutrebbin
+-    Reichenow-Möglin
+-    Neulewin
+-    Großkmehlen
+-    Glienicke/Nordbahn
+-    Lindendorf
+-    Märkische Höhe
+-    Vierlinden
+-    Rietzneuendorf-Staakow
+-    Kasel-Golzig
+-    Schlepzig
+-    Letschin
+-    Waldsieversdorf
+-    Friesack
+-    Nennhausen
+-    Paulinenaue
+-    Lübben (Spreewald)
+-    Steinreich
+-    Eichwalde
+-    Seeblick
+-    Walsleben
+-    Gransee
+-    Lieberose
+-    Schönwald
+-    Dallgow-Döberitz
+-    Märkisch Luch
+-    Schwarzheide
+-    Tettau
+-    Münchehofe
+-    Elsterwerda
+-    Gusow-Platkow
+-    Lietzen
+-    Unterspreewald
+-    Gollenberg
+-    Luckaitztal
+-    Premnitz
+-    Ketzin/Havel
+-    Kleßen-Görne
+-    Hennigsdorf
+-    Liebenwalde
+-    Podelzig
+-    Bersteland
+-    Velten
+-    Garzau-Garzin
+-    Trebbin
+-    Bad Wilsnack
+-    Falkenberg/Elster
+-    Ragow-Merz
+-    Friedland
+-    Stüdenitz-Schönermark
+-    Guhrow
+-    Stahnsdorf
+-    Gartz
+-    Oranienburg
+-    Falkensee
+-    Rangsdorf
+-    Groß Kreutz
+-    Briesen (Mark)
+-    Schwielowsee
+-    Treuenbrietzen
+-    Tauche
+-    Planetal
+-    Märkisch Linden
+-    Hohenselchow-Groß Pinnow
+-    Siehdichum
+-    Wollin
+-    Wusterwitz
+-    Dabergotz
+-    Fehrbellin
+-    Lindow
+-    Passow
+-    Lenzen
+-    Mescherin
+-    Karstädt
+-    Neißemünde
+-    Randowtal
+-    Uckerfelde
+-    Breddin
+-    Lanz
+-    Vogelsang
+-    Breese
+-    Niedergörsdorf
+-    Pinnow
+-    Kümmernitztal
+-    Rosenau
+-    Uckerland
+-    Lawitz
+-    Diensdorf-Radlow
+-    Eberswalde
+-    Nordwestuckermark
+-    Schöneberg
+-    Wiesenau
+-    Michendorf
+-    Nuthe-Urstromtal
+-    Mixdorf
+-    Bernau bei Berlin
+-    Temnitztal
+-    Weisen
+-    Gerdshagen
+-    Dreetz
+-    Berkholz-Meyenburg
+-    Grünheide (Mark)
+-    Reichenwalde
+-    Mark Landin
+-    Oberuckersee
+-    Joachimsthal
+-    Königs Wusterhausen
+-    Schwedt/Oder
+-    Neuruppin
+-    Eisenhüttenstadt
+-    Fürstenwalde/Spree
+-    Müllrose
+-    Nuthetal
+-    Tschernitz
+-    Wiesengrund
+-    Beeskow
+-    Forst (Lausitz)
+-    Teltow
+-    Straupitz
+-    Drebkau
+-    Spremberg
+-    Welzow
+-    Erkner
+-    Ruhland
+-    Ortrand
+-    Jänschwalde
+-    Storkow (Mark)
+-    Großderschau
+-    Neupetershain
+-    Guteborn
+-    Seelow
+-    Bad Liebenwerda
+-    Schönermark
+-    Birkenwerder
+-    Blankenfelde-Mahlow
+-    Heidesee
+-    Lauchhammer
+-    Hohenfinow
+-    Bliesdorf
+-    Luckenwalde
+-    Ludwigsfelde
+-    Rehfelde
+-    Kroppen
+-    Kremmen
+-    Neu-Seeland
+-    Falkenberg
+-    Schraden
+-    Großräschen
+-    Wriezen
+-    Grunow-Dammendorf
+-    Grünewald
+-    Finsterwalde
+-    Niederer Fläming
+-    Lychen
+-    Neuzelle
+-    Schenkendöbern
+-    Turnow-Preilack
+-    Neiße-Malxetal
+-    Gramzow
+-    Gülitz-Reetz
+-    Lenzerwische
+-    Triglitz
+-    Cumlosen
+-    Niemegk
+-    Mittenwalde
+-    Hermsdorf
+-    Halenbeck-Rohlsdorf
+-    Berge
+-    Jacobsdorf
+-    Tantow
+-    Bensdorf
+-    Plattenburg
+-    Teichland
+-    Rietz-Neuendorf
+-    Prötzel
+-    Rüdersdorf
+-    Groß Schacksdorf-Simmersdorf
+-    Bad Saarow
+-    Schenkenberg
+-    Planebruch
+-    Ziesar
+-    Linthe
+-    Marienwerder
+-    Brüssow
+-    Golzow
+-    Carmzow-Wallmow
+-    Schwerin
+-    Schwielochsee
+-    Schönfeld
+-    Brück
+-    Falkenhagen (Mark)
+-    Päwesin
+-    Felixsee
+-    Dahme/Mark
+-    Göritz
+-    Wenzlow
+-    Beetzseeheide
+-    Borkheide
+-    Görzke
+-    Borkwalde
+-    Gräben
+-    Gerswalde
+-    Havelsee
+-    Burg (Spreewald)
+-    Buckautal
+-    Potsdam
+-    Beetzsee
+-    Cottbus
+-    Brandenburg an der Havel
+-    Lebus
+-    Frankfurt (Oder)
+-    Großwoltersdorf
