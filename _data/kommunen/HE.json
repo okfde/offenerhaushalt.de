@@ -1,479 +1,431 @@
-- Aarbergen
-- Abtsteinach
-- Ahnatal
-- Alheim
-- Allendorf
-- Alsbach-Hähnlein
-- Alsfeld
-- Altenstadt
-- Am Rainberge
-- Am Römerhof
-- Am Römerschacht
-- Am Rüdesheimer Hafen
-- Am Sandkopf
-- Amöneburg
-- Angelburg
-- Antrifttal
-- Aßlar
-- Babenhausen
-- Bad Arolsen
-- Bad Camberg
-- Bad Emstal
-- Bad Endbach
-- Bad Hersfeld
-- Bad Homburg
-- Bad Karlshafen
-- Bad König
-- Bad Nauheim
-- Bad Orb
-- Bad Salzschlirf
-- Bad Schwalbach
-- Bad Soden
-- Bad Soden-Salmünster
-- Bad Sooden-Allendorf
-- Bad Vilbel
-- Bad Wildungen
-- Bad Zwesten
-- Battenberg
-- Baunatal
-- Bebra
-- Beerfelden
-- Bei den Tongruben
-- Bellers
-- Bensheim
-- Berkatal
-- Beselich
-- Biblis
-- Bickenbach
-- Biebergemünd
-- Biebertal
-- Biebesheim
-- Biedenkopf
-- Bingenheimer Mühle
-- Birkenau
-- Birkenstöcke
-- Birstein
-- Bischoffen
-- Bischofsheim
-- Borken
-- Brachttal
-- Braunfels
-- Brechen
-- Breidenbach
-- Breitenbach
-- Breitscheid
-- Brensbach
-- Breuberg
-- Breuna
-- Brombachtal
-- Bromskirchen
-- Bruchköbel
-- Burghaun
-- Burgwald
-- Buseck
-- Butzbach
-- Büdingen
-- Bürstadt
-- Büttelborn
-- Calden
-- Capelle
-- Cornberg
-- Cölbe
-- Dammeshof
-- Dammesmühle
-- Darmstadt
-- Dautphetal
-- Dieburg
-- Diemelsee
-- Diemelstadt
-- Dietzenbach
-- Dietzhölztal
-- Dillenburg
-- Dipperz
-- Dornburg
-- Dreieich
-- Driedorf
-- Ebersburg
-- Ebsdorfergrund
-- Echzell
-- Edermünde
-- Edertal
-- Egelsbach
-- Ehrenberg
-- Ehringshausen
-- Eichenzell
-- Einhausen
-- Eiserhof
-- Eiterfeld
-- Elbtal
-- Eltville
-- Elz
-- Eppertshausen
-- Eppstein
-- Erbach
-- Erdfunkstelle Usingen
-- Erlensee
-- Erzhausen
-- Eschborn
-- Eschenburg
-- Eschwege
-- Espenau
-- Faustenbach
-- Feldatal
-- Felsberg
-- Fernwald
-- Fischbachtal
-- Flieden
-- Florstadt
-- Flörsbachtal
-- Flörsheim
-- Forsthaus Heide
-- Frankenau
-- Frankenberg
-- Frankfurt
-- Freiensteinau
-- Freigericht
-- Friedberg
-- Friedewald
-- Friedrichsdorf
-- Frielendorf
-- Fritzlar
-- Fronhausen
-- Fränkisch-Crumbach
-- Fulda
-- Fuldabrück
-- Fuldatal
-- Fürstental
-- Fürth
-- Gebhardshütte
-- Gedern
-- Geisenheim
-- Gelnhausen
-- Gemünden
-- Gernsheim
-- Gersfeld
-- Gestecke
-- Gießen
-- Gilserberg
-- Ginsheim-Gustavsburg
-- Gladenbach
-- Glashütten
-- Glauburg
-- Gorxheimertal
-- Grasellenbach
-- Grebenau
-- Grebenhain
-- Grebenstein
-- Greifenstein
-- Griesheim
-- Groß-Bieberau
-- Groß-Gerau
-- Groß-Rohrheim
-- Groß-Umstadt
-- Groß-Zimmern
-- Großalmerode
-- Großenlüder
-- Großkrotzenburg
-- Grundmühle
-- Grävenwiesbach
-- Grünberg
-- Gründau
-- Grünhof
-- Gudensberg
-- Gumpener Kreuz
-- Gunkelrode
-- Guxhagen
-- Habichtswald
-- Hadamar
-- Haiger
-- Haina
-- Hainburg
-- Hammersbach
-- Hanau
-- Hanchesmühle
-- Hardtmühle
-- Hasenmühle
-- Hasselroth
-- Hattersheim
-- Hatzfeld
-- Hauneck
-- Haunetal
-- Heidenrod
-- Heinrichsegen
-- Helsa
-- Heppenheim
-- Herborn
-- Herbstein
-- Heringen
-- Herleshausen
-- Hesseneck
-- Hessisch Lichtenau
-- Heuchelheim
-- Heusenstamm
-- Hilders
-- Hippelsbach
-- Hirschhorn
-- Hirzenhain
-- Hochheim
-- Hof Eckeberg
-- Hof Mondschirm
-- Hofbieber
-- Hofgeismar
-- Hofheim
-- Hohenahr
-- Hohenroda
-- Hohenstein
-- Homberg
-- Hosenfeld
-- Hundertmorgen
-- Hungen
-- Höchst
-- Hühnerkirche
-- Hünfeld
-- Hünfelden
-- Hünstetten
-- Hüttelngesäß
-- Hüttenberg
-- Idstein
-- Igelsbach
-- Immenhausen
-- Jesberg
-- Jossgrund
-- Kahler Berg
-- Kalbach
-- Karben
-- Kassel
-- Kaufungen
-- Kefenrod
-- Kelkheim
-- Kelsterbach
-- Kiedrich
-- Kirchhain
-- Kirchheim
-- Kirtorf
-- Klippmühle
-- Knüllwald
-- Kohlbacher Hof
-- Korbach
-- Kreuzquelle
-- Kriftel
-- Kronberg
-- Königstein
-- Körle
-- Künzell
-- Lahnau
-- Lahntal
-- Lampertheim
-- Langen
-- Langenselbold
-- Langgöns
-- Laubach
-- Lauterbach
-- Lautertal
-- Leun
-- Lich
-- Lichtenfels
-- Liebenau
-- Liederbach
-- Limburg
-- Limeshain
-- Linden
-- Lindenfels
-- Linsengericht
-- Lohfelden
-- Lohra
-- Lollar
-- Loosemühle
-- Lorch
-- Lorsch
-- Ludwigsau
-- Löhnberg
-- Lützelbach
-- Mainhausen
-- Maintal
-- Mainz-Kastel
-- Mainz-Kostheim
-- Malsfeld
-- Marbach
-- Marburg
-- Meinhard
-- Meißner
-- Melsungen
-- Mengerskirchen
-- Menglers
-- Merenberg
-- Messel
-- Michelbacher Mühle
-- Michelstadt
-- Mittenaar
-- Modautal
-- Morschen
-- Mossautal
-- Mörfelden-Walldorf
-- Mörlenbach
-- Mücke
-- Mühlheim
-- Mühltal
-- Münchhausen
-- Münster
-- Münzenberg
-- Nauheim
-- Naumburg
-- Neckarsteinach
-- Nentershausen
-- Neu-Anspach
-- Neu-Eichenberg
-- Neu-Isenburg
-- Neuberg
-- Neuenstein
-- Neuental
-- Neuhof
-- Neukirchen
-- Neustadt
-- Nidda
-- Niddatal
-- Nidderau
-- Niedenstein
-- Niederaula
-- Niederdorfelden
-- Niedernhausen
-- Nieste
-- Niestetal
-- Nonnenholz
-- Nüsttal
-- Ober-Mörlen
-- Ober-Ramstadt
-- Oberaula
-- Obertshausen
-- Oberursel
-- Oberweser
-- Oestrich-Winkel
-- Offenbach
-- Ortenberg
-- Ottrau
-- Otzberg
-- Petersberg
-- Pfungstadt
-- Philippsthal
-- Pohlheim
-- Poppenhausen
-- Rabenau
-- Ranstadt
-- Rasdorf
-- Raunheim
-- Rauschenberg
-- Reichelsheim
-- Reinhardshagen
-- Reinheim
-- Reiskirchen
-- Riedstadt
-- Rimbach
-- Ringgau
-- Rockenberg
-- Rodenbach
-- Rodgau
-- Romrod
-- Ronneburg
-- Ronshausen
-- Rosbach
-- Rosenthal
-- Rotenburg
-- Rothenberg
-- Roßdorf
-- Runkel
-- Rödermark
-- Rüdesheim am Rhein
-- Rüsselsheim
-- Saalburg
-- Schaafheim
-- Schauenburg
-- Schenklengsfeld
-- Schimmelshütte
-- Schlangenbad
-- Schlitz
-- Schlüchtern
-- Schmitten
-- Schotten
-- Schrecksbach
-- Schwalbach
-- Schwalmstadt
-- Schwalmtal
-- Schwarzenborn
-- Schöffengrund
-- Schöneck
-- Seeheim-Jugenheim
-- Seligenstadt
-- Selters
-- Sennhütte
-- Sensbachtal
-- Siegbach
-- Sinn
-- Sinntal
-- Solms
-- Sontra
-- Spangenberg
-- Stadtallendorf
-- Staufenberg
-- Steffenberg
-- Steinau
-- Steinbach
-- Stockstadt
-- Sulzbach
-- Söhrewald
-- Tann
-- Tannengrundhof
-- Taunusstein
-- Trebur
-- Trendelburg
-- Twistetal
-- Ulrichstein
-- Unter-Hainbrunn
-- Usingen
-- Vellmar
-- Viernheim
-- Villmar
-- Volkmarsen
-- Vöhl
-- Wabern
-- Wachtküppel
-- Wahlsburg
-- Wald-Michelbach
-- Waldbrunn
-- Waldeck
-- Waldems
-- Waldhaus Grebe
-- Waldkappel
-- Waldsolms
-- Walluf
-- Wanfried
-- Wartenberg
-- Wehretal
-- Wehrheim
-- Weilburg
-- Weilmünster
-- Weilrod
-- Weimar
-- Weinbach
-- Weiterstadt
-- Weißenborn
-- Weißkirchhof
-- Wettenberg
-- Wetter
-- Wetzlar
-- Wiesbaden
-- Wildeck
-- Wildhof
-- Willingen
-- Willingshausen
-- Winnerhöfe
-- Winterhof
-- Witzenhausen
-- Wohratal
-- Wolfhagen
-- Wächtersbach
-- Wölfersheim
-- Wöllstadt
-- Wünschbach
-- Zierenberg
-- Zwickmühle
-- Zwingenberg
+-	Zierenberg
+-	Neuental
+-	Ebersburg
+-	Reinheim
+-	Zwingenberg
+-	Biebergemünd
+-	Frankenau
+-	Groß-Gerau
+-	Romrod
+-	Buseck
+-	Schauenburg
+-	Abtsteinach
+-	Bickenbach
+-	Alsfeld
+-	Allendorf (Lumda)
+-	Altenstadt
+-	Kalbach
+-	Gelnhausen
+-	Korbach
+-	Bad Arolsen
+-	Liederbach am Taunus
+-	Eiterfeld
+-	Amöneburg
+-	Neu-Eichenberg
+-	Grebenstein
+-	Weinbach
+-	Bad König
+-	Reiskirchen
+-	Büdingen
+-	Biblis
+-	Fritzlar
+-	Twistetal
+-	Hofgeismar
+-	Lahntal
+-	Breuna
+-	Steinau an der Straße
+-	Neustadt (Hessen)
+-	Antrifttal
+-	Frielendorf
+-	Ahnatal
+-	Niedernhausen
+-	Oberweser
+-	Driedorf
+-	Aarbergen
+-	Weiterstadt
+-	Bad Emstal
+-	Erlensee
+-	Rabenau
+-	Weimar (Lahn)
+-	Petersberg
+-	Nidderau
+-	Michelstadt
+-	Bad Wildungen
+-	Pfungstadt
+-	Baunatal
+-	Groß-Umstadt
+-	Friedberg (Hessen)
+-	Trendelburg
+-	Dillenburg
+-	Seligenstadt
+-	Haiger
+-	Schwalmstadt
+-	Babenhausen
+-	Langenselbold
+-	Solms
+-	Heppenheim (Bergstraße)
+-	Lorsch
+-	Bürstadt
+-	Braunfels
+-	Dieburg
+-	Idstein
+-	Niestetal
+-	Burghaun
+-	Gedern
+-	Cölbe
+-	Burgwald
+-	Steffenberg
+-	Knüllwald
+-	Ronshausen
+-	Modautal
+-	Gladenbach
+-	Schaafheim
+-	Waldkappel
+-	Mühltal
+-	Laubach
+-	Liebenau
+-	Fischbachtal
+-	Lohfelden
+-	Echzell
+-	Lohra
+-	Battenberg (Eder)
+-	Schlitz
+-	Alsbach-Hähnlein
+-	Biedenkopf
+-	Birkenau
+-	Beerfelden
+-	Melsungen
+-	Birstein
+-	Volkmarsen
+-	Bad Soden-Salmünster
+-	Bebra
+-	Diemelstadt
+-	Wächtersbach
+-	Gudensberg
+-	Angelburg
+-	Aßlar
+-	Homberg (Efze)
+-	Bad Camberg
+-	Geisenheim
+-	Hessisch Lichtenau
+-	Rotenburg an der Fulda
+-	Hadamar
+-	Ulrichstein
+-	Hatzfeld (Eder)
+-	Grebenau
+-	Borken (Hessen)
+-	Herbstein
+-	Gemünden (Felda)
+-	Bad Karlshafen
+-	Friedrichsdorf
+-	Reichelsheim (Wetterau)
+-	Roßdorf
+-	Bad Zwesten
+-	Hirzenhain
+-	Grebenhain
+-	Wehrheim
+-	Nauheim
+-	Büttelborn
+-	Herleshausen
+-	Gilserberg
+-	Malsfeld
+-	Spangenberg
+-	Rüdesheim am Rhein
+-	Edermünde
+-	Wehretal
+-	Edertal
+-	Friedewald
+-	Fuldabrück
+-	Helsa
+-	Sinntal
+-	Neuhof
+-	Bad Salzschlirf
+-	Willingshausen
+-	Grävenwiesbach
+-	Weilmünster
+-	Gemünden (Wohra)
+-	Mittenaar
+-	Fronhausen
+-	Groß-Zimmern
+-	Sulzbach (Taunus)
+-	Lauterbach (Hessen)
+-	Allendorf (Eder)
+-	Freigericht
+-	Hohenroda
+-	Vöhl
+-	Biebertal
+-	Flieden
+-	Usingen
+-	Neu-Anspach
+-	Ehrenberg (Rhön)
+-	Cornberg
+-	Nüsttal
+-	Rosenthal
+-	Schlangenbad
+-	Dipperz
+-	Rasdorf
+-	Raunheim
+-	Ortenberg
+-	Neukirchen
+-	Bischofsheim
+-	Schwalmtal
+-	Flörsheim am Main
+-	Schwarzenborn
+-	Habichtswald
+-	Homberg (Ohm)
+-	Waldsolms
+-	Bischoffen
+-	Lützelbach
+-	Elbtal
+-	Steinbach (Taunus)
+-	Groß-Bieberau
+-	Waldeck
+-	Wolfhagen
+-	Großalmerode
+-	Mörlenbach
+-	Otzberg
+-	Waldbrunn (Westerwald)
+-	Bad Schwalbach
+-	Grünberg
+-	Riedstadt
+-	Griesheim
+-	Königstein im Taunus
+-	Bruchköbel
+-	Nidda
+-	Kronberg im Taunus
+-	Kirchhain
+-	Hattersheim am Main
+-	Ober-Ramstadt
+-	Hünfeld
+-	Heusenstamm
+-	Butzbach
+-	Rödermark
+-	Vellmar
+-	Hirschhorn (Neckar)
+-	Taunusstein
+-	Schlüchtern
+-	Eschborn
+-	Pohlheim
+-	Obertshausen
+-	Kaufungen
+-	Eltville am Rhein
+-	Meinhard
+-	Philippsthal (Werra)
+-	Siegbach
+-	Brechen
+-	Bad Orb
+-	Münchhausen
+-	Seeheim-Jugenheim
+-	Tann (Rhön)
+-	Sontra
+-	Heringen (Werra)
+-	Wohratal
+-	Immenhausen
+-	Kirtorf
+-	Karben
+-	Leun
+-	Erbach
+-	Münzenberg
+-	Künzell
+-	Brensbach
+-	Breuberg
+-	Florstadt
+-	Oestrich-Winkel
+-	Ginsheim-Gustavsburg
+-	Wartenberg
+-	Naumburg
+-	Niedenstein
+-	Mühlheim am Main
+-	Hohenstein
+-	Kelkheim (Taunus)
+-	Dreieich
+-	Bensheim
+-	Wildeck
+-	Lichtenfels
+-	Fernwald
+-	Limeshain
+-	Sensbachtal
+-	Nentershausen
+-	Fuldatal
+-	Reinhardshagen
+-	Lorch
+-	Sinn
+-	Bromskirchen
+-	Linden
+-	Glauburg
+-	Selters (Taunus)
+-	Gernsheim
+-	Dornburg
+-	Linsengericht
+-	Schenklengsfeld
+-	Niederaula
+-	Gründau
+-	Kiedrich
+-	Brombachtal
+-	Kefenrod
+-	Hüttenberg
+-	Eichenzell
+-	Ebsdorfergrund
+-	Lollar
+-	Eschenburg
+-	Trebur
+-	Ehringshausen
+-	Breitenbach am Herzberg
+-	Haunetal
+-	Wölfersheim
+-	Hesseneck
+-	Heidenrod
+-	Flörsbachtal
+-	Ludwigsau
+-	Nieste
+-	Beselich
+-	Großkrotzenburg
+-	Hasselroth
+-	Espenau
+-	Neuberg
+-	Walluf
+-	Rothenberg
+-	Freiensteinau
+-	Höchst im Odenwald
+-	Mücke
+-	Diemelsee
+-	Rauschenberg
+-	Wettenberg
+-	Niederdorfelden
+-	Greifenstein
+-	Jossgrund
+-	Hünfelden
+-	Brachttal
+-	Wahlsburg
+-	Hauneck
+-	Lahnau
+-	Niddatal
+-	Oberaula
+-	Rockenberg
+-	Rosbach vor der Höhe
+-	Ringgau
+-	Münster (Hessen)
+-	Egelsbach
+-	Ottrau
+-	Ranstadt
+-	Villmar
+-	Waldems
+-	Fränkisch-Crumbach
+-	Lautertal (Vogelsberg)
+-	Merenberg
+-	Stockstadt am Rhein
+-	Weißenborn
+-	Breitscheid
+-	Hohenahr
+-	Langgöns
+-	Wöllstadt
+-	Ronneburg
+-	Mainhausen
+-	Hofbieber
+-	Berkatal
+-	Mossautal
+-	Schmitten
+-	Calden
+-	Söhrewald
+-	Wabern
+-	Feldatal
+-	Heuchelheim
+-	Körle
+-	Morschen
+-	Hofheim am Taunus
+-	Maintal
+-	Neu-Isenburg
+-	Hünstetten
+-	Breidenbach
+-	Bad Sooden-Allendorf
+-	Witzenhausen
+-	Rüsselsheim am Main
+-	Eppertshausen
+-	Elz
+-	Fulda
+-	Wetzlar
+-	Mörfelden-Walldorf
+-	Dietzenbach
+-	Langen (Hessen)
+-	Bad Homburg vor der Höhe
+-	Limburg an der Lahn
+-	Grasellenbach
+-	Bad Nauheim
+-	Viernheim
+-	Bad Vilbel
+-	Lampertheim
+-	Ober-Mörlen
+-	Hammersbach
+-	Schrecksbach
+-	Hochheim am Main
+-	Kriftel
+-	Großenlüder
+-	Schöffengrund
+-	Meißner
+-	Dietzhölztal
+-	Kirchheim
+-	Weilrod
+-	Weilburg
+-	Frankenberg (Eder)
+-	Jesberg
+-	Löhnberg
+-	Alheim
+-	Schöneck
+-	Gersfeld (Rhön)
+-	Wetter (Hessen)
+-	Mengerskirchen
+-	Stadtallendorf
+-	Hungen
+-	Staufenberg
+-	Neuenstein
+-	Bad Endbach
+-	Hilders
+-	Poppenhausen (Wasserkuppe)
+-	Dautphetal
+-	Biebesheim am Rhein
+-	Kelsterbach
+-	Hainburg
+-	Haina (Kloster)
+-	Runkel
+-	Erzhausen
+-	Buchenhagen (Baunatal)
+-	Marburg
+-	Hanau
+-	Gießen
+-	Rodenbach
+-	Schotten
+-	Herborn
+-	Groß-Rohrheim
+-	Grundelbachtal
+-	Glashütten
+-	Rodgau
+-	Hosenfeld
+-	Oberursel
+-	Schwalbach am Taunus
+-	Guxhagen
+-	Lich
+-	Reichelsheim (Odenwald)
+-	Lautertal (Odenwald)
+-	Bad Soden am Taunus
+-	Eppstein
+-	Gorxheimertal
+-	Wanfried
+-	Einhausen
+-	Messel
+-	Fürth
+-	Rimbach
+-	Lindenfels
+-	Neckarsteinach
+-	Wald-Michelbach
+-	Eschwege
+-	Felsberg
+-	Willingen
+-	Antrefftal
+-	Ludwigseck (Gemeinde)
+-	Brunslar
+-	Wiesbaden
+-	Kassel
+-	Offenbach am Main
+-	Darmstadt
+-	Bad Hersfeld
+-	Frankfurt am Main
