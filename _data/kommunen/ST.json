@@ -1,217 +1,217 @@
--	Zahna-Elster
--	Zerbst/Anhalt
--	Zielitz
--	Zehrental
--	Haldensleben
--	Laucha an der Unstrut
--	Güsten
--	Zörbig
--	Farnstädt
--	An der Poststraße
--	Salzwedel
--	Am Großen Bruch
--	Lutherstadt Eisleben
--	Aschersleben
--	Altmärkische Wische
--	Tangermünde
--	Sangerhausen
--	Gräfenhainichen
--	Hecklingen
--	Sülzetal
--	Allstedt
--	Arendsee (Altmark)
--	Gardelegen
--	Annaburg
--	Arneburg
--	Mansfeld
--	Ahlsdorf
--	Aken (Elbe)
--	Ilberstedt
--	Genthin
--	Osterburg
--	Obhausen
--	Seehausen (Altmark)
--	Havelberg
--	Lützen
--	Wolmirsleben
--	Elsteraue
--	Niedere Börde
--	Elbe-Parey
--	Bad Lauchstädt
--	Egeln
--	Burg
--	Staßfurt
--	Könnern
--	Oschersleben
--	Bad Dürrenberg
--	Querfurt
--	Braunsbedra
--	Schraplau
--	Stößen
--	Biederitz
--	Osterfeld
--	Harzgerode
--	Bismark
--	Blankenburg (Harz)
--	Calvörde
--	Schkopau
--	Calbe (Saale)
--	Leuna
--	Jessen
--	Colbitz
--	Helbra
--	Wethau
--	Rogätz
--	Beendorf
--	Barby
--	Coswig (Anhalt)
--	Mücheln
--	Osterwieck
--	Wefensleben
--	Droyßig
--	Kuhfelde
--	Wallstawe
--	Möser
--	Angern
--	Jübar
--	Jerichow
--	Ilsenburg
--	Eckartsberga
--	Hötensleben
--	Thale
--	Seegebiet Mansfelder Land
--	Teutschenthal
--	Kalbe (Milde)
--	Kelbra (Kyffhäuser)
--	Kabelsketal
--	Harbke
--	Bad Bibra
--	Nemsdorf-Göhrendorf
--	Schollene
--	Bad Schmiedeberg
--	Groß Quenstedt
--	Hergisdorf
--	Goldbeck
--	Wallhausen
--	Hohenmölsen
--	Kamern
--	Wimmelburg
--	Rochau
--	Sommersdorf
--	Harsleben
--	Giersleben
--	Bülstringen
--	Völpke
--	Benndorf
--	Ausleben
--	Schönburg
--	Wetterzeube
--	Nienburg (Saale)
--	Beetzendorf
--	Ditfurt
--	Dähre
--	Diesdorf
--	Finneland
--	Steigra
--	Edersleben
--	Bördeland
--	Plötzkau
--	Barleben
--	Ingersleben
--	Gröningen
--	Weißenfels
--	Barnstädt
--	Burgstall
--	Iden
--	Borne
--	Eichstedt
--	Balgstädt
--	Mertendorf
--	Petersberg
--	Klietz
--	Bornstedt
--	Ummendorf
--	Kretzschau
--	Klostermansfeld
--	Stendal
--	Apenburg-Winterfeld
--	Halberstadt
--	Südharz
--	Aland
--	Schnaudertal
--	Kemberg
--	Teuchern
--	Meineweh
--	Schönebeck (Elbe)
--	Bernburg (Saale)
--	Wernigerode
--	Merseburg
--	Naumburg (Saale)
--	Zeitz
--	Arnstein
--	Oranienbaum-Wörlitz
--	Börde-Hakel
--	Wolmirstedt
--	Erxleben
--	Kroppenstedt
--	Hedersleben
--	Hohenberg-Krusemark
--	Blankenheim
--	Eilsleben
--	Flechtingen
--	Hassel
--	Huy
--	Wettin-Löbejün
--	Brücken-Hackpfüffel
--	Raguhn-Jeßnitz
--	Oberharz am Brocken
--	Nordharz
--	Südliches Anhalt
--	Osternienburger Land
--	Kaiserpfalz
--	Muldestausee
--	Lanitz-Hassel-Tal
--	Wanzleben-Börde
--	Berga
--	Rohrberg
--	Molauer Land
--	Loitsche-Heinrichsberg
--	Salzatal
--	Finne
--	Selke-Aue
--	Hohe Börde
--	Wust-Fischbeck
--	Westheide
--	Bördeaue
--	Bitterfeld-Wolfen
--	Lutherstadt Wittenberg
--	Quedlinburg
--	Gutenborn
--	Landsberg
--	Oebisfelde-Weferlingen
--	Seeland
--	Köthen (Anhalt)
--	Ballenstedt
--	Sandersdorf-Brehna
--	Klötze
--	Gerbstedt
--	Gommern
--	Falkenstein/Harz
--	Hettstedt
--	Wegeleben
--	Tangerhütte
--	Möckern
--	Schwanebeck
--	Schönhausen
--	Altenhausen
--	Nebra
--	Werben
--	Altmärkische Höhe
--	Alsleben (Saale)
--	Freyburg
--	Sandau
--	Karsdorf
--	Goseck
--	Halle (Saale)
--	Dessau-Roßlau
--	Magdeburg
+-    Zahna-Elster
+-    Zerbst/Anhalt
+-    Zielitz
+-    Zehrental
+-    Haldensleben
+-    Laucha an der Unstrut
+-    Güsten
+-    Zörbig
+-    Farnstädt
+-    An der Poststraße
+-    Salzwedel
+-    Am Großen Bruch
+-    Lutherstadt Eisleben
+-    Aschersleben
+-    Altmärkische Wische
+-    Tangermünde
+-    Sangerhausen
+-    Gräfenhainichen
+-    Hecklingen
+-    Sülzetal
+-    Allstedt
+-    Arendsee (Altmark)
+-    Gardelegen
+-    Annaburg
+-    Arneburg
+-    Mansfeld
+-    Ahlsdorf
+-    Aken (Elbe)
+-    Ilberstedt
+-    Genthin
+-    Osterburg
+-    Obhausen
+-    Seehausen (Altmark)
+-    Havelberg
+-    Lützen
+-    Wolmirsleben
+-    Elsteraue
+-    Niedere Börde
+-    Elbe-Parey
+-    Bad Lauchstädt
+-    Egeln
+-    Burg
+-    Staßfurt
+-    Könnern
+-    Oschersleben
+-    Bad Dürrenberg
+-    Querfurt
+-    Braunsbedra
+-    Schraplau
+-    Stößen
+-    Biederitz
+-    Osterfeld
+-    Harzgerode
+-    Bismark
+-    Blankenburg (Harz)
+-    Calvörde
+-    Schkopau
+-    Calbe (Saale)
+-    Leuna
+-    Jessen
+-    Colbitz
+-    Helbra
+-    Wethau
+-    Rogätz
+-    Beendorf
+-    Barby
+-    Coswig (Anhalt)
+-    Mücheln
+-    Osterwieck
+-    Wefensleben
+-    Droyßig
+-    Kuhfelde
+-    Wallstawe
+-    Möser
+-    Angern
+-    Jübar
+-    Jerichow
+-    Ilsenburg
+-    Eckartsberga
+-    Hötensleben
+-    Thale
+-    Seegebiet Mansfelder Land
+-    Teutschenthal
+-    Kalbe (Milde)
+-    Kelbra (Kyffhäuser)
+-    Kabelsketal
+-    Harbke
+-    Bad Bibra
+-    Nemsdorf-Göhrendorf
+-    Schollene
+-    Bad Schmiedeberg
+-    Groß Quenstedt
+-    Hergisdorf
+-    Goldbeck
+-    Wallhausen
+-    Hohenmölsen
+-    Kamern
+-    Wimmelburg
+-    Rochau
+-    Sommersdorf
+-    Harsleben
+-    Giersleben
+-    Bülstringen
+-    Völpke
+-    Benndorf
+-    Ausleben
+-    Schönburg
+-    Wetterzeube
+-    Nienburg (Saale)
+-    Beetzendorf
+-    Ditfurt
+-    Dähre
+-    Diesdorf
+-    Finneland
+-    Steigra
+-    Edersleben
+-    Bördeland
+-    Plötzkau
+-    Barleben
+-    Ingersleben
+-    Gröningen
+-    Weißenfels
+-    Barnstädt
+-    Burgstall
+-    Iden
+-    Borne
+-    Eichstedt
+-    Balgstädt
+-    Mertendorf
+-    Petersberg
+-    Klietz
+-    Bornstedt
+-    Ummendorf
+-    Kretzschau
+-    Klostermansfeld
+-    Stendal
+-    Apenburg-Winterfeld
+-    Halberstadt
+-    Südharz
+-    Aland
+-    Schnaudertal
+-    Kemberg
+-    Teuchern
+-    Meineweh
+-    Schönebeck (Elbe)
+-    Bernburg (Saale)
+-    Wernigerode
+-    Merseburg
+-    Naumburg (Saale)
+-    Zeitz
+-    Arnstein
+-    Oranienbaum-Wörlitz
+-    Börde-Hakel
+-    Wolmirstedt
+-    Erxleben
+-    Kroppenstedt
+-    Hedersleben
+-    Hohenberg-Krusemark
+-    Blankenheim
+-    Eilsleben
+-    Flechtingen
+-    Hassel
+-    Huy
+-    Wettin-Löbejün
+-    Brücken-Hackpfüffel
+-    Raguhn-Jeßnitz
+-    Oberharz am Brocken
+-    Nordharz
+-    Südliches Anhalt
+-    Osternienburger Land
+-    Kaiserpfalz
+-    Muldestausee
+-    Lanitz-Hassel-Tal
+-    Wanzleben-Börde
+-    Berga
+-    Rohrberg
+-    Molauer Land
+-    Loitsche-Heinrichsberg
+-    Salzatal
+-    Finne
+-    Selke-Aue
+-    Hohe Börde
+-    Wust-Fischbeck
+-    Westheide
+-    Bördeaue
+-    Bitterfeld-Wolfen
+-    Lutherstadt Wittenberg
+-    Quedlinburg
+-    Gutenborn
+-    Landsberg
+-    Oebisfelde-Weferlingen
+-    Seeland
+-    Köthen (Anhalt)
+-    Ballenstedt
+-    Sandersdorf-Brehna
+-    Klötze
+-    Gerbstedt
+-    Gommern
+-    Falkenstein/Harz
+-    Hettstedt
+-    Wegeleben
+-    Tangerhütte
+-    Möckern
+-    Schwanebeck
+-    Schönhausen
+-    Altenhausen
+-    Nebra
+-    Werben
+-    Altmärkische Höhe
+-    Alsleben (Saale)
+-    Freyburg
+-    Sandau
+-    Karsdorf
+-    Goseck
+-    Halle (Saale)
+-    Dessau-Roßlau
+-    Magdeburg
