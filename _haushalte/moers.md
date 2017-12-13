@@ -106,7 +106,7 @@ config: |-
     },
     "level": "kommune",
     "state": "NW",
-    "name": "Moers",
+    "name": "Moers-Plan",
     "text": "Das ist der Plan Haushalt für Moers"
   }
 date: '2017-12-13T13:56:20.910Z'
