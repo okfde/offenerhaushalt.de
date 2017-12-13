@@ -8,7 +8,7 @@ Um Haushaltspläne bei Offenerhaushalt.de visualisieren zukönnen müssen diese 
 
 ### Idealtypischer Datensatz
 
-Zur Orientierung und Kommunikation mit zuständigen Verwaltungsmitarbeitern finden Sie hier unseren idealtypischen Datensatz zum [Download](https://github.com/okfde/offenerhaushalt.de/blob/dev/_haushalte/standard-datensatz-ohh.csv).  
+Zur Orientierung und Kommunikation mit zuständigen Verwaltungsmitarbeitern finden Sie hier unseren idealtypischen Datensatz zum [Download](https://github.com/okfde/offenerhaushalt.de/raw/dev/_haushalte/standard-datensatz-ohh.csv){: download="standard-datensatz-ohh.csv"}.  
 Gerne wollen wir gemeinsam mit kommunalen Verwaltungen einen Standard für Haushaltsdaten in Deutschland entwickeln. Sie können dafür mit uns über unsere [Mailingliste](https://lists.okfn.org/mailman/listinfo/offener-haushalt) in den Austausch treten. 
 
 Auf Grund der unterschiedlichen verwendeten Software in den kommunalen Verwaltungen, haben wir nicht immer Detailwissen über die jeweiligen Exportfunktionen für Haushaltsdaten. Hier zählen wir auf die Unterstützung von Verwaltungsmitarbeitern: Sie können die Informationen welche Software sie verwenden, in unsere Liste [hier](https://docs.google.com/spreadsheets/d/12UHEsLjLCMakLiM7Ruj3AJZzRrn70L_32IZu8z29amo/edit#gid=0) eintragen. Dies fördert 
@@ -20,7 +20,7 @@ Haushaltsdaten werden für gewöhnlich in tabellarischer Form abgelegt. Dabei ko
 PostenID, Klassifikation1, Klassifikation2, Klassifikation Code, Bezeichnung, Ist20NN, Ist20NN, Soll20NN
 
 Wobei "Klassifikation" ein Kategorienschema wie den Funktionenplan oder Produktgruppen o.ä. meint.
-Ein solches Format ist grundsätzlich zum Import in OffenerHaushalt geeignet. Vereinfacht wird der Import durch die Bereitstellung in einer leicht denormalisierten Form, in der jeder Betrag einer einzelnen Zeile entspricht (long Format)[https://de.wikipedia.org/wiki/Wide-Format_und_Long-Format]:
+Ein solches Format ist grundsätzlich zum Import in OffenerHaushalt geeignet. Vereinfacht wird der Import durch die Bereitstellung in einer leicht denormalisierten Form, in der jeder Betrag einer einzelnen Zeile entspricht [long Format](https://de.wikipedia.org/wiki/Wide-Format_und_Long-Format):
 
 Posten ID, Klassifikation 1, Klassifikation 2, Klassifikation Code, Bezeichnung, Soll Oder Ist, Jahr, Betrag
 
