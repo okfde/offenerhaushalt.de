@@ -141,7 +141,7 @@ hr {
   display: none;
 }
 
-@media (min-width:768px) {
+@media (min-width: 768px) {
   .top-message {
     float: left;
     height: 20px;
@@ -156,7 +156,7 @@ hr {
   }
 }
 
-@media (min-width:1024px) {
+@media (min-width: 1024px) {
   .navbar-top {
     position: absolute;
     top: 0;
@@ -318,7 +318,7 @@ hr {
 footer {
   /*border-top: 1px solid #e0e0e0;*/
   border-top: 1px solid #ccc;
-  padding: 30px 54px;
+  padding: 30px 0;
   background-color: #112339;
   font-size: 0.9em;
   color: #8a97a6;
@@ -333,7 +333,6 @@ footer {
     float: right;
     ul {
       list-style-image: url('/static/img/footer-list-arrow.svg');
-      column-count: 3;
     }
   }
 
@@ -355,9 +354,22 @@ footer {
   }
 }
 
+@media (min-width: 768px) {
+  footer .links ul {
+    column-count: 2;
+  }
+}
 @media (min-width: 992px) {
+  footer {
+    padding: 30px 54px;
+  }
+
   footer .from {
     margin: 0.5em 0 0 0;
+  }
+
+  footer .links ul {
+    column-count: 3;
   }
 }
 
@@ -374,7 +386,7 @@ footer {
 }
 
 
-@media (min-width:768px) {
+@media (min-width: 768px) {
   .right-nav {
     position: absolute !important;
     border-bottom: 1px solid #eee;
@@ -495,6 +507,11 @@ footer {
   height: 35em;
   padding-top: 46px;
   margin-bottom: 60px;
+
+  svg {
+    max-height: 100%;
+    max-width: 100%;
+  }
 
   .subunit {
     stroke: #fff;
@@ -1098,7 +1115,6 @@ h1.page-header.site {
     margin-top: 12px;
     padding: 23px;
     align-items: center;
-    display: flex;
     &:after {
       content: "";
       clear: both;
@@ -1112,7 +1128,6 @@ h1.page-header.site {
       box-shadow: 0 0 1px 0 rgba(107, 107, 107, 0.5);
     }
     .name {
-      float: left;
       h2 {
         font-family: Roboto;
         font-size: 18px;
@@ -1123,7 +1138,6 @@ h1.page-header.site {
       }
     }
     .visualisierung {
-      float: right;
       padding: 5px 10px;
       background-color: white;
       border-radius: 3px;
@@ -1131,6 +1145,19 @@ h1.page-header.site {
       box-shadow: 0 0 2px 0 #d1d1d1;
       font-weight: bold;
       margin-left: auto;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .bundesland-box {
+    display: flex;
+
+    .name {
+      float: left;
+    }
+    .visualisierung {
+      float: right;
     }
   }
 }
@@ -1155,10 +1182,11 @@ h1.page-header.site {
       font-family: Roboto;
       font-size: 36px;
       font-weight: 500;
-      line-height: 0.94;
+      line-height: 1.3;
       text-align: left;
       color: #112233;
       max-width: 530px;
+      margin-top: 28px;
       margin-bottom: 28px;
     }
   }
@@ -1177,6 +1205,12 @@ h1.page-header.site {
     text-align: left;
     color: #009d8e;
     }
+  }
+}
+
+@media (min-width: 768px) {
+  .cities-count .cities-message h1 {
+    line-height: 0.94;
   }
 }
 
