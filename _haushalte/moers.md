@@ -1,7 +1,7 @@
 ---
 _id: 65f01900-e00d-11e7-9d16-ed20949b8d27
 state: NW
-name: Moers
+name: Moers Plan Haushalt
 text: Das ist der Plan Haushalt für Moers
 level: kommune
 config: |-
