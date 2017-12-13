@@ -150,13 +150,12 @@ layout: city
           {% if forloop.index > cols_size %}
             {% assign cols_size = cols_size | plus: cols_size %}
             </div>
-            <div class="letter-col col-xs-3 col-md-3">
+            <div class="letter-col col-xs-4 col-md-3">
           {% endif %}
           {% if forloop.index == 1 %}
-            <div class="letter-col first col-xs-3 col-md-3">
+            <div class="letter-col first col-xs-4 col-md-3">
           {% endif%}
-            {{ c }}
-            <p>
+            <p>{{ c }}</p>
         {% endfor %}
           </div>
         </div>

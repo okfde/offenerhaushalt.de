@@ -1105,6 +1105,8 @@ h1.page-header.site {
   }
 
   ul {
+    padding-left: 0;
+
     li {
       display: list-item;
     }
@@ -1218,6 +1220,9 @@ h1.page-header.site {
   color: #0d9789;
   min-height: 200px;
   position: relative;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
 
   .letter-background {
     position: absolute;
@@ -1232,9 +1237,12 @@ h1.page-header.site {
 
   .letter-col{
     margin-top: 60px;
-    &.first {
-     margin-left: 60px;
-    }
+  }
+}
+
+@media (min-width: 768px) {
+  .letters .letter-col.first {
+    margin-left: 60px;
   }
 }
 
@@ -1272,30 +1280,36 @@ h1.page-header.site {
         height: 3px;
         border: solid 1px #ddedf3;
       }
-
-      .fragdenstaat {
-         width: 100%;
-         background-color: #c8fbff;
-         padding: 73px 65px;
-
-         h3 {
-           font-family: Roboto;
-           font-size: 26px;
-           font-weight: 500;
-           line-height: 1.85;
-           text-align: left;
-           color: #000000;
-           margin-top: 0;
-           margin-bottom: 29px;
-         }
-
-         p {
-          margin-bottom: 24px;
-          max-width: 347px;
-          font-size: 18px;
-         }
-      }
     }
+  }
+
+  .fragdenstaat {
+    width: 100%;
+    background-color: #c8fbff;
+    padding: 23px 20px;
+
+    h3 {
+     font-family: Roboto;
+     font-size: 26px;
+     font-weight: 500;
+     line-height: 1.85;
+     text-align: left;
+     color: #000000;
+     margin-top: 0;
+     margin-bottom: 29px;
+    }
+
+    p {
+    margin-bottom: 24px;
+    max-width: 347px;
+    font-size: 18px;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  #search-results .fragdenstaat {
+    padding: 73px 65px;
   }
 }
 
