@@ -42,7 +42,56 @@ config: |-
       }
     ],
     "filters": {
-      "Jahr": {
+        "Einnahmen Ausgaben": {
+        "name": "direction_2.Einnahmen_Ausgaben",
+        "label_ref": "direction_2.Einnahmen_Ausgaben",
+        "ref": "direction_2",
+        "type": "string",
+        "default": true,
+        "defaultValue": "Ausgaben",
+        "defaultLabel": "All",
+        "label": "Budget Richtung",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": "Ausgaben",
+            "label": "Ausgaben"
+          },
+          {
+            "value": "Einnahmen",
+            "label": "Einnahmen"
+          }
+        ]
+      },
+      "Art": {
+        "name": "fin_source_2.Art",
+        "label_ref": "fin_source_2.Art",
+        "ref": "fin_source_2",
+        "type": "string",
+        "default": true,
+        "defaultValue": "Verwaltungshaushalt",
+        "defaultLabel": "All",
+        "label": "Haushalt Art",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": "Vermögenshaushalt",
+            "label": "Vermögenshaushalt"
+          },
+          {
+            "value": "Verwaltungshaushalt",
+            "label": "Verwaltungshaushalt"
+          }
+        ]
+      }
+    },
+    "Jahr": {
         "name": "date_2.Jahr",
         "label_ref": "date_2.Jahr",
         "ref": "date_2",
@@ -70,55 +119,6 @@ config: |-
           }
         ]
       },
-      "Einnahmen Ausgaben": {
-        "name": "direction_2.Einnahmen_Ausgaben",
-        "label_ref": "direction_2.Einnahmen_Ausgaben",
-        "ref": "direction_2",
-        "type": "string",
-        "default": true,
-        "defaultValue": "Ausgaben",
-        "defaultLabel": "All",
-        "label": "Budget-Richtung",
-        "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
-          {
-            "value": "Ausgaben",
-            "label": "Ausgaben"
-          },
-          {
-            "value": "Einnahmen",
-            "label": "Einnahmen"
-          }
-        ]
-      },
-      "Art": {
-        "name": "fin_source_2.Art",
-        "label_ref": "fin_source_2.Art",
-        "ref": "fin_source_2",
-        "type": "string",
-        "default": true,
-        "defaultValue": "Verwaltungshaushalt",
-        "defaultLabel": "All",
-        "label": "Haushalt",
-        "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
-          {
-            "value": "Vermögenshaushalt",
-            "label": "Vermögenshaushalt"
-          },
-          {
-            "value": "Verwaltungshaushalt",
-            "label": "Verwaltungshaushalt"
-          }
-        ]
-      }
-    },
     "level": "kommune",
     "state": "BY",
     "name": "Gilching",
