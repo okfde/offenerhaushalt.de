@@ -104,7 +104,6 @@ config: |-
             "label": "Plan"
           }
         ]
-      }
       },
       "Jahr": {
         "name": "date_2.Jahr",
