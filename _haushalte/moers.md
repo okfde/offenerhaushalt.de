@@ -105,8 +105,8 @@ config: |-
           }
         ]
       }
-    },
-    "Jahr": {
+      },
+      "Jahr": {
         "name": "date_2.Jahr",
         "label_ref": "date_2.Jahr",
         "ref": "date_2",
