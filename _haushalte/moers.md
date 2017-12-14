@@ -1,5 +1,5 @@
 ---
-_id: 5fd46270-e0bb-11e7-9d16-ed20949b8d27
+_id: edbf56b0-e0bd-11e7-9d16-ed20949b8d27
 state: NW
 name: Moers
 text: Das ist der Haushalt für Moers
@@ -57,7 +57,51 @@ config: |-
       }
     ],
     "filters": {
-        "HH Art": {
+      "Jahr": {
+        "name": "date_2.Jahr",
+        "label_ref": "date_2.Jahr",
+        "ref": "date_2",
+        "type": "integer",
+        "default": true,
+        "defaultValue": 2017,
+        "defaultLabel": "All",
+        "label": "Jahr",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": 2015,
+            "label": 2015
+          },
+          {
+            "value": 2016,
+            "label": 2016
+          },
+          {
+            "value": 2017,
+            "label": 2017
+          },
+          {
+            "value": 2018,
+            "label": 2018
+          },
+          {
+            "value": 2019,
+            "label": 2019
+          },
+          {
+            "value": 2020,
+            "label": 2020
+          },
+          {
+            "value": 2021,
+            "label": 2021
+          }
+        ]
+      },
+      "HH Art": {
         "name": "direction_2.HH_Art",
         "label_ref": "direction_2.HH_Art",
         "ref": "direction_2",
@@ -104,57 +148,14 @@ config: |-
             "label": "Plan"
           }
         ]
-      },
-      "Jahr": {
-        "name": "date_2.Jahr",
-        "label_ref": "date_2.Jahr",
-        "ref": "date_2",
-        "type": "integer",
-        "default": true,
-        "defaultValue": 2017,
-        "defaultLabel": "All",
-        "label": "Jahr",
-        "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
-          {
-            "value": 2015,
-            "label": 2015
-          },
-          {
-            "value": 2016,
-            "label": 2016
-          },
-          {
-            "value": 2017,
-            "label": 2017
-          },
-          {
-            "value": 2018,
-            "label": 2018
-          },
-          {
-            "value": 2019,
-            "label": 2019
-          },
-          {
-            "value": 2020,
-            "label": 2020
-          },
-          {
-            "value": 2021,
-            "label": 2021
-          }
-        ]
-      },
+      }
+    },
     "level": "kommune",
     "state": "NW",
     "name": "Moers",
     "text": "Das ist der Haushalt für Moers"
   }
-date: '2017-12-14T10:41:43.177Z'
+date: '2017-12-14T11:00:00.290Z'
 slug: moers
 ---
 undefined
