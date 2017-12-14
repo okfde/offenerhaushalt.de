@@ -158,8 +158,10 @@ config: |-
 date: '2017-12-14T11:02:38.643Z'
 slug: moers
 ---
+# Haushalt der Stadt Moers von 2015 - 2021 
 
-# Über den Haushalt der Stadt Moers 
+**Der Haushalt lässt sich nach Jahren sowie Erträgen und Aufwendungen filtern. Für die Jahre 2015 und 2016 stehen Ist-Daten zur Verfügung, da die Haushalte bereits abgeschlossen sind. Für 2017-2021 gibt es nur "Plandaten", das kommt den voraussichtlichen Ausgaben gleich.** 
+
 **Ertrag**
 Bewertetes Ressourcenaufkommen (erfolgswirksame Wertezuflüsse)
  
