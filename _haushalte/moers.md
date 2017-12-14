@@ -148,7 +148,7 @@ slug: moers
 ---
 # Haushalt der Stadt Moers von 2015 - 2021 
 
-**Der Haushalt lässt sich nach Jahren sowie Erträgen und Aufwendungen filtern. Für die Jahre 2015 und 2016 stehen Ist-Daten zur Verfügung, da die Haushalte bereits abgeschlossen sind. Für 2017-2021 gibt es "Plandaten", dass sind die voraussichtlich geplanten Ausgaben aber noch nicht die aktuellen Zahlen.** 
+**Der Haushalt lässt sich nach Jahren sowie Erträgen und Aufwendungen filtern. Für die Jahre 2015 und 2016 stehen Ist-Daten zur Verfügung, da die Haushalte bereits abgeschlossen sind. Für 2017-2021 gibt es noch keine Ist-Daten sondern Plan-Daten, dass sind die geplanten Ausgaben, diese können von künftigen Ist-Daten abweichen.** 
 
 Hier folgt ein Glossar der Haushaltsbegriffe, welches im Rahmen des Open Data Schulprojektes der Stadt Moers, des Gymnasiums Adolfinum und der Hochschule entstanden ist. Mehr dazu auf [DatenmachenSchule.de](https://datenmachenschule.de/). 
 
