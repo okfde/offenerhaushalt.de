@@ -66,7 +66,7 @@ config: |-
         "type": "integer",
         "default": true,
         "defaultValue": 2017,
-        "defaultLabel": "All",
+        "defaultLabel": "Aufwendungen",
         "label": "Jahr",
         "values": [
           {
