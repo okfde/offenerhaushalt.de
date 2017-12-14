@@ -146,14 +146,6 @@ config: |-
             "label": "Aufwendungen"
           },
           {
-            "value": "Ausgaben",
-            "label": "Ausgaben"
-          },
-          {
-            "value": "Einnahmen",
-            "label": "Einnahmen"
-          },
-          {
             "value": "Erträge",
             "label": "Erträge"
           }
