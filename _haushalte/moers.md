@@ -68,10 +68,6 @@ config: |-
         "label": "HH Art",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": "Ist",
             "label": "Ist"
           },
@@ -115,10 +111,6 @@ config: |-
         "defaultLabel": "All",
         "label": "Jahr",
         "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
           {
             "value": 2015,
             "label": 2015
