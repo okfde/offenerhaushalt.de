@@ -162,6 +162,8 @@ slug: moers
 
 **Der Haushalt lässt sich nach Jahren sowie Erträgen und Aufwendungen filtern. Für die Jahre 2015 und 2016 stehen Ist-Daten zur Verfügung, da die Haushalte bereits abgeschlossen sind. Für 2017-2021 gibt es "Plandaten", dass sind die voraussichtlich geplanten Ausgaben aber noch nicht die aktuellen Zahlen.** 
 
+Hier folgt ein Glossar der Haushaltsbegriffe, welches im Rahmen des Open Data Schulprojektes der Stadt Moers, des Gymnasiums Adolfinum und der Hochschule entstanden ist. Mehr dazu auf [DatenmachenSchule.de](https://datenmachenschule.de/). 
+
 **Ertrag**
 Bewertetes Ressourcenaufkommen (erfolgswirksame Wertezuflüsse)
  
