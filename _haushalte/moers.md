@@ -88,10 +88,6 @@ config: |-
         "label": "Budget Richtung",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": "Aufwendungen",
             "label": "Aufwendungen"
           },
