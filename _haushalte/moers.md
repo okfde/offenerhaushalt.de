@@ -70,10 +70,6 @@ config: |-
         "label": "Jahr",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": 2015,
             "label": 2015
           },
@@ -114,10 +110,6 @@ config: |-
         "label": "Haushalt Art",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": "Ist",
             "label": "Ist"
           },
@@ -137,10 +129,6 @@ config: |-
         "defaultLabel": "All",
         "label": "HH Art",
         "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
           {
             "value": "Aufwendungen",
             "label": "Aufwendungen"
