@@ -57,51 +57,7 @@ config: |-
       }
     ],
     "filters": {
-      "Jahr": {
-        "name": "date_2.Jahr",
-        "label_ref": "date_2.Jahr",
-        "ref": "date_2",
-        "type": "integer",
-        "default": true,
-        "defaultValue": 2017,
-        "defaultLabel": "All",
-        "label": "Jahr",
-        "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
-          {
-            "value": 2015,
-            "label": 2015
-          },
-          {
-            "value": 2016,
-            "label": 2016
-          },
-          {
-            "value": 2017,
-            "label": 2017
-          },
-          {
-            "value": 2018,
-            "label": 2018
-          },
-          {
-            "value": 2019,
-            "label": 2019
-          },
-          {
-            "value": 2020,
-            "label": 2020
-          },
-          {
-            "value": 2021,
-            "label": 2021
-          }
-        ]
-      },
-      "HH Art": {
+        "HH Art": {
         "name": "direction_2.HH_Art",
         "label_ref": "direction_2.HH_Art",
         "ref": "direction_2",
@@ -150,6 +106,50 @@ config: |-
         ]
       }
     },
+    "Jahr": {
+        "name": "date_2.Jahr",
+        "label_ref": "date_2.Jahr",
+        "ref": "date_2",
+        "type": "integer",
+        "default": true,
+        "defaultValue": 2017,
+        "defaultLabel": "All",
+        "label": "Jahr",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": 2015,
+            "label": 2015
+          },
+          {
+            "value": 2016,
+            "label": 2016
+          },
+          {
+            "value": 2017,
+            "label": 2017
+          },
+          {
+            "value": 2018,
+            "label": 2018
+          },
+          {
+            "value": 2019,
+            "label": 2019
+          },
+          {
+            "value": 2020,
+            "label": 2020
+          },
+          {
+            "value": 2021,
+            "label": 2021
+          }
+        ]
+      },
     "level": "kommune",
     "state": "NW",
     "name": "Moers",
