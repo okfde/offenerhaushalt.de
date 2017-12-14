@@ -126,7 +126,7 @@ config: |-
         "type": "string",
         "default": true,
         "defaultValue": "",
-        "defaultLabel": "All",
+        "defaultLabel": "Aufwendungen",
         "label": "HH Art",
         "values": [
           {
