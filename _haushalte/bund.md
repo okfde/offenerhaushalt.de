@@ -104,4 +104,4 @@ config: |-
     "text": "Test Test Test"
   }
 ---
-Test Test Test
+Dies der Bundeshaushalt für 2017!
