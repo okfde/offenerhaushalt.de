@@ -53,26 +53,6 @@ config: |-
       }
     ],
     "filters": {
-      "date": {
-        "name": "date_2.date",
-        "label_ref": "date_2.date",
-        "ref": "date_2",
-        "type": "integer",
-        "default": true,
-        "defaultValue": 2017,
-        "defaultLabel": "All",
-        "label": "Jahr",
-        "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
-          {
-            "value": 2017,
-            "label": 2017
-          }
-        ]
-      },
       "einnahmen-ausgaben": {
         "name": "direction_2.einnahmen_ausgaben",
         "label_ref": "direction_2.einnahmen_ausgaben",
@@ -94,6 +74,26 @@ config: |-
           {
             "value": "Einnahmen ",
             "label": "Einnahmen "
+          }
+        ]
+      },
+      "date": {
+        "name": "date_2.date",
+        "label_ref": "date_2.date",
+        "ref": "date_2",
+        "type": "integer",
+        "default": true,
+        "defaultValue": 2017,
+        "defaultLabel": "All",
+        "label": "Jahr",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": 2017,
+            "label": 2017
           }
         ]
       }
