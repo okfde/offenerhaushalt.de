@@ -1,8 +1,10 @@
 ---
 _id: 9a9b9b10-e103-11e7-bde9-99b7584a705b
-state: BB
-name: Potsdam
-level: land
+name: Bundeshaushalt
+slug: bund2017
+url: /haushalt/bund
+level: bund
+state: DE
 config: |-
   {
     "datapackage": "a6a16b964a7e784f99adecc47f26318a:bundeshaushalt",
@@ -96,11 +98,10 @@ config: |-
         ]
       }
     },
-    "level": "land",
-    "text": "Test Test Test",
-    "state": "BB",
-    "name": "Potsdam"
+    "name": "Bundeshaushalt",
+    "state": "DE",
+    "level": "bund",
+    "text": "Test Test Test"
   }
-slug: potsdam
 ---
 Test Test Test
