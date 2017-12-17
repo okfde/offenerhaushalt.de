@@ -1,5 +1,5 @@
 ---
-name: Stadt Wesel 
+name: Wesel 
 real_name: Wesel
 slug: Wesel 
 url: /haushalt/wesel
