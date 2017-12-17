@@ -1,7 +1,7 @@
 ---
 _id: 9a9b9b10-e103-11e7-bde9-99b7584a705b
 name: Bundeshaushalt
-slug: bund2017
+slug: bund
 url: /haushalt/bund
 level: bund
 state: DE
