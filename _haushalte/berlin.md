@@ -2,7 +2,7 @@
 _id: d7a76060-e357-11e7-bde9-99b7584a705b
 state: BE
 name: Berlin
-level: kommune
+level: land
 config: |-
   {
     "datapackage": "a6a16b964a7e784f99adecc47f26318a:berlin_16_17_clean",
