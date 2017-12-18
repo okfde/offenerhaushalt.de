@@ -114,5 +114,6 @@ config: |-
 
 # Über den Haushalt der Stadt Bremen 
 
-Der Haushalt der Hansestadt Bremen ist nach Stadt (S) und Land (L) aufgeteilt, dies zeigt sich in der Visualisierung durch die jeweiligen abkürzungen.
+Der Haushalt der Hansestadt Bremen ist nach Stadt (S) und Land (L) aufgeteilt, dies zeigt sich in der Visualisierung durch die jeweiligen abkürzungen. Die Quelle für den visualisierten Datensatz ist diese Webseite: [https://ssl5.bremen.de/transparenzportal/sixcms/detail.php?asl=bremen02.c.736.de&gsid=bremen53.c.58525.de](https://ssl5.bremen.de/transparenzportal/sixcms/detail.php?asl=bremen02.c.736.de&gsid=bremen53.c.58525.de). Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht garantieren.
+
 
