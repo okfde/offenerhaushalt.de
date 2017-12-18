@@ -12,7 +12,7 @@ config: |-
           {
               "datapackageHierarchy": "administrative_classification",
               "url": "einzelplan",
-              "label": "Einzelplan"
+              "label": "Einzelpläne"
           },
           {
               "datapackageHierarchy": "functional_classification",
