@@ -12,12 +12,12 @@ config: |-
           {
               "datapackageHierarchy": "administrative_classification",
               "url": "einzelplan",
-              "label": "Einzelplan"
+              "label": "Einzelpläne"
           },
           {
               "datapackageHierarchy": "functional_classification",
-              "url": "politikfelder",
-              "label": "Politikfelder"
+              "url": "funktionen",
+              "label": "Funktionen"
           },
           {
               "datapackageHierarchy": "economic_classification",
