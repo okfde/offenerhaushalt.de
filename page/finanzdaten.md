@@ -13,8 +13,8 @@ Auf OffenerHaushalt.de visualisieren wir sowohl kameralistische als auch doppisc
 
 OffenerHaushalt.de trägt dazu bei, dass Bürger ein klareres Bild über die Finanzen ihrer Kommune bekommen und somit besser am politischen Diskurs teilnehmen können. Die Visualisierung und Erklärung von Haushaltsplänen ist dabei nur der erste Schritt auf dem Weg zu einer transparenten und partizipativen Finanzpolitik. Deshalb fordern wir, dass  
   
-* sämtliche Haushaltsdaten maschinenlesbar mit einer [offenen Lizenz](http://opendefinition.org/od/2.0/de/) (z.B. als CSV-Datei) zur Weiterverwendung veröffentlicht werden.  
-* die Daten  ausreichende Informationen liefern, um eine aussagekräftige Analyse der regionalen / lokalen Haushaltspolitik vornehmen zu können. Das bedeutet, dass zusätzlich zu Haushaltsplänen auch die Sondervermögen und Beteiligungen der jeweiligen Kommune maschinenlesbar veröffentlicht werden.  
+* sämtliche Haushaltsdaten maschinenlesbar (z.B. als CSV-Datei) zur Weiterverwendung veröffentlicht werden.  
+* die Daten ausreichende Informationen liefern, um eine aussagekräftige Analyse der regionalen / lokalen Haushaltspolitik vornehmen zu können. Das bedeutet, dass zusätzlich zu Haushaltsplänen auch die Sondervermögen und Beteiligungen der jeweiligen Kommune maschinenlesbar veröffentlicht werden.  
 
 * sich öffentliche Verwaltungen gemeinsam mit der Zivilgesellschaft austauschen und einen deutschen Standard für offene Finanzdaten erarbeiten. Hierfür laden wir Sie herzlich zur [Mitarbeit](http://beta.offenerhaushalt.de/page/datenstandard.html) ein.
 
