@@ -41,46 +41,6 @@ config: |-
       }
     ],
     "filters": {
-      "Jahr": {
-        "name": "date_2.Jahr",
-        "label_ref": "date_2.Jahr",
-        "ref": "date_2",
-        "type": "integer",
-        "default": true,
-        "defaultValue": 2017,
-        "defaultLabel": "All",
-        "label": "Jahr",
-        "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
-          {
-            "value": 2014,
-            "label": 2014
-          },
-          {
-            "value": 2015,
-            "label": 2015
-          },
-          {
-            "value": 2017,
-            "label": 2017
-          },
-          {
-            "value": 2018,
-            "label": 2018
-          },
-          {
-            "value": 2019,
-            "label": 2019
-          },
-          {
-            "value": 2020,
-            "label": 2020
-          }
-        ]
-      },
       "Soll/Ist": {
         "name": "phase_2.Soll_Ist",
         "label_ref": "phase_2.Soll_Ist",
@@ -128,6 +88,46 @@ config: |-
             "label": "E"
           }
         ]
+      },
+      "Jahr": {
+        "name": "date_2.Jahr",
+        "label_ref": "date_2.Jahr",
+        "ref": "date_2",
+        "type": "integer",
+        "default": true,
+        "defaultValue": 2017,
+        "defaultLabel": "All",
+        "label": "Jahr",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": 2014,
+            "label": 2014
+          },
+          {
+            "value": 2015,
+            "label": 2015
+          },
+          {
+            "value": 2017,
+            "label": 2017
+          },
+          {
+            "value": 2018,
+            "label": 2018
+          },
+          {
+            "value": 2019,
+            "label": 2019
+          },
+          {
+            "value": 2020,
+            "label": 2020
+          }
+        ]
       }
     },
     "level": "kommune",
@@ -137,4 +137,4 @@ config: |-
   }
 slug: hamburg
 ---
-Dies ist der Datensatz für das Land Hamburg, es wird doppisch gebucht.
+Die Quelle für den visualisierten Datensatz ist diese Webseite: http://www.hamburg.de/fb/doppelhaushalt-2017-2018/ 
