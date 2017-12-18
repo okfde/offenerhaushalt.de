@@ -11,18 +11,18 @@ config: |-
       "hierarchies": [
           {
               "datapackageHierarchy": "administrative_classification",
-              "url": "einzelplan",
-              "label": "Einzelplan"
+              "url": "einzelplaene",
+              "label": "Einzelpläne"
           },
           {
               "datapackageHierarchy": "economic_classification",
-              "url": "politikfelder",
-              "label": "Politikfelder"
+              "url": "funktionen",
+              "label": "funktionen"
           },
           {
               "datapackageHierarchy": "functional_classification",
-              "url": "Gruppe",
-              "label": "Gruppen"
+              "url": "gruppen",
+              "label": "gruppen"
           }
       ],
       "value": [
