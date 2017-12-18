@@ -104,4 +104,4 @@ config: |-
     "text": "Test Test Test"
   }
 ---
-Die Quelle für den visualisierten Datensatz findet sich auf dieser [Webseite](https://www.bundeshaushalt-info.de/download.html). Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht garantieren.
+Die Quelle für den visualisierten Datensatz findet sich auf dieser [Webseite](https://www.bundeshaushalt-info.de/download.html). Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren.
