@@ -137,5 +137,5 @@ config: |-
   }
 slug: hamburg
 ---
-Die Quelle für den visualisierten Datensatz ist diese Webseite:
-[http://www.hamburg.de/fb/doppelhaushalt-2017-2018/](http://www.hamburg.de/fb/doppelhaushalt-2017-2018/). Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht garantieren.
+Die Quelle für den visualisierten Datensatz findet sich auf dieser Webseite:
+[http://www.hamburg.de/fb/doppelhaushalt-2017-2018/](http://www.hamburg.de/fb/doppelhaushalt-2017-2018/). Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren.
