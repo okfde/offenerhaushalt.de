@@ -127,4 +127,5 @@ config: |-
 date: '2017-12-11T10:44:37.103Z'
 slug: gilching
 ---
-undefined
+Die Daten für den visualisierten Datensatz wurden uns per E-Mail zugesendet. Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren.
+
