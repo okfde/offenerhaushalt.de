@@ -35,6 +35,56 @@
     },
   ],
   "filters": {
+    "E/A": {
+      "name": "direction_2.E_A",
+      "label_ref": "direction_2.E_A",
+      "ref": "direction_2",
+      "type": "string",
+      "default": true,
+      "hasAll": false,
+      "defaultValue": "A",
+      "defaultLabel": "All",
+      "label": "E/A",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": "A",
+          "label": "A"
+        },
+        {
+          "value": "E",
+          "label": "E"
+        }
+      ]
+    },
+    "Soll/Ist": {
+      "name": "phase_2.Soll_Ist",
+      "label_ref": "phase_2.Soll_Ist",
+      "ref": "phase_2",
+      "type": "string",
+      "default": true,
+      "hasAll": false,
+      "defaultValue": "Soll",
+      "defaultLabel": "All",
+      "label": "Soll/Ist",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": "Ist",
+          "label": "Ist"
+        },
+        {
+          "value": "Soll",
+          "label": "Soll"
+        }
+      ]
+    },
     "Jahr": {
       "name": "date_2.Jahr",
       "label_ref": "date_2.Jahr",
@@ -73,56 +123,6 @@
         {
           "value": 2020,
           "label": 2020
-        }
-      ]
-    },
-    "Soll/Ist": {
-      "name": "phase_2.Soll_Ist",
-      "label_ref": "phase_2.Soll_Ist",
-      "ref": "phase_2",
-      "type": "string",
-      "default": true,
-      "hasAll": false,
-      "defaultValue": "Soll",
-      "defaultLabel": "All",
-      "label": "Soll/Ist",
-      "values": [
-        {
-          "value": "",
-          "label": "All"
-        },
-        {
-          "value": "Ist",
-          "label": "Ist"
-        },
-        {
-          "value": "Soll",
-          "label": "Soll"
-        }
-      ]
-    },
-    "E/A": {
-      "name": "direction_2.E_A",
-      "label_ref": "direction_2.E_A",
-      "ref": "direction_2",
-      "type": "string",
-      "default": true,
-      "hasAll": false,
-      "defaultValue": "A",
-      "defaultLabel": "All",
-      "label": "E/A",
-      "values": [
-        {
-          "value": "",
-          "label": "All"
-        },
-        {
-          "value": "A",
-          "label": "A"
-        },
-        {
-          "value": "E",
-          "label": "E"
         }
       ]
     }
