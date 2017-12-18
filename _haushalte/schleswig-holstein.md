@@ -16,8 +16,8 @@ config: |-
           },
           {
               "datapackageHierarchy": "functional_classification",
-              "url": "politikfelder",
-              "label": "Politikfelder"
+              "url": "funktion",
+              "label": "Funktionen"
           },
           {
               "datapackageHierarchy": "economic_classification",
@@ -47,7 +47,7 @@ config: |-
               "description": ""
           },
           {
-              "label": "Pro Einwohner (2.881.737)",
+              "label": "Pro Einwohner (2.881.737 in 2016)",
               "number": "2881737",
               "description": "p. E."
           }
