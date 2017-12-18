@@ -98,4 +98,4 @@ config: |-
   }
 slug: ludwigslust
 ---
-Das ist der Haushalt für Ludwigslust 2017
+Das ist der Haushalt für Ludwigslust 2017, die Datengrundlage wurde uns per Email zugeschickt. Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren.
