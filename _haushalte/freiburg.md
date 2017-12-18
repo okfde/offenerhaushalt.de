@@ -9,7 +9,7 @@ level: kommune
 state: BW
 config: |-
   {
-      "datapackage": "a6a16b964a7e784f99adecc47f26318a:freiburg",
+      "datapackage": "a6a16b964a7e784f99adecc47f26318a:freiburg-neu",
       "hierarchies": [
           {
               "datapackageHierarchy": "administrative_classification",
