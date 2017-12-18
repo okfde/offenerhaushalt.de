@@ -47,9 +47,9 @@ config: |-
               "description": ""
           },
           {
-              "label": "pro Einwohner",
-              "number": "4073000",
-              "description": "p. P."
+              "label": "pro Einwohner (4.073.280 in 2016)",
+              "number": "4073280",
+              "description": "p. E."
           }
       ],
       "filters": {
