@@ -115,4 +115,4 @@ config: |-
   }
 
 ---
-
+Die Quelle für den visualisierten Datensatz findet sich auf dieser [Webseite](https://www.schleswig-holstein.de/DE/Landesregierung/VI/Service/downloads/_functions/haushaltsplaene2017_table.html). Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren.
