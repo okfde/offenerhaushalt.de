@@ -138,4 +138,4 @@ config: |-
 slug: hamburg
 ---
 Die Quelle für den visualisierten Datensatz ist diese Webseite:
-[http://www.hamburg.de/fb/doppelhaushalt-2017-2018/] (http://www.hamburg.de/fb/doppelhaushalt-2017-2018/) 
+[http://www.hamburg.de/fb/doppelhaushalt-2017-2018/](http://www.hamburg.de/fb/doppelhaushalt-2017-2018/) 
