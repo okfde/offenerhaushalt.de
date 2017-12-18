@@ -113,5 +113,4 @@ config: |-
   }
 
 ---
-
-
+Die Quelle für den visualisierten Datensatz findet sich auf dieser [Webseite](https://fm.rlp.de/de/themen/finanzen/landeshaushalt/haushalt-20172018/). Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren.
