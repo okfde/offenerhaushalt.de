@@ -118,4 +118,4 @@ config: |-
   }
 
 ---
-
+Die Quelle für den visualisierten Datensatz findet sich auf dieser [Webseite](https://www.offenesdatenportal.de/dataset/haushaltsplan-entwurf-2017-stadt-wesel). Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren.
