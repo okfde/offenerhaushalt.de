@@ -113,4 +113,4 @@ config: |-
   }
 slug: bonn
 ---
-Test Test
+Die Quelle für den visualisierten Datensatz findet sich auf dieser [Webseite](https://opendata.bonn.de/dataset/haushaltspl%C3%A4ne-finanzplandaten). Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren.
