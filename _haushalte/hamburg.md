@@ -2,7 +2,7 @@
 _id: 05d95420-e3ee-11e7-bde9-99b7584a705b
 state: HH
 name: Hamburg
-level: kommune
+level: land
 config: |-
   {
     "datapackage": "979a04af3ee49595c1881cffe7554549:budget_germany_hamburg_test",
