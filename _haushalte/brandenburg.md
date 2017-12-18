@@ -115,4 +115,5 @@ config: |-
   }
 
 ---
+Die Quelle für den visualisierten Datensatz findet sich auf dieser [Webseite](http://www.mdf.brandenburg.de/cms/detail.php/bb1.c.453204.de). Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren.
 
