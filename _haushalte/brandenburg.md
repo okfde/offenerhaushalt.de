@@ -12,12 +12,12 @@ config: |-
           {
               "datapackageHierarchy": "administrative_classification",
               "url": "einzelplan",
-              "label": "Einzelplan"
+              "label": "Einzelpläne"
           },
           {
               "datapackageHierarchy": "functional_classification",
-              "url": "politikfelder",
-              "label": "Politikfelder"
+              "url": "funktionen",
+              "label": "Funktionen"
           },
           {
               "datapackageHierarchy": "economic_classification",
@@ -47,7 +47,7 @@ config: |-
               "description": ""
           },
           {
-              "label": "Pro Einwohner (2.489.005)",
+              "label": "Pro Einwohner (2.489.005 in 2016)",
               "number": "2489005",
               "description": "p. E. "
           }
