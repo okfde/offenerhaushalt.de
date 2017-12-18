@@ -35,7 +35,7 @@ config: |-
         "description": ""
       },
       {
-        "label": "Pro Einwohner (318.809 in 2016)",
+        "label": "Pro Einwohner (318.809 in 2015)",
         "number": "318809",
         "description": "p. E."
       }
