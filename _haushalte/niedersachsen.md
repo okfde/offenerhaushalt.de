@@ -111,4 +111,4 @@ config: |-
   }
 
 ---
-
+Die Quelle für den visualisierten Datensatz stammt aus einer Informationsfreiheitsanfrage und ist hier zu [finden](https://fragdenstaat.de/anfrage/haushaltsplane-maschinenlesbare-form-4/?anfrage-gestellt). Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren.
