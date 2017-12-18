@@ -1,6 +1,6 @@
 ---
 layout: budget2
-name: Stadt Freiburg 
+name: Freiburg 
 real_name: Freiburg
 slug: Freiburg 
 url: /haushalt/freiburg
@@ -116,4 +116,4 @@ config: |-
   }
 
 ---
-
+Die Quelle für den visualisierten Datensatz findet sich auf dieser [Webseite](https://fritz.freiburg.de:8443/Informationsportal/configurator?scenario=OpenData&typ=ver#filter=89554DF531C143208BB68847F608445A). Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren.
