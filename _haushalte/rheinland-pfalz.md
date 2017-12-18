@@ -17,12 +17,12 @@ config: |-
           {
               "datapackageHierarchy": "economic_classification",
               "url": "funktionen",
-              "label": "funktionen"
+              "label": "Funktionen"
           },
           {
               "datapackageHierarchy": "functional_classification",
               "url": "gruppen",
-              "label": "gruppen"
+              "label": "Gruppen"
           }
       ],
       "value": [
