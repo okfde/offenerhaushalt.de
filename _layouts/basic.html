@@ -1,0 +1,20 @@
+{% include relative-baseurl.html %}
+<!DOCTYPE html>
+<html lang="de">
+<head>
+{% include head.html %}
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+</head>
+<body>
+  {{ content }}
+
+  {% if layout.script_include %}
+  {% include script_{{ layout.script_include }}.html %}
+  {% endif %}
+  {% if page.script_include %}
+  {% include script_{{ page.script_include }}.html %}
+  {% endif %}
+
+  {% include tracking.html %}
+</body>
+</html>

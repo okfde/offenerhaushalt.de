@@ -1,0 +1,97 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: OffenerHaushalt
+
+email: info@okfn.de
+
+description: ''
+
+# the subpath of your site, e.g. /blog
+baseurl: ''
+
+# the base hostname & protocol for your site, e.g. http://example.com
+url: 'http://beta.offenerhaushalt.de'
+
+twitter_username: okfde
+github_username:  okfde
+
+# Haushalte
+collections:
+  budget:
+    output: true
+    permalink: /ohaushalt/:name/
+    #  haushalte:
+    #    output: true
+    #    permalink: /haushalt/:name/
+  haushalte:
+    output: true
+    permalink: /haushalt/:path/
+  haushalte-edit:
+    output: true
+    permalink: /haushalt/:name/edit
+  embed:
+    output: true
+    permalink: /haushalt/:name/embed
+
+
+# Build settings
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - bower.json
+  - bower_components/*
+sass:
+  sass_dir: static/css/_scss
+  style: compressed
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+  -
+    scope:
+      path: page
+    values:
+      layout: page
+      framed: true
+  -
+    scope:
+      path: "_budget"
+      type: budget
+    values:
+      layout: budget
+  -
+    scope:
+      path: "_haushalte"
+      type: haushalte
+    values:
+      layout: budget2
+  -
+    scope:
+      path: "_haushalte-edit"
+      type: haushalte-edit
+    values:
+      layout: budget-edit
+  -
+    scope:
+      path: "_embed"
+    values:
+      layout: embed
+#
+#
+# We use the embed plugin here to generate the same pages
+# with the embed layout again

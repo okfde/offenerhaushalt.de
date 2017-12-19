@@ -1,0 +1,177 @@
+---
+layout: default
+title: Haushalte von Bund, Ländern und Kommunen
+script_include: home
+---
+{% include relative-baseurl.html %}
+
+<div class="main-content">
+    <div class="container message-container">
+      <div class="row welcome">
+        <div class="col-xs-12 col-md-12">
+          <div class="front-message">
+            Haushaltsdaten einfach
+            verständlich präsentieren.
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="map-selector" class="container gray">
+      <div class="row map">
+        <div class="col-xs-12 col-md-7">
+          <p class="claim">
+            Stöbern Sie in
+            den Datensätzen
+          </p>
+          <div id="default-welcome">
+            <p>
+            <b>Wählen Sie aus:</b>
+            <p>
+            <select id="selectState" class="select-state">
+              <option value="" disabled selected>Bundesland</option>
+              {% for bundesland in site.data.bundesland %}
+              <option value="{{ bundesland['code'] }}">{{ bundesland['name'] }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div id="listing"></div>
+        </div>
+        <div class="col-xs-12 col-md-5">
+          <div id="map"></div>
+        </div>
+      </div>
+    </div>
+    <div id="cities" class="container">
+      {% include bund.html %}
+    </div>
+    <div id="search-results" class="container" style="display: none">
+      <div class="row">
+        <div class="col col-xs-12 col-md-12">
+          <div class="close-search">zurück <img src="/static/img/mini-map.png"></div>
+          <h1>Wir haben leider noch keinen Haushalt für <span class="city-name" id="search-city-name"></span></h1>
+
+          <hr>
+
+          <h2 id="search-info">
+            Schauen Sie auf der Webseite von <span class="city-name"></span> nach, ob es Haushaltsdaten
+          online verfügbar gibt. Oder Fragen sie den Datensatz an, entweder…</h2>
+
+          <div class="fragdenstaat">
+            <h3>Oder über FragDenStaat</h3>
+
+            <p>
+              Mit nur zwei Klicks können Sie eine verbindliche
+              Informationsfreiheitsanfrage stellen.
+            </p>
+            <a class="bluegreen-button" href="https://fragdenstaat.de/">zur Anfrage{% icon fa-long-arrow-right %}</a>
+          </div>
+
+          <h1>Was müssen Sie beachten?</h1>
+
+          <ul>
+            <li>Wir brauchen einen Datensatz im CSV- oder Excel-Format</li>
+            <li>Das Minimum an Informationen sind: Zeitpunkt (Jahr), Betrag, die Richtung (Einnahme / Ausgabe), Haushaltstitel</li>
+            <li>Long Format: nur ein Jahr und ein Betrag pro Spalte</li>
+          </ul>
+
+        </div>
+      </div>
+    </div>
+    <div class="container bundesland-bottom-karte">
+      <div class="row">
+        <div class="col col-xs-12 col-md-12">
+          <h1>Der Bundeshaushalt 2017 beträgt 329 Milliarden!</h1>
+          <p>
+          <div class="treemap-big-preview">
+            <p>
+            Schau dir den Haushalt an, um zu erfahren, wo das Geld hinfließt!
+            </p>
+          <a class="bluegreen-button" href="/haushalt/bund">
+            zum Bundeshaushalt
+          </a>
+          </div>
+          </p>
+        </div>
+      </div>
+    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+
+<script id="listing-template" type="text/x-handlebars-template">{% raw %}
+  {{#if has_sites}}
+    <p>
+      In <strong>{{state.name}}</strong> haben wir bislang die folgenden Haushalte
+      erschlossen:</p>
+    <ul>
+      {{#each sites}}
+        <li><strong><a href="{{url}}">{{name}}</a></strong>: {{tagline}}</li>
+      {{/each}}
+    </ul>
+  {{/if}}
+  {{#if no_sites}}
+    <p>
+      Für <strong>{{state.name}}</strong> steht bislang kein Haushalt
+      zur Verfügung.
+    </p>
+  {{/if}}
+  <p>
+    <strong>Ist ihre Kommune oder ihr Bundesland nicht verfügbar?</strong>
+    <a href="{{ relative-baseurl }}page/mitmachen.html">Machen Sie mit</a>, und erschließen Sie
+    weitere Haushaltsdaten für OffenerHaushalt.
+  </p>
+{% endraw %}</script>
+
+<script id="city-template" type="text/x-handlebars-template">{% raw %}
+  <p><strong><a href="{{city.url}}">{{city.name}}</a></strong></p>
+  <p>{{city.tagline}}</p>
+  <p>
+    <strong>Ist ihre Kommune oder ihr Bundesland nicht verfügbar?</strong>
+    <a href="{{ relative-baseurl }}page/mitmachen.html">Machen Sie mit</a>, und erschließen Sie
+    weitere Haushaltsdaten für OffenerHaushalt.
+  </p>
+{% endraw %}</script>
+
+
+<!--
+<hr>
+<div class="row dataset-listing">
+  <div class="col-xs-12 col-md-4">
+    <h2 id="laender">Länderhaushalte</h2>
+    <p>
+      Die Haushalte der Länder umfassen Ausgaben für
+      Dienste wie Polizei und Bildung.
+    </p>
+  </div>
+  <div class="col-xs-12 col-md-8">
+    <div class="row">
+    {% for haushalt in site.budget %}{% if haushalt.level == 'land' and haushalt.skip != true and haushalt.layout != "embed" %}
+      <div class="col-xs-12 col-md-6">
+        <h3><a href="{{ relative-baseurl }}haushalt/{{haushalt.slug}}/">{{haushalt.name}}</a></h3>
+        <p>{{haushalt.tagline}}</p>
+      </div>
+    {% endif %}{% endfor %}
+    </div>
+  </div>
+</div>
+
+<hr>
+<div class="row dataset-listing">
+  <div class="col-xs-12 col-md-4">
+    <h2 id="kommunen">Kommunalhaushalte</h2>
+    <p>
+      Haushalte von Bezirken, Kommunen und Kreisen.
+    </p>
+  </div>
+  <div class="col-xs-12 col-md-8">
+    <div class="row">
+    {% for haushalt in site.budget %}{% if haushalt.level != 'land' and haushalt.level != 'bund' and haushalt.skip != true and haushalt.layout != "embed" %}
+      <div class="col-xs-12 col-md-6">
+        <h3><a href="{{ relative-baseurl }}haushalt/{{haushalt.slug}}/">{{haushalt.name}}</a></h3>
+        <p>{{haushalt.tagline}}</p>
+      </div>
+    {% endif %}{% endfor %}
+    </div>
+  </div>
+</div>
+-->

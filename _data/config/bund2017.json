@@ -1,0 +1,93 @@
+{
+  "datapackage": "b847ea2743b1084c724a5cd449e1adbc:bh-2017",
+  "hierarchies": [
+    {
+      "datapackageHierarchy": "administrative_classification",
+      "url": "institutionen",
+      "label": "Institutionen"
+    },
+    {
+      "datapackageHierarchy": "economic_classification",
+      "url": "gruppen",
+      "label": "Gruppen"
+    },
+    {
+      "datapackageHierarchy": "functional_classification",
+      "url": "politikfelder",
+      "label": "Politikfelder"
+    }
+  ],
+  "value": [
+    {
+      "field": "soll.sum",
+      "formatOptions": {
+        "symbol": "",
+        "decimal": ",",
+        "thousand": ".",
+        "precision": "0",
+        "format": "%s%v",
+        "postfix": "€",
+        "grouping": 3
+      },
+      "label": "Betrag"
+    }
+  ],
+  "scale": [
+    {
+      "label": "Total",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "label": "Pro Einwohner",
+      "number": "82670000",
+      "description": "p. P."
+    }
+  ],
+  "filters": {
+    "einnahmen-ausgaben": {
+      "name": "value_kind_2.einnahmen_ausgaben",
+      "label_ref": "value_kind_2.einnahmen_ausgaben",
+      "ref": "value_kind_2",
+      "type": "string",
+      "default": true,
+      "defaultValue": "A",
+      "defaultLabel": "All",
+      "label": "Budget Richtung",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": "A",
+          "label": "A"
+        },
+        {
+          "value": "E",
+          "label": "E"
+        }
+      ]
+    },
+    "date": {
+      "name": "date_2.date",
+      "label_ref": "date_2.date",
+      "ref": "date_2",
+      "type": "integer",
+      "default": true,
+      "defaultValue": 2017,
+      "defaultLabel": "All",
+      "label": "Jahr",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": 2017,
+          "label": 2017
+        }
+      ]
+    }
+  }
+}

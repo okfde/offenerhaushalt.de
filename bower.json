@@ -1,20 +1,36 @@
 {
   "name": "offenerhaushalt",
   "version": "2.0.0",
+<<<<<<< HEAD
   "main": "offenerhaushalt/static/style/style.less",
+=======
+  "main": "css/main.scss",
+>>>>>>> dev
   "ignore": [
     ".jshintrc",
     "**/*.txt"
   ],
   "dependencies": {
+<<<<<<< HEAD
     "bootstrap": "3.0.0",
     "font-awesome": "~4.0.3",
+=======
+    "bootstrap": "3.3.5",
+>>>>>>> dev
     "jquery": "~2.0.3",
     "moment": "~2.4.0",
     "d3": "3.3.13",
     "topojson": "~1.4.5",
+<<<<<<< HEAD
     "handlebars": "~1.1.2",
     "accounting": "~0.3.2",
     "hashtrack": "*"
   }
 }
+=======
+    "handlebars": "~4.0.5",
+    "accounting": "~0.3.2",
+    "hashtrack": "*"
+  }
+}
+>>>>>>> dev

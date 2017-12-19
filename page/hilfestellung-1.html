@@ -1,0 +1,55 @@
+---
+layout: default
+title: Hilfestellung
+permalink: /hilfestellung/1/
+---
+{% include relative-baseurl.html %}
+
+<div class="row help-pages">
+  <div class="col-xs-12 col-md-12">
+    <div class="help-content">
+      <h1>01 – Voraussetzungen an den Datensatz</h1>
+      <h3>Wir erklären kurz und knapp in welcher Struktur und in welchem Format der Datensatz vorliegen muss. </h3>
+      <p>
+      <div class="help-text">
+      <h4>Format</h4>
+      <p>
+      Der Haushaltsdatensatz muss als .CSV Datei vorliegen, damit er hochgeladen
+      werden kann. Klassische Excel-Formate wie XLSX oder XLS können als .CSV
+      Datei gespeichert werden. Dies lässt sich mit der Open Source Software
+      Libre Office häufig einfacher erledigen als mit Excel. Das Encoding der Datei sollte UTF-8 sein. 
+      </p>
+      <p>
+      Leider werden
+      Haushaltsdaten immer wieder als PDF veröffentlicht, damit können wir nichts
+      anfangen, da die Daten aus dem PDF befreit werden müssen. Dies ist nicht so
+      einfach, dabei unterstützen kann das Open Source Tool <a href="http://tabula.technology/">Tabula</a>. 
+      </p>
+      <p>
+      Bei PDF-Dateien, lohnt es sich in der zuständigen Verwaltung nachzufragen und auf
+      einer maschinen-lesbaren (z.B. CSV) Datei zu bestehen. Der Behauptung “man
+      könne Haushaltsdaten nur im PDF exportieren”, entgegnen Sie, dass auch
+      Buchhaltungsprogramme ein PDF erst aus Rohdaten erzeugen müssen.
+      </p>
+      <img src="{{ relative-baseurl }}/static/img/help/group-6.jpg">
+      <h4>Das Minimum an Informationen</h4>
+      <img src="{{ relative-baseurl }}/static/img/help/group-7.png">
+      <p>
+      In der ersten Zeile der Datei müssen die Überschriften der Spalten stehen,
+      darauf folgen in der zweiten Zeile direkt die Informationen. Ein Beispiel dafür
+      finden sie hier. Das Minimum an Informationen ist eine Zeitinformation (welches
+      Jahr), ein Betrag, die Richtung (Einnahme oder Ausgabe) und eine Bezeichnung
+      für den Haushaltsposten. 
+      </p>
+      <p>
+      Dabei muss die Struktur der Daten im long Format
+      vorliegen, d.h. genau ein Zeitpunkt und ein Betrag pro Zeile. Sollten die Daten
+      in einer anderen Struktur vorliegen können diese zum Beispiel mit <a href="http://openrefine.org/">OpenRefine</a>
+      umstrukturiert werden. 
+
+      </p>
+      <a class="next-step" href="{{ relative-baseurl }}/hilfestellung/2">zum nächsten Schritt {% icon fa-long-arrow-right %}</a>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,32 @@
+<script src="{{ relative-baseurl }}static/js/dep.js"></script>
+<script id="sites-data" type="application/json">
+  {
+    "sites": [
+    {% for haushalt in site.budget %}{% if haushalt.skip != true and haushalt.layout != "embed" %}
+      {% unless forloop.first %},{% endunless %}{
+        "name": "{{ haushalt.name }}",
+        "state": "{{ haushalt.state }}",
+        "slug": "{{ haushalt.slug }}",
+        "url": "{{ relative-baseurl }}haushalt/{{haushalt.slug}}/",
+        "tagline": "{{ haushalt.tagline }}"{% if haushalt.coordinates %},
+        "coordinates": [{{haushalt.coordinates.lng}}, {{haushalt.coordinates.lat}}]{% endif %}
+      }
+    {% endif %}{% endfor %}
+    ],
+    "baseurl": "{{ relative-baseurl }}"
+  }
+</script>
+<script src="{{ relative-baseurl }}static/js/home.js"></script>
+<script type="text/javascript">
+  $(function () {
+    $('#kameralistik-block').click(function () {
+      $('.doppik-help').hide(400)
+      $('.kameralistik-help').slideToggle(400)
+    })
+    $('#doppik-block').click(function () {
+      $('.kameralistik-help').hide()
+      $('.doppik-help').slideToggle(400)
+    })
+ 
+  })
+</script>

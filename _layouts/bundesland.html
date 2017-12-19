@@ -1,0 +1,178 @@
+---
+layout: city
+---
+
+{% assign landcities = site.haushalte | where: "state", page.code %}
+{% assign cities = landcities | where: "level", "kommune" | where: "layout", "budget2" %}
+
+{% if page.code == 'DE' %}
+{% else %}
+<script type="text/javascript">
+  var cities = {
+    {% for c in landcities %}
+      "{{c.name}}": "{{c.url}}"{% unless forloop.last == true %},{% endunless %}
+    {% endfor %}
+  }
+
+</script>
+<div class="row">
+  <div class="cities-list col-xs-12 col-md-12">
+    <div class="search-back-button">zurück <img src="/static/img/karte-bundesrepublik-deutschland-small.svg"></div>
+    <h1>{{ page.land }}</h1>
+    <p>
+    <input id="search-input" name="search" placeholder="Ort eingeben">
+    <script type="text/javascript">
+      $('.search-back-button').click(function () {
+        $('#map-selector').slideDown(400)
+      })
+
+      var citiesDiv = $('#cities')
+      var searchResultsDiv = $('#search-results')
+
+      var options = {
+        data: [{% for k in site.data.kommunen[page.code] %}
+               "{{k}}"{% if forloop.last == false %}, {% endif %}
+              {% endfor %}
+       ].concat([{% for c in landcities %}"{{c.name}}"{% unless forloop.last == true %},{% endunless %}{% endfor %}]),
+        list: {
+          maxNumberOfElements: 8,
+          match: {
+            enabled: true,
+            method: function(element, phrase) {
+              return (element.lastIndexOf(phrase, 0) === 0);
+            }
+          },
+          onChooseEvent: function () {
+            var city = $('#search-input').getSelectedItemData()
+
+              if (cities.hasOwnProperty(city)) {
+                var cityUrl = cities[city]
+                window.location.href = window.location.origin + cityUrl
+              } else {
+                $('#cities').toggle()
+                $('.city-name').text(city)
+                $('#search-results').toggle(400);
+              }
+          }
+        }
+      }
+      $('.close-search').click(function () {
+        $(this).parents('#search-results').toggle()
+        citiesDiv.toggle()
+      })
+
+      $('#search-input').easyAutocomplete(options);
+    </script>
+    {% assign land = site.haushalte | where: "state", page.code | where: "level", "land" | where: "layout", "budget2" %}
+    {% assign land_size = land | size %}
+    {% assign land_has_data = false %}
+    {% for l in land %}
+        {% if l.config %}
+        {% assign land_has_data = true %}
+        {% assign land_url = l.url %}
+        {% endif %}
+    {% endfor %}
+    </p>
+    {% if land_has_data %}
+    <div onclick="location.href='{{land_url}}';" class="bundesland-box">
+    {% else %}
+    <div class="bundesland-box">
+    {% endif %}
+      <div class="name">
+        <h2> {{ page.land }}</h2>
+      </div>
+     {% if land_size > 0 %}
+        {% for l in land %}
+          <div class="visualisierung">
+            <a href="{{ l.url }}">  zur Visualisierung {% icon fa-long-arrow-right %}</a>
+          </div>
+        {% endfor %}
+      {% endif %}
+    </div>
+    {% assign cities_size = cities | size %}
+    {% if cities_size > 0 %}
+    <hr>
+    {% endif %}
+    {% assign cities_size = 0 %}
+    {% for c in cities %}
+    {% if c.config %}
+    {% assign cities_size = cities_size | plus: 1 %}
+    <div onclick="location.href='{{c.url}}';" class="bundesland-box">
+      <div class="name">
+        <h2>{{ c.name }}</h2>
+      </div>
+      <div class="visualisierung">
+        <a href="{{ c.url }}"> zur Visualisierung {% icon fa-long-arrow-right %}</a>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
+{% if page.code != 'BE' %}
+<div class="row cities-count">
+  <div class="container">
+    <div class="row">
+      <div class="cities-message col-xs-12 col-md-12">
+        {% assign count = site.haushalt | where: "state", page.code | size %}
+        {% assign kommunen_nummer = site.data.kommunen[page.code] | size %}
+        <h1>{{ page.land }} hat {{ kommunen_nummer }} Kommunen. {% if cities_size > 0 %}{% if cities_size == 1 %}Wir haben erst einen Haushalt. {% else %}Wir haben aber erst {{ cities_size }} Haushalte.{% endif %}{% else %}Wir haben noch keine Haushalte.{% endif %}</h1>
+        <p>Helfen Sie mit einen weiteren Haushalt zu veröffentlichen und fragen ihn bei der Behörde an!</p>
+      </div>
+   </div>
+   <div class="row">
+      <div class="letters-list">
+        <a href="#A">A</a> <a href="#B">B</a> <a href="#C">C</a> <a href="#D">D</a> <a href="#E">E</a> <a href="#F">F</a> <a href="#G">G</a> <a href="#H">H</a> <a href="#I">I</a> <a href="#J">J</a> <a href="#K">K</a> <a href="#L">L</a> <a href="#M">M</a> <a href="#N">N</a> <a href="#O">O</a> <a href="#P">P</a> <a href="#Q">Q</a> <a href="#R">R</a> <a href="#S">S</a> <a href="#T">T</a> <a href="#U">U</a> <a href="#V">V</a> <a href="#W">W</a> <a href="#X">X</a> <a href="#Y">Y</a> <a href="#Z">Z</a>
+      </div>
+   </div>
+  </div>
+</div>
+<div class="row cities-list">
+  <ul>
+  {% assign letters = [] %}
+  {% assign cities_count = 0 %}
+  {% assign old_letter = '' %}
+  {% for k in cities %}
+    {% assign city_number = forloop.index0 %}
+    {% assign cities_count = cities_count | plus: 1 %}
+    {% assign city = k.name %}
+    {% assign letter = city | slice: 0 %}
+    {% if letter != old_letter %}
+      {% if forloop.index0 != 0 %}
+        {% assign cols_size = cs | size %}
+        {% if cols_size >= 15 %}
+        {% assign cols_size = cols_size | divided_by: 3 %}
+        {% else %}
+        {% assign cols_size = cols_size %}
+        {% endif %}
+        <div class="container letters">
+          <div class="letter-background">
+            <span id="{{old_letter}}">{{ old_letter }}</span>
+          </div>
+        {% assign cs_size = cs | size %}
+        {% for c in cs %}
+          {% if forloop.index > cols_size %}
+            {% assign cols_size = cols_size | plus: cols_size %}
+            </div>
+            <div class="letter-col col-xs-4 col-md-3">
+          {% endif %}
+          {% if forloop.index == 1 %}
+            <div class="letter-col first col-xs-4 col-md-3">
+          {% endif%}
+          {% assign idx = city_number| minus: cs_size | plus: forloop.index0 %}
+          <p><a href="/haushalt/{{cities[idx].state}}/{{cities[idx].slug}}">{{ c }}</p>
+        {% endfor %}
+          </div>
+        </div>
+      {% endif %}
+       {% assign cs = '' | split:'' | push: city %}
+      {% assign cities_count = 1 %}
+    {% else %}
+      {% assign cs = cs | push: city %}
+    {% endif %}
+    {% assign old_letter = letter %}
+  {% endfor %}
+  </ul>
+</div>
+{% endif %}
+{% endif %}

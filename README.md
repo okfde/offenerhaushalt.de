@@ -1,31 +1,26 @@
-## OffenerHaushalt 2.0
+OffenerHaushalt 3.0
+===================
 
-This repository will contain the second edition of OffenerHaushalt, a front-end to OpenSpending with a focus on budgets from different levels of the German government.
+This repository will contain the third edition of OffenerHaushalt, a
+front-end to OpenSpending Next with a focus on budgets from different levels
+of the German government.
 
 ### Building the site
 
-OffenerHaushalt is a simple Flask application that will be frozen to static HTML documents. The rendered (and statically saved) site can be downloaded to Amazon S3 and served from there. The following dependencies are required to build the site:
+OffenerHaushalt is now based on [jekyll](https://jekyllrb.com/).
 
-* Python 2.x, virtualenv
-* node.js with npm, and global installs of: uglify-js, less, bower
+Except from the embed pages, which get created by `_plugins/embed.rb`, it should be complete buildable by GitHub Pages.
 
-When you have OffenerHaushalt checked out, follow these steps:
-```bash
-bower install
-virtualenv pyenv
-source pyenv/bin/activate
-pip install -r requirements.txt
-python setup.py develop
-```
+The [typical commands](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) for jekyll based sites apply here too:
 
-You can then run the site like a normal Flask application:
-```bash
-python offenerhaushalt/manage.py runserver
-```
+Install Dependencies with `bundle install`.
 
-Having verified that the application work, you can build a frozen version of all the contents in this database by running:
-```bash
-python offenerhaushalt/manage.py freeze
-```
+Build the site with `bundle exec jekyll serve`.
 
-This will make a plain HTML version of the visualizations, ready to be deployed to S3 or another file hosting platform.
+
+### Adding a new budget
+
+Simply create a new file in `_budget`. Look at the other files already existing to see which fields are needed.
+
+Currently it gets its Data from the OffenerHaushalt 2.0 [SpenDB-Instance](http://db.offenerhaushalt.de).
+This will be replaced over time by using [OpenSpending Next](http://next.openspending.org).
