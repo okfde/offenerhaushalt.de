@@ -1,0 +1,747 @@
+-    Admannshagen-Bargeshagen
+-    Ahlbeck
+-    Ahrenshagen-Daskow
+-    Ahrenshoop
+-    Alt Bukow
+-    Alt Krenzlin
+-    Alt Meteln
+-    Alt Schwerin
+-    Alt Sührkow
+-    Alt Tellin
+-    Alt Zachun
+-    Altefähr
+-    Altenhagen
+-    Altenhof
+-    Altenkirchen
+-    Altenpleen
+-    Altentreptow
+-    Altkalen
+-    Altwarp
+-    Altwigshagen
+-    Am Salzhaff
+-    Ankershagen
+-    Anklam
+-    Baabe
+-    Bad Doberan
+-    Bad Kleinen
+-    Bad Sülze
+-    Balow
+-    Bandelin
+-    Bandenitz
+-    Banzkow
+-    Bargischow
+-    Barkhagen
+-    Barnekow
+-    Barnin
+-    Bartenshagen-Parkentin
+-    Barth
+-    Bartow
+-    Basedow
+-    Bastorf
+-    Baumgarten
+-    Beggerow
+-    Behren-Lübchin
+-    Behrenhoff
+-    Belsch
+-    Bengerstorf
+-    Benitz
+-    Bentwisch
+-    Bentzin
+-    Benz
+-    Benz
+-    Bergen auf Rügen
+-    Bergholz
+-    Bernitt
+-    Bernstorf
+-    Beseritz
+-    Besitz
+-    Bibow
+-    Biendorf
+-    Binz
+-    Blankenberg
+-    Blankenhagen
+-    Blankenhof
+-    Blankensee
+-    Blesewitz
+-    Blievenstorf
+-    Blowatz
+-    Blumenholz
+-    Bobitz
+-    Bobzin
+-    Boddin
+-    Boiensdorf
+-    Boizenburg/Elbe
+-    Boldekow
+-    Bollewick
+-    Boltenhagen
+-    Boock
+-    Börgerende-Rethwisch
+-    Borkow
+-    Born a. Darß
+-    Borrentin
+-    Brahlstorf
+-    Bredenfelde
+-    Breege
+-    Breesen
+-    Breest
+-    Brenz
+-    Bresegard bei Eldena
+-    Bresegard bei Picher
+-    Brietzig
+-    Briggow
+-    Bröbberow
+-    Broderstorf
+-    Brüel
+-    Brunn
+-    Brunow
+-    Brünzow
+-    Brüsewitz
+-    Buchholz
+-    Bugewitz
+-    Buggenhagen
+-    Bülow
+-    Burg Stargard
+-    Burow
+-    Buschvitz
+-    Bütow 
+-    Bützow
+-    Cambs
+-    Cammin
+-    Carinerland
+-    Carlow
+-    Carpin
+-    Cölpin
+-    Cramonshagen
+-    Crivitz
+-    Dabel
+-    Daberkow
+-    Dahmen
+-    Dalberg-Wendelstorf
+-    Dalkendorf
+-    Dambeck
+-    Damshagen
+-    Dargelin
+-    Dargen
+-    Dargun
+-    Dassow
+-    Datzetal
+-    Dechow
+-    Demen
+-    Demmin
+-    Dersekow
+-    Dersenow
+-    Dettmannsdorf
+-    Deyelsdorf
+-    Diedrichshagen
+-    Diekhof
+-    Dierhagen
+-    Divitz-Spoldershagen
+-    Dobbertin
+-    Dobbin-Linstow
+-    Dobin am See
+-    Dolgen am See
+-    Dömitz
+-    Domsühl
+-    Dorf Mecklenburg
+-    Dragun
+-    Dranske
+-    Drechow
+-    Dreetz
+-    Dreschvitz
+-    Ducherow
+-    Duckow
+-    Dümmer
+-    Dummerstorf
+-    Eggesin
+-    Eixen
+-    Eldena
+-    Elmenhorst
+-    Elmenhorst/Lichtenhagen
+-    Fahrenwalde
+-    Faulenrost
+-    Feldberger Seenlandschaft
+-    Ferdinandshof
+-    Fincken
+-    Finkenthal
+-    Franzburg
+-    Friedland
+-    Friedrichsruhe
+-    Fuhlendorf
+-    Fünfseen
+-    Gadebusch
+-    Gägelow
+-    Gager
+-    Galenbeck
+-    Gallin
+-    Gallin-Kuppentin
+-    Gammelin
+-    Ganzlin
+-    Garz
+-    Garz/Rügen
+-    Gehlsbach
+-    Gelbensande
+-    Genzkow
+-    Gielow
+-    Gingst
+-    Gischow
+-    Glasewitz
+-    Glasin
+-    Glasow
+-    Glewitz
+-    Glowe
+-    Gneven
+-    Gnevkow
+-    Gnewitz
+-    Gnoien
+-    Godendorf
+-    Göhlen
+-    Göhren
+-    Göhren-Lebbin
+-    Golchen
+-    Goldberg
+-    Gorlosen
+-    Görmin
+-    Gottesgabe
+-    Gotthun
+-    Graal-Müritz
+-    Grabow
+-    Grabow-Below
+-    Grabowhöfe
+-    Grambin
+-    Grambow
+-    Grammendorf
+-    Grammentin
+-    Grammow
+-    Gransebieth
+-    Granzin
+-    Grapzow
+-    Grebs-Niendorf
+-    Greifswald
+-    Gremersdorf-Buchholz
+-    Gresse
+-    Greven
+-    Grevesmühlen
+-    Gribow
+-    Grieben
+-    Grimmen
+-    Grischow
+-    Groß Godems
+-    Groß Kelle
+-    Groß Kiesow
+-    Groß Kordshagen
+-    Groß Krams
+-    Groß Laasch
+-    Groß Luckow
+-    Groß Miltzow
+-    Groß Mohrdorf
+-    Groß Molzahn
+-    Groß Nemerow
+-    Groß Plasten
+-    Groß Polzin
+-    Groß Roge
+-    Groß Schwiesow
+-    Groß Siemz
+-    Groß Stieten
+-    Groß Teetzleben
+-    Groß Wokern
+-    Groß Wüstenfelde
+-    Grünow
+-    Gültz
+-    Gülzow
+-    Gülzow-Prüzen
+-    Gustow
+-    Güstrow
+-    Gutow
+-    Gützkow
+-    Hagenow
+-    Hammer a. d. Uecker
+-    Hanshagen
+-    Heinrichswalde
+-    Heringsdorf
+-    Hinrichshagen
+-    Hintersee
+-    Hohen Demzin
+-    Hohen Pritz
+-    Hohen Sprenz
+-    Hohen Viecheln
+-    Hohen Wangelin
+-    Hohenbollentin
+-    Hohenfelde
+-    Hohenkirchen
+-    Hohenmocker
+-    Hohenzieritz
+-    Holdorf
+-    Holldorf
+-    Holthusen
+-    Hoort
+-    Hoppenrade
+-    Hornstorf
+-    Hugoldsdorf
+-    Hülseburg
+-    Insel Hiddensee
+-    Iven
+-    Ivenack
+-    Jabel
+-    Jakobsdorf
+-    Jarmen
+-    Jatznick
+-    Jesendorf
+-    Jördenstorf
+-    Jürgenshagen
+-    Jürgenstorf
+-    Kalkhorst
+-    Kamminke
+-    Karenz
+-    Kargow
+-    Karin
+-    Karlsburg
+-    Karlshagen
+-    Karnin
+-    Karrenzin
+-    Karstädt
+-    Kassow
+-    Katzow
+-    Kemnitz
+-    Kentzlin
+-    Kenz-Küstrow
+-    Kieve
+-    Kirch Jesar
+-    Kirch Mulsow
+-    Kittendorf
+-    Klausdorf
+-    Klein Belitz
+-    Klein Bünzow
+-    Klein Kussewitz
+-    Klein Rogahn
+-    Klein Trebbow
+-    Klein Upahl
+-    Klein Vielen
+-    Kletzin
+-    Klink
+-    Klocksin
+-    Kloster Tempzin
+-    Kluis
+-    Klütz
+-    Kneese
+-    Knorrendorf
+-    Koblentz
+-    Kobrow
+-    Kogel
+-    Königsfeld
+-    Korswandt
+-    Koserow
+-    Krackow
+-    Krakow am See
+-    Kramerhof
+-    Kratzeburg
+-    Kreien
+-    Krembz
+-    Kremmin
+-    Krien
+-    Kriesow
+-    Kritzmow
+-    Kritzow
+-    Kröpelin
+-    Kröslin
+-    Kruckow
+-    Krugsdorf
+-    Krummin
+-    Krusenfelde
+-    Krusenhagen
+-    Kublank
+-    Kuchelmiß
+-    Kuckssee
+-    Kuhlen-Wendorf
+-    Kühlungsborn
+-    Kuhs
+-    Kuhstorf
+-    Kummerow
+-    Kummerow
+-    Laage
+-    Lalendorf
+-    Lambrechtshagen
+-    Lancken-Granitz
+-    Langen Brütz
+-    Lärz
+-    Lassan
+-    Leezen
+-    Leizen
+-    Lelkendorf
+-    Leopoldshagen
+-    Leussow
+-    Levenhagen
+-    Lewitzrand
+-    Liepgarten
+-    Lietzow
+-    Lindenberg
+-    Lindetal
+-    Lindholz
+-    Löbnitz
+-    Löcknitz
+-    Lockwisch
+-    Loddin
+-    Lohme
+-    Lohmen
+-    Loissin
+-    Loitz
+-    Lübberstorf
+-    Lübesse
+-    Lüblow
+-    Lubmin
+-    Lübow
+-    Lübs
+-    Lübstorf
+-    Lübtheen
+-    Lübz
+-    Luckow
+-    Lüdersdorf
+-    Lüdershagen
+-    Ludorf
+-    Ludwigslust
+-    Lühburg
+-    Lühmannsdorf
+-    Lüssow
+-    Lüssow
+-    Lütow
+-    Lüttow-Valluhn
+-    Lützow
+-    Malchin
+-    Malchow
+-    Malk Göhren
+-    Malliß
+-    Marlow
+-    Marnitz
+-    Massow
+-    Medow
+-    Meesiger
+-    Meiersberg
+-    Mellenthin
+-    Melz
+-    Menzendorf
+-    Mesekenhagen
+-    Mestlin
+-    Metelsdorf
+-    Middelhagen
+-    Millienhagen-Oebelitz
+-    Milow
+-    Mirow
+-    Mistorf
+-    Möllenbeck
+-    Möllenbeck
+-    Möllenhagen
+-    Mölln
+-    Mölschow
+-    Moltzow
+-    Mönchhagen
+-    Mönkebude
+-    Moraas
+-    Muchow
+-    Mühl Rosin
+-    Mühlen Eichsen
+-    Murchin
+-    Mustin
+-    Nadrensee
+-    Neddemin
+-    Neetzka
+-    Neetzow-Liepen
+-    Neu Bartelshagen
+-    Neu Boltenhagen
+-    Neu Gülze
+-    Neu Kaliß
+-    Neu Kosenow
+-    Neu Poserin
+-    Neubrandenburg
+-    Neubukow
+-    Neuburg
+-    Neuenkirchen
+-    Neuenkirchen
+-    Neuenkirchen
+-    Neukalen
+-    Neukloster
+-    Neustadt-Glewe
+-    Neustrelitz
+-    Neverin
+-    Nieden
+-    Niendorf
+-    Nienhagen
+-    Niepars
+-    Nossendorf
+-    Nossentiner Hütte
+-    Nostorf
+-    Nustrow
+-    Obere Warnow
+-    Ostseebad Insel Poel
+-    Pampow
+-    Pantelitz
+-    Papendorf
+-    Papendorf
+-    Papenhagen
+-    Parchim
+-    Parchtitz
+-    Pasewalk
+-    Passee
+-    Passow
+-    Pätow-Steegen
+-    Patzig
+-    Peenehagen
+-    Peenemünde
+-    Penkow
+-    Penkun
+-    Penzin
+-    Penzlin
+-    Perlin
+-    Petersdorf
+-    Picher
+-    Pingelshagen
+-    Pinnow
+-    Plaaz
+-    Plate
+-    Plau am See
+-    Plöwen
+-    Plüschow
+-    Pokrent
+-    Pölchow
+-    Polzow
+-    Poppendorf
+-    Poseritz
+-    Postlow
+-    Pragsdorf
+-    Prebberede
+-    Preetz
+-    Prerow
+-    Priborn
+-    Priepert
+-    Pripsleben
+-    Prislich
+-    Pritzier
+-    Prohn
+-    Pruchten
+-    Pudagla
+-    Putbus
+-    Putgarten
+-    Raben Steinfeld
+-    Ralswiek
+-    Rambin
+-    Ramin
+-    Rankwitz
+-    Rappin
+-    Rastow
+-    Rechlin
+-    Reddelich
+-    Redefin
+-    Rehna
+-    Reimershagen
+-    Rerik
+-    Retschow
+-    Ribnitz-Damgarten
+-    Richtenberg
+-    Rieps
+-    Ritzerow
+-    Röbel/Müritz
+-    Röckwitz
+-    Roduchelstorf
+-    Roggendorf
+-    Roggenstorf
+-    Roggentin
+-    Rögnitz
+-    Rollwitz
+-    Rom
+-    Rosenow
+-    Rossin
+-    Rossow
+-    Rostock
+-    Rothemühl
+-    Rothenklempenow
+-    Rövershagen
+-    Rubenow
+-    Rubkow
+-    Rühn
+-    Rukieten
+-    Rüting
+-    Saal
+-    Sagard
+-    Samtens
+-    Sanitz
+-    Sarmstorf
+-    Sarnow
+-    Sarow
+-    Sassen-Trantow
+-    Sassnitz
+-    Satow
+-    Sauzin
+-    Schaprode
+-    Schildetal
+-    Schlagsdorf
+-    Schlemmin
+-    Schloen-Dratow
+-    Schmatzin
+-    Schönbeck
+-    Schönberg
+-    Schönfeld
+-    Schönhausen
+-    Schönwalde
+-    Schorssow
+-    Schossin
+-    Schwaan
+-    Schwanheide
+-    Schwarz
+-    Schwasdorf
+-    Schwerin
+-    Seehof
+-    Sehlen
+-    Sellin
+-    Selmsdorf
+-    Selpin
+-    Semlow
+-    Setzin
+-    Siedenbollentin
+-    Siedenbrünzow
+-    Sietow
+-    Siggelkow
+-    Silz
+-    Sommersdorf
+-    Spantekow
+-    Splietsdorf
+-    Sponholz
+-    Spornitz
+-    Stäbelow
+-    Staven
+-    Stavenhagen
+-    Steffenshagen
+-    Steinhagen
+-    Steinhagen
+-    Stepenitztal
+-    Sternberg
+-    Stolpe
+-    Stolpe an der Peene
+-    Stolpe auf Usedom
+-    Stralendorf
+-    Stralsund
+-    Strasburg
+-    Strohkirchen
+-    Stubbendorf
+-    Stuer
+-    Suckow
+-    Süderholz
+-    Sukow
+-    Sukow-Levitzow
+-    Sülstorf
+-    Sundhagen
+-    Tarnow
+-    Techentin
+-    Teldau
+-    Teschendorf
+-    Tessenow
+-    Tessin
+-    Tessin b. Boizenburg
+-    Testorf-Steinfort
+-    Teterow
+-    Thandorf
+-    Thelkow
+-    Thiessow
+-    Thulendorf
+-    Thürkow
+-    Toddin
+-    Torgelow
+-    Torgelow am See
+-    Tramm
+-    Trassenheide
+-    Trent
+-    Tribsees
+-    Trinwillershagen
+-    Trollenhagen
+-    Tutow
+-    Tützpatz
+-    Ückeritz
+-    Ueckermünde
+-    Uelitz
+-    Ummanz
+-    Upahl
+-    Usedom
+-    Userin
+-    Utecht
+-    Utzedel
+-    Varchentin
+-    Veelböken
+-    Velgast
+-    Vellahn
+-    Ventschow
+-    Verchen
+-    Vielank
+-    Viereck
+-    Vipperow
+-    Vogelsang-Warsin
+-    Voigtsdorf
+-    Vollrathsruhe
+-    Völschow
+-    Vorbeck
+-    Wackerow
+-    Walkendorf
+-    Walow
+-    Wardow
+-    Waren (Müritz)
+-    Warin
+-    Warlitz
+-    Warlow
+-    Warnkenhagen
+-    Warnow
+-    Warrenzin
+-    Warsow
+-    Wedendorfersee
+-    Weitendorf
+-    Weitenhagen
+-    Wendisch Baggendorf
+-    Wendorf
+-    Werder
+-    Wesenberg
+-    Wieck a. Darß
+-    Wiek
+-    Wiendorf
+-    Wildberg
+-    Wilhelmsburg
+-    Wismar
+-    Wittenbeck
+-    Wittenburg
+-    Wittendörp
+-    Wittenförden
+-    Wittenhagen
+-    Witzin
+-    Wöbbelin
+-    Woggersin
+-    Wokuhl-Dabelow
+-    Wolde
+-    Woldegk
+-    Wolgast
+-    Wrangelsburg
+-    Wredenhagen
+-    Wulkenzin
+-    Wusterhusen
+-    Wustrow
+-    Zapel
+-    Zarnewanz
+-    Zarrendorf
+-    Zarrentin am Schaalsee
+-    Zehna
+-    Zemitz
+-    Zempin
+-    Zepelin
+-    Zepkow
+-    Zerrenthin
+-    Zettemin
+-    Zickhusen
+-    Ziegendorf
+-    Zierow
+-    Zierzow
+-    Ziesendorf
+-    Ziethen
+-    Zingst
+-    Zinnowitz
+-    Zirchow
+-    Zirkow
+-    Zirzow
+-    Zislow
+-    Zölkow
+-    Zülow
+-    Zurow
+-    Züsow
+-    Züssow

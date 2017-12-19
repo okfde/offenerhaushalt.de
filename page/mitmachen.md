@@ -1,20 +1,24 @@
 ---
-title: Mitmachen beim OffenenHaushalt
+title: Mitmachen
+layout: page
 ---
 
-OffenerHaushalt ist ein ehrenamtlich organisiertes Projekt, alle Arbeit wird von Freiwilligen erledigt. Wir sind daher auf Ihre Unterstützung angewiesen: entweder durch Ihre Teilnahme, oder durch [Spenden](http://okfn.de/about/spenden/), die den Betrieb der Seite ermöglichen.
+OffenerHaushalt ist ein Community-Projekt der Open Knowledge Foundation Germany, das heißt die Arbeit wird zu großen Teilen von Freiwilligen erledigt. Daher sind wir auf Ihre Unterstützung angewiesen: entweder durch Ihre Mithilfe, oder durch [Spenden](http://beta.offenerhaushalt.de/page/intro.html), die den Betrieb der Seite ermöglichen.
 
 ## Wie kann ich mitmachen?
 
-Die Aufgaben im Projekt OffenerHaushalt sind vielfältig, es gibt sowohl inhaltliche, technische wie politische Arbeit zu erledigen. Einige Beispiele:
+Die Aufgaben sind vielfältig, es gibt sowohl inhaltliche, technische und politische Arbeit zu erledigen. Sie können Haushaltsdaten aus der Verwaltung besorgen, diese aufbereiten und hochladen, Erklärungen zu den Haushalten verfassen oder die Seite weiterentwicklen. 
 
-* **Datensammlung:** Treten Sie in Kontakt mit Ihrer Landes-, Kreis- oder Kommunalregierung und bitten Sie um die Bereitstellung maschinenlesbarer Haushaltsdaten. Wichtig ist dabei, dass die Daten in einem Tabellenformat wie CSV oder Microsoft Excel vorliegen, und nicht als PDF-Dokument. Detailierte [Anweisungen zum Format finden Sie hier](/page/format.html).
+* **Datensammlung:** Treten Sie in Kontakt mit Ihrer Landes-, Kreis- oder Kommunalregierung (zum Beispiel über [FragdenStaat.de](https://fragdenstaat.de/) und bitten Sie um die Bereitstellung maschinenlesbarer Haushaltsdaten. Wichtig ist dabei, dass die Daten in einem Tabellenformat wie CSV oder Microsoft Excel vorliegen, und nicht als PDF-Dokument. 
 
-* **Haushalte einbinden:** OffenerHaushalt greift auf eine Datenbank, um die Haushalte darzustellen. Die Haushaltsdaten sollten Sie daher [zunächst in die Hauhsaltsdatenbank](http://db.offenerhaushalt.de) hochladen. Sobald Sie einen Haushalt in der Datenbank bereitgestellt haben, benachrichtigen Sie die [Mailingliste](http://lists.okfn.org/mailman/listinfo/offener-haushalt), damit er auf der Startseite von OffenerHaushalt eingebunden wird.
+* **Haushaltsdaten säubern:**
+Um unserer Struktur gerecht zu werden, müssen die Haushaltsdateien häufig noch angepasst werden. Dies lässt sich mit einführenden Programmierkenntnissen einfach erledigen. Detailierte Anweisungen zum Format finden Sie [hier](http://beta.offenerhaushalt.de/hilfestellung/1/).
 
-* **Visualisierung und Analyse:** OffenerHaushalt stellt ein umfangreiches Archiv von Haushaltsdaten bereit, die in verschiedener Form dargestellt, interpretiert und verglichen werden können. Wir freuen uns, wenn Sie eine spannende Datengeschichte oder -visalisierung zu einem deutschen Haushalt beitragen.
+* **Haushaltdaten hochladen:** OffenerHaushalt greift auf eine [Datenbank](https://openspending.org/packager/) zu, um die Haushalte darzustellen. Dort müssen die Daten hochgeladen und entsprechend Ihrer [Struktur](http://beta.offenerhaushalt.de/hilfestellung/3/) zugeordnet werden. 
+ 
+* **Visualisierung und Analyse:** Sobald Sie einen Haushalt in der Datenbank bereitgestellt haben, können Sie diesen mit der zugehörigen [ID]() auf OffenerHaushalt.de hinzufügen. Sie können die Daten mit einer Skala versehen und bspw. die Zahlen pro Einwohner oder Erwerbstätigen Personen analysieren. Außerdem können Sie die Haushaltsdaten in einem Text erklären (unterhalb der Visualisierung). 
 
-* **Weiterentwicklung:** Die Projektseite von OffenerHaushalt ist natürlich freie Software (MIT-lizenziert) und [kann durch jeden weiterentwickelt werden](https://github.com/okfde/offenerhaushalt.de). Wir freuen uns über neue Funktionen, Analysemethoden oder Visualisierungsformen. Dabei lohnt auch der Blick in den [Issue Tracker](https://github.com/okfde/offenerhaushalt.de/issues).
+* **Weiterentwicklung:** Die Projektseite von OffenerHaushalt ist natürlich freie Software (MIT-lizenziert) und kann durch jeden [weiterentwickelt](https://github.com/okfde/offenerhaushalt.de) werden. Wir freuen uns über neue Funktionen, Analysemethoden oder Visualisierungsformen. Dabei lohnt auch der Blick in den [Issue Tracker](https://github.com/okfde/offenerhaushalt.de/issues).
 
 ## Spielregeln
 

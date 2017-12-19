@@ -1,0 +1,93 @@
+{
+  "datapackage": "a6a16b964a7e784f99adecc47f26318a:gilching-verwaltungshh",
+  "hierarchies": [
+    {
+      "datapackageHierarchy": "administrative_classification",
+      "url": "einzelplan",
+      "label": "Einzelplan"
+    }
+  ],
+  "value": [
+    {
+      "field": "Betrag.sum",
+      "formatOptions": {
+        "symbol": "",
+        "decimal": ",",
+        "thousand": ".",
+        "precision": "",
+        "format": "%s%v",
+        "postfix": " €",
+        "grouping": 3
+      },
+      "label": "Betrag"
+    }
+  ],
+  "scale": [
+    {
+      "label": "Total",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "label": "pro Einwohner (18.340)",
+      "number": "18340",
+      "description": "p. E."
+    }
+  ],
+  "filters": {
+    "Einnahmen Ausgaben": {
+      "name": "direction_2.Einnahmen_Ausgaben",
+      "label_ref": "direction_2.Einnahmen_Ausgaben",
+      "ref": "direction_2",
+      "type": "string",
+      "default": true,
+      "hasAll": false,
+      "defaultValue": "Ausgaben",
+      "defaultLabel": "All",
+      "label": "Budget Richtung",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": "Ausgaben",
+          "label": "Ausgaben"
+        },
+        {
+          "value": "Einnahmen",
+          "label": "Einnahmen"
+        }
+      ]
+    },
+    "Jahr": {
+      "name": "date_2.Jahr",
+      "label_ref": "date_2.Jahr",
+      "ref": "date_2",
+      "type": "integer",
+      "default": true,
+      "hasAll": false,
+      "defaultValue": 2017,
+      "defaultLabel": "All",
+      "label": "Jahr",
+      "values": [
+        {
+          "value": "",
+          "label": "All"
+        },
+        {
+          "value": 2015,
+          "label": 2015
+        },
+        {
+          "value": 2016,
+          "label": 2016
+        },
+        {
+          "value": 2017,
+          "label": 2017
+        }
+      ]
+    }
+  }
+}

@@ -12,13 +12,20 @@ module Jekyll
       ext = File.extname(url)
 
       if url.include?(':layout')
-        return url.gsub(/:layout/, layout_path)
+        if layout_path == 'budget-edit'
+          return url.gsub(/:layout/, 'budget-edit')
+        else
+          return url.gsub(/:layout/, layout_path)
+        end
       end
 
       # PATCH(offenerhaushalt): budget layout is root
-      return url if layout_path == 'budget'
+      return url if layout_path == 'budget2'
 
       if ext.empty?
+        if layout_path == 'budget-edit'
+          layout_path = 'edit'
+        end
         "#{url}/#{layout_path}/"
       else
         url.gsub(/\/$|#{ext}$/) { |url_end| "/#{layout_path}#{url_end}" }
@@ -27,12 +34,12 @@ module Jekyll
   end
 
   class CollectionLayoutsGenerator
-    LAYOUTS = ['budget', 'embed']
+    LAYOUTS = ['budget2', 'budget-edit', 'embed']
 
     def generate(site)
       site.collections.each do |_, collection|
         docs = collection.docs.map! do |doc|
-          if doc.data["layout"] == 'budget'
+          if doc.data["layout"] == 'budget2'
             create_layout_views(site, collection, doc)
           else
             doc
