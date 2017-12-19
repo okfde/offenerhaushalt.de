@@ -145,4 +145,4 @@ config: |-
   }
 slug: jena
 ---
-https://opendata.jena.de/dataset/offener-haushalt/resource/0d040bf5-2e2f-4ffc-b14b-c9ac13f8d978
+Die Quelle für den visualisierten Datensatz findet sich auf dieser [Webseite](https://opendata.jena.de/dataset/offener-haushalt/resource/0d040bf5-2e2f-4ffc-b14b-c9ac13f8d978). Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren. 
