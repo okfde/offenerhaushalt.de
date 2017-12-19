@@ -10,7 +10,11 @@ layout: city
 <script type="text/javascript">
   var cities = {
     {% for c in landcities %}
+      {% unless c.url contains 'embed' %}
+        {% unless c.url contains 'edit' %}
       "{{c.name}}": "{{c.url}}"{% unless forloop.last == true %},{% endunless %}
+        {% endunless %}
+      {% endunless %}
     {% endfor %}
   }
 
