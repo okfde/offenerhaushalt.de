@@ -1237,6 +1237,9 @@ h1.page-header.site {
 
   .letter-col{
     margin-top: 60px;
+    a {
+      color: #0d9789;
+    }
   }
 }
 
@@ -1261,7 +1264,7 @@ h1.page-header.site {
     background-color: white;
     .col {
       h1 {
-        margin-top: 100px;
+        margin-top: 50px;
         max-width: 428px;
       }
 

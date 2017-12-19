@@ -29,9 +29,12 @@ collections:
   budget:
     output: true
     permalink: /ohaushalt/:name/
+    #  haushalte:
+    #    output: true
+    #    permalink: /haushalt/:name/
   haushalte:
     output: true
-    permalink: /haushalt/:name/
+    permalink: /haushalt/:path/
   haushalte-edit:
     output: true
     permalink: /haushalt/:name/edit

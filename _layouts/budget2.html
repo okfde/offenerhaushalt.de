@@ -6,6 +6,7 @@ layout: default
 ---
 {% include relative-baseurl.html %}
 
+{% if page.config %}
 <div class="row {% if page.url contains 'embed' %} embed{% endif %}">
   <div class="budget-page  {% if page.url contains 'embed' %} embed{% endif %} col-xs-12 col-md-12">
     <h1>{{page.name}}</h1>
@@ -31,4 +32,56 @@ layout: default
     </div>
   </div>
 </div>
+{% else %}
+    <div id="search-results" class="container">
+      <div class="row">
+        <div class="budget-page col col-xs-12 col-md-12">
+          <h1>Wir haben leider noch keinen Haushalt für <span class="city-name" id="search-city-name">{{ page.name }}</span></h1>
 
+          <hr>
+
+          <h2 id="search-info">
+            Schauen Sie auf der Webseite von <span class="city-name">{{ page.name }}</span> nach, ob es Haushaltsdaten
+          online verfügbar gibt. Oder Fragen sie den Datensatz an, entweder…</h2>
+
+          <div class="fragdenstaat">
+            <h3>Oder über FragDenStaat</h3>
+
+            <p>
+              Mit nur zwei Klicks können Sie eine verbindliche
+              Informationsfreiheitsanfrage stellen.
+            </p>
+            <a class="bluegreen-button" href="https://fragdenstaat.de/">zur Anfrage{% icon fa-long-arrow-right %}</a>
+          </div>
+
+          <h1>Was müssen Sie beachten?</h1>
+
+          <ul>
+            <li>Wir brauchen einen Datensatz im CSV- oder Excel-Format</li>
+            <li>Das Minimum an Informationen sind: Zeitpunkt (Jahr), Betrag, die Richtung (Einnahme / Ausgabe), Haushaltstitel</li>
+            <li>Long Format: nur ein Jahr und ein Betrag pro Spalte</li>
+          </ul>
+
+        </div>
+      </div>
+    </div>
+    <div class="container bundesland-bottom-karte">
+      <div class="row">
+        <div class="col col-xs-12 col-md-12">
+          <h1>Der Bundeshaushalt 2017 beträgt 329 Milliarden!</h1>
+          <p>
+          <div class="treemap-big-preview">
+            <p>
+            Schau dir den Haushalt an, um zu erfahren, wo das Geld hinfließt!
+            </p>
+          <a class="bluegreen-button" href="/haushalt/bund2017">
+            zum Bundeshaushalt
+          </a>
+          </div>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+{% endif %}

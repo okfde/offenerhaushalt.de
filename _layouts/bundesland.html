@@ -93,8 +93,10 @@ layout: city
     {% if cities_size > 0 %}
     <hr>
     {% endif %}
+    {% assign cities_size = 0 %}
     {% for c in cities %}
     {% if c.config %}
+    {% assign cities_size = cities_size | plus: 1 %}
     <div onclick="location.href='{{c.url}}';" class="bundesland-box">
       <div class="name">
         <h2>{{ c.name }}</h2>
@@ -112,7 +114,7 @@ layout: city
   <div class="container">
     <div class="row">
       <div class="cities-message col-xs-12 col-md-12">
-        {% assign count = site.budget | where: "state", page.code | size %}
+        {% assign count = site.haushalt | where: "state", page.code | size %}
         {% assign kommunen_nummer = site.data.kommunen[page.code] | size %}
         <h1>{{ page.land }} hat {{ kommunen_nummer }} Kommunen. {% if cities_size > 0 %}{% if cities_size == 1 %}Wir haben erst einen Haushalt. {% else %}Wir haben aber erst {{ cities_size }} Haushalte.{% endif %}{% else %}Wir haben noch keine Haushalte.{% endif %}</h1>
         <p>Helfen Sie mit einen weiteren Haushalt zu veröffentlichen und fragen ihn bei der Behörde an!</p>
@@ -130,9 +132,10 @@ layout: city
   {% assign letters = [] %}
   {% assign cities_count = 0 %}
   {% assign old_letter = '' %}
-  {% for k in site.data.kommunen[page.code] %}
-    {% assign cities_count = cities_count + 1 %}
-    {% assign city = k %}
+  {% for k in cities %}
+    {% assign city_number = forloop.index0 %}
+    {% assign cities_count = cities_count | plus: 1 %}
+    {% assign city = k.name %}
     {% assign letter = city | slice: 0 %}
     {% if letter != old_letter %}
       {% if forloop.index0 != 0 %}
@@ -146,6 +149,7 @@ layout: city
           <div class="letter-background">
             <span id="{{old_letter}}">{{ old_letter }}</span>
           </div>
+        {% assign cs_size = cs | size %}
         {% for c in cs %}
           {% if forloop.index > cols_size %}
             {% assign cols_size = cols_size | plus: cols_size %}
@@ -155,7 +159,8 @@ layout: city
           {% if forloop.index == 1 %}
             <div class="letter-col first col-xs-4 col-md-3">
           {% endif%}
-            <p>{{ c }}</p>
+          {% assign idx = city_number| minus: cs_size | plus: forloop.index0 %}
+          <p><a href="/haushalt/{{cities[idx].state}}/{{cities[idx].slug}}">{{ c }}</p>
         {% endfor %}
           </div>
         </div>

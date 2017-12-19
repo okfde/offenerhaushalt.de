@@ -121,7 +121,7 @@ a {
     text-align: right;
 }
 .table .hide-small, .table .small {
-    display: none;
+  /*  display: none; */
 }
 .table .label a, .table .label a:hover {
     color: #fff;
