@@ -22,5 +22,4 @@ Build the site with `bundle exec jekyll serve`.
 
 Simply create a new file in `_budget`. Look at the other files already existing to see which fields are needed.
 
-Currently it gets its Data from the OffenerHaushalt 2.0 [SpenDB-Instance](http://db.offenerhaushalt.de).
-This will be replaced over time by using [OpenSpending Next](http://next.openspending.org).
+It gets its Data from the new [OpenSpending](http://openspending.org).
