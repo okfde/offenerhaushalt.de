@@ -19,7 +19,7 @@ description: ''
 baseurl: ''
 
 # the base hostname & protocol for your site, e.g. http://example.com
-url: 'http://beta.offenerhaushalt.de'
+url: 'http://offenerhaushalt.de'
 
 twitter_username: okfde
 github_username:  okfde
