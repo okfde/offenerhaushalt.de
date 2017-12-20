@@ -16,14 +16,7 @@ OffenerHaushalt.de trägt dazu bei, dass Bürger ein klareres Bild über die Fin
 * sämtliche Haushaltsdaten maschinenlesbar (z.B. als CSV-Datei) zur Weiterverwendung veröffentlicht werden.  
 * die Daten ausreichende Informationen liefern, um eine aussagekräftige Analyse der regionalen / lokalen Haushaltspolitik vornehmen zu können. Das bedeutet, dass zusätzlich zu Haushaltsplänen auch die Sondervermögen und Beteiligungen der jeweiligen Kommune maschinenlesbar veröffentlicht werden.  
 
-* sich öffentliche Verwaltungen gemeinsam mit der Zivilgesellschaft austauschen und einen deutschen Standard für offene Finanzdaten erarbeiten. Hierfür laden wir Sie herzlich zur [Mitarbeit](http://beta.offenerhaushalt.de/page/datenstandard.html) ein.
+* sich öffentliche Verwaltungen gemeinsam mit der Zivilgesellschaft austauschen und einen deutschen Standard für offene Finanzdaten erarbeiten. Hierfür laden wir Sie herzlich zur [Mitarbeit](/page/datenstandard.html) ein.
 
-Erfahren sie mehr über unsere [Ziele](http://beta.offenerhaushalt.de/page/ueber_das_projekt.html) und das Projekt. 
+Erfahren sie mehr über unsere [Ziele](/page/ueber_das_projekt.html) und das Projekt. 
 Außerdem bietet unser Kooperationspartner [Haushaltssteuerung.de](https://www.haushaltssteuerung.de/) ein wunderbares [Lexikon](https://www.haushaltssteuerung.de/lexikon.html) mit tollen Erklärungen zu haushaltspezifischen Begriffen. 
-
-
-
-
-
-
-
