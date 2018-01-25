@@ -53,10 +53,6 @@ config: |-
         "label": "Jahr",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": 2015,
             "label": 2015
           }
@@ -72,10 +68,6 @@ config: |-
         "defaultLabel": "All",
         "label": "Budget Richtung",
         "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
           {
             "value": "Ausgaben",
             "label": "Ausgaben"
