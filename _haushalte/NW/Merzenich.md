@@ -511,4 +511,3 @@ config: |-
 date: '2018-01-25T11:53:33.102Z'
 slug: merzenich
 ---
-undefined
