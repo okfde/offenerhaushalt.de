@@ -87,10 +87,6 @@ config: |-
         "label": "Jahr",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": 2016,
             "label": 2016
           },
@@ -126,10 +122,6 @@ config: |-
         "defaultLabel": "All",
         "label": "Richtung",
         "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
           {
             "value": "Ord. Aufwendungen",
             "label": "Ord. Aufwendungen"
