@@ -142,13 +142,7 @@ slug: ahaus
   worden. Es sind nur ordentliche Erträge und ordentliche Aufwendungen dargestellt. 
 
   Aufrufbar sind das Ergebnis 2016, die Ansätze für 2017 und 2018 sowie die Planungen für 2019, 2020 und 2021.
-  Quelle für die Daten und weitere Informationen auf ahaus.de:
-  https://www.ahaus.de/rathaus/zahlendatenstatistik/finanzen-steuern/haushaltsplaene.html 
-  (Haushaltspläne - Rathaus - Stadt Ahaus)
-
-  Bürgerinfosystem der Stadt Ahaus: 
-  https://secure.ahaus.de/sessionnet/bi/to0040.php?__ksinr=646 
-  (Rat 13.12.2017)
-
-  Extrahieren der Daten aus der Haushaltsdatei (PDF):
-  https://thesing.net/2018/01/offener-haushalt
+  Quelle für die Daten und weitere Informationen auf [ahaus.de](https://www.ahaus.de/rathaus/zahlendatenstatistik/finanzen-steuern/haushaltsplaene.html) 
+  
+  Zudem das [Bürgerinfosystem](https://secure.ahaus.de/sessionnet/bi/to0040.php?__ksinr=646) der Stadt Ahaus (Rat 13.12.2017).
+  Und wie die Daten aus der Haushaltsdatei (PDF) extrahiert wurden auf [thesing.net](https://thesing.net/2018/01/offener-haushalt).
