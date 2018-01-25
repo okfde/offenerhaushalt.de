@@ -42,11 +42,6 @@ config: |-
         "url": "produkt",
         "label": "Produkt"
       },
-      {
-        "datapackageHierarchy": "direction",
-        "url": "ertrag_oder_aufwand",
-        "label": "Ertrag oder Aufwand"
-      }
     ],
     "value": [
       {
