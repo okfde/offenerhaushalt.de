@@ -1,7 +1,7 @@
 ---
 _id: 2e38b930-0287-11e8-86e6-dd2a0f61d6b6
 state: HB
-name: HB
+name: Bremen
 text: Bremer Haushalt Land (L) und Stadt (S)
 level: land
 config: |-
@@ -96,7 +96,7 @@ config: |-
     "level": "land",
     "state": "HB",
     "text": "Bremer Haushalt Land (L) und Stadt (S)",
-    "name": "HB"
+    "name": "Bremen"
   }
 date: '2018-01-26T10:53:45.641Z'
 slug: hb
