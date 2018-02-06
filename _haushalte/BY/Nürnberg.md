@@ -100,4 +100,4 @@ config: |-
 date: '2018-01-26T18:09:23.892Z'
 slug: nurnberg
 ---
-undefined
+Die Daten beinhalten die endgültigen Ausgaben für die Jahre 2014-2016 sowie die geplanten Ausgaben für 2017 und 2018. Sie wurden über das Informationsfreiheitsportal [FragdenStaat.de](https://fragdenstaat.de/anfrage/haushalt-fur-das-jahr-2017/) angefragt.  
