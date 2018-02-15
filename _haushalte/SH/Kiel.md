@@ -56,10 +56,6 @@ config: |-
         "label": "Jahr",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": 2014,
             "label": 2014
           },
@@ -92,10 +88,6 @@ config: |-
         "label": "Budget Richtung",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": "Aufwand",
             "label": "Aufwand"
           },
@@ -115,10 +107,6 @@ config: |-
         "defaultLabel": "All",
         "label": "HH Art",
         "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
           {
             "value": "Plan",
             "label": "Plan"
