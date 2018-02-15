@@ -56,10 +56,6 @@ config: |-
         "label": "Haushaltsjahr",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": 2015,
             "label": 2015
           },
@@ -82,10 +78,6 @@ config: |-
           {
             "value": 2020,
             "label": 2020
-          },
-          {
-            "value": null,
-            "label": null
           }
         ]
       },
@@ -100,20 +92,12 @@ config: |-
         "label": "Budget - Richtung",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": "A",
             "label": "A"
           },
           {
             "value": "E",
             "label": "E"
-          },
-          {
-            "value": null,
-            "label": null
           }
         ]
       }
