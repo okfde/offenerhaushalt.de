@@ -93,4 +93,5 @@ config: |-
 date: '2018-02-15T09:32:27.792Z'
 slug: sprendlingen-gensingen
 ---
-undefined
+  Der Plan Haushalt für die Verbandsgemeinde Sprendlingen-Gensingen 2018. Dieser
+  Haushalt zeigt nur die Ausgabenseite der Gemeinde.
