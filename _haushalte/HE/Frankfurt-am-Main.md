@@ -126,4 +126,4 @@ config: |-
 date: '2018-02-09T18:45:23.622Z'
 slug: frankfurt-am-main
 ---
-Es findet sich der Haushaltsplan der Stadt Frankfurt am Main, basierend auf den Daten hier: http://offenedaten.frankfurt.de/dataset/daten-des-haushaltsplans-2017-der-stadt-frankfurt-am-main
+Es findet sich der Haushaltsplan der Stadt Frankfurt am Main, basierend auf den Daten hier: [http://offenedaten.frankfurt.de/dataset/daten-des-haushaltsplans-2017-der-stadt-frankfurt-am-main](http://offenedaten.frankfurt.de/dataset/daten-des-haushaltsplans-2017-der-stadt-frankfurt-am-main)
