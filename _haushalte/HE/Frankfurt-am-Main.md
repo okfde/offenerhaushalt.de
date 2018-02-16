@@ -1,30 +1,26 @@
 ---
-_id: 62eb8570-0dc9-11e8-baa8-9788832e013f
+_id: 4d28ef90-132b-11e8-baa8-9788832e013f
 state: HE
-name: Frankfurt am Main
-text: >-
-  Es findet sich der Haushaltsplan der Stadt Frankfurt am Main, basierend auf
-  den Daten hier:
-  http://offenedaten.frankfurt.de/dataset/daten-des-haushaltsplans-2017-der-stadt-frankfurt-am-main
+name: Frankfurt
 level: kommune
 config: |-
   {
-    "datapackage": "446674d02a1cdff9229f73129714e152:frankfurt_a_m",
+    "datapackage": "99030977d67877e4fc4e5b7306c9f4b1:frankfurt-new",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
-        "url": "teilhaushalte",
-        "label": "Teilhaushalte"
+        "url": "produkt",
+        "label": "Produkt"
       }
     ],
     "value": [
       {
-        "field": "value.sum",
+        "field": "Betrag.sum",
         "formatOptions": {
           "symbol": "",
           "decimal": ",",
           "thousand": ".",
-          "precision": "0",
+          "precision": "",
           "format": "%s%v",
           "postfix": "€",
           "grouping": 3
@@ -39,9 +35,9 @@ config: |-
         "description": ""
       },
       {
-        "label": "pro Einwohner (736.222 in 2017)",
-        "number": "736222",
-        "description": "p.E."
+        "label": "pro Einwohner (736.414 in 2016)",
+        "number": "736414",
+        "description": "p. E."
       }
     ],
     "filters": {
@@ -51,10 +47,14 @@ config: |-
         "ref": "date_2",
         "type": "integer",
         "default": true,
-        "defaultValue": 2017,
+        "defaultValue": 2018,
         "defaultLabel": "All",
         "label": "Haushaltsjahr",
         "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
           {
             "value": 2015,
             "label": 2015
@@ -87,27 +87,55 @@ config: |-
         "ref": "direction_2",
         "type": "string",
         "default": true,
-        "defaultValue": "A",
+        "defaultValue": "Aufwendungen",
         "defaultLabel": "All",
-        "label": "Budget - Richtung",
+        "label": "Ertrag / Aufwand",
         "values": [
           {
-            "value": "A",
-            "label": "A"
+            "value": "",
+            "label": "All"
           },
           {
-            "value": "E",
-            "label": "E"
+            "value": "Aufwendungen",
+            "label": "Aufwendungen"
+          },
+          {
+            "value": "Erträge",
+            "label": "Erträge"
+          }
+        ]
+      },
+      "Haushalt": {
+        "name": "phase_2.Haushalt",
+        "label_ref": "phase_2.Haushalt",
+        "ref": "phase_2",
+        "type": "string",
+        "default": true,
+        "defaultValue": "Plan",
+        "defaultLabel": "All",
+        "label": "Haushalt",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": "Plan",
+            "label": "Plan"
+          },
+          {
+            "value": "Soll",
+            "label": "Soll"
           }
         ]
       }
     },
     "level": "kommune",
     "state": "HE",
-    "name": "Frankfurt am Main",
-    "text": "Es findet sich der Haushaltsplan der Stadt Frankfurt am Main, basierend auf den Daten hier: http://offenedaten.frankfurt.de/dataset/daten-des-haushaltsplans-2017-der-stadt-frankfurt-am-main"
+    "name": "Frankfurt",
+    "text": "la la la"
   }
-date: '2018-02-09T18:45:23.622Z'
-slug: frankfurt-am-main
+date: '2018-02-16T15:08:53.608Z'
+slug: frankfurt
 ---
-Es findet sich der Haushaltsplan der Stadt Frankfurt am Main, basierend auf den Daten hier: [http://offenedaten.frankfurt.de/dataset/daten-des-haushaltsplans-2017-der-stadt-frankfurt-am-main](http://offenedaten.frankfurt.de/dataset/daten-des-haushaltsplans-2017-der-stadt-frankfurt-am-main)
+Es findet sich der Haushaltsplan der Stadt Frankfurt am Main, basierend auf den Daten hier: http://offenedaten.frankfurt.de/dataset/daten-des-haushaltsplans-2017-der-stadt-frankfurt-am-main
