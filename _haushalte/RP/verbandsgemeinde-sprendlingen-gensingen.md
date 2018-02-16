@@ -2,6 +2,7 @@
 _id: 31a72fb0-1264-11e8-baa8-9788832e013f
 state: RP
 name: Verbandsgemeinde Sprendlingen-Gensingen
+url: /haushalt/RP/Verbandsgemeinde-Sprendlingen-Gensingen
 text: >-
   Haushaltsansätze der Verbandsgemeinde Sprendlingen-Gensingen. Dieser Haushalt
   zeigt die Aufwendungen und Erträge des Haushaltsjahres.
