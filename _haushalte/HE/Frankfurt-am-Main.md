@@ -52,10 +52,6 @@ config: |-
         "label": "Haushaltsjahr",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": 2015,
             "label": 2015
           },
@@ -92,10 +88,6 @@ config: |-
         "label": "Ertrag / Aufwand",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": "Aufwendungen",
             "label": "Aufwendungen"
           },
@@ -116,10 +108,6 @@ config: |-
         "label": "Haushalt",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": "Plan",
             "label": "Plan"
           },
@@ -138,4 +126,4 @@ config: |-
 date: '2018-02-16T15:08:53.608Z'
 slug: frankfurt
 ---
-Es findet sich der Haushaltsplan der Stadt Frankfurt am Main, basierend auf den Daten hier: http://offenedaten.frankfurt.de/dataset/daten-des-haushaltsplans-2017-der-stadt-frankfurt-am-main
+Es findet sich der Haushaltsplan der Stadt Frankfurt am Main, basierend auf den Daten hier: [http://offenedaten.frankfurt.de/dataset/daten-des-haushaltsplans-2017-der-stadt-frankfurt-am-main](http://offenedaten.frankfurt.de/dataset/daten-des-haushaltsplans-2017-der-stadt-frankfurt-am-main)
