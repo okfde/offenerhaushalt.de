@@ -89,10 +89,10 @@ config: |-
     },
     "level": "land",
     "state": "NW",
-    "text": "Dies ist der Planhaushalt 2018 für die Gemeinde Stadtlohn. ",
+    "text": " ",
     "name": "NW"
   }
 date: '2018-02-19T09:30:17.998Z'
 slug: nw
 ---
-undefined
+Dies ist der Planhaushalt 2018 für die Gemeinde Stadtlohn.
