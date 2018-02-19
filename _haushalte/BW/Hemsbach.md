@@ -56,10 +56,14 @@ config: |-
         "ref": "date_2",
         "type": "integer",
         "default": true,
-        "defaultValue": "",
-        "defaultLabel": "2018",
+        "defaultValue": "2018",
+        "defaultLabel": "All",
         "label": "Jahr",
         "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
           {
             "value": 2011,
             "label": 2011
@@ -100,10 +104,14 @@ config: |-
         "ref": "direction_2",
         "type": "string",
         "default": true,
-        "defaultValue": "",
-        "defaultLabel": "Ausgaben",
+        "defaultValue": "Ausgaben",
+        "defaultLabel": "All",
         "label": "Richtung",
         "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
           {
             "value": "Ausgaben",
             "label": "Ausgaben"
@@ -121,9 +129,13 @@ config: |-
         "type": "string",
         "default": true,
         "defaultValue": "",
-        "defaultLabel": "Haushaltsansatz",
+        "defaultLabel": "All",
         "label": "Status",
         "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
           {
             "value": "Haushaltsansatz",
             "label": "Haushaltsansatz"
@@ -143,6 +155,5 @@ config: |-
 date: '2018-01-29T08:26:28.533Z'
 slug: hemsbach
 ---
- Der Haushalt der Jahre 2011 - 2018
-  Das Original kann hier eingesehen werden:
-  https://fragdenstaat.de/files/foi/81784/SKMBT_C554e18012212250.pdf
+Der Haushalt der Jahre 2011 - 2018
+Das Original kann [hier](https://fragdenstaat.de/files/foi/81784/SKMBT_C554e18012212250.pdf) eingesehen werden. Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren.
