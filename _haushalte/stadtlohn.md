@@ -1,9 +1,9 @@
 ---
 _id: 7f5bf0b0-1557-11e8-baa8-9788832e013f
 state: NW
-name: NW
+name: Stadtlohn
 text: Dies ist der Planhaushalt 2018 für die Gemeinde Stadtlohn.
-level: land
+level: kommune
 config: |-
   {
     "datapackage": "a6a16b964a7e784f99adecc47f26318a:stadtlohn-neu",
@@ -93,6 +93,6 @@ config: |-
     "name": "NW"
   }
 date: '2018-02-19T09:30:17.998Z'
-slug: nw
+slug: stadtlohn
 ---
 Dies ist der Planhaushalt 2018 für die Gemeinde Stadtlohn.
