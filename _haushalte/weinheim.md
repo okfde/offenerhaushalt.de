@@ -57,10 +57,6 @@ config: |-
         "label": "Richtung",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": "Aufwendungen",
             "label": "Aufwendungen"
           },
@@ -81,10 +77,6 @@ config: |-
         "label": "Art",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": "Plan",
             "label": "Plan"
           }
@@ -101,10 +93,6 @@ config: |-
         "label": "Jahr",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": 2018,
             "label": 2018
           }
@@ -119,4 +107,7 @@ config: |-
 date: '2018-02-19T06:49:16.052Z'
 slug: weinheim
 ---
-undefined
+  Das Original findet sich auf dieser
+  [Website](http://www.weinheim.de/,Lde/Startseite/Buergerservice/Staedtische+Finanzen+_+Haushalt.html).
+  Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die
+  Validität nicht zu 100% garantieren.
