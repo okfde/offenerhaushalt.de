@@ -57,7 +57,7 @@ config: |-
         "type": "integer",
         "default": true,
         "defaultValue": "",
-        "defaultLabel": "All",
+        "defaultLabel": "2018",
         "label": "Jahr",
         "values": [
           {
@@ -101,7 +101,7 @@ config: |-
         "type": "string",
         "default": true,
         "defaultValue": "",
-        "defaultLabel": "All",
+        "defaultLabel": "Ausgaben",
         "label": "Richtung",
         "values": [
           {
@@ -121,7 +121,7 @@ config: |-
         "type": "string",
         "default": true,
         "defaultValue": "",
-        "defaultLabel": "All",
+        "defaultLabel": "Haushaltsansatz",
         "label": "Status",
         "values": [
           {
