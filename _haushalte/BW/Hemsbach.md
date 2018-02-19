@@ -61,10 +61,6 @@ config: |-
         "label": "Jahr",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": 2011,
             "label": 2011
           },
@@ -109,10 +105,6 @@ config: |-
         "label": "Richtung",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": "Ausgaben",
             "label": "Ausgaben"
           },
@@ -132,10 +124,6 @@ config: |-
         "defaultLabel": "All",
         "label": "Status",
         "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
           {
             "value": "Haushaltsansatz",
             "label": "Haushaltsansatz"
