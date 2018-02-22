@@ -39,4 +39,4 @@ config: |-
 date: '2018-02-06T18:45:40.871Z'
 slug: asta-uni-wuppertal
 ---
-undefined
+Der Haushalt ASTA Uni Wuppertal - Einnahmen
