@@ -1,19 +1,19 @@
 ---
-_id: 31a72fb0-1264-11e8-baa8-9788832e013f
+_id: 174ab790-1890-11e8-baa8-9788832e013f
 state: RP
 name: Verbandsgemeinde Sprendlingen-Gensingen
 text: >-
-  Haushaltsansätze der Verbandsgemeinde Sprendlingen-Gensingen. Dieser Haushalt
-  zeigt die Aufwendungen und Erträge des Haushaltsjahres.
+  Haushaltsansätze der Verbandsgemeinde Sprendlingen-Gensingen für das Jahr 2018
+  (Aufwand / Ertrag)
 level: kommune
 config: |-
   {
-    "datapackage": "6151bbfc6dacfa0e18c929ec0392c652:hhvhsg2346",
+    "datapackage": "6151bbfc6dacfa0e18c929ec0392c652:hhpvgsg201801",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
-        "url": "fachbereiche_produkte_konten",
-        "label": "Fachbereiche / Produkte / Konten"
+        "url": "fachbereiche_stabsstellen",
+        "label": "Fachbereiche / Stabsstellen"
       }
     ],
     "value": [
@@ -41,7 +41,7 @@ config: |-
         "default": true,
         "defaultValue": "Aufwand",
         "defaultLabel": "All",
-        "label": "Aufwand / Ertrag",
+        "label": "Budgetrichtung",
         "values": [
           {
             "value": "",
@@ -56,14 +56,34 @@ config: |-
             "label": "Ertrag"
           }
         ]
+      },
+      "Haushaltsjahr": {
+        "name": "date_2.Haushaltsjahr",
+        "label_ref": "date_2.Haushaltsjahr",
+        "ref": "date_2",
+        "type": "integer",
+        "default": true,
+        "defaultValue": 2018,
+        "defaultLabel": "All",
+        "label": "Haushaltsjahr",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": 2018,
+            "label": 2018
+          }
+        ]
       }
     },
+    "text": "Haushaltsansätze der Verbandsgemeinde Sprendlingen-Gensingen für das Jahr 2018 (Aufwand / Ertrag)",
     "level": "kommune",
     "state": "RP",
-    "name": "Verbandsgemeinde Sprendlingen-Gensingen",
-    "text": "Haushaltsansätze der Verbandsgemeinde Sprendlingen-Gensingen. Dieser Haushalt zeigt die Aufwendungen und Erträge des Haushaltsjahres."
+    "name": "Verbandsgemeinde Sprendlingen-Gensingen"
   }
-date: '2018-02-15T15:23:37.609Z'
+date: '2018-02-23T11:52:58.207Z'
 slug: verbandsgemeinde-sprendlingen-gensingen
 ---
-undefined
+
