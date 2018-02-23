@@ -86,4 +86,4 @@ config: |-
 date: '2018-02-23T11:52:58.207Z'
 slug: verbandsgemeinde-sprendlingen-gensingen
 ---
-undefined
+
