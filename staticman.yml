@@ -1,6 +1,6 @@
 budget:
   allowedFields     : ['config', 'state', 'name', 'level', 'text']
-  branch            : "dev"
+  branch            : "gh-pages"
   commitMessage     : "New budget."
   filename          : "{fields.slug}"
   format            : "frontmatter"
