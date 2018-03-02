@@ -6,7 +6,7 @@ text: Haushalt
 level: kommune
 config: |-
   {
-    "datapackage": "a6a16b964a7e784f99adecc47f26318a:krefeld",
+    "datapackage": "a6a16b964a7e784f99adecc47f26318a:krefeldzwei",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
