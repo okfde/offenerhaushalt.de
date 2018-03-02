@@ -1,11 +1,12 @@
 ---
-_id: d7a76060-e357-11e7-bde9-99b7584a705b
+_id: 9adc1c20-1e30-11e8-baa8-9788832e013f
 state: BE
-name: Berlin
+name: BE
+text: Haushalt
 level: land
 config: |-
   {
-    "datapackage": "a6a16b964a7e784f99adecc47f26318a:berlin_16_17_clean",
+    "datapackage": "a6a16b964a7e784f99adecc47f26318a:berlin-berlin",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
@@ -45,9 +46,9 @@ config: |-
         "description": ""
       },
       {
-        "label": "pro Einwohner (3.520.031 in 2015)",
-        "number": "3520031",
-        "description": "p. E. "
+        "label": "Pro Einwohner (3.574.830 in 2016)",
+        "number": "3574830 ",
+        "description": "p. E."
       }
     ],
     "filters": {
@@ -57,7 +58,7 @@ config: |-
         "ref": "date_2",
         "type": "integer",
         "default": true,
-        "defaultValue": 2016,
+        "defaultValue": 2018,
         "defaultLabel": "All",
         "label": "Jahr",
         "values": [
@@ -66,12 +67,28 @@ config: |-
             "label": "All"
           },
           {
+            "value": 2014,
+            "label": 2014
+          },
+          {
+            "value": 2015,
+            "label": 2015
+          },
+          {
             "value": 2016,
             "label": 2016
           },
           {
             "value": 2017,
             "label": 2017
+          },
+          {
+            "value": 2018,
+            "label": 2018
+          },
+          {
+            "value": 2019,
+            "label": 2019
           }
         ]
       },
@@ -81,106 +98,151 @@ config: |-
         "ref": "direction_2",
         "type": "string",
         "default": true,
-        "defaultValue": "Ausgabetitel",
+        "defaultValue": "Ausgaben",
         "defaultLabel": "All",
-        "label": "Budget Richtung",
+        "label": "Titelart",
         "values": [
           {
             "value": "",
             "label": "All"
           },
           {
-            "value": "Ausgabetitel",
-            "label": "Ausgabetitel"
+            "value": "Ausgaben",
+            "label": "Ausgaben"
           },
           {
-            "value": "Einnahmetitel",
-            "label": "Einnahmetitel"
+            "value": "Einnahmen",
+            "label": "Einnahmen"
           }
         ]
       },
-      "Bereich": {
-        "name": "fin_source_Bereich.Bereich",
-        "label_ref": "fin_source_Bereich.Bereichsbezeichnung",
-        "ref": "fin_source_Bereich",
+      "BetragTyp": {
+        "name": "phase_2.BetragTyp",
+        "label_ref": "phase_2.BetragTyp",
+        "ref": "phase_2",
+        "type": "string",
+        "default": true,
+        "defaultValue": "Plan",
+        "defaultLabel": "All",
+        "label": "Betrag-Typ",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": "Ist",
+            "label": "Ist"
+          },
+          {
+            "value": "Plan",
+            "label": "Plan"
+          }
+        ]
+      },
+      "Typ": {
+        "name": "fin_source_2.Typ",
+        "label_ref": "fin_source_2.Bezeichnung",
+        "ref": "fin_source_2",
         "type": "string",
         "default": true,
         "defaultValue": "",
         "defaultLabel": "All",
-        "label": "Bezirk",
+        "label": "Bereich",
         "values": [
           {
             "value": "",
             "label": "All"
           },
           {
-            "value": "1 - 30",
+            "value": "1",
+            "label": "Senatsverwaltungen"
+          },
+          {
+            "value": "2",
+            "label": "Verfassungsorgane"
+          },
+          {
+            "value": "3",
+            "label": "Bezirke"
+          }
+        ]
+      },
+      "Bereich": {
+        "name": "expenditure_type_2.Bereich",
+        "label_ref": "expenditure_type_2.Bereichsbezeichnung",
+        "ref": "expenditure_type_2",
+        "type": "string",
+        "default": true,
+        "defaultValue": "",
+        "defaultLabel": "All",
+        "label": "Bezirke",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": "30",
             "label": "Hauptverwaltung"
           },
           {
-            "value": "2 - 30",
-            "label": "Hauptverwaltung"
-          },
-          {
-            "value": "3 - 31",
+            "value": "31",
             "label": "Mitte"
           },
           {
-            "value": "3 - 32",
+            "value": "32",
             "label": "Friedrichshain-Kreuzberg"
           },
           {
-            "value": "3 - 33",
+            "value": "33",
             "label": "Pankow"
           },
           {
-            "value": "3 - 34",
+            "value": "34",
             "label": "Charlottenburg-Wilmersdorf"
           },
           {
-            "value": "3 - 35",
+            "value": "35",
             "label": "Spandau"
           },
           {
-            "value": "3 - 36",
+            "value": "36",
             "label": "Steglitz-Zehlendorf"
           },
           {
-            "value": "3 - 37",
+            "value": "37",
             "label": "Tempelhof-Schöneberg"
           },
           {
-            "value": "3 - 38",
+            "value": "38",
             "label": "Neukölln"
           },
           {
-            "value": "3 - 39",
+            "value": "39",
             "label": "Treptow-Köpenick"
           },
           {
-            "value": "3 - 40",
+            "value": "40",
             "label": "Marzahn-Hellersdorf"
           },
           {
-            "value": "3 - 41",
+            "value": "41",
             "label": "Lichtenberg"
           },
           {
-            "value": "3 - 42",
+            "value": "42",
             "label": "Reinickendorf"
           }
         ]
       }
     },
-    "level": "kommune",
+    "level": "land",
     "state": "BE",
-    "text": "Das ist der neue Datensatz für Berlin",
-    "name": "Berlin"
+    "name": "BE",
+    "text": "Haushalt"
   }
-slug: berlin
+date: '2018-03-02T15:44:34.274Z'
+slug: be
 ---
-Die Quelle für den visualisierten Datensatz findet sich auf dieser [Webseite](https://www.berlin.de/sen/finanzen/haushalt/haushaltsplan/artikel.5697.php). Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht garantieren.
-
-Der Haushaltsplan dient der Feststellung und Deckung des Finanzbedarfs, der zur Erfüllung der Aufgaben Berlins im jeweiligen Zeitraum notwendig ist. Er bildet die Zweistufigkeit der Berliner Verwaltung ab. Der Haushaltsplan besteht deshalb aus den Einzelplänen der Senatsverwaltungen (Einzelpläne 03 bis 15) und der Bezirkshaushaltspläne (jeweils Einzelpläne 31 bis 59). Darüber hinaus beinhaltet er die Einnahmen und Ausgaben der durch die Verfassung von Berlin bestimmten Organe Abgeordnetenhaus (Einzelplan 01), Verfassungsgerichtshof (Einzelplan 02), Rechnungshof (Einzelplan 20) und des Beauftragten für Datenschutz und Informationsfreiheit (Einzelplan 21). Zuweisungen an und Programme für die Bezirke sowie Landesweite Personal- und Finanzangelegenheiten werden zentral in den Einzelpläne 27 und 29 abgebildet.
-
-
+undefined
