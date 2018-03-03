@@ -20,9 +20,6 @@ baseurl: ''
 # the base hostname & protocol for your site, e.g. http://example.com
 url: 'https://offenerhaushalt.de'
 
-twitter_username: okfde
-github_username:  okfde
-
 # Haushalte
 collections:
   budget:
