@@ -10,25 +10,36 @@ Die Open Knowledge Foundation Deutschland ist als gemeinnützig anerkannt [Nachw
 
 Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträge ist:
 
-Kontoinhaber
-: Open Knowledge Foundation Deutschland e.V.
+<table class="table table-condensed" style="max-width: 700px;">
+  <tr>
+    <th>Kontoinhaber</th>
+    <td>Open Knowledge Foundation Deutschland e.V.</td>
+  </tr>
+  <tr>
+    <th>Kontonummer</th>
+    <td>3009670</td>
+  </tr>
+  <tr>
+    <th>BLZ</th>
+    <td>830 944 95 (Ethikbank)</td>
+  </tr>
+  <tr>
+    <th>IBAN</th>
+    <td>DE89830944950003009670</td>
+  </tr>
+  <tr>
+    <th>BIC</th>
+    <td>GENODEF1ETK</td>
+  </tr>
+  <tr>
+    <th></th>
+    <td></td>
+  </tr>
+</table>
 
-Kontonummer
-: 3009670
-
-BLZ
-: 830 944 95 (Ethikbank)
-
-IBAN
-: DE89830944950003009670
-
-BIC
-: GENODEF1ETK
-
-Für Spenden bis zu 200 Euro jährlich genügt der Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem 
+Für Spenden bis zu 200 Euro jährlich genügt der Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem
 [Vereinfachten Zuwendungsnachweis](https://okfn.de/files/verein/OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf).
 
-  <br>
 
 ## Spenden über Betterplace
 
@@ -45,4 +56,3 @@ Spenden und Daueraufträge sind nur eine Möglichkeit, uns zu unterstützen. Wir
 Wenn Sie mehr darüber wissen wollen, wie wir uns finanzieren und wie wir investieren, kannst das [hier](https://okfn.de/verein/) nachgelesen werden.
 
 Wir bedanken uns für Ihre Unterstützung!
-
