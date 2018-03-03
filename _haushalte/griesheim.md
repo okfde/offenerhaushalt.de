@@ -46,4 +46,6 @@ config: |-
 date: '2018-03-02T21:10:30.860Z'
 slug: griesheim
 ---
-undefined
+
+Doppischer Ergebnis-Haushalt der Stadt Griesheim (aus öffentlich zugänglichen) PDFs befreit
+

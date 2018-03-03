@@ -207,4 +207,5 @@ config: |-
 date: '2018-03-01T10:14:38.977Z'
 slug: vg-alsenz-obermoschel
 ---
-undefined
+Haushaltsplan 2018
+
