@@ -150,6 +150,7 @@ hr {
   display: none;
 }
 
+
 @media (min-width: 768px) {
   .top-message {
     float: left;
@@ -163,6 +164,7 @@ hr {
   .navbar-top .nav.navbar-nav > li {
     display: block;
   }
+
 }
 
 @media (min-width: 1024px) {
@@ -195,7 +197,7 @@ hr {
     margin-right: 7px;
 
     & > a {
-      background-color: #f1f3f4;
+			background-color: inherit;
       padding: 4px 10px;
       font-family: Roboto;
       font-size: 15px;

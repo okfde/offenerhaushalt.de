@@ -19,22 +19,25 @@ den Austausch über einen Datenstandard.
 
 ### Tabellenformat
 
-Haushaltsdaten werden für gewöhnlich in tabellarischer Form abgelegt. Dabei kommt oft ein Format wie das folgende zum Einsatz:
-PostenID, Klassifikation1, Klassifikation2, Klassifikation Code, Bezeichnung, Ist20NN, Ist20NN, Soll20NN
+Haushaltsdaten werden für gewöhnlich in tabellarischer Form abgelegt. 
+Ein geeignetes Format zum Import in OffenerHaushalt stellt jeden einzelnen Posten im Haushalt mit je einem einzelnen Betrag als eine Zeile in einer CSV Datei dar. Im [long Format](https://de.wikipedia.org/wiki/Wide-Format_und_Long-Format) sieht dann jede Zeile wie folgt aus:
 
-Wobei "Klassifikation" ein Kategorienschema wie den Funktionenplan oder Produktgruppen o.ä. meint.
-Ein solches Format ist grundsätzlich zum Import in OffenerHaushalt geeignet. Vereinfacht wird der Import durch die Bereitstellung in einer leicht denormalisierten Form, in der jeder Betrag einer einzelnen Zeile entspricht [long Format](https://de.wikipedia.org/wiki/Wide-Format_und_Long-Format):
-
-Posten ID, Klassifikation 1, Klassifikation 2, Klassifikation Code, Bezeichnung, Soll Oder Ist, Jahr, Betrag
+Posten ID, Klassifikation, Produkt, Produkt ID, Budget Richtung, Jahr, Betrag, Betrag Typ
+![Bild Datenstandard](https://github.com/okfde/offenerhaushalt.de/blob/gh-pages/static/img/example_table.png)
 
 ### Enthaltene Informationen:
-* Bezeichnungen der Haushaltstitel auf allen Ebenen
-* Zugehörige Codes (Zahlen) für Bezeichnungen
+* Posten ID: Eindeutiger ID Code des Haushaltsposten
+* Klassifikation: Bezeichnungen der Haushaltstitel auf allen Ebenen
+  * z.B. Produktbereich und Produktgruppe
+* Zugehörige ID Codes (Zahlen) für Bezeichnungen
   * Obere Klassifikationen, die sich aus einer niederen ableiten lassen, müssen nicht einzeln angegeben werden (so reicht die Funktionsziffer "541", die Klassifikationen "5" und "54" sind redundant)
-* Der Betrag als Zahl
-* Identifikation der Art des Betrages, “Plan” oder “Ist”
-* Eindeutige Identifikation von Einnahmen und Ausgaben
-* Zeitpunkt: Um welches Jahr handelt es sich?
+  * Klassifikationsbeispiel: Produktbereich, Produktbereich ID, Produktgruppe, Produktgruppe ID
+* Produkt: Bezeichnung des Haushaltsposten
+* Produkt ID: Eindeutige Nummer des Haushaltsposten
+* Budget Richtung: "Aufwendung" oder "Ertrag"
+* Jahr: Haushaltsjahr
+* Betrag: Der Betrag als Zahl (siehe Details unten)
+* Betrag Typ: "Plan" oder "Ist"
 
 ### Betrag:
 * Beträge als richtige Zahlen definiert (Datentyp: float)
@@ -47,7 +50,7 @@ Posten ID, Klassifikation 1, Klassifikation 2, Klassifikation Code, Bezeichnung,
 
 ### Struktur:
 * Erste Zeile: Namen der Spalte
-* Zweite Zeile: direkt die Information
+* Alle weiteren Zeilen: direkt die Haushaltsposteninformation
 * [Long Format](https://de.wikipedia.org/wiki/Wide-Format_und_Long-Format) d.h. genau ein Zeitpunkt und ein Betrag pro Zeile
 
 ### Format:
