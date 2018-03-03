@@ -6,16 +6,16 @@ OffenerHaushalt ist ein Community-Projekt der Open Knowledge Foundation Germany,
 
 ## Wie kann ich mitmachen?
 
-Die Aufgaben sind vielfältig, es gibt sowohl inhaltliche, technische und politische Arbeit zu erledigen. Sie können Haushaltsdaten aus der Verwaltung besorgen, diese aufbereiten und hochladen, Erklärungen zu den Haushalten verfassen oder die Seite weiterentwicklen. 
+Die Aufgaben sind vielfältig, es gibt sowohl inhaltliche, technische und politische Arbeit zu erledigen. Sie können Haushaltsdaten aus der Verwaltung besorgen, diese aufbereiten und hochladen, Erklärungen zu den Haushalten verfassen oder die Seite weiterentwicklen.
 
-* **Datensammlung:** Treten Sie in Kontakt mit Ihrer Landes-, Kreis- oder Kommunalregierung (zum Beispiel über [FragdenStaat.de](https://fragdenstaat.de/) und bitten Sie um die Bereitstellung maschinenlesbarer Haushaltsdaten. Wichtig ist dabei, dass die Daten in einem Tabellenformat wie CSV oder Microsoft Excel vorliegen, und nicht als PDF-Dokument. 
+* **Datensammlung:** Treten Sie in Kontakt mit Ihrer Landes-, Kreis- oder Kommunalregierung (zum Beispiel über [FragdenStaat.de](https://fragdenstaat.de/) und bitten Sie um die Bereitstellung maschinenlesbarer Haushaltsdaten. Wichtig ist dabei, dass die Daten in einem Tabellenformat wie CSV oder Microsoft Excel vorliegen, und nicht als PDF-Dokument.
 
 * **Haushaltsdaten säubern:**
 Um unserer Struktur gerecht zu werden, müssen die Haushaltsdateien häufig noch angepasst werden. Dies lässt sich mit einführenden Programmierkenntnissen einfach erledigen. Detailierte Anweisungen zum Format finden Sie [hier](https://offenerhaushalt.de/hilfestellung/1/).
 
-* **Haushaltdaten hochladen:** OffenerHaushalt greift auf eine [Datenbank](https://openspending.org/packager/) zu, um die Haushalte darzustellen. Dort müssen die Daten hochgeladen und entsprechend Ihrer [Struktur](https://offenerhaushalt.de/hilfestellung/3/) zugeordnet werden. 
+* **Haushaltdaten hochladen:** OffenerHaushalt greift auf eine [Datenbank](https://openspending.org/packager/) zu, um die Haushalte darzustellen. Dort müssen die Daten hochgeladen und entsprechend Ihrer [Struktur](https://offenerhaushalt.de/hilfestellung/3/) zugeordnet werden.
  
-* **Visualisierung und Analyse:** Sobald Sie einen Haushalt in der Datenbank bereitgestellt haben, können Sie diesen mit der zugehörigen [ID]() auf OffenerHaushalt.de hinzufügen. Sie können die Daten mit einer Skala versehen und bspw. die Zahlen pro Einwohner oder Erwerbstätigen Personen analysieren. Außerdem können Sie die Haushaltsdaten in einem Text erklären (unterhalb der Visualisierung). 
+* **Visualisierung und Analyse:** Sobald Sie einen Haushalt in der Datenbank bereitgestellt haben, können Sie diesen mit der zugehörigen [ID]() auf OffenerHaushalt.de hinzufügen. Sie können die Daten mit einer Skala versehen und bspw. die Zahlen pro Einwohner oder Erwerbstätigen Personen analysieren. Außerdem können Sie die Haushaltsdaten in einem Text erklären (unterhalb der Visualisierung).
 
 * **Weiterentwicklung:** Die Projektseite von OffenerHaushalt ist natürlich freie Software (MIT-lizenziert) und kann durch jeden [weiterentwickelt](https://github.com/okfde/offenerhaushalt.de) werden. Wir freuen uns über neue Funktionen, Analysemethoden oder Visualisierungsformen. Dabei lohnt auch der Blick in den [Issue Tracker](https://github.com/okfde/offenerhaushalt.de/issues).
 
