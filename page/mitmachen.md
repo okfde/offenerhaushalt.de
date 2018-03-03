@@ -1,6 +1,5 @@
 ---
 title: Mitmachen
-layout: page
 ---
 
 OffenerHaushalt ist ein Community-Projekt der Open Knowledge Foundation Germany, das heißt die Arbeit wird zu großen Teilen von Freiwilligen erledigt. Daher sind wir auf Ihre Unterstützung angewiesen: entweder durch Ihre Mithilfe, oder durch [Spenden](https://offenerhaushalt.de/page/intro.html), die den Betrieb der Seite ermöglichen.

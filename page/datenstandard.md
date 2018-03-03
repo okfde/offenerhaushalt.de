@@ -1,6 +1,5 @@
 ---
 title: Datenstandard
-layout: page
 permalink: /datenstandard/
 redirect_from:
   - /page/datenstandard.html
