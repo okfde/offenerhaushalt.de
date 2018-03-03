@@ -1,11 +1,7 @@
 ---
-    layout: budget2
-    name: Neu
-    level: kommune
-    state: BY
-    slug: Neu
-
-    ---
-
-
-    
+layout: budget2
+name: Neu
+level: kommune
+state: BY
+slug: Neu
+---

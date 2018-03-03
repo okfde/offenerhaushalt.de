@@ -1,11 +1,7 @@
 ---
-    layout: budget2
-    name: Uebigau
-    level: kommune
-    state: BB
-    slug: Uebigau
-
-    ---
-
-
-    
+layout: budget2
+name: Uebigau
+level: kommune
+state: BB
+slug: Uebigau
+---

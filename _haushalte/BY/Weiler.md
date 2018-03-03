@@ -1,11 +1,7 @@
 ---
-    layout: budget2
-    name: Weiler
-    level: kommune
-    state: BY
-    slug: Weiler
-
-    ---
-
-
-    
+layout: budget2
+name: Weiler
+level: kommune
+state: BY
+slug: Weiler
+---

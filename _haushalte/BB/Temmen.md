@@ -1,11 +1,7 @@
 ---
-    layout: budget2
-    name: Temmen
-    level: kommune
-    state: BB
-    slug: Temmen
-
-    ---
-
-
-    
+layout: budget2
+name: Temmen
+level: kommune
+state: BB
+slug: Temmen
+---

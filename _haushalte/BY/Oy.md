@@ -1,11 +1,7 @@
 ---
-    layout: budget2
-    name: Oy
-    level: kommune
-    state: BY
-    slug: Oy
-
-    ---
-
-
-    
+layout: budget2
+name: Oy
+level: kommune
+state: BY
+slug: Oy
+---
