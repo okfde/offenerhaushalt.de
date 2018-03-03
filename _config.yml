@@ -13,9 +13,8 @@ title: OffenerHaushalt
 
 email: info@okfn.de
 
-description: ''
-
 # the subpath of your site, e.g. /blog
+description: 'Haushaltsdaten von Bund, Ländern und Kommunen einfach verständlich präsentieren.'
 baseurl: ''
 
 # the base hostname & protocol for your site, e.g. http://example.com
