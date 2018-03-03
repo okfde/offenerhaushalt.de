@@ -1,6 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+.DS_Store
 bower_components
 Gemfile
 _haushalte/BY/gilching.md
