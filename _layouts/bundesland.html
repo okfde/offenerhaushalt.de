@@ -119,7 +119,18 @@ layout: city
     <div class="row">
       <div class="cities-message col-xs-12 col-md-12">
         {% assign kommunen_nummer = site.data.kommunen[page.code] | size %}
-        <h1>{{ page.land }} hat {{ kommunen_nummer }} Kommunen. {% if cities_size > 0 %}{% if cities_size == 1 %}Wir haben erst einen Haushalt. {% else %}Wir haben aber erst {{ cities_size }} Haushalte.{% endif %}{% else %}Wir haben noch keine Haushalte.{% endif %}</h1>
+        <h1>
+          {{ page.land }} hat {{ kommunen_nummer }} Kommunen.
+          {% if cities_size > 0 %}
+            {% if cities_size == 1 %}
+              Wir haben erst einen Haushalt.
+            {% else %}
+              Wir haben aber erst {{ cities_size }} Haushalte.
+            {% endif %}
+          {% else %}
+            Wir haben noch keine Haushalte.
+          {% endif %}
+        </h1>
         <p>Helfen Sie mit einen weiteren Haushalt zu veröffentlichen und fragen ihn bei der Behörde an!</p>
       </div>
    </div>
