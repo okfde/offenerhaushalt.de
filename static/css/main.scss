@@ -150,6 +150,7 @@ hr {
   display: none;
 }
 
+
 @media (min-width: 768px) {
   .top-message {
     float: left;
@@ -163,6 +164,7 @@ hr {
   .navbar-top .nav.navbar-nav > li {
     display: block;
   }
+
 }
 
 @media (min-width: 1024px) {
@@ -193,6 +195,10 @@ hr {
     display: inline-block;
     margin: 0;
     margin-right: 7px;
+
+		& > .github {
+			background-color: inherit;
+		}
 
     & > a {
       background-color: #f1f3f4;
