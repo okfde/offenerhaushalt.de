@@ -7,6 +7,7 @@
     {% for haushalt in site.budget %}
       {% if haushalt.skip == true %}{% continue %}{% endif %}
       {% if haushalt.layout != 'budget2' %}{% continue %}{% endif %}
+      {% unless forloop.first %},{% endunless %}
       {
         "name": "{{ haushalt.name }}",
         "state": "{{ haushalt.state }}",
@@ -15,7 +16,6 @@
         "tagline": "{{ haushalt.tagline }}"{% if haushalt.coordinates %},
         "coordinates": [{{haushalt.coordinates.lng}}, {{haushalt.coordinates.lat}}]{% endif %}
       }
-      {% unless forloop.last %},{% endunless %}
     {% endfor %}
     ],
     "baseurl": "{{ relative-baseurl }}"
