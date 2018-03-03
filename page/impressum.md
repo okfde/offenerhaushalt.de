@@ -1,19 +1,22 @@
 ---
 title: Impressum
+permalink: /impressum/
+redirect_from:
+  - /page/impressum.html
 ---
 
 ## Kontakt
 
 Für allgemeine Fragen, Pressekontakte oder persönliche Anfragen können Sie uns über info@offenerhaushalt.de erreichen. Für die Mitarbeit an der Seite selbst sowie am Datenstandard steht die **[Mailingliste
 Offener-Haushalt](http://lists.okfn.org/mailman/listinfo/offener-haushalt)**
-bereit. 
+bereit.
 
 #### Hinweis zu ehrenamtlicher Arbeit
 
 Obwohl wir uns immer über Ideen und Vorschläge zu diesem Angebot freuen,
 bitten wir daran, die Seite als das Resultat ehrenamtlicher
 Arbeit zu begreifen. Viele Ideen können mangels Ressourcen gar nicht
-oder nur verzögert umgesetzt werden. Sie können uns über ["Spenden"](https://offenerhaushalt.de/page/spenden.html) unterstützen. 
+oder nur verzögert umgesetzt werden. Sie können uns über ["Spenden"](https://offenerhaushalt.de/page/spenden.html) unterstützen.
 
 Falls Sie uns bei der Arbeit helfen wollen, bitten wir Sie entweder an der
 Seite [mit zu arbeiten](/page/mitmachen.html), oder [unseren Trägerverein mit einer Spende zu
@@ -54,4 +57,3 @@ Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle 
 verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht
 zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend
 entfernen.
-
