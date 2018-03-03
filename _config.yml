@@ -91,7 +91,8 @@ defaults:
       path: "_embed"
     values:
       layout: embed
-#
-#
+
 # We use the embed plugin here to generate the same pages
 # with the embed layout again
+plugins:
+  - jekyll-redirect-from
