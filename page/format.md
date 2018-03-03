@@ -1,5 +1,8 @@
 ---
 title: Anforderung für Haushaltsdaten
+permalink: /format/
+redirect_from:
+  - /page/format.html
 ---
 
 ## Dateiformate

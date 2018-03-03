@@ -1,5 +1,8 @@
 ---
 title: Impressum
+permalink: /impressum/
+redirect_from:
+  - /page/impressum.html
 ---
 
 ## Kontakt
