@@ -151,10 +151,6 @@ config: |-
             "label": "Verfassungsorgane"
           },
           {
-            "value": "30",
-            "label": "Hauptverwaltung"
-          },
-          {
             "value": "31",
             "label": "Mitte"
           },
