@@ -9,7 +9,9 @@ of the German government.
 
 OffenerHaushalt is now based on [jekyll](https://jekyllrb.com/).
 
-Except from the embed pages, which get created by `_plugins/embed.rb`, it should be complete buildable by GitHub Pages.
+Building all the `_haushalte` files takes quite long. For local development you might want to temporary remove most of those files and just keep a few to work with.
+
+ATM the `_plugins/embed.rb` builds the `_haushalte`-collection three times which results in special cases for the collection-array.
 
 The [typical commands](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) for jekyll based sites apply here too:
 
@@ -17,6 +19,7 @@ Install Dependencies with `bundle install`.
 
 Build the site with `bundle exec jekyll serve`.
 
+The page '[Liquid for designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)' is a good reference to look up the template language. [Debugging variables](https://stackoverflow.com/a/34049498) is also helpful.
 
 ### Adding a new budget
 
