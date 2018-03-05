@@ -6,7 +6,7 @@ text: Haushalt
 level: land
 config: |-
   {
-    "datapackage": "a6a16b964a7e784f99adecc47f26318a:berlin-berlin",
+    "datapackage": "a6a16b964a7e784f99adecc47f26318a:berlin-be",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
@@ -63,10 +63,6 @@ config: |-
         "label": "Jahr",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": 2014,
             "label": 2014
           },
@@ -103,10 +99,6 @@ config: |-
         "label": "Titelart",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": "Ausgaben",
             "label": "Ausgaben"
           },
@@ -126,10 +118,6 @@ config: |-
         "defaultLabel": "All",
         "label": "Betrag-Typ",
         "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
           {
             "value": "Ist",
             "label": "Ist"
@@ -161,30 +149,6 @@ config: |-
           {
             "value": "2",
             "label": "Verfassungsorgane"
-          },
-          {
-            "value": "3",
-            "label": "Bezirke"
-          }
-        ]
-      },
-      "Bereich": {
-        "name": "expenditure_type_2.Bereich",
-        "label_ref": "expenditure_type_2.Bereichsbezeichnung",
-        "ref": "expenditure_type_2",
-        "type": "string",
-        "default": true,
-        "defaultValue": "",
-        "defaultLabel": "All",
-        "label": "Bezirke",
-        "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
-          {
-            "value": "30",
-            "label": "Hauptverwaltung"
           },
           {
             "value": "31",
@@ -235,12 +199,13 @@ config: |-
             "label": "Reinickendorf"
           }
         ]
-      }
+      },
     },
     "level": "land",
     "state": "BE",
     "name": "BE",
-    "text": "Haushalt"
+    "text": "Haushalt",
+    "hasBarChart": true
   }
 date: '2018-03-02T15:44:34.274Z'
 slug: be
@@ -248,9 +213,6 @@ slug: be
 
 Die Quelle für den visualisierten Datensatz findet sich auf dieser
 [Webseite](https://www.berlin.de/sen/finanzen/haushalt/haushaltsplan/artikel.5697.php).
-Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die
-Validität nicht garantieren.
-
 
 Der Haushaltsplan dient der Feststellung und Deckung des Finanzbedarfs, der zur
 Erfüllung der Aufgaben Berlins im jeweiligen Zeitraum notwendig ist. Er bildet
