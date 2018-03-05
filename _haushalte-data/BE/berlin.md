@@ -204,7 +204,8 @@ config: |-
     "level": "land",
     "state": "BE",
     "name": "BE",
-    "text": "Haushalt"
+    "text": "Haushalt",
+    "hasBarChart": true
   }
 date: '2018-03-02T15:44:34.274Z'
 slug: be
