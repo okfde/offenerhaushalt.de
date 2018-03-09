@@ -1,7 +1,7 @@
 ---
 _id: 9adc1c20-1e30-11e8-baa8-9788832e013f
 state: BE
-name: BE
+name: Berlin
 text: Haushalt
 level: land
 config: |-
