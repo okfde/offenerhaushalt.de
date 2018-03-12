@@ -19,18 +19,13 @@ den Austausch über einen Datenstandard.
 Haushaltsdaten werden für gewöhnlich in tabellarischer Form abgelegt.
 Ein geeignetes Format zum Import in OffenerHaushalt stellt jeden einzelnen Posten im Haushalt mit je einem einzelnen Betrag als eine Zeile in einer CSV Datei dar. Im [long Format](https://de.wikipedia.org/wiki/Wide-Format_und_Long-Format) sieht dann jede Zeile wie folgt aus:
 
-Posten ID, Klassifikation, Produkt, Produkt ID, Budget Richtung, Jahr, Betrag, Betrag Typ
+Posten ID, Produkt, Produkt ID, Budget Richtung, Jahr, Betrag, Betrag Typ
 ![Bild Datenstandard](https://github.com/okfde/offenerhaushalt.de/blob/gh-pages/static/img/example_table.png)
 
 ### Enthaltene Informationen:
-* Posten ID: Eindeutiger ID Code des Haushaltsposten
-* Klassifikation: Bezeichnungen der Haushaltstitel auf allen Ebenen
-  * z.B. Produktbereich und Produktgruppe
-* Zugehörige ID Codes (Zahlen) für Bezeichnungen
-  * Obere Klassifikationen, die sich aus einer niederen ableiten lassen, müssen nicht einzeln angegeben werden (so reicht die Funktionsziffer "541", die Klassifikationen "5" und "54" sind redundant)
-  * Klassifikationsbeispiel: Produktbereich, Produktbereich ID, Produktgruppe, Produktgruppe ID
-* Produkt: Bezeichnung des Haushaltsposten
-* Produkt ID: Eindeutige Nummer des Haushaltsposten
+* Posten ID: Eindeutige ID pro Zeile, damit es nie "Duplicates" geben kann
+* Produkt: Bezeichnung des Haushaltsposten pro Ebene
+* Produkt ID: Eindeutige Nummer des Haushaltsposten pro Ebene
 * Budget Richtung: "Aufwendung" oder "Ertrag"
 * Jahr: Haushaltsjahr
 * Betrag: Der Betrag als Zahl (siehe Details unten)
