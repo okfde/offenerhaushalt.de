@@ -8,7 +8,7 @@ Um Haushaltspläne bei Offenerhaushalt.de visualisieren zu können, müssen dies
 
 ### Idealtypischer Datensatz
 
-Zur Orientierung und Kommunikation mit zuständigen Verwaltungsmitarbeitern finden Sie hier unseren idealtypischen Datensatz zum [Download](https://github.com/okfde/offenerhaushalt.de/blob/gh-pages/_haushalte-data/standard-datensatz-ohh.csv){:download="standard-datensatz-ohh.csv"}.  
+Zur Orientierung und Kommunikation mit zuständigen Verwaltungsmitarbeitern finden Sie hier unseren idealtypischen Datensatz zum [Download](https://rawgit.com/okfde/offenerhaushalt.de/gh-pages/_haushalte-data/standard-datensatz-ohh.csv){: download="standard-datensatz-ohh.csv"}.  
 Gerne wollen wir gemeinsam mit kommunalen Verwaltungen einen Standard für Haushaltsdaten in Deutschland entwickeln. Sie können dafür mit uns über unsere [Mailingliste](https://lists.okfn.org/mailman/listinfo/offener-haushalt) in den Austausch treten.
 
 Auf Grund der unterschiedlichen verwendeten Software in den kommunalen Verwaltungen, haben wir nicht immer Detailwissen über die jeweiligen Exportfunktionen für Haushaltsdaten. Hier zählen wir auf die Unterstützung von Verwaltungsmitarbeitern: Sie können die Informationen, welche Software sie verwenden, in unsere Liste [hier](https://docs.google.com/spreadsheets/d/12UHEsLjLCMakLiM7Ruj3AJZzRrn70L_32IZu8z29amo/edit#gid=0) eintragen. Dies fördert
