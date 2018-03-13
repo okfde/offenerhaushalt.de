@@ -140,7 +140,7 @@ config: |-
         "values": [
           {
             "value": "",
-            "label": "All"
+            "label": "Alle"
           },
           {
             "value": "1",
