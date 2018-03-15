@@ -5,7 +5,7 @@ budget:
   filename          : "{fields.slug}"
   format            : "frontmatter"
   moderation        : true
-  path              : "_haushalte/{options.slug}"
+  path              : "_haushalte-data/{options.slug}"
   requiredFields    : ['config', 'state', 'name', 'text']
   transforms:
     text            : frontmatterContent
