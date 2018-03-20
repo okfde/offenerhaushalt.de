@@ -1,7 +1,7 @@
 ---
 _id: a3d49570-2b7b-11e8-ad1f-8d4eb113e003
 state: HH
-name: HH
+name: Hamburg
 level: land
 config: |-
   {
@@ -18,8 +18,8 @@ config: |-
         "field": "Betrag.sum",
         "formatOptions": {
           "symbol": "",
-          "decimal": ".",
-          "thousand": ",",
+          "decimal": ",",
+          "thousand": ".",
           "precision": "",
           "format": "%s%v",
           "postfix": "€",
@@ -87,7 +87,7 @@ config: |-
         "ref": "phase_2",
         "type": "string",
         "default": true,
-        "defaultValue": "Ist",
+        "defaultValue": "Soll",
         "defaultLabel": "All",
         "label": "Soll/Ist",
         "values": [
@@ -137,4 +137,4 @@ config: |-
   }
 slug: hh
 ---
-Haushalt
+Das ist der Haushalt für die Hansestadt Hamburg. 
