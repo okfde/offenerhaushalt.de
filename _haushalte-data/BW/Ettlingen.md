@@ -99,4 +99,4 @@ config: |-
 date: '2018-02-25T20:44:59.459Z'
 slug: ettlingen
 ---
-undefined
+

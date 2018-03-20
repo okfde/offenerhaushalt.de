@@ -1,3 +1,11 @@
+/*# sourceMappingURL=src/styles/lib.css.map */
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
 
 .treemap-content {
   max-width: 1200px;
@@ -87,7 +95,7 @@ a {
     text-decoration: none;
 }
 #download {
-  text-align: right;
+  text-align: left;
   margint-top: 5px;
 }
 #download a {
@@ -98,6 +106,19 @@ a {
 #download a:hover {
       color: white;
       background-color: black;
+}
+#table-toggle {
+  height: 80px;
+  margin: 0 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 .table {
   width: 100%;
@@ -169,7 +190,29 @@ a {
   z-index: 10;
   display: block;
 }
-/*# sourceMappingURL=src/styles/lib.css.map *//*! bulma.io v0.4.4 | MIT License | github.com/jgthms/bulma */
+
+.barchart[data-v-4fd63052] {
+  max-height: 300px;
+  margin-bottom: 150px;
+}
+h3[data-v-4fd63052] {
+  margin: 40px 0 0;
+}
+ul[data-v-4fd63052] {
+  list-style-type: none;
+  padding: 0;
+}
+li[data-v-4fd63052] {
+  display: inline-block;
+  margin: 0 10px;
+}
+a[data-v-4fd63052] {
+  color: #42b983;
+}
+.barLevel > h1[data-v-4fd63052] {
+  font-weight: bold;
+}
+/*! bulma.io v0.4.4 | MIT License | github.com/jgthms/bulma */
 @-webkit-keyframes spinAround {
   from {
     -webkit-transform: rotate(0deg);
