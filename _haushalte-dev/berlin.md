@@ -1,12 +1,18 @@
 ---
 _id: 9adc1c20-1e30-11e8-baa8-9788832e013f
 state: BE
-name: BE
+name: Berlin
 text: Haushalt
 level: land
 config: |-
   {
     "datapackage": "a6a16b964a7e784f99adecc47f26318a:berlin-be",
+    'colors': [
+      '#CF3D1E', '#F15623', '#F68B1F', '#FFC60B', '#DFCE21',
+      '#BCD631', '#95C93D', '#48B85C', '#00833D', '#00B48D',
+      '#60C4B1', '#27C4F4', '#478DCB', '#3E67B1', '#4251A3',
+      '#59449B', '#6E3F7C', '#6A246D', '#8A4873', '#EB0080',
+      '#EF58A0', '#C05A89' ],
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
@@ -41,12 +47,12 @@ config: |-
     ],
     "scale": [
       {
-        "label": "Total",
+        "label": "Gesamtsumme",
         "number": 1,
         "description": ""
       },
       {
-        "label": "Pro Einwohner (3.574.830 in 2016)",
+        "label": "Pro Einwohner",
         "number": "3574830 ",
         "description": "p. E."
       }
@@ -135,12 +141,12 @@ config: |-
         "type": "string",
         "default": true,
         "defaultValue": "",
-        "defaultLabel": "All",
+        "defaultLabel": "Alle",
         "label": "Bereich",
         "values": [
           {
             "value": "",
-            "label": "All"
+            "label": "Alle"
           },
           {
             "value": "1",
@@ -203,7 +209,7 @@ config: |-
     },
     "level": "land",
     "state": "BE",
-    "name": "BE",
+    "name": "Berlin",
     "text": "Haushalt",
     "hasBarChart": true
   }
@@ -225,4 +231,3 @@ bestimmten Organe Abgeordnetenhaus (Einzelplan 01), Verfassungsgerichtshof
 Datenschutz und Informationsfreiheit (Einzelplan 21). Zuweisungen an und
 Programme für die Bezirke sowie Landesweite Personal- und Finanzangelegenheiten
 werden zentral in den Einzelpläne 27 und 29 abgebildet.
-
