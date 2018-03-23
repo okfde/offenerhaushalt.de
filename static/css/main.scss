@@ -703,6 +703,9 @@ h1.page-header.site {
   white-space: pre-line;
   display: block;
   clear: both;
+  position: absolute;
+  width: 100%;
+
   pre code {
      position: absolute;
      background-color: #ededed;

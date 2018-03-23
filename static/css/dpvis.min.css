@@ -24,8 +24,15 @@
       float: left;
       padding-left: 10px;
 }
+.controls .scales {
+    float: left;
+}
 .controls .hierarchies {
     float: left;
+}
+.controls .hierarchies .hierarchy {
+      float: left;
+      padding-left: 10px;
 }
 .controls .measures {
     float: left;
@@ -189,6 +196,16 @@ a {
   pointer-events: none;
   z-index: 10;
   display: block;
+}
+.table-div {
+  max-height: 350px;
+  overflow: scroll;
+}
+.sub {
+  padding-left: 10px;
+}
+.top {
+  font-weight: bold;
 }
 
 .barchart[data-v-4fd63052] {
