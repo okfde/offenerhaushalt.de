@@ -3960,7 +3960,7 @@ input[type="submit"].button {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  font-size: 1rem;
+  font-size: 0.6rem;
   overflow: hidden;
   overflow-x: auto;
   white-space: nowrap;

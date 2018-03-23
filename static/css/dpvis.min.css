@@ -90,7 +90,7 @@ a {
       color: #fff;
       display: block;
       padding-bottom: 0.2em;
-      font-size: 1.5em;
+      font-size: 1.3em;
       text-indent: 2px;
 }
 .node.big, .node.big:hover {
@@ -206,6 +206,9 @@ a {
 }
 .top {
   font-weight: bold;
+}
+.breadcrumb.tc {
+  font-size: 0.6em;
 }
 
 .barchart[data-v-4fd63052] {
