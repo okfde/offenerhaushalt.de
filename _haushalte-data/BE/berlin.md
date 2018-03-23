@@ -58,82 +58,6 @@ config: |-
     }
   ],
   'filters': {
-    'Jahr': {
-      'name': 'date_2.Jahr',
-      'label_ref': 'date_2.Jahr',
-      'ref': 'date_2',
-      'type': 'integer',
-      'default': true,
-      'defaultValue': 2018,
-      'defaultLabel': 'All',
-      'label': 'Jahr',
-      'values': [
-        {
-          'value': 2014,
-          'label': 2014
-        },
-        {
-          'value': 2015,
-          'label': 2015
-        },
-        {
-          'value': 2016,
-          'label': 2016
-        },
-        {
-          'value': 2017,
-          'label': 2017
-        },
-        {
-          'value': 2018,
-          'label': 2018
-        },
-        {
-          'value': 2019,
-          'label': 2019
-        }
-      ]
-    },
-    'Titelart': {
-      'name': 'direction_2.Titelart',
-      'label_ref': 'direction_2.Titelart',
-      'ref': 'direction_2',
-      'type': 'string',
-      'default': true,
-      'defaultValue': 'Ausgaben',
-      'defaultLabel': 'All',
-      'label': 'Richtung',
-      'values': [
-        {
-          'value': 'Ausgaben',
-          'label': 'Ausgaben'
-        },
-        {
-          'value': 'Einnahmen',
-          'label': 'Einnahmen'
-        }
-      ]
-    },
-    'BetragTyp': {
-      'name': 'phase_2.BetragTyp',
-      'label_ref': 'phase_2.BetragTyp',
-      'ref': 'phase_2',
-      'type': 'string',
-      'default': true,
-      'defaultValue': 'Soll',
-      'defaultLabel': 'All',
-      'label': 'Typ',
-      'values': [
-        {
-          'value': 'Ist',
-          'label': 'Ist'
-        },
-        {
-          'value': 'Soll',
-          'label': 'Soll'
-        }
-      ]
-    },
     'Typ': {
       'name': 'expenditure_type_2.Typ',
       'label_ref': 'expenditure_type_2.Bezeichnung',
@@ -229,7 +153,83 @@ config: |-
           'isSub': true
         }
       ]
-    }
+    },
+    'BetragTyp': {
+      'name': 'phase_2.BetragTyp',
+      'label_ref': 'phase_2.BetragTyp',
+      'ref': 'phase_2',
+      'type': 'string',
+      'default': true,
+      'defaultValue': 'Soll',
+      'defaultLabel': 'All',
+      'label': 'Typ',
+      'values': [
+        {
+          'value': 'Ist',
+          'label': 'Ist'
+        },
+        {
+          'value': 'Soll',
+          'label': 'Soll'
+        }
+      ]
+    },
+    'Titelart': {
+      'name': 'direction_2.Titelart',
+      'label_ref': 'direction_2.Titelart',
+      'ref': 'direction_2',
+      'type': 'string',
+      'default': true,
+      'defaultValue': 'Ausgaben',
+      'defaultLabel': 'All',
+      'label': 'Richtung',
+      'values': [
+        {
+          'value': 'Ausgaben',
+          'label': 'Ausgaben'
+        },
+        {
+          'value': 'Einnahmen',
+          'label': 'Einnahmen'
+        }
+      ]
+    },
+    'Jahr': {
+      'name': 'date_2.Jahr',
+      'label_ref': 'date_2.Jahr',
+      'ref': 'date_2',
+      'type': 'integer',
+      'default': true,
+      'defaultValue': 2018,
+      'defaultLabel': 'All',
+      'label': 'Jahr',
+      'values': [
+        {
+          'value': 2014,
+          'label': 2014
+        },
+        {
+          'value': 2015,
+          'label': 2015
+        },
+        {
+          'value': 2016,
+          'label': 2016
+        },
+        {
+          'value': 2017,
+          'label': 2017
+        },
+        {
+          'value': 2018,
+          'label': 2018
+        },
+        {
+          'value': 2019,
+          'label': 2019
+        }
+      ]
+    },    
   },
     "level": "land",
     "state": "BE",
