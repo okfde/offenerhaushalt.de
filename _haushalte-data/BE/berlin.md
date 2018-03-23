@@ -141,12 +141,12 @@ config: |-
       'type': 'string',
       'default': true,
       'defaultValue': '',
-      'defaultLabel': 'All',
+      'defaultLabel': 'Alle',
       'label': 'Bereich',
       'values': [
         {
           'value': '',
-          'label': 'All'
+          'label': 'Alle'
         },
         {
           'value': '"1";"2"',
