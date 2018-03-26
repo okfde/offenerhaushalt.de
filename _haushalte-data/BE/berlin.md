@@ -12,7 +12,7 @@ config: |-
     '#60C4B1', '#27C4F4', '#478DCB', '#3E67B1', '#4251A3',
     '#59449B', '#6E3F7C', '#6A246D', '#8A4873', '#EB0080',
     '#EF58A0', '#C05A89' ],
-  'datapackage': 'a6a16b964a7e784f99adecc47f26318a:berlin-current',
+  'datapackage': 'a6a16b964a7e784f99adecc47f26318a:berlin-aktuell',
   'hierarchies': [
     {
       'datapackageHierarchy': 'administrative_classification',
@@ -39,7 +39,7 @@ config: |-
         'thousand': '.',
         'precision': '',
         'format': '%s%v',
-        'postfix': '€',
+        'postfix': ' €',
         'grouping': 3
       },
       'label': 'Betrag'
