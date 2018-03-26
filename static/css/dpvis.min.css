@@ -7,6 +7,9 @@
   color: #2c3e50;
 }
 
+.fa {
+  font-size: 13px;
+}
 .treemap-content {
   max-width: 1200px;
   margin: auto;
@@ -141,6 +144,14 @@ a {
 .table .hide-small, .table .small {
     display: none;
 }
+.table .level-color {
+    float: left;
+}
+.table .level-label {
+    width: 95%;
+    padding-left: 15px;
+    float: left;
+}
 .table .label a, .table .label a:hover {
     color: #fff;
     text-decoration: none;
@@ -170,6 +181,20 @@ a {
 }
 .breadcrumb.tc {
   font-size: 0.7em;
+}
+.no-data {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 100%;
+  background-color: #ededed;
+  font-weight: bold;
 }
 
 .barchart[data-v-4fd63052] {
