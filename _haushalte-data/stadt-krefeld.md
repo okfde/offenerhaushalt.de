@@ -1,11 +1,11 @@
 ---
-_id: 5fbf4380-2c0c-11e8-ad1f-8d4eb113e003
+_id: 03066b80-2dd0-11e8-ad1f-8d4eb113e003
 state: NW
 name: Stadt Krefeld
 level: kommune
 config: |-
   {
-    "datapackage": "bd9050e78e972a6eefddc36edbe9522b:krhh",
+    "datapackage": "bd9050e78e972a6eefddc36edbe9522b:kkha18",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
@@ -20,7 +20,7 @@ config: |-
           "symbol": "",
           "decimal": ",",
           "thousand": ".",
-          "precision": "",
+          "precision": "0",
           "format": "%s%v",
           "postfix": "€",
           "grouping": 3
@@ -30,6 +30,30 @@ config: |-
     ],
     "scale": [],
     "filters": {
+      "Budget Direction": {
+        "name": "direction_2.Budget_Direction",
+        "label_ref": "direction_2.Budget_Direction",
+        "ref": "direction_2",
+        "type": "string",
+        "default": true,
+        "defaultValue": "Aufwendungen",
+        "defaultLabel": "All",
+        "label": "Budget Richtung",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": "Aufwendungen",
+            "label": "Aufwendungen"
+          },
+          {
+            "value": "Erträge",
+            "label": "Erträge"
+          }
+        ]
+      },
       "Date": {
         "name": "date_2.Date",
         "label_ref": "date_2.Date",
@@ -85,37 +109,15 @@ config: |-
             "label": "PLAN"
           }
         ]
-      },
-      "Budget Direction": {
-        "name": "direction_2.Budget_Direction",
-        "label_ref": "direction_2.Budget_Direction",
-        "ref": "direction_2",
-        "type": "string",
-        "default": true,
-        "defaultValue": "Ausgabe",
-        "defaultLabel": "All",
-        "label": "Budget Richtung",
-        "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
-          {
-            "value": "Ausgabe",
-            "label": "Ausgabe"
-          },
-          {
-            "value": "Einnahme",
-            "label": "Einnahme"
-          }
-        ]
       }
     },
     "level": "kommune",
     "state": "NW",
     "name": "Stadt Krefeld",
-    "text": "Haushalt"
+    "text": "Zur Information:\n\nFür den offenen Haushalt wurden die Werte aus den Feldern Ordentliche Erträge, Finanzerträge und Erträge aus internen Leistungsbeziehungen im Gegensatz zum Haushalt in PDF-Form zusammengerechnet."
   }
 slug: stadt-krefeld
 ---
-Haushalt
+Zur Information:
+
+Für den offenen Haushalt wurden die Werte aus den Feldern Ordentliche Erträge, Finanzerträge und Erträge aus internen Leistungsbeziehungen im Gegensatz zum Haushalt in PDF-Form zusammengerechnet.
