@@ -54,7 +54,7 @@ config: |-
     {
       'label': 'Pro Einwohner',
       'number': '3574830',
-      'description': 'p. E. '
+      'description': ''
     }
   ],
   'filters': {
