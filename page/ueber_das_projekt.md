@@ -1,6 +1,9 @@
 ---
 title: Über das Projekt 
 layout: page
+permalink: /ueber-das-projekt/
+redirect_from:
+  - /page/ueber_das_projekt.html
 ---
 
 ## Die Herausforderung

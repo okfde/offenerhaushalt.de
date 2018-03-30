@@ -1,5 +1,8 @@
 ---
 title: Über Finanzdaten
+permalink: /finanzdaten/
+redirect_from:
+  - /page/finanzdaten.html
 ---
 
 Alle Kommunen, die Länder sowie der Bund verabschieden jedes Jahr einen Haushalt, der die Handlungsgrundlage für alle Aufgaben der öffentlichen Verwaltung bietet. Hier wird geregelt, wie viel Geld der Staat für welche Aufgaben zur Verfügung hat.

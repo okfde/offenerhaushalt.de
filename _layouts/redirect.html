@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<!-- Generated {{ 'now' | date: "%F %T" }} -->
+<link rel="canonical" href="{{ page.redirect.to }}"/>
+<meta http-equiv="Refresh" content="0; url={{ page.redirect.to }}" />
+<meta name="robots" content="noindex">
+<title>{{ page.title | default: site.title }}</title>
+</head>
+<body>
+{{ content }}
+<a href="{{ page.redirect.to }}">Click here …</a>
+<script>location='{{ page.redirect.to }}'</script>
+</body>
+</html>

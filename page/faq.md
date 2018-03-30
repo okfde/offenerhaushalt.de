@@ -1,5 +1,8 @@
 ---
 title: Häufige Fragen
+permalink: /faq/
+redirect_from:
+  - /page/faq.html
 ---
 
 Auf dieser Seite sind einige der Fragen gesammelt, die uns zum OffenenHaushalt am häufigsten
