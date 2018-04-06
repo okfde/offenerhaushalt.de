@@ -175,7 +175,8 @@ a {
 }
 .table-div {
   max-height: 350px;
-  overflow: scroll;
+  overflow-y: scroll;
+  overflow-x: scroll;
 }
 .sub {
   padding-left: 10px;
@@ -185,6 +186,15 @@ a {
 }
 .breadcrumb.tc {
   font-size: 0.7em;
+  white-space: normal;
+}
+.breadcrumb.tc .blevel {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
 }
 .no-data {
   display: -webkit-box;
