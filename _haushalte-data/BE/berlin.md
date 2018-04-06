@@ -231,6 +231,7 @@ config: |-
       ]
     },    
   },
+    "valueHeader": "BetragTyp",
     "level": "land",
     "state": "BE",
     "name": "Berlin",
