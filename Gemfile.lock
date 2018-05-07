@@ -73,7 +73,7 @@ GEM
       typhoeus (~> 0.7)
     html-pipeline (2.6.0)
       activesupport (>= 2)
-      nokogiri (>= 1.4)
+      nokogiri (>= 1.8.2)
     i18n (0.8.6)
     jekyll (3.4.5)
       addressable (~> 2.4)
@@ -166,7 +166,7 @@ GEM
     minitest (5.10.3)
     multipart-post (2.0.0)
     net-dns (0.8.0)
-    nokogiri (1.8.1)
+    nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
     octokit (4.7.0)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -202,10 +202,10 @@ DEPENDENCIES
   font-awesome-sass
   github-pages
   kramdown
-  nokogiri (~> 1.8.1)
+  nokogiri (~> 1.8.2)
 
 RUBY VERSION
-   ruby 2.3.3p222
+   ruby 2.5.1p57
 
 BUNDLED WITH
-   1.15.1
+   1.16.1
