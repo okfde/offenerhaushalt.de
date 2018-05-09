@@ -52,7 +52,7 @@ config: |-
       'description': ''
     },
     {
-      'label': 'Pro Einwohner (3.574.830)',
+      'label': 'Pro Einwohner (3.574.830 in 2016)',
       'number': '3574830',
       'description': ''
     }
@@ -162,7 +162,7 @@ config: |-
       'default': true,
       'defaultValue': 'Soll',
       'defaultLabel': 'All',
-      'label': 'Typ',
+      'label': 'Soll/Ist',
       'values': [
         {
           'value': 'Ist',
@@ -182,7 +182,7 @@ config: |-
       'default': true,
       'defaultValue': 'Ausgaben',
       'defaultLabel': 'All',
-      'label': 'Richtung',
+      'label': 'Typ',
       'values': [
         {
           'value': 'Ausgaben',
