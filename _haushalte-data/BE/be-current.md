@@ -95,7 +95,7 @@ config: |-
         "default": true,
         "defaultValue": "Ausgaben",
         "defaultLabel": "All",
-        "label": "Richtung",
+        "label": "Typ",
         "values": [
           {
             "value": "Ausgaben",
@@ -115,7 +115,7 @@ config: |-
         "default": true,
         "defaultValue": "Soll",
         "defaultLabel": "All",
-        "label": "Typ",
+        "label": "Soll/Ist",
         "values": [
           {
             "value": "Ist",
