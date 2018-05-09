@@ -52,7 +52,7 @@ config: |-
       'description': ''
     },
     {
-      'label': 'Pro Einwohner',
+      'label': 'Pro Einwohner (3.574.830)',
       'number': '3574830',
       'description': ''
     }
