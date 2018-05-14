@@ -5,14 +5,14 @@ name: Berlin
 text: Haushalt
 level: land
 config: |-
-  {
-  'colors': [
+  {'colors': [
     '#CF3D1E', '#F15623', '#F68B1F', '#FFC60B', '#DFCE21',
     '#BCD631', '#95C93D', '#48B85C', '#00833D', '#00B48D',
     '#60C4B1', '#27C4F4', '#478DCB', '#3E67B1', '#4251A3',
     '#59449B', '#6E3F7C', '#6A246D', '#8A4873', '#EB0080',
     '#EF58A0', '#C05A89' ],
-  'datapackage': 'a6a16b964a7e784f99adecc47f26318a:berlin-aktuell',
+  'datapackage': 'a6a16b964a7e784f99adecc47f26318a:be_mp_ez',
+  'datapackageURL': 'https://s3.amazonaws.com/datastore.openspending.org/a6a16b964a7e784f99adecc47f26318a/be_mp_ez/final/datapackage.json',
   'hierarchies': [
     {
       'datapackageHierarchy': 'administrative_classification',
@@ -32,7 +32,7 @@ config: |-
   ],
   'value': [
     {
-      'field': 'Betrag.sum',
+      'field': 'betrag.sum',
       'formatOptions': {
         'symbol': '',
         'decimal': ',',
@@ -59,9 +59,9 @@ config: |-
   ],
   'filters': {
     'Typ': {
-      'name': 'expenditure_type_2.Typ',
-      'label_ref': 'expenditure_type_2.Bezeichnung',
-      'ref': 'expenditure_type_2',
+      'name': 'typ.typ',
+      'label_ref': 'typ.bezeichnung',
+      'ref': 'typ',
       'type': 'string',
       'default': true,
       'defaultValue': '',
@@ -70,11 +70,11 @@ config: |-
       'values': [
         {
           'value': '',
-          'label': 'Alle'
+          'label': 'Berlin Gesamt'
         },
         {
           'value': '"1";"2"',
-          'label': 'Alle Hauptverwaltungen',
+          'label': 'Hauptverwaltung',
           'isTop': true
         },
         {
@@ -155,9 +155,9 @@ config: |-
       ]
     },
     'BetragTyp': {
-      'name': 'phase_2.BetragTyp',
-      'label_ref': 'phase_2.BetragTyp',
-      'ref': 'phase_2',
+      'name': 'betragtyp.betragtyp',
+      'label_ref': 'betragtyp.betragtyp',
+      'ref': 'betragtyp',
       'type': 'string',
       'default': true,
       'defaultValue': 'Soll',
@@ -175,9 +175,9 @@ config: |-
       ]
     },
     'Titelart': {
-      'name': 'direction_2.Titelart',
-      'label_ref': 'direction_2.Titelart',
-      'ref': 'direction_2',
+      'name': 'titelart.titelart',
+      'label_ref': 'titelart.titelart',
+      'ref': 'titelart',
       'type': 'string',
       'default': true,
       'defaultValue': 'Ausgaben',
@@ -195,9 +195,9 @@ config: |-
       ]
     },
     'Jahr': {
-      'name': 'date_2.Jahr',
-      'label_ref': 'date_2.Jahr',
-      'ref': 'date_2',
+      'name': 'jahr.jahr',
+      'label_ref': 'jahr.jahr',
+      'ref': 'jahr',
       'type': 'integer',
       'default': true,
       'defaultValue': 2018,
@@ -229,14 +229,14 @@ config: |-
           'label': 2019
         }
       ]
-    },    
+    }
   },
-    "valueHeader": "BetragTyp",
-    "level": "land",
-    "state": "BE",
-    "name": "Berlin",
-    "text": "Haushalt",
-    "hasBarChart": true
+  'valueHeader': 'BetragTyp',
+  'level': 'land',
+  'state': 'BE',
+  'name': 'Berlin',
+  'text': 'Haushalt',
+  'hasBarChart': true
   }
 date: '2018-03-02T15:44:34.274Z'
 slug: be
