@@ -241,18 +241,21 @@ config: |-
 date: '2018-03-02T15:44:34.274Z'
 slug: be
 ---
+## Haushaltsplan Berlin 2014-2019
 
-Die Quelle für den visualisierten Datensatz findet sich auf dieser
-[Webseite](https://www.berlin.de/sen/finanzen/haushalt/haushaltsplan/artikel.5697.php).
+Der Haushaltsplan dient der Feststellung und Deckung des Finanzbedarfs, der zur Erfüllung der Aufgaben Berlins im jeweiligen Zeitraum notwendig ist. Er bildet die Zweistufigkeit der Berliner Verwaltung ab. Der Haushaltsplan besteht deshalb aus den Einzelplänen der Senatsverwaltungen (Einzelpläne 03 bis 15) und den Bezirkshaushaltsplänen (jeweils Einzelpläne 31 bis 45). Darüber hinaus beinhaltet er die Einnahmen und Ausgaben der durch die Verfassung von Berlin bestimmten Organe:
+* Abgeordnetenhaus (Einzelplan 01), 
+* Verfassungsgerichtshof (Einzelplan 02), 
+* Rechnungshof (Einzelplan 20) und
+* Beauftragten für Datenschutz und Informationsfreiheit (Einzelplan 21). 
+Die landesweiten Maßnahmen des E-Governments werden in Einzelplan 25 dargestellt. Zuweisungen an und Programme für die Bezirke sowie landesweite Personal- und Finanzangelegenheiten werden zentral in den Einzelplänen 27 und 29 abgebildet.
 
-Der Haushaltsplan dient der Feststellung und Deckung des Finanzbedarfs, der zur
-Erfüllung der Aufgaben Berlins im jeweiligen Zeitraum notwendig ist. Er bildet
-die Zweistufigkeit der Berliner Verwaltung ab. Der Haushaltsplan besteht
-deshalb aus den Einzelplänen der Senatsverwaltungen (Einzelpläne 03 bis 15) und
-der Bezirkshaushaltspläne (jeweils Einzelpläne 31 bis 59). Darüber hinaus
-beinhaltet er die Einnahmen und Ausgaben der durch die Verfassung von Berlin
-bestimmten Organe Abgeordnetenhaus (Einzelplan 01), Verfassungsgerichtshof
-(Einzelplan 02), Rechnungshof (Einzelplan 20) und des Beauftragten für
-Datenschutz und Informationsfreiheit (Einzelplan 21). Zuweisungen an und
-Programme für die Bezirke sowie Landesweite Personal- und Finanzangelegenheiten
-werden zentral in den Einzelpläne 27 und 29 abgebildet.
+### Vergleichbarkeit der Daten unterschiedlicher Haushaltsjahre
+
+Der Berliner Haushalt wird vorwiegend im Zwei-Jahres-Rhythmus aufgestellt (Doppelhaushalt). Beim Vergleich von zwei Haushaltsplänen kann es Unterschiede in den Strukturen geben. So können zum Beispiel durch Wegfall oder Beendigung einer Maßnahme einzelne oder mehrere Titel entfallen oder im umgekehrten Fall neu entstehen. Auch Änderungen der Ressortzuständigkeiten oder neue haushaltstechnische Vorgaben können zu größeren Veränderungen innerhalb der Einzelpläne (z. B. Neueinrichtung oder Umsetzung von Kapiteln) führen. Es kann deshalb dazu kommen, dass eine 1:1-Vergleichbarkeit auf Titelebene nicht in jedem Fall gewährleistet ist.
+
+### Vergleichbarkeit von Soll- und Istwerten
+
+In dieser Anwendung können die Ist-Einnahmen und -Ausgaben aufgerufen und den Soll-Ansätzen des Haushaltsplans gegenübergestellt werden. 
+Die Istwerte entstammen der Haushaltsrechnung des Landes. Bei einem Soll-Ist-Vergleich ist zu beachten, dass durch Ausgabereste und Vorgriffe sowie durch Regelungen des Haushaltsgesetzes oder Haushaltsvermerke (z. B. Deckungs- und Verstärkungsmöglichkeiten, Sperren, über-/außerplanmäßige Ausgaben) das Ist erheblich vom Soll abweichen und dieses teilweise auch überschreiten kann. 
+Im Fall von außerplanmäßigen Ausgaben führt das z. B. sogar dazu, dass die Haushaltsrechnung Titel mit einem Ist ausweist, die im Haushaltsplan noch gar nicht vorgesehen waren.
