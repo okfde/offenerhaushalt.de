@@ -1,8 +1,50 @@
 {% if page.config %}
 <link rel="stylesheet" href="{{ relative-baseurl }}static/css/dpvis.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/promise-polyfill@7/dist/polyfill.min.js"></script>
 <script src="/static/js/dep.js"></script>
-<script type=text/javascript src="/static/js/dptreemap.js"></script>
+<script type=text/javascript src="/static/js/dpvis.min.js"></script>
 <script type=text/javascript>
+
+  if (!Array.prototype.find) {
+          Array.prototype.find = function(predicate) {
+              if (this == null) {
+                  throw new TypeError('Array.prototype.find called on null or undefined');
+              }
+              if (typeof predicate !== 'function') {
+                  throw new TypeError('predicate must be a function');
+              }
+              var list = Object(this);
+              var length = list.length >>> 0;
+              var thisArg = arguments[1];
+              var value;
+              
+              for (var i = 0; i < length; i++) {
+                  value = list[i];
+                  if (predicate.call(thisArg, value, i, list)) {
+                      return value;
+                  }
+              }
+              return undefined;
+          };
+  }
+
+  Array.prototype.findIndex = Array.prototype.findIndex || function(callback) {
+    if (this === null) {
+      throw new TypeError('Array.prototype.findIndex called on null or undefined');
+    } else if (typeof callback !== 'function') {
+      throw new TypeError('callback must be a function');
+    }
+    var list = Object(this);
+    // Makes sures is always has an positive integer as length.
+    var length = list.length >>> 0;
+    var thisArg = arguments[1];
+    for (var i = 0; i < length; i++) {
+      if ( callback.call(thisArg, list[i], i, list) ) {
+        return i;
+      }
+    }
+    return -1;
+  };
 
   var config = {{ page.config }}
   var embedCode = $('#embed-code')
