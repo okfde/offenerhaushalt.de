@@ -6,6 +6,7 @@ level: kommune
 config: |-
   {
     "datapackage": "6018ab87076187018fc29c94a68a3cd2:__os_imported__de-nrw-cologne",
+    'datapackageURL': 'https://s3.amazonaws.com/datastore.openspending.org/6018ab87076187018fc29c94a68a3cd2/__os_imported__de-nrw-cologne/datapackage.json',
     "hierarchies": [
       {
         "datapackageHierarchy": "unknown",
