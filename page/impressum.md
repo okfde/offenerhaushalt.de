@@ -64,15 +64,6 @@ entfernen.
 		<li>der Rechneradresse (IP-Adresse) in gekürzter Form,</li>
 		<li>der Seite, von der aus die Datei angefordert wurde,</li>
 		<li>dem Namen der übertragenen Datei,</li>
-		<li>dem Datum und der Uhrzeit der Abfrage,</li><h2 id="datenschutzerklaerung">Datenschutzerklärung</h2>
-	<h3>I. Datenerhebung und Datenverarbeitung</h3>
-	<p>Die Sicherheit Ihrer Daten hat bei uns höchste Priorität. Wir ergreifen jede nur mögliche Maßnahme, um Ihre persönlichen Daten vor unbefugtem Zugriff zu schützen. Sämtliche Anforderungen des Bundesdatenschutzgesetzes (BDSG),
-		Telemediengesetzes (TMG) sowie alle weiteren datenschutzrechtlichen Vorschriften werden von uns eingehalten. Sie können unsere Seite besuchen, ohne Angaben zu Ihrer Person zu machen. Wir speichern dann lediglich Zugriffsdaten ohne
-		Personenbezug. Dabei handelt es sich z.B. um Daten</p>
-	<ul>
-		<li>der Rechneradresse (IP-Adresse) in gekürzter Form,</li>
-		<li>der Seite, von der aus die Datei angefordert wurde,</li>
-		<li>dem Namen der übertragenen Datei,</li>
 		<li>dem Datum und der Uhrzeit der Abfrage,</li>
 		<li>der übertragenen Datenmenge,</li>
 		<li>dem Zugriffsstatus (Datei übertragen, Datei nicht gefunden etc.) und
@@ -106,4 +97,3 @@ entfernen.
 				href="mailto:info@offenerhaushalt.de">info@offenerhaushalt.de</a>.</p>
 	<h3>VIII. Sicherheitshinweis</h3>
 	<p>Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.</p>
-
