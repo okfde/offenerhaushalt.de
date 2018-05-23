@@ -6,7 +6,7 @@ level: kommune
 config: |-
   {
     "datapackage": "d80622bc12990bd7693cc92853bc6bc6:arnsberg410",
-    'datapackageURL': 'http://datastore.openspending.org/d80622bc12990bd7693cc92853bc6bc6/arnsberg410/final/datapackage.json',
+    'datapackageURL': 'https://datastore.openspending.org/d80622bc12990bd7693cc92853bc6bc6/arnsberg410/final/datapackage.json',
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
