@@ -77,7 +77,7 @@ Personenbezogene Daten wie Name, Username und zusätzliche Metadaten wie z. B. A
 Eine Weitergabe Ihrer personenbezogenen Daten an Dritte erfolgt grundsätzlich nur, sofern dies zur Erbringung unserer Dienstleistung oder zur Vertragsdurchführung notwendig ist und Sie ausdrücklich eingewilligt haben.
 
 #### IV. Verwendung von Cookies
-Die Website (www.offenerhaushalt.de)[http://www.offenerhaushalt.de] nutzt Piwik (http://www.piwik.org)[http://www.piwik.org] einen Open-Source-Webanalysedienst. Piwik verwendet sogenannte “Cookies”, Textdateien, die auf Ihrem
+Die Website [www.offenerhaushalt.de](http://www.offenerhaushalt.de) nutzt Piwik (http://www.piwik.org)[http://www.piwik.org] einen Open-Source-Webanalysedienst. Piwik verwendet sogenannte “Cookies”, Textdateien, die auf Ihrem
 		Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglicht. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website (einschließlich Ihrer IP-Adresse) bleiben dabei unter
 		der Datenhoheit von (www.offenerhaushalt.de)[http://www.offenerhaushalt.de]. Wir benutzen diese Informationen, um die Nutzung auszuwerten und um Reports über die Websiteaktivitäten zusammenzustellen. OKF DE wird diese Informationen nicht an
 		Dritte übertragen. Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen
