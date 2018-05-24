@@ -68,7 +68,7 @@ Die Sicherheit Ihrer Daten hat bei uns höchste Priorität. Wir ergreifen jede n
   
 Diese Daten werden ausschließlich zur Verbesserung unseres Angebotes ausgewertet und erlauben keine Rückschlüsse auf Ihre Person.
 
-#### II. Erhebung und Speicherung personenbezogener Daten</h3>
+#### II. Erhebung und Speicherung personenbezogener Daten
 Personenbezogene Daten wie Name, Username und zusätzliche Metadaten wie z. B. Anschrift, Telefonnummer und Email-Adresse (Bestandsdaten) werden erhoben, wenn und soweit dies im Rahmen der Begründung und Abwicklung eines
 		Vertragsverhältnisses sowie für dessen inhaltliche Ausgestaltung oder Änderung erforderlich ist. Diese Daten werden in der Regel in elektronischen Anmeldeformularen erhoben. Mit vollständiger Abwicklung des Vertrages werden Ihre
 		Daten für die weitere Verwendung gesperrt und nach Ablauf der steuer- und handelsrechtlichen Vorschriften gelöscht, sofern Sie nicht ausdrücklich in die weitere Nutzung Ihrer Daten eingewilligt haben.
