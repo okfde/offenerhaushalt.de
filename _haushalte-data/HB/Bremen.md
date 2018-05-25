@@ -1,7 +1,7 @@
 ---
 _id: 94f34990-6012-11e8-a999-596b9e5044d6
 state: HB
-name: HB
+name: Bremen
 level: land
 config: |-
   {
@@ -142,8 +142,9 @@ config: |-
     "level": "land",
     "state": "HB",
     "text": "ladida",
-    "name": "HB"
+    "name": "Bremen"
   }
 slug: hb
 ---
-ladida
+
+Der Haushalt der für den Stadtstaat Bremen teilt sich in die Kategorien Stadt und Land auf, diese lassen sich per Filter auswählen. 
