@@ -24,7 +24,7 @@ title: Impressum
 	</dl>
 	<dl>
 		<dt>EMail:</dt>
-		<dd><a href="mailto:info@okfn.de">info@okfn.de</a> (<a href="https://pgp.mit.edu/pks/lookup?op=get&search=0xFE54F46F21DDAED1">OpenPGP</a>)</dd>
+		<dd><a href="mailto:info@offenerhaushalt.de">info@offenerhaushalt.de</a></dd>
 		<dt>Telefon:</dt>
 		<dd><a href="tel:+49 30 57703666 2">+49 30 57703666 0</a></dd>
 		<dt>Fax:</dt>
@@ -33,25 +33,19 @@ title: Impressum
 	<dl>
 		<dt>Weitere Kanaele:</dt>
 		<dd>
-			<a href="https://www.twitter.com/okfde">Twitter</a><br/>
-			<a href="https://www.facebook.com/okfde/">Facebook</a><br/>
-			<a href="https://www.github.com/okfde">Github</a><br/>
-			<a href="https://www.flickr.com/photos/okfde">Flickr</a><br/>
-			<a href="https://vimeo.com/okfn">Vimeo</a><br/>
-			<a href="https://www.youtube.com/channel/UCUD8EFjXzRN-wFUbVTYlDAw">Youtube</a><br/>
-			<a href="http://www.meetup.com/de/Open-Knowledge-Foundation-Deutschland-e-V/">Meetup</a><br/>
-			<a href="https://www.betterplace.org/de/organisations/okfde/">Betterplace</a><br/>
+			<a href="https://twitter.com/offenerhaushalt">Twitter</a><br/>
+			<a href="https://github.com/okfde/offenerhaushalt.de">Github</a><br/>
 		</dd>
 	</dl>
 	<dl>
 		<dt>Webseitendesign:</dt>
-		<dd><a href="http://nadinestammen.de/">Nadine Stammen</a>, <a href="https://felixbecker.me/">Felix Becker</a>, <a href="http://stefanwehrmeyer.com/">Stefan Wehrmeyer</a>, Andrej Sandorf</dd>
+		<dd><a href="http://nadinestammen.de/">Nadine Stammen</a> </dd>
 	</dl>
 	<dl>
 		<dt>Technik:</dt>
 		<dd>
 Für das Testen von Browserkompatibilität wird diese Seite von <a href="https://www.browserstack.com/">BrowserStack</a> unterstützt.
-HTML erzeugt mit <a href="https://jekyllrb.com/">Jekyll</a> und DataLove. 
+HTML erzeugt mit <a href="https://jekyllrb.com/">Jekyll</a> und DataLove.
 		</dd>
 	</dl>
 
@@ -74,7 +68,7 @@ HTML erzeugt mit <a href="https://jekyllrb.com/">Jekyll</a> und DataLove.
 		solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend
 		entfernen.</p>
 	<h2 id="datenschutzerklaerung">Datenschutzerklärung</h2>
-	<p>Die Open Knowledge Foundation Deutschland e.V., Singerstr. 109, 10179 Berlin Deutschland (nachfolgend als „Open Knowledge Foundation“ oder „wir“ bezeichnet) betreibt die im Internet unter https://okfn.de/ und den jeweils dazu gehörenden Unterverzeichnissen abrufbare Internetseite (nachfolgend „okfn.de“ oder die „Website“).</p>
+	<p>Die Open Knowledge Foundation Deutschland e.V., Singerstr. 109, 10179 Berlin Deutschland (nachfolgend als „Open Knowledge Foundation“ oder „wir“ bezeichnet) betreibt die im Internet unter https://offenerhaushalt.de und den jeweils dazu gehörenden Unterverzeichnissen abrufbare Internetseite (nachfolgend "offenerhaushalt".de“ oder die „Website“).</p>
 
 	<p>Die Open Knowledge Foundation möchte Ihnen mit dieser Datenschutzerklärung erläutern, welche Daten in welcher Form verarbeitet werden, wenn Sie unsere Website besuchen. Hiermit kommen wir zugleich unserer Informationspflicht gem. Art. 13 Datenschutz-Grundverordnung (DS-GVO) Ihnen gegenüber nach.</p>
 
@@ -92,7 +86,7 @@ HTML erzeugt mit <a href="https://jekyllrb.com/">Jekyll</a> und DataLove.
 		</dl>
 		<dl>
 			<dt>EMail:</dt>
-			<dd><a href="mailto:info@okfn.de">info@okfn.de</a></dd>
+			<dd><a href="mailto:info@offenerhaushalt.de">info@offenerhaushalt.de</a></dd>
 			<dt>Telefon:</dt>
 			<dd><a href="tel:+49 30 57703666 2">+49 30 57703666 0</a></dd>
 			<dt>Fax:</dt>
@@ -209,10 +203,9 @@ HTML erzeugt mit <a href="https://jekyllrb.com/">Jekyll</a> und DataLove.
 
 	<h3>IX. Wenn Sie Anmerkungen oder Fragen haben</h3>
 
-	<p>Wir treffen alle erdenklichen Vorkehrungen zum Schutz und zur Sicherheit Ihrer Daten. Ihre Fragen und Kommentare zum Datenschutz sind uns willkommen, schreiben Sie einfach eine Mail an info@okfn.de.</p>
+	<p>Wir treffen alle erdenklichen Vorkehrungen zum Schutz und zur Sicherheit Ihrer Daten. Ihre Fragen und Kommentare zum Datenschutz sind uns willkommen, schreiben Sie einfach eine Mail an info@offenerhaushalt.de.</p>
 
 	<p>Berlin, April 2018</p>
 
 
 </div>
-
