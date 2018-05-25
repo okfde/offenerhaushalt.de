@@ -175,7 +175,7 @@ a {
 }
 .table-div {
   max-height: 350px;
-  overflow-y: auto;
+  overflow-y: scroll;
   overflow-x: hidden;
 }
 .sub {
