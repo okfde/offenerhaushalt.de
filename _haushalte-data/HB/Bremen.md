@@ -1,32 +1,22 @@
 ---
-_id: 2e38b930-0287-11e8-86e6-dd2a0f61d6b6
+_id: 94f34990-6012-11e8-a999-596b9e5044d6
 state: HB
 name: Bremen
-text: Bremer Haushalt Land (L) und Stadt (S)
 level: land
 config: |-
   {
-    "datapackage": "a6a16b964a7e784f99adecc47f26318a:bremen-testdaten",
+    "datapackage": "a6a16b964a7e784f99adecc47f26318a:bremen-os",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
-        "url": "einzelplane",
-        "label": "Einzelpläne"
-      },
-      {
-        "datapackageHierarchy": "functional_classification",
-        "url": "funktionen",
-        "label": "Funktionen"
-      },
-      {
-        "datapackageHierarchy": "economic_classification",
-        "url": "gruppen",
-        "label": "Gruppen"
+        "datapackageURL": 'https://s3.amazonaws.com/datastore.openspending.org/a6a16b964a7e784f99adecc47f26318a/bremen_os/final/datapackage.json',
+        "url": "produktbereich",
+        "label": "Produktbereich"
       }
     ],
     "value": [
       {
-        "field": "Betrag.sum",
+        "field": "betrag.sum",
         "formatOptions": {
           "symbol": "",
           "decimal": ",",
@@ -46,22 +36,25 @@ config: |-
         "description": ""
       },
       {
-        "label": "pro Einwohner (Stadt) 557.464 in 2015",
-        "number": "557464",
-        "description": "p.E."
+        "label": "Pro Einwohner (565.719) in 2016",
+        "number": "565719",
+        "description": "p. E."
       }
     ],
     "filters": {
-      "year": {
-        "name": "date_2.year",
-        "label_ref": "date_2.year",
-        "ref": "date_2",
-        "type": "integer",
+      "Jahr": {
+        "name": "jahr.jahr",
+        "label_ref": "jahr.jahr",
+        "ref": "jahr",
         "default": true,
-        "defaultValue": 2016,
+        "defaultValue": 2017,
         "defaultLabel": "All",
         "label": "Jahr",
         "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
           {
             "value": 2016,
             "label": 2016
@@ -72,16 +65,19 @@ config: |-
           }
         ]
       },
-      "Art": {
-        "name": "direction_2.Art",
-        "label_ref": "direction_2.Art",
-        "ref": "direction_2",
-        "type": "string",
+      "Budget_Richtung": {
+        "name": "budget_richtung.budget_richtung",
+        "label_ref": "budget_richtung.budget_richtung",
+        "ref": "budget_richtung",
         "default": true,
         "defaultValue": "Ausgaben",
         "defaultLabel": "All",
-        "label": "Budget Richtung",
+        "label": "Richtung",
         "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
           {
             "value": "Ausgaben",
             "label": "Ausgaben"
@@ -91,14 +87,64 @@ config: |-
             "label": "Einnahmen"
           }
         ]
+      },
+      "Betrag_Typ": {
+        "name": "betrag_typ.betrag_typ",
+        "label_ref": "betrag_typ.betrag_typ",
+        "ref": "betrag_typ",
+        "default": true,
+        "defaultValue": "Plan",
+        "defaultLabel": "All",
+        "label": "Typ",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": "Ist",
+            "label": "Ist"
+          },
+          {
+            "value": "Plan",
+            "label": "Plan"
+          },
+          {
+            "value": "Soll",
+            "label": "Soll"
+          }
+        ]
+      },
+      "Haushalt": {
+        "name": "haushalt.haushalt",
+        "label_ref": "haushalt.haushalt",
+        "ref": "haushalt",
+        "default": true,
+        "defaultValue": "Stadt",
+        "defaultLabel": "All",
+        "label": "Stadt / Land",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": "Land",
+            "label": "Land"
+          },
+          {
+            "value": "Stadt",
+            "label": "Stadt"
+          }
+        ]
       }
     },
     "level": "land",
     "state": "HB",
-    "text": "Bremer Haushalt Land (L) und Stadt (S)",
+    "text": "ladida",
     "name": "Bremen"
   }
-date: '2018-01-26T10:53:45.641Z'
 slug: hb
 ---
-Bremer Haushalt Land (L) und Stadt (S)
+
+Der Haushalt der für den Stadtstaat Bremen teilt sich in die Kategorien Stadt und Land auf, diese lassen sich per Filter auswählen. 
