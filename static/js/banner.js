@@ -51,7 +51,7 @@
         for (var i = 0; i < dismissibles.length; i++) {
             var type = dismissibles[i].getAttribute('data-type'),
                 // value = dismissibles[i].getAttribute('data-value');
-                value = 'Mit <a style="color: #fff" href="https://offenerhaushalt.de">Offener Haushalt</a> sind wir in der letzten Runde der Google Impact Challenge <a style="color: #fff" href="https://impactchallenge.withgoogle.com/deutschland2018/charities/okfn">Stimme hier für uns ab!</a>'
+                value = 'Mit <a style="color: #fff" href="https://offenerhaushalt.de">Offener Haushalt</a> sind wir in der letzten Runde der Google Impact Challenge. <a style="color: #fff" href="https://impactchallenge.withgoogle.com/deutschland2018/charities/okfn">Stimme hier für uns ab!</a>'
             new dismissibleItem(dismissibles[i], type, value)
         }
     }
