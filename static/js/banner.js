@@ -9,7 +9,7 @@
 
     var dismissibleItem = function(el, type, value) {
 
-        var html = '<span style="background-color: #26b7d9; color: #fff; border-radius: 5px; box-shadow: 0 0 20px 0 rgba(0, 0, 0, .2); box-sizing: border-box; display: block; margin: 0 auto 20px auto; padding: 10px 30px; position: relative;">' + value + ' <button style="background: rgba(0, 0, 0, .4); border: 0; border-radius: 100%; color: #fff; cursor: pointer; font-size: 14px; font-weight: bold; height: 24px; line-height: 20px; margin-top: -12px; right: 10px; position: absolute; top: 50%; width: 24px;" type="button" class="close">X</button></span>';
+        var html = '<span style="background-color: #AD1A0F; color: #fff; border-radius: 5px; box-shadow: 0 0 20px 0 rgba(0, 0, 0, .2); box-sizing: border-box; display: block; margin: 0 auto 20px auto; padding: 10px 30px; position: relative;">' + value + ' <button style="background: rgba(0, 0, 0, .4); border: 0; border-radius: 100%; color: #fff; cursor: pointer; font-size: 14px; font-weight: bold; height: 24px; line-height: 20px; margin-top: -12px; right: 10px; position: absolute; top: 50%; width: 24px;" type="button" class="close">X</button></span>';
 
         el.removeAttribute('data-component');
         el.removeAttribute('data-value');
