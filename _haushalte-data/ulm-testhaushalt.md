@@ -6,6 +6,7 @@ level: kommune
 config: |-
   {
     "datapackage": "87157d69308ea613294f79f613fc21fd:testhhulm2016",
+    "datapackageURL": "https://s3.amazonaws.com/datastore.openspending.org/87157d69308ea613294f79f613fc21fd/testhhulm2016/final/datapackage.json",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
