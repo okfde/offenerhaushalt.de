@@ -1,11 +1,12 @@
 ---
 _id: 1eaee130-6595-11e8-a999-596b9e5044d6
 state: HB
-name: HB
-level: land
+name: Bremen
+level: kommune
 config: |-
   {
     "datapackage": "c06abbc1b9141b233de84e14f5ab0a75:bremen-data-2016-2017",
+    "datapackageURL": "https://s3.amazonaws.com/datastore.openspending.org/c06abbc1b9141b233de84e14f5ab0a75/bremen-data-2016-2017/final/datapackage.json",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
@@ -568,10 +569,10 @@ config: |-
         ]
       }
     },
-    "level": "land",
-    "state": "HB",
+    "level": "kommune",
+    "state": "Bremen",
     "text": "Zur Verfügung gestellt werden die kameralen Haushaltsdaten der Freien Hansestadt Bremen, genauer des Landes und der Stadtgemeinde Bremen, für die Haushaltsjahre 2016 und 2017.\nDie Stadt Bremerhaven erstellt einen eigenen Haushaltsplan, der von der Stadtverordnetenversammlung beschlossen wird.\nWeitere Informationen zu den einzelnen Haushaltsplänen der Hansestadt Bremen finden sich im Transparenzportal Bremen unter https://www.transparenz.bremen.de/",
-    "name": "HB"
+    "name": "Bremen"
   }
 slug: hb
 ---
