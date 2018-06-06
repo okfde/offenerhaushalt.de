@@ -143,7 +143,9 @@ Die Aufstellung des städtischen Haushalts erfolgt nach den Vorgaben des Neuen K
 Die Darstellung der Ergebnisplanung ist in folgenden Stufen gegliedert:
 
 Stufe 1 - Produktbereiche,
+
 Stufe 2 - Produkte,
+
 Stufe 3 - Position.
 
 Die Quelle für den visualisierten Datensatz findet sich auf [https://www.duesseldorf.de/finanzen/haushaltsplaene/2018.html](https://www.duesseldorf.de/finanzen/haushaltsplaene/2018.html).
