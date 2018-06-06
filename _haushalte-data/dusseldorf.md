@@ -8,7 +8,7 @@ config: |-
     "datapackage": "2f29cf9be3f750901265649797d008b6:duesseldorf2018",
     "hierarchies": [
       {
-        "datapackageHierarchy": "administrative_classification",
+        "datapackageHierarchy": "Ergebnisplan",
         "url": "administrative_classification",
         "label": "administrative_classification"
       }
@@ -130,7 +130,9 @@ config: |-
     "level": "kommune",
     "state": "NW",
     "name": "Düsseldorf",
-    "text": "Haushalt der Landeshauptstadt Düsseldorf\n\nEs handelt sich hierbei um die Ergebnispläne der Landeshauptstadt Düsseldorf von 2016 – 2021.\n\nDie Aufstellung des städtischen Haushalts erfolgt nach den Vorgaben des Neuen Kommunalen Finanzmanagements (NKF).\n\nDie Darstellung der Ergebnisplanung ist in folgenden Stufen gegliedert:\n\nStufe 1 - Produktbereiche,\nStufe 2 - Produkte,\nStufe 3 - Bezeichnung.\n\nDie Quelle für den visualisierten Datensatz findet sich auf https://www.duesseldorf.de/finanzen/haushaltsplaene/2018.html. \n\nDa die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren."
+    "text": "##Haushalt der Landeshauptstadt Düsseldorf\n\n Es handelt sich hierbei um die Ergebnispläne der Landeshauptstadt Düsseldorf von 2016 – 2021.\n\nDie Aufstellung des städtischen Haushalts erfolgt nach den Vorgaben des Neuen Kommunalen Finanzmanagements (NKF).\n\nDie Darstellung der Ergebnisplanung ist in folgenden Stufen gegliedert:\n\nStufe 1 - Produktbereiche,\nStufe 2 - Produkte,\nStufe 3 - Position.\n\nDie Quelle für den visualisierten Datensatz findet sich auf [https://www.duesseldorf.de/finanzen/haushaltsplaene/2018.html](https://www.duesseldorf.de/finanzen/haushaltsplaene/2018.html). \n\n
+    Bei dem Haushaltsplan für das HH-Jahr 2018 handelt es sich bis zur Genehmigung durch die Aufsichtsbehörde um einen Entwurf.
+    Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren."
   }
 slug: dusseldorf
 ---
@@ -146,6 +148,6 @@ Stufe 1 - Produktbereiche,
 Stufe 2 - Produkte,
 Stufe 3 - Bezeichnung.
 
-Die Quelle für den visualisierten Datensatz findet sich auf https://www.duesseldorf.de/finanzen/haushaltsplaene/2018.html. 
+Die Quelle für den visualisierten Datensatz findet sich auf https://www.duesseldorf.de/finanzen/haushaltsplaene/2018.html.
 
 Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren.
