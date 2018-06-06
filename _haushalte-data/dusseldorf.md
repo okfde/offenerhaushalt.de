@@ -8,9 +8,9 @@ config: |-
     "datapackage": "2f29cf9be3f750901265649797d008b6:duesseldorf2018",
     "hierarchies": [
       {
-        "datapackageHierarchy": "Ergebnisplan",
+        "datapackageHierarchy": "administrative_classification",
         "url": "administrative_classification",
-        "label": "administrative_classification"
+        "label": "Ergebnisplan"
       }
     ],
     "value": [
