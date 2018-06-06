@@ -134,7 +134,7 @@ config: |-
   }
 slug: dusseldorf
 ---
-Haushalt der Landeshauptstadt Düsseldorf
+**Haushalt der Landeshauptstadt Düsseldorf**
 
 Es handelt sich hierbei um die Ergebnispläne der Landeshauptstadt Düsseldorf von 2016 – 2021.
 
@@ -144,8 +144,10 @@ Die Darstellung der Ergebnisplanung ist in folgenden Stufen gegliedert:
 
 Stufe 1 - Produktbereiche,
 Stufe 2 - Produkte,
-Stufe 3 - Bezeichnung.
+Stufe 3 - Position.
 
-Die Quelle für den visualisierten Datensatz findet sich auf https://www.duesseldorf.de/finanzen/haushaltsplaene/2018.html.
+Die Quelle für den visualisierten Datensatz findet sich auf [https://www.duesseldorf.de/finanzen/haushaltsplaene/2018.html](https://www.duesseldorf.de/finanzen/haushaltsplaene/2018.html).
+
+Bei dem Haushaltsplan für das HH-Jahr 2018 handelt es sich bis zur Genehmigung durch die Aufsichtsbehörde um einen Entwurf.
 
 Da die Daten vor der Visualisierung bearbeitet werden mussten, können wir die Validität nicht zu 100% garantieren.
