@@ -6,6 +6,7 @@ level: land
 config: |-
   {
     "datapackage": "c06abbc1b9141b233de84e14f5ab0a75:bremen-data-2016-2017",
+    'datapackageURL': 'https://s3.amazonaws.com/datastore.openspending.org/c06abbc1b9141b233de84e14f5ab0a75/bremen-data-2016-2017/final/datapackage.json',
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
