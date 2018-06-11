@@ -1,7 +1,7 @@
 ---
 _id: 5305d5e0-6d76-11e8-a999-596b9e5044d6
 state: HB
-name: HB
+name: Bremen
 level: land
 config: |-
   {
@@ -50,29 +50,6 @@ config: |-
           {
             "value": 2017,
             "label": 2017
-          }
-        ]
-      },
-      "Budget Richtung": {
-        "name": "budget_richtung.budget_richtung",
-        "label_ref": "budget_richtung.budget_richtung",
-        "ref": "budget_richtung",
-        "default": true,
-        "defaultValue": "Ausgaben",
-        "defaultLabel": "All",
-        "label": "Budget Richtung",
-        "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
-          {
-            "value": "Ausgaben",
-            "label": "Ausgaben"
-          },
-          {
-            "value": "Einnahmen",
-            "label": "Einnahmen"
           }
         ]
       },
@@ -125,13 +102,59 @@ config: |-
             "label": "Soll"
           }
         ]
+      },
+      "Budget Richtung": {
+        "name": "budget_richtung.budget_richtung",
+        "label_ref": "budget_richtung.budget_richtung",
+        "ref": "budget_richtung",
+        "default": true,
+        "defaultValue": "Ausgaben",
+        "defaultLabel": "All",
+        "label": "Budget Richtung",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": "Ausgaben",
+            "label": "Ausgaben"
+          },
+          {
+            "value": "Einnahmen",
+            "label": "Einnahmen"
+          }
+        ]
+      },      
+      "Jahr": {
+        "name": "jahr.jahr",
+        "label_ref": "jahr.jahr",
+        "ref": "jahr",
+        "default": true,
+        "defaultValue": 2017,
+        "defaultLabel": "All",
+        "label": "Jahr",
+        "values": [
+          {
+            "value": "",
+            "label": "All"
+          },
+          {
+            "value": 2016,
+            "label": 2016
+          },
+          {
+            "value": 2017,
+            "label": 2017
+          }
+        ]
       }
     },
     "level": "land",
     "state": "HB",
     "text": "test test",
-    "name": "HB"
+    "name": "Bremen"
   }
 slug: hb
 ---
-test test
+Zur Verfügung gestellt werden die kameralen Haushaltsdaten der Freien Hansestadt Bremen, genauer des Landes und der Stadtgemeinde Bremen, für die Haushaltsjahre 2016 und 2017. Die Stadt Bremerhaven erstellt einen eigenen Haushaltsplan, der von der Stadtverordnetenversammlung beschlossen wird. Weitere Informationen zu den einzelnen Haushaltsplänen der Hansestadt Bremen finden sich im Transparenzportal Bremen unter  [https://www.transparenz.bremen.de/](https://www.transparenz.bremen.de/).
