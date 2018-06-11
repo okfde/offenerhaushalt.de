@@ -30,29 +30,6 @@ config: |-
     ],
     "scale": [],
     "filters": {
-      "Jahr": {
-        "name": "jahr.jahr",
-        "label_ref": "jahr.jahr",
-        "ref": "jahr",
-        "default": true,
-        "defaultValue": 2017,
-        "defaultLabel": "All",
-        "label": "Jahr",
-        "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
-          {
-            "value": 2016,
-            "label": 2016
-          },
-          {
-            "value": 2017,
-            "label": 2017
-          }
-        ]
-      },
       "Haushalt": {
         "name": "haushalt.haushalt",
         "label_ref": "haushalt.haushalt",
