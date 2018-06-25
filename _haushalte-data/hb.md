@@ -1,7 +1,7 @@
 ---
 _id: 89b3cc80-6f0d-11e8-a999-596b9e5044d6
 state: HB
-name: HB
+name: Bremen
 level: land
 config: |-
   {
@@ -134,7 +134,7 @@ config: |-
     "level": "land",
     "state": "HB",
     "text": "Zur Verfügung gestellt werden die kameralen Haushaltsdaten der Freien Hansestadt Bremen, genauer des Landes und der Stadtgemeinde Bremen, für die Haushaltsjahre 2016, 2017 sowie 2018.\nDie Stadt Bremerhaven erstellt einen eigenen Haushaltsplan, der von der Stadtverordnetenversammlung beschlossen wird.\nWeitere Informationen zu den einzelnen Haushaltsplänen der Hansestadt Bremen finden sich im Transparenzportal Bremen unter https://www.transparenz.bremen.de/\n",
-    "name": "HB"
+    "name": "Bremen"
   }
 slug: hb
 ---
