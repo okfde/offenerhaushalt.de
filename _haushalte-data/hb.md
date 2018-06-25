@@ -21,7 +21,7 @@ config: |-
           "symbol": "",
           "decimal": ",",
           "thousand": ".",
-          "precision": 2,
+          "precision": "",
           "format": "%s%v",
           "postfix": "€"
         },
