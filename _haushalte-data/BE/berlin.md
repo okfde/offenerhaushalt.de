@@ -236,7 +236,13 @@ config: |-
   'state': 'BE',
   'name': 'Berlin',
   'text': 'Haushalt',
-  'hasBarChart': true
+  'hasBarChart': true,
+  'date': 'jahr.jahr',
+  'dateFilter': 'Jahr',
+  'budgetType': 'betragtyp.betragtyp',
+  'budgetTypeFilter': 'BetragTyp',
+  'betragIst': 'Ist',
+  'betragSoll': 'Soll'
   }
 date: '2018-03-02T15:44:34.274Z'
 slug: be
