@@ -35,7 +35,7 @@ config: |-
         "label_ref": "budget_richtung.budget_richtung",
         "ref": "budget_richtung",
         "default": true,
-        "defaultValue": "",
+        "defaultValue": "Ausgaben",
         "defaultLabel": "Ausgaben",
         "label": "Budget Richtung",
         "values": [
@@ -58,7 +58,7 @@ config: |-
         "label_ref": "betrag_typ.betrag_typ",
         "ref": "betrag_typ",
         "default": true,
-        "defaultValue": "",
+        "defaultValue": "Plan",
         "defaultLabel": "Plan",
         "label": "Typ",
         "values": [
@@ -108,7 +108,7 @@ config: |-
         "label_ref": "jahr.jahr",
         "ref": "jahr",
         "default": true,
-        "defaultValue": "",
+        "defaultValue": "2018",
         "defaultLabel": "2018",
         "label": "Jahr",
         "values": [
