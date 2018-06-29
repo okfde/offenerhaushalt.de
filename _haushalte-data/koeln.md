@@ -6,6 +6,7 @@ level: kommune
 config: |-
   {
     "datapackage": "a6a16b964a7e784f99adecc47f26318a:cologne-test18",
+    "datapackageURL": "https://s3.amazonaws.com/datastore.openspending.org/a6a16b964a7e784f99adecc47f26318a/cologne_test18/final/datapackage.json",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
@@ -115,4 +116,4 @@ config: |-
   }
 slug: koeln
 ---
-Ladida
+Das ist der Haushalt der Stadt Köln.
