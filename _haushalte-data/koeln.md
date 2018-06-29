@@ -1,7 +1,7 @@
 ---
 _id: c5d11280-7b7a-11e8-a999-596b9e5044d6
 state: NW
-name: Koeln
+name: Köln
 level: kommune
 config: |-
   {
@@ -111,7 +111,7 @@ config: |-
     },
     "level": "kommune",
     "state": "NW",
-    "name": "Koeln",
+    "name": "Köln",
     "text": "Ladida"
   }
 slug: koeln
