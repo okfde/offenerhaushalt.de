@@ -7,6 +7,13 @@ level: land
 state: RP
 config: |-
   {
+      "colors": [
+        '#DFCE21',
+        '#BCD631', '#95C93D', '#48B85C', '#00833D', '#00B48D',
+        '#60C4B1', '#27C4F4', '#478DCB', '#3E67B1', '#4251A3',
+        '#59449B', '#6E3F7C', '#6A246D', '#8A4873', '#EB0080',
+        '#EF58A0', '#C05A89' 
+      ],
       "datapackage": "a6a16b964a7e784f99adecc47f26318a:rp_hh_16_17_18",
       "hierarchies": [
           {
