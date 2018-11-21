@@ -41,6 +41,9 @@ collections:
   embed:
     output: true
     permalink: /haushalt/:name/embed
+  embed-full:
+    output: true
+    permalink: /haushalt/:name/embed-full
 
 
 # Build settings
@@ -91,6 +94,12 @@ defaults:
       path: "_embed"
     values:
       layout: embed
+  -
+    scope:
+      path: "_embed-full"
+    values:
+      layout: embed-full
+#
 #
 #
 # We use the embed plugin here to generate the same pages

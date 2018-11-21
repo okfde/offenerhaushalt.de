@@ -52,7 +52,7 @@ config: |-
       'description': ''
     },
     {
-      'label': 'Pro Einwohner (3.574.830)',
+      'label': 'Pro Einwohner (3.574.830 in 2016)',
       'number': '3574830',
       'description': ''
     }
@@ -162,7 +162,7 @@ config: |-
       'default': true,
       'defaultValue': 'Soll',
       'defaultLabel': 'All',
-      'label': 'Typ',
+      'label': 'Soll/Ist',
       'values': [
         {
           'value': 'Ist',
@@ -182,7 +182,7 @@ config: |-
       'default': true,
       'defaultValue': 'Ausgaben',
       'defaultLabel': 'All',
-      'label': 'Richtung',
+      'label': 'Typ',
       'values': [
         {
           'value': 'Ausgaben',
@@ -242,17 +242,4 @@ date: '2018-03-02T15:44:34.274Z'
 slug: be
 ---
 
-Die Quelle für den visualisierten Datensatz findet sich auf dieser
-[Webseite](https://www.berlin.de/sen/finanzen/haushalt/haushaltsplan/artikel.5697.php).
 
-Der Haushaltsplan dient der Feststellung und Deckung des Finanzbedarfs, der zur
-Erfüllung der Aufgaben Berlins im jeweiligen Zeitraum notwendig ist. Er bildet
-die Zweistufigkeit der Berliner Verwaltung ab. Der Haushaltsplan besteht
-deshalb aus den Einzelplänen der Senatsverwaltungen (Einzelpläne 03 bis 15) und
-der Bezirkshaushaltspläne (jeweils Einzelpläne 31 bis 59). Darüber hinaus
-beinhaltet er die Einnahmen und Ausgaben der durch die Verfassung von Berlin
-bestimmten Organe Abgeordnetenhaus (Einzelplan 01), Verfassungsgerichtshof
-(Einzelplan 02), Rechnungshof (Einzelplan 20) und des Beauftragten für
-Datenschutz und Informationsfreiheit (Einzelplan 21). Zuweisungen an und
-Programme für die Bezirke sowie Landesweite Personal- und Finanzangelegenheiten
-werden zentral in den Einzelpläne 27 und 29 abgebildet.

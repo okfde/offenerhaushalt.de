@@ -1,0 +1,70 @@
+.treemap-content {
+  min-width: 100%;
+}
+
+.row.full {
+  min-width: 100%;
+}
+
+#table-toggle {
+  display: none !important;
+}
+
+.table.table-condensed {
+  margin-top: 0;
+}
+
+.filter {
+  font-weight: bold;
+}
+
+select {
+  background-color: #871d33 !important;
+  color: white !important;
+}
+
+.breadcrumb {
+   background-color: #871d33 !important;
+   color: white !important;
+   justify-content: center;
+   padding: 2px;
+}
+
+.breadcrumb a {
+  color: white !important;
+  padding: 2px !important;
+}
+
+.breadcrumb a:hover {
+  color:  #871d33 !important;
+  background-color: white;
+  transition: 0s;
+  border-radius: 4px;
+  text-decoration: none;
+  padding: 2px !important;
+}
+
+.blevel span {
+   margin: 0 10px;
+}
+
+.select:not(.is-multiple)::after {
+  border-color: white !important;
+  margin-top: -0.585em !important;
+}
+
+.level-code {
+  padding-left: 10px;
+}
+
+.level-label {
+   padding: 0 !important;
+}
+
+.filters {
+  margin-right: 40px;
+}
+
+.filter {
+   margin-right: 20px;
+}
