@@ -16,12 +16,26 @@
 
 .filter {
   font-weight: bold;
+  font-size: 14px !important;
 }
 
 select {
   background-color: #871d33 !important;
   color: white !important;
+  font-size: 1em !important;
+  margin-top: 5px;
 }
+
+.select {
+  select {
+    font-size: 14px;
+  }
+}
+
+.control.dropdown-toggle {
+  margin-top: 10px;
+}
+
 
 .breadcrumb {
    background-color: #871d33 !important;
@@ -48,9 +62,13 @@ select {
    margin: 0 10px;
 }
 
+.select select:focus {
+   border-color: #b5b5b5 !important;
+}
+
 .select:not(.is-multiple)::after {
+  color: white;
   border-color: white !important;
-  margin-top: -0.585em !important;
 }
 
 .level-code {
@@ -67,4 +85,27 @@ select {
 
 .filter {
    margin-right: 20px;
+}
+
+select {
+  border: none;
+}
+
+select option {
+  background-color: white;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+a {
+  color: #666 !important;
+}
+
+a.node.big > span  {
+  color: white !important;
+  font-size: 1.15em !important;
+}
+
+.node.big .amount {
+   font-size: 1.15em !important;
 }

@@ -24,7 +24,7 @@ config: |-
           {
               "datapackageHierarchy": "economic_classification",
               "url": "funktionen",
-              "label": "Funktionen"
+              'label': 'Politikfelder'
           },
           {
               "datapackageHierarchy": "functional_classification",
@@ -48,16 +48,6 @@ config: |-
           }
       ],
       "scale": [
-          {
-              "label": "Total",
-              "number": 1,
-              "description": ""
-          },
-          {
-              "label": "pro Einwohner (4.073.280 in 2016)",
-              "number": "4073280",
-              "description": "p. E."
-          }
       ],
       "filters": {
           "EinnahmeAusgabe": {
@@ -70,10 +60,6 @@ config: |-
               "defaultLabel": "All",
               "label": "Budget Richtung",
               "values": [
-                  {
-                      "value": "",
-                      "label": "All"
-                  },
                   {
                       "value": "Ausgabe",
                       "label": "Ausgabe"
@@ -90,25 +76,21 @@ config: |-
               "ref": "date_2",
               "type": "integer",
               "default": true,
-              "defaultValue": 2017,
+              "defaultValue": 2018,
               "defaultLabel": "All",
               "label": "Jahr",
               "values": [
                   {
-                      "value": "",
-                      "label": "All"
-                  },
-                  {
-                      "value": 2016,
-                      "label": 2016
+                      "value": 2018,
+                      "label": 2018
                   },
                   {
                       "value": 2017,
                       "label": 2017
                   },
                   {
-                      "value": 2018,
-                      "label": 2018
+                      "value": 2016,
+                      "label": 2016
                   }
               ]
           }
