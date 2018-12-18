@@ -138,6 +138,15 @@ a {
   width: 100%;
   margin-top: 1em;
 }
+.table thead {
+    background-color: white;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+.table tbody {
+    overflow: auto;
+}
 .table td, .table th {
     font-size: 0.9em;
     text-align: left;
@@ -147,6 +156,7 @@ a {
 }
 .table td.num, .table th.num {
     text-align: right;
+    min-width: 80px;
 }
 .table .hide-small, .table .small {
     display: none;
