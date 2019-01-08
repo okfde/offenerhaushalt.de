@@ -5,12 +5,24 @@ name: Potsdam
 level: kommune
 config: |-
   {
+    "colors": [
+        "#CF3D1E", "#F15623", "#F68B1F", "#FFC60B", "#DFCE21",
+        "#BCD631", "#95C93D", "#48B85C", "#00833D", "#00B48D",
+        "#60C4B1", "#27C4F4", "#478DCB", "#3E67B1", "#4251A3",
+        "#59449B", "#6E3F7C", "#6A246D", "#8A4873", "#EB0080",
+        "#EF58A0", "#C05A89"
+    ],
     "datapackage": "57ea7e534f0e322bcd24827e854cf172:potsdam-haushalt-2018-entwurf",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
         "url": "administrative_classification",
-        "label": "Administrative Classification"
+        "label": "Administrative Einteilung"
+      },
+      {
+        "datapackageHierarchy": "economic_classification",
+        "url": "economic_classification",
+        "label": "Wirtschaftliche Einteilung"
       }
     ],
     "value": [
@@ -25,7 +37,7 @@ config: |-
           "postfix": "€",
           "grouping": 3
         },
-        "label": "Amount"
+        "label": "Betrag"
       }
     ],
     "scale": [],
@@ -37,13 +49,9 @@ config: |-
         "type": "integer",
         "default": true,
         "defaultValue": 2018,
-        "defaultLabel": "All",
-        "label": "Year",
+        "defaultLabel": "2018",
+        "label": "Jahr",
         "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
           {
             "value": 2016,
             "label": 2016
@@ -73,13 +81,9 @@ config: |-
         "type": "string",
         "default": true,
         "defaultValue": "FP",
-        "defaultLabel": "All",
-        "label": "Category",
+        "defaultLabel": "FP",
+        "label": "Kategorie",
         "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
           {
             "value": "Ansatz",
             "label": "Ansatz"
@@ -105,20 +109,16 @@ config: |-
         "type": "string",
         "default": true,
         "defaultValue": "expenditure",
-        "defaultLabel": "All",
-        "label": "Direction",
+        "defaultLabel": "Ausgaben",
+        "label": "Richtung",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": "expenditure",
-            "label": "expenditure"
+            "label": "Ausgaben"
           },
           {
             "value": "revenue",
-            "label": "revenue"
+            "label": "Einnahmen"
           }
         ]
       }
@@ -126,7 +126,13 @@ config: |-
     "level": "kommune",
     "state": "BB",
     "name": "Potsdam",
-    "text": "Haushalt 2018 Entwurf"
+    "text": "Haushalt 2018 Entwurf",
+    "valueHeader": "Category",
+    "hasBarChart": false,
+    "date": "date_2.Year",
+    "dateFilter": "Jahr",
+    "budgetType": "phase_2.Category",
+    "budgetTypeFilter": "Category"
   }
 slug: potsdam
 ---
