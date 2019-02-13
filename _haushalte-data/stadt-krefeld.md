@@ -1,16 +1,16 @@
 ---
-_id: 0c61c870-23d2-11e9-b7d3-3fda73ba1258
+_id: 87a1dbe0-2f7d-11e9-b7d3-3fda73ba1258
 state: NW
 name: Stadt Krefeld
 level: kommune
 config: |-
   {
-    "datapackage": "bd9050e78e972a6eefddc36edbe9522b:haushalt_stadt_krefeld_2019",
+    "datapackage": "bd9050e78e972a6eefddc36edbe9522b:hhkrefeld2019",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
-        "url": "administrative_classification",
-        "label": "administrative_classification"
+        "url": "produkt",
+        "label": "Produkt"
       }
     ],
     "value": [
@@ -18,8 +18,8 @@ config: |-
         "field": "amount.sum",
         "formatOptions": {
           "symbol": "",
-          "decimal": ".",
-          "thousand": ",",
+          "decimal": ",",
+          "thousand": ".",
           "precision": 2,
           "format": "%s%v",
           "postfix": "€",
@@ -28,7 +28,18 @@ config: |-
         "label": "Amount"
       }
     ],
-    "scale": [],
+    "scale": [
+      {
+        "label": "Total",
+        "number": 1,
+        "description": ""
+      },
+      {
+        "label": "",
+        "number": 1,
+        "description": ""
+      }
+    ],
     "filters": {
       "Amount Kind": {
         "name": "amount_kind.amount_kind",
@@ -60,7 +71,7 @@ config: |-
         "default": true,
         "defaultValue": "",
         "defaultLabel": "All",
-        "label": "Jahr",
+        "label": "Date",
         "values": [
           {
             "value": "",
@@ -83,7 +94,7 @@ config: |-
         "default": true,
         "defaultValue": "",
         "defaultLabel": "All",
-        "label": "Budgetrichtung",
+        "label": "Budget Richtung",
         "values": [
           {
             "value": "",
