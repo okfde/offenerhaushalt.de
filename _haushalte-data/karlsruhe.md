@@ -8,11 +8,6 @@ config: |-
     "datapackage": "a6a16b964a7e784f99adecc47f26318a:karlsruhe_2017_2018",
     "hierarchies": [
       {
-        "datapackageHierarchy": "direction",
-        "url": "direction",
-        "label": "Direction"
-      },
-      {
         "datapackageHierarchy": "administrative_classification",
         "url": "administrative_classification",
         "label": "Administrative Classification"
@@ -46,14 +41,10 @@ config: |-
         "ref": "date_2",
         "type": "integer",
         "default": true,
-        "defaultValue": "",
+        "defaultValue": "2019",
         "defaultLabel": "All",
         "label": "Jahr",
         "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
           {
             "value": 2015,
             "label": 2015
