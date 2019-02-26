@@ -2,7 +2,7 @@
 _id: 0b06e2c0-35ee-11e9-b7d3-3fda73ba1258
 state: HH
 name: Hamburg
-level: kommune
+level: land
 config: |-
   {
     "datapackage": "c06abbc1b9141b233de84e14f5ab0a75:hamburger_haushalt_hhp_19_20",
