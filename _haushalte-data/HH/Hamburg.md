@@ -41,7 +41,7 @@ config: |-
         "label_ref": "berichtsjahr.berichtsjahr",
         "ref": "berichtsjahr",
         "default": true,
-        "defaultValue": "Plan",
+        "defaultValue": "2019",
         "defaultLabel": "All",
         "label": "Berichtsjahr",
         "values": [
