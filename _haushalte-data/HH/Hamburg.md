@@ -41,7 +41,7 @@ config: |-
         "label_ref": "berichtsjahr.berichtsjahr",
         "ref": "berichtsjahr",
         "default": true,
-        "defaultValue": "",
+        "defaultValue": "Plan",
         "defaultLabel": "All",
         "label": "Berichtsjahr",
         "values": [
@@ -84,7 +84,7 @@ config: |-
         "label_ref": "werttyp.werttyp",
         "ref": "werttyp",
         "default": true,
-        "defaultValue": "",
+        "defaultValue": "Plan",
         "defaultLabel": "All",
         "label": "Werttyp",
         "values": [
