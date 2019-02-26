@@ -1,8 +1,8 @@
 ---
 _id: 0b06e2c0-35ee-11e9-b7d3-3fda73ba1258
 state: HH
-name: HH
-level: land
+name: Hamburg
+level: kommune
 config: |-
   {
     "datapackage": "c06abbc1b9141b233de84e14f5ab0a75:hamburger_haushalt_hhp_19_20",
@@ -84,7 +84,7 @@ config: |-
         "label_ref": "werttyp.werttyp",
         "ref": "werttyp",
         "default": true,
-        "defaultValue": "Plan",
+        "defaultValue": "",
         "defaultLabel": "All",
         "label": "Werttyp",
         "values": [
@@ -130,10 +130,10 @@ config: |-
         ]
       }
     },
-    "level": "land",
+    "level": "kommune",
     "state": "HH",
-    "text": "Die abgebildeten Daten basieren auf dem von der Bürgerschaft in ihrer Sitzung vom 11. bis 13. Dezember 2018 beschlossenen Haushaltsplan 2019/2020 der Freien und Hansestadt Hamburg einschließlich der beiden Finanzplanjahre 2021 und 2022.",
-    "name": "HH"
+    "text": "Die abgebildeten Daten basieren auf dem von der \n\n Bürgerschaft in ihrer Sitzung vom 11. bis 13. Dezember 2018 beschlossenen Haushaltsplan 2019/2020 der Freien und Hansestadt Hamburg einschließlich der beiden Finanzplanjahre 2021 und 2022.",
+    "name": "Hamburg"
   }
 slug: hh
 ---
