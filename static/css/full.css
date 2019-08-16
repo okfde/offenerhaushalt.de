@@ -1,0 +1,111 @@
+.treemap-content {
+  min-width: 100%;
+}
+
+.row.full {
+  min-width: 100%;
+}
+
+#table-toggle {
+  display: none !important;
+}
+
+.table.table-condensed {
+  margin-top: 0;
+}
+
+.filter {
+  font-weight: bold;
+  font-size: 14px !important;
+}
+
+select {
+  background-color: #871d33 !important;
+  color: white !important;
+  font-size: 1em !important;
+  margin-top: 5px;
+}
+
+.select {
+  select {
+    font-size: 14px;
+  }
+}
+
+.control.dropdown-toggle {
+  margin-top: 10px;
+}
+
+
+.breadcrumb {
+   background-color: #871d33 !important;
+   color: white !important;
+   justify-content: center;
+   padding: 2px;
+}
+
+.breadcrumb a {
+  color: white !important;
+  padding: 2px !important;
+}
+
+.breadcrumb a:hover {
+  color:  #871d33 !important;
+  background-color: white;
+  transition: 0s;
+  border-radius: 4px;
+  text-decoration: none;
+  padding: 2px !important;
+}
+
+.blevel span {
+   margin: 0 10px;
+}
+
+.select select:focus {
+   border-color: #b5b5b5 !important;
+}
+
+.select:not(.is-multiple)::after {
+  color: white;
+  border-color: white !important;
+}
+
+.level-code {
+  padding-left: 10px;
+}
+
+.level-label {
+   padding: 0 !important;
+}
+
+.filters {
+  margin-right: 40px;
+}
+
+.filter {
+   margin-right: 20px;
+}
+
+select {
+  border: none;
+}
+
+select option {
+  background-color: white;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+a {
+  color: #666 !important;
+}
+
+a.node.big > span  {
+  color: white !important;
+  font-size: 1.15em !important;
+}
+
+.node.big .amount {
+   font-size: 1.15em !important;
+}
