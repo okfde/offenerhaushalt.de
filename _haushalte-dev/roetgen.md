@@ -1,12 +1,12 @@
 ---
-_id: 6a23f280-1893-11e8-baa8-9788832e013f
+_id: 31c35650-7de8-11e8-a999-596b9e5044d6
 state: NW
 name: Roetgen
-text: Das ist der Haushalt der Gemeinde Roetgen!
 level: kommune
 config: |-
   {
-    "datapackage": "a6a16b964a7e784f99adecc47f26318a:roetgen",
+    "datapackage": "a6a16b964a7e784f99adecc47f26318a:roetgen18",
+    "datapackageURL": "https://s3.amazonaws.com/datastore.openspending.org/a6a16b964a7e784f99adecc47f26318a/roetgen18/final/datapackage.json",    
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
@@ -16,7 +16,7 @@ config: |-
     ],
     "value": [
       {
-        "field": "Ansatz.sum",
+        "field": "ansatz.sum",
         "formatOptions": {
           "symbol": "",
           "decimal": ",",
@@ -26,7 +26,7 @@ config: |-
           "postfix": "€",
           "grouping": 3
         },
-        "label": "Ansatz"
+        "label": "Betrag"
       }
     ],
     "scale": [
@@ -36,37 +36,35 @@ config: |-
         "description": ""
       },
       {
-        "label": "pro Einwohner (8.527 in 2015)",
-        "number": "8527",
-        "description": "p. E."
+        "label": "pro Einwohner (8.590 in 2016)",
+        "number": "8590",
+        "description": "p.E."
       }
     ],
     "filters": {
-      "Jahr": {
-        "name": "date_2.Jahr",
-        "label_ref": "date_2.Jahr",
-        "ref": "date_2",
-        "type": "integer",
+      "Haushalt": {
+        "name": "haushalt.haushalt",
+        "label_ref": "haushalt.haushalt",
+        "ref": "haushalt",
         "default": true,
-        "defaultValue": 2017,
+        "defaultValue": "Plan",
         "defaultLabel": "All",
-        "label": "Jahr",
+        "label": "Haushalt",
         "values": [
           {
             "value": "",
             "label": "All"
           },
           {
-            "value": 2017,
-            "label": 2017
+            "value": "Plan",
+            "label": "Plan"
           }
         ]
       },
       "Art": {
-        "name": "direction_2.Art",
-        "label_ref": "direction_2.Art",
-        "ref": "direction_2",
-        "type": "string",
+        "name": "art.art",
+        "label_ref": "art.art",
+        "ref": "art",
         "default": true,
         "defaultValue": "Ausgaben",
         "defaultLabel": "All",
@@ -86,23 +84,26 @@ config: |-
           }
         ]
       },
-      "Haushalt": {
-        "name": "phase_2.Haushalt",
-        "label_ref": "phase_2.Haushalt",
-        "ref": "phase_2",
-        "type": "string",
+      "Jahr": {
+        "name": "jahr.jahr",
+        "label_ref": "jahr.jahr",
+        "ref": "jahr",
         "default": true,
-        "defaultValue": "Plan",
+        "defaultValue": 2018,
         "defaultLabel": "All",
-        "label": "Haushalt",
+        "label": "Jahr",
         "values": [
           {
             "value": "",
             "label": "All"
           },
           {
-            "value": "Plan",
-            "label": "Plan"
+            "value": 2017,
+            "label": 2017
+          },
+          {
+            "value": 2018,
+            "label": 2018
           }
         ]
       }
@@ -110,9 +111,8 @@ config: |-
     "level": "kommune",
     "state": "NW",
     "name": "Roetgen",
-    "text": "Das ist der Haushalt der Gemeinde Roetgen!"
+    "text": "Haushalt"
   }
-date: '2018-02-23T12:16:45.717Z'
 slug: roetgen
 ---
-undefined
+Haushalt
