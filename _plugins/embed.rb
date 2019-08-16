@@ -34,7 +34,7 @@ module Jekyll
   end
 
   class CollectionLayoutsGenerator
-    LAYOUTS = ['budget2', 'budget-edit', 'embed']
+    LAYOUTS = ['budget2', 'budget-edit', 'embed-full', 'embed']
 
     def generate(site)
       site.collections.each do |_, collection|
