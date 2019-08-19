@@ -57,10 +57,6 @@ config: |-
         "label": "EinnahmeAusgabe",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": "Ausgabe",
             "label": "Ausgabe"
           },
@@ -79,10 +75,6 @@ config: |-
         "defaultLabel": "All",
         "label": "Jahr",
         "values": [
-          {
-            "value": "",
-            "label": "All"
-          },
           {
             "value": 2016,
             "label": 2016
