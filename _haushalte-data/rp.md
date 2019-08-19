@@ -12,7 +12,7 @@ config: |-
       '#59449B', '#6E3F7C', '#6A246D', '#8A4873', '#EB0080',
       '#EF58A0', '#C05A89' 
     ],
-    "datapackage": "a6a16b964a7e784f99adecc47f26318a:rp1920",
+    "datapackage": "a6a16b964a7e784f99adecc47f26318a:rpl-all",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
