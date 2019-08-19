@@ -35,8 +35,8 @@ config: |-
         "field": "ansatz_2019.sum",
         "formatOptions": {
           "symbol": "",
-          "decimal": ".",
-          "thousand": ",",
+          "decimal": ",",
+          "thousand": ".",
           "precision": "",
           "format": "%s%v",
           "postfix": "€",
