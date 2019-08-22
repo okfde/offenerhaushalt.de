@@ -22,12 +22,12 @@ config: |-
       {
         "datapackageHierarchy": "functional_classification",
         "url": "functional_classification",
-        "label": "Gruppen"
+        "label": "Politikfelder"
       },
       {
         "datapackageHierarchy": "economic_classification",
         "url": "economic_classification",
-        "label": "Politikfelder"
+        "label": "Gruppen"
       }
     ],
     "value": [
@@ -58,11 +58,11 @@ config: |-
         "values": [
           {
             "value": "Ausgabe",
-            "label": "Ausgabe"
+            "label": "Ausgaben"
           },
           {
             "value": "Einnahme",
-            "label": "Einnahme"
+            "label": "Einnahmen"
           }
         ]
       },
