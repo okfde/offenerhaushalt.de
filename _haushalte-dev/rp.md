@@ -39,7 +39,7 @@ config: |-
           "thousand": ",",
           "precision": "",
           "format": "%s%v",
-          "postfix": "€",
+          "postfix": " €",
           "grouping": 3
         },
         "label": "Ansatz 2019"
