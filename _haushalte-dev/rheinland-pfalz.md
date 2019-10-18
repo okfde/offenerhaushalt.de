@@ -40,7 +40,7 @@ config: |-
                   "decimal": ",",
                   "thousand": ".",
                   "precision": "0",
-                  "format": "%s%v",
+                  "format": "%s%v ",
                   "postfix": "\u20ac",
                   "grouping": 3
               },
