@@ -31,7 +31,7 @@ config: |-
       ],
       "scale": [
         {
-          "label": "Total",
+          "label": "Gesamt",
           "number": 1,
           "description": ""
         },
@@ -53,7 +53,7 @@ config: |-
           "values": [
             {
               "value": "",
-              "label": "All"
+              "label": "Alle"
             },
             {
               "value": "Vermögen",
@@ -76,15 +76,15 @@ config: |-
           "values": [
             {
               "value": "",
-              "label": "All"
+              "label": "Alle"
             },
             {
               "value": "Ansatz",
               "label": "Ansatz"
             },
             {
-              "value": "Ergebnis",
-              "label": "Ergebnis"
+              "value": "Rechnung",
+              "label": "Rechnung"
             }
           ]
         },
@@ -99,7 +99,7 @@ config: |-
           "values": [
             {
               "value": "",
-              "label": "All"
+              "label": "Alle"
             },
             {
               "value": "Ausgabe",
@@ -122,7 +122,7 @@ config: |-
           "values": [
             {
               "value": "",
-              "label": "All"
+              "label": "Alle"
             },
             {
               "value": 2018,
