@@ -12,7 +12,7 @@ config: |-
       '#59449B', '#6E3F7C', '#6A246D', '#8A4873', '#EB0080',
       '#EF58A0', '#C05A89' 
     ],
-    "datapackage": "a6a16b964a7e784f99adecc47f26318a:rp1920",
+    "datapackage": "a6a16b964a7e784f99adecc47f26318a:rpl-all",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
@@ -22,12 +22,12 @@ config: |-
       {
         "datapackageHierarchy": "functional_classification",
         "url": "functional_classification",
-        "label": "Gruppen"
+        "label": "Politikfelder"
       },
       {
         "datapackageHierarchy": "economic_classification",
         "url": "economic_classification",
-        "label": "Politikfelder"
+        "label": "Gruppen"
       }
     ],
     "value": [
@@ -35,11 +35,11 @@ config: |-
         "field": "ansatz_2019.sum",
         "formatOptions": {
           "symbol": "",
-          "decimal": ".",
-          "thousand": ",",
+          "decimal": ",",
+          "thousand": ".",
           "precision": "",
           "format": "%s%v",
-          "postfix": "€",
+          "postfix": " €",
           "grouping": 3
         },
         "label": "Ansatz 2019"
@@ -57,16 +57,12 @@ config: |-
         "label": "EinnahmeAusgabe",
         "values": [
           {
-            "value": "",
-            "label": "All"
-          },
-          {
             "value": "Ausgabe",
-            "label": "Ausgabe"
+            "label": "Ausgaben"
           },
           {
             "value": "Einnahme",
-            "label": "Einnahme"
+            "label": "Einnahmen"
           }
         ]
       },
@@ -80,23 +76,31 @@ config: |-
         "label": "Jahr",
         "values": [
           {
-            "value": "",
-            "label": "All"
+            "value": 2020,
+            "label": 2020
           },
           {
             "value": 2019,
             "label": 2019
           },
           {
-            "value": 2020,
-            "label": 2020
+            "value": 2018,
+            "label": 2018
+          },
+          {
+            "value": 2017,
+            "label": 2017
+          },
+          {
+            "value": 2016,
+            "label": 2016
           }
         ]
       }
     },
     "level": "land",
     "state": "RP",
-    "text": "lalala",
+    "text": "",
     "name": "RP"
   }
 slug: rp
