@@ -7,28 +7,24 @@ level: land
 state: RP
 config: |-
   {
-      "datapackage": "a6a16b964a7e784f99adecc47f26318a:rpl-all",
-        "hierarchies": [
-        {
-                "datapackageHierarchy": "administrative_classification",
-                        "url": "administrative_classification",
-                                "label": "Einzelpläne"
-                                      
-        },
-        {
-                "datapackageHierarchy": "functional_classification",
-                        "url": "functional_classification",
-                                "label": "Politikfelder"
-                                      
-        },
-        {
-                "datapackageHierarchy": "economic_classification",
-                        "url": "economic_classification",
-                                "label": "Gruppen"
-                                      
-        }
-            
-        ],
+      "datapackage": "a6a16b964a7e784f99adecc47f26318a:rp_hh_16_17_18",
+      "hierarchies": [
+          {
+              "datapackageHierarchy": "administrative_classification",
+              "url": "einzelplaene",
+              "label": "Einzelpläne"
+          },
+          {
+              "datapackageHierarchy": "economic_classification",
+              "url": "funktionen",
+              "label": "Funktionen"
+          },
+          {
+              "datapackageHierarchy": "functional_classification",
+              "url": "gruppen",
+              "label": "Gruppen"
+          }
+      ],
       "value": [
           {
               "field": "Ansatz_2018.sum",
