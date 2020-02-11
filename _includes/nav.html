@@ -32,19 +32,19 @@
  </div>
     <ul class="navbar right-nav">
       {% if page.url == '/' %}
-      <li>{%icon fa-search %}Datensatz finden</li>
+      <li><i class="fa fa-search"></i>Datensatz finden</li>
       {% else %}
-      <li><a href="{{ relative-baseurl }}">{%icon fa-search %}Datensatz finden</a></li>
+      <li><a href="{{ relative-baseurl }}"><i class="fa fa-search"></i>Datensatz finden</a></li>
       {% endif %}
       {% if page.url contains 'hinzufuegen' %}
-      <li>{%icon fa-plus %} Datensatz hinzufügen</li>
+      <li><i class="fa fa-plus"></i> Datensatz hinzufügen</li>
       {% else %}
-      <li><a href="{{ relative-baseurl }}hinzufuegen/">{%icon fa-plus %} Datensatz hinzufügen</a></li>
+      <li><a href="{{ relative-baseurl }}hinzufuegen/"><i class="fa fa-plus"></i> Datensatz hinzufügen</a></li>
       {% endif %}
       {% if page.url contains 'hilfestellung' %}
-      <li class="active"><a href="{{ relative-baseurl }}hilfestellung/">{%icon fa-life-ring %} Hilfe&shy;stellung</a></li>
+      <li class="active"><a href="{{ relative-baseurl }}hilfestellung/"><i class="fa fa-life-ring"></i> Hilfe&shy;stellung</a></li>
       {% else %}
-      <li><a href="{{ relative-baseurl }}hilfestellung/">{%icon fa-life-ring %} Hilfe&shy;stellung</a></li>
+      <li><a href="{{ relative-baseurl }}hilfestellung/"><i class="fa fa-life-ring"></i> Hilfe&shy;stellung</a></li>
       {% endif %}
     </ul>
 </nav>
