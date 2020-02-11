@@ -88,7 +88,7 @@ layout: city
      {% if land_size > 0 %}
         {% for l in land %}
           <div class="visualisierung">
-            <a href="{{ l.url }}">  zur Visualisierung {% icon fa-long-arrow-right %}</a>
+            <a href="{{ l.url }}">  zur Visualisierung <i class="fa fa-long-arrow-right"></i></a>
           </div>
         {% endfor %}
       {% endif %}
@@ -106,7 +106,7 @@ layout: city
         <h2>{{ c.name }}</h2>
       </div>
       <div class="visualisierung">
-        <a href="{{ c.url }}"> zur Visualisierung {% icon fa-long-arrow-right %}</a>
+        <a href="{{ c.url }}"> zur Visualisierung <i class="fa fa-long-arrow-right"></i></a>
       </div>
     </div>
     {% endif %}
