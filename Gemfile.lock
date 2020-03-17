@@ -162,14 +162,14 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
     mercenary (0.3.6)
-    mini_portile2 (2.4.0)
+    mini_portile2 (2.3.0)
     minima (2.1.1)
       jekyll (~> 3.3)
     minitest (5.11.3)
     multipart-post (2.0.0)
     net-dns (0.8.0)
-    nokogiri (1.10.4)
-      mini_portile2 (~> 2.4.0)
+    nokogiri (1.8.5)
+      mini_portile2 (~> 2.3.0)
     octokit (4.7.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.14.0)
@@ -204,10 +204,10 @@ DEPENDENCIES
   font-awesome-sass
   github-pages
   kramdown
-  nokogiri (~> 1.10.4)
+  nokogiri (~> 1.8.2)
 
 RUBY VERSION
-   ruby 2.5.1p57
+   ruby 2.5.5p157
 
 BUNDLED WITH
-   1.16.1
+   1.17.3
