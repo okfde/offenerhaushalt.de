@@ -169,6 +169,7 @@ config: |-
         "default": true,
         "defaultValue": "Ausgabetitel",
         "defaultLabel": "Ausgaben",
+        "type": "string",
         "label": "Typ",
         "values": [
           {
@@ -186,8 +187,8 @@ config: |-
         "label_ref": "jahr.jahr",
         "ref": "jahr",
         "default": true,
-        "defaultValue": "2018",
-        "defaultLabel": "2018",
+        "defaultValue": "2020",
+        "defaultLabel": "2020",
         "label": "Jahr",
         "values": [
           {
