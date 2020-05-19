@@ -45,7 +45,19 @@ config: |-
         "label": "Betrag"
       }
     ],
-    "scale": [],
+    "scale": [
+        {
+      'label': 'Gesamtsumme',
+      'number': 1,
+      'description': ''
+    },
+    {
+      'label': 'Pro Einwohner (3.769.495 in 2019)',
+      'number': '3769495',
+      'description': ''
+    }
+ 
+    ],
     "filters": {
       "Bereich": {
         "name": "bereich.bereich",
