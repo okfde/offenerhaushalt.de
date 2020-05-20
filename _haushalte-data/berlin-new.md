@@ -12,7 +12,7 @@ config: |-
         '#60C4B1', '#27C4F4', '#478DCB', '#3E67B1', '#4251A3',
         '#59449B', '#6E3F7C', '#6A246D', '#8A4873', '#EB0080',
         '#EF58A0', '#C05A89' ],
-    "datapackage": "99030977d67877e4fc4e5b7306c9f4b1:berlin-2014-2021",
+    "datapackage": "99030977d67877e4fc4e5b7306c9f4b1:berlin-2014-2020",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
@@ -60,7 +60,7 @@ config: |-
     ],
     "filters": {
       "Bereich": {
-        "name": "bereich.bereich",
+        "name": "typ.typ",
         "label_ref": "bereich.bereichsbezeichnung",
         "ref": "bereich",
         "type": "string",
@@ -74,7 +74,7 @@ config: |-
             'label': 'Berlin Gesamt'
           },
           {
-            'value': '30',
+            'value': '"1";"2"',
             'label': 'Hauptverwaltung',
             'isTop': true
           },
