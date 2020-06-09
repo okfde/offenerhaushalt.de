@@ -1,16 +1,16 @@
 ---
-_id: ea9d0910-3896-11e8-ad1f-8d4eb113e003
+_id: ec438820-38cd-11e8-ad1f-8d4eb113e003
 state: RP
 name: Verbandsgemeinde Rodalben
 level: kommune
 config: |-
   {
-    "datapackage": "55e32d648305f48f26add5dcda4a363a:hhvgrod_2018",
+    "datapackage": "55e32d648305f48f26add5dcda4a363a:hh_vg_2018",
     "hierarchies": [
       {
         "datapackageHierarchy": "administrative_classification",
-        "url": "fachbereichsebene",
-        "label": "Fachbereichsebene"
+        "url": "produktbereich",
+        "label": "Produktbereich"
       }
     ],
     "value": [
@@ -20,7 +20,7 @@ config: |-
           "symbol": "",
           "decimal": ",",
           "thousand": ".",
-          "precision": "2",
+          "precision": 2,
           "format": "%s%v",
           "postfix": "€",
           "grouping": 3
@@ -58,8 +58,8 @@ config: |-
     "level": "kommune",
     "state": "RP",
     "name": "Verbandsgemeinde Rodalben",
-    "text": "Haushalt 2018 der Verbandsgemeinde Rodalben"
+    "text": "Haushalt der VG Rodalben, gegliedert nach Produktbereichen"
   }
 slug: verbandsgemeinde-rodalben
 ---
-Haushalt 2018 der Verbandsgemeinde Rodalben
+Haushalt der VG Rodalben, gegliedert nach Produktbereichen
