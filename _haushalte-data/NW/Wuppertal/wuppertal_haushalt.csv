@@ -1,0 +1,845 @@
+Art,Betrag,Typ,Produktbereich,ProduktbereichNR,Produktgruppe,ProduktgruppeNR,Produkt,ProduktNR,Year
+Plan,nan,Aufwendung,Allgemeine Finanzwirtschaft,61,Sonstige allgemeine Finanzwirtschaft,04,Kreditwirtschaft,01,2018
+Plan,15472050.0,Ertrag,Allgemeine Finanzwirtschaft,61,Sonstige allgemeine Finanzwirtschaft,04,Kreditwirtschaft,01,2018
+Plan,1073830.0,Aufwendung,Allgemeine Finanzwirtschaft,61,Sonstige allgemeine Finanzwirtschaft,04,Sonstige allgemeine Finanzwirtschaft,02,2018
+Plan,2710500.0,Ertrag,Allgemeine Finanzwirtschaft,61,Sonstige allgemeine Finanzwirtschaft,04,Sonstige allgemeine Finanzwirtschaft,02,2018
+Plan,115370000.0,Aufwendung,Allgemeine Finanzwirtschaft,61,"Steuern,allgemeine Zuweisungen u.Umlagen",01,Allgemeine Zuweisungen und Umlagen,02,2018
+Plan,308400000.0,Ertrag,Allgemeine Finanzwirtschaft,61,"Steuern,allgemeine Zuweisungen u.Umlagen",01,Allgemeine Zuweisungen und Umlagen,02,2018
+Plan,31000000.0,Aufwendung,Allgemeine Finanzwirtschaft,61,"Steuern,allgemeine Zuweisungen u.Umlagen",01,Steuern,01,2018
+Plan,500668000.0,Ertrag,Allgemeine Finanzwirtschaft,61,"Steuern,allgemeine Zuweisungen u.Umlagen",01,Steuern,01,2018
+Plan,295430.04,Aufwendung,Bauen und Wohnen,52,Baubehördliche Information,02,Service und Information,01,2018
+Plan,25750.21,Ertrag,Bauen und Wohnen,52,Baubehördliche Information,02,Service und Information,01,2018
+Plan,531708.46,Aufwendung,Bauen und Wohnen,52,Denkmalschutz und Denkmalpflege,03,Denkmalschutz und Denkmalpflege,01,2018
+Plan,82557.48,Ertrag,Bauen und Wohnen,52,Denkmalschutz und Denkmalpflege,03,Denkmalschutz und Denkmalpflege,01,2018
+Plan,2643600.25,Aufwendung,Bauen und Wohnen,52,Maßnahmen der Bauaufsicht,01,"Bauaufsicht, Sonderbauten und Prüfungen",01,2018
+Plan,2132897.03,Ertrag,Bauen und Wohnen,52,Maßnahmen der Bauaufsicht,01,"Bauaufsicht, Sonderbauten und Prüfungen",01,2018
+Plan,616380.65,Aufwendung,Bauen und Wohnen,52,Soziale Wohnraumförderung,04,Soziale Wohnraumförderung,01,2018
+Plan,45789.4,Ertrag,Bauen und Wohnen,52,Soziale Wohnraumförderung,04,Soziale Wohnraumförderung,01,2018
+Plan,935103.66,Aufwendung,Bauen und Wohnen,52,Wohnraumsicherung und -versorgung,06,WBS/Wohnraumverm. Kontrolle u. Aufsicht,01,2018
+Plan,66037.28,Ertrag,Bauen und Wohnen,52,Wohnraumsicherung und -versorgung,06,WBS/Wohnraumverm. Kontrolle u. Aufsicht,01,2018
+Plan,443076.92,Aufwendung,Bauen und Wohnen,52,Wohnungsmarktbeobachtung,07,Mietpreisüberprüfung und Mietspiegel,01,2018
+Plan,2058.6,Ertrag,Bauen und Wohnen,52,Wohnungsmarktbeobachtung,07,Mietpreisüberprüfung und Mietspiegel,01,2018
+Plan,683778.19,Aufwendung,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,Hilfe u.Beratung psychisch u.Suchtkranke,04,2018
+Plan,465.78,Ertrag,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,Hilfe u.Beratung psychisch u.Suchtkranke,04,2018
+Plan,680086.57,Aufwendung,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,Infektionsschutz u. QS Gesundheit,05,2018
+Plan,31460.52,Ertrag,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,Infektionsschutz u. QS Gesundheit,05,2018
+Plan,177160.2,Aufwendung,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,KC Aids/STD Koordination/Beratung/Unters,06,2018
+Plan,47305.64,Ertrag,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,KC Aids/STD Koordination/Beratung/Unters,06,2018
+Plan,171262.96,Aufwendung,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,KC Arzneimittelüberwachung/Sozialpharmaz,08,2018
+Plan,88305.72,Ertrag,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,KC Arzneimittelüberwachung/Sozialpharmaz,08,2018
+Plan,555244.54,Aufwendung,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,KC Zahnmedizinischer Dienst,07,2018
+Plan,82321.09,Ertrag,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,KC Zahnmedizinischer Dienst,07,2018
+Plan,866375.57,Aufwendung,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,Kinder- und Jugendgesundheit,02,2018
+Plan,24876.15,Ertrag,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,Kinder- und Jugendgesundheit,02,2018
+Plan,622288.25,Aufwendung,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,"Prävention, Hilfe + Ärztliche Gutachten",01,2018
+Plan,180469.71,Ertrag,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,"Prävention, Hilfe + Ärztliche Gutachten",01,2018
+Plan,945965.0,Aufwendung,Innere Verwaltung,11,Beschäftigtenvertretung,11,Personalvertretung,01,2018
+Plan,22555.25,Ertrag,Innere Verwaltung,11,Beschäftigtenvertretung,11,Personalvertretung,01,2018
+Plan,269264.36,Aufwendung,Innere Verwaltung,11,Beschäftigtenvertretung,11,Schwerbehindertenvertretung,02,2018
+Plan,6221.36,Ertrag,Innere Verwaltung,11,Beschäftigtenvertretung,11,Schwerbehindertenvertretung,02,2018
+Plan,652164.41,Aufwendung,Innere Verwaltung,11,Bezirksvertretungen,02,Bezirksvertretungen und Ehrenamt,01,2018
+Plan,75.48,Ertrag,Innere Verwaltung,11,Bezirksvertretungen,02,Bezirksvertretungen und Ehrenamt,01,2018
+Plan,504491.39,Aufwendung,Innere Verwaltung,11,BGA IT-Infrastruktur,38,BGA Nachrichtentechnik,01,2018
+Plan,697725.01,Ertrag,Innere Verwaltung,11,BGA IT-Infrastruktur,38,BGA Nachrichtentechnik,01,2018
+Plan,8400.0,Aufwendung,Innere Verwaltung,11,BGA IT-Infrastruktur,38,BGA Rechenzentrum,02,2018
+Plan,47000.0,Ertrag,Innere Verwaltung,11,BGA IT-Infrastruktur,38,BGA Rechenzentrum,02,2018
+Plan,162777.63,Aufwendung,Innere Verwaltung,11,Bürgerbüros,22,Bürgerbüros,01,2018
+Plan,1112.88,Ertrag,Innere Verwaltung,11,Bürgerbüros,22,Bürgerbüros,01,2018
+Plan,527594.92,Aufwendung,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,"Anlagenbuchhaltung, Bilanzen+Controlling",02,2018
+Plan,13196.61,Ertrag,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,"Anlagenbuchhaltung, Bilanzen+Controlling",02,2018
+Plan,362292.88,Aufwendung,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Beteiligungsmanagement,03,2018
+Plan,700004.92,Ertrag,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Beteiligungsmanagement,03,2018
+Plan,7507371.37,Aufwendung,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Finanzbuchhaltung,05,2018
+Plan,3891194.93,Ertrag,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Finanzbuchhaltung,05,2018
+Plan,787410.58,Aufwendung,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Haushaltsmanagement,01,2018
+Plan,19733.6,Ertrag,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Haushaltsmanagement,01,2018
+Plan,1993683.18,Aufwendung,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Steuern und sonstige Abgaben,08,2018
+Plan,512332.87,Ertrag,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Steuern und sonstige Abgaben,08,2018
+Plan,1079171.49,Aufwendung,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Vermögensmanagement,04,2018
+Plan,252406.78,Ertrag,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Vermögensmanagement,04,2018
+Plan,508150.96,Aufwendung,Innere Verwaltung,11,Fördermittelmanagement,27,Zentrales Fördermanagement,01,2018
+Plan,nan,Ertrag,Innere Verwaltung,11,Fördermittelmanagement,27,Zentrales Fördermanagement,01,2018
+Plan,716107.76,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 1,05,GBL und Steuerungsunterstützung GB1,01,2018
+Plan,18885.98,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 1,05,GBL und Steuerungsunterstützung GB1,01,2018
+Plan,293061.53,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 1,05,Steuer. Klimaschutz+Klimawandelanpassung,03,2018
+Plan,80866.29,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 1,05,Steuer. Klimaschutz+Klimawandelanpassung,03,2018
+Plan,245434.58,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 2.1,06,GBL und Steuerungsunterstützung GB2.1,01,2018
+Plan,8340.67,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 2.1,06,GBL und Steuerungsunterstützung GB2.1,01,2018
+Plan,331038.67,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 2.2,07,GBL und Steuerungsunterstützung GB2.2,01,2018
+Plan,10823.87,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 2.2,07,GBL und Steuerungsunterstützung GB2.2,01,2018
+Plan,358632.66,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,EUROPA-Förderung,06,2018
+Plan,73215.2,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,EUROPA-Förderung,06,2018
+Plan,759485.12,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,GBL und Steuerungsunterstützung GB4,01,2018
+Plan,475347.28,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,GBL und Steuerungsunterstützung GB4,01,2018
+Plan,274350.44,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,IT-Strategie und Digitalisierung,07,2018
+Plan,6052.62,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,IT-Strategie und Digitalisierung,07,2018
+Plan,371438.21,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,Zentrale Revision,05,2018
+Plan,10655.91,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,Zentrale Revision,05,2018
+Plan,189113.08,Aufwendung,Innere Verwaltung,11,Gleichstellung von Frau und Mann,10,Gleichstellung von Frau und Mann,01,2018
+Plan,22635.37,Ertrag,Innere Verwaltung,11,Gleichstellung von Frau und Mann,10,Gleichstellung von Frau und Mann,01,2018
+Plan,122400.0,Aufwendung,Innere Verwaltung,11,GMW / Gemeinnütz. Wohnungsbauges.,26,GMW,01,2018
+Plan,nan,Ertrag,Innere Verwaltung,11,GMW / Gemeinnütz. Wohnungsbauges.,26,GMW,01,2018
+Plan,2000000.0,Aufwendung,Innere Verwaltung,11,GMW / Gemeinnütz. Wohnungsbauges.,26,GWG,02,2018
+Plan,nan,Ertrag,Innere Verwaltung,11,GMW / Gemeinnütz. Wohnungsbauges.,26,GWG,02,2018
+Plan,1344789.01,Aufwendung,Innere Verwaltung,11,Grundstücksmanagement,25,Grundstücksmanagement,01,2018
+Plan,3151008.04,Ertrag,Innere Verwaltung,11,Grundstücksmanagement,25,Grundstücksmanagement,01,2018
+Plan,1918057.66,Aufwendung,Innere Verwaltung,11,IT-Infrastruktur,37,Netz,01,2018
+Plan,858940.96,Ertrag,Innere Verwaltung,11,IT-Infrastruktur,37,Netz,01,2018
+Plan,2127508.5,Aufwendung,Innere Verwaltung,11,IT-Infrastruktur,37,Rechenzentrum,03,2018
+Plan,960540.77,Ertrag,Innere Verwaltung,11,IT-Infrastruktur,37,Rechenzentrum,03,2018
+Plan,1723296.97,Aufwendung,Innere Verwaltung,11,IT-Infrastruktur,37,Telefon,02,2018
+Plan,520270.44,Ertrag,Innere Verwaltung,11,IT-Infrastruktur,37,Telefon,02,2018
+Plan,3261329.31,Aufwendung,Innere Verwaltung,11,IT-Kundenservice,40,Client Management,01,2018
+Plan,1151155.0,Ertrag,Innere Verwaltung,11,IT-Kundenservice,40,Client Management,01,2018
+Plan,4202354.52,Aufwendung,Innere Verwaltung,11,IT-Kundenservice,40,Fachverfahren,02,2018
+Plan,1594816.12,Ertrag,Innere Verwaltung,11,IT-Kundenservice,40,Fachverfahren,02,2018
+Plan,464714.59,Aufwendung,Innere Verwaltung,11,IT-Steuerung und eVerwaltung,41,IT-Steuerung und eVerwaltung,01,2018
+Plan,12321.44,Ertrag,Innere Verwaltung,11,IT-Steuerung und eVerwaltung,41,IT-Steuerung und eVerwaltung,01,2018
+Plan,404598.24,Aufwendung,Innere Verwaltung,11,Kompetenzzentrum Frau und Beruf,36,Kompetenzzentrum Frau und Beruf,01,2018
+Plan,307500.0,Ertrag,Innere Verwaltung,11,Kompetenzzentrum Frau und Beruf,36,Kompetenzzentrum Frau und Beruf,01,2018
+Plan,151816.92,Aufwendung,Innere Verwaltung,11,Konferenzservice,24,Konferenzservice,01,2018
+Plan,39495.79,Ertrag,Innere Verwaltung,11,Konferenzservice,24,Konferenzservice,01,2018
+Plan,322000.0,Aufwendung,Innere Verwaltung,11,Mitgliedschaften,34,Beitr.mitgl.sch. im Gesamtverw.interesse,01,2018
+Plan,nan,Ertrag,Innere Verwaltung,11,Mitgliedschaften,34,Beitr.mitgl.sch. im Gesamtverw.interesse,01,2018
+Plan,313566.31,Aufwendung,Innere Verwaltung,11,Personalfortbildung und -entwicklung,14,Ausbildung,01,2018
+Plan,30918.53,Ertrag,Innere Verwaltung,11,Personalfortbildung und -entwicklung,14,Ausbildung,01,2018
+Plan,550915.13,Aufwendung,Innere Verwaltung,11,Personalfortbildung und -entwicklung,14,Kommunale Fortbildung,02,2018
+Plan,140518.28,Ertrag,Innere Verwaltung,11,Personalfortbildung und -entwicklung,14,Kommunale Fortbildung,02,2018
+Plan,1344068.44,Aufwendung,Innere Verwaltung,11,Personalmanagement,15,Personalabrechnung,04,2018
+Plan,724924.91,Ertrag,Innere Verwaltung,11,Personalmanagement,15,Personalabrechnung,04,2018
+Plan,1000402.77,Aufwendung,Innere Verwaltung,11,Personalmanagement,15,Personalbetreuung,02,2018
+Plan,14557.67,Ertrag,Innere Verwaltung,11,Personalmanagement,15,Personalbetreuung,02,2018
+Plan,808375.4,Aufwendung,Innere Verwaltung,11,Personalmanagement,15,Personalsteuerung und -recht,01,2018
+Plan,63411.86,Ertrag,Innere Verwaltung,11,Personalmanagement,15,Personalsteuerung und -recht,01,2018
+Plan,1023350.0,Aufwendung,Innere Verwaltung,11,Personalnebenkosten,28,Personalnebenkosten,01,2018
+Plan,391400.0,Ertrag,Innere Verwaltung,11,Personalnebenkosten,28,Personalnebenkosten,01,2018
+Plan,3119275.44,Aufwendung,Innere Verwaltung,11,Politische Gremien,01,Rat und Gremien / Fraktionen,01,2018
+Plan,82442.0,Ertrag,Innere Verwaltung,11,Politische Gremien,01,Rat und Gremien / Fraktionen,01,2018
+Plan,330347.9,Aufwendung,Innere Verwaltung,11,Presse- und Öffentlichkeitsarbeit,13,Presse- und Öffentlichkeitsarbeit,01,2018
+Plan,10485.61,Ertrag,Innere Verwaltung,11,Presse- und Öffentlichkeitsarbeit,13,Presse- und Öffentlichkeitsarbeit,01,2018
+Plan,327636.24,Aufwendung,Innere Verwaltung,11,Presse- und Öffentlichkeitsarbeit,13,Repräsentationen / Städtepartnerschaften,02,2018
+Plan,8027.56,Ertrag,Innere Verwaltung,11,Presse- und Öffentlichkeitsarbeit,13,Repräsentationen / Städtepartnerschaften,02,2018
+Plan,217265.88,Aufwendung,Innere Verwaltung,11,Rechnungsprüfung,12,Korruptionsbekämpfung und -prävention,02,2018
+Plan,5423.47,Ertrag,Innere Verwaltung,11,Rechnungsprüfung,12,Korruptionsbekämpfung und -prävention,02,2018
+Plan,1545934.16,Aufwendung,Innere Verwaltung,11,Rechnungsprüfung,12,Rechnungsprüfung,01,2018
+Plan,37583.13,Ertrag,Innere Verwaltung,11,Rechnungsprüfung,12,Rechnungsprüfung,01,2018
+Plan,861872.99,Aufwendung,Innere Verwaltung,11,Recht,19,Rechtsangelegenheiten,01,2018
+Plan,442959.27,Ertrag,Innere Verwaltung,11,Recht,19,Rechtsangelegenheiten,01,2018
+Plan,1840776.38,Aufwendung,Innere Verwaltung,11,Recht,19,Versicherungsangelegenheiten d.Kommunen,02,2018
+Plan,200248.68,Ertrag,Innere Verwaltung,11,Recht,19,Versicherungsangelegenheiten d.Kommunen,02,2018
+Plan,522606.34,Aufwendung,Innere Verwaltung,11,Recht,19,Zentrale Vergabestelle,03,2018
+Plan,470235.93,Ertrag,Innere Verwaltung,11,Recht,19,Zentrale Vergabestelle,03,2018
+Plan,267130.08,Aufwendung,Innere Verwaltung,11,ServiceCenter und E-Government,23,E-Government,02,2018
+Plan,2069.64,Ertrag,Innere Verwaltung,11,ServiceCenter und E-Government,23,E-Government,02,2018
+Plan,2569438.9,Aufwendung,Innere Verwaltung,11,ServiceCenter und E-Government,23,ServiceCenter,01,2018
+Plan,400571.29,Ertrag,Innere Verwaltung,11,ServiceCenter und E-Government,23,ServiceCenter,01,2018
+Plan,190062.96,Aufwendung,Innere Verwaltung,11,"Stabsstelle BGM, Arbeitssicherheit, AMD",42,Arbeitssicherheit und Arbeitsmedizin,02,2018
+Plan,53090.01,Ertrag,Innere Verwaltung,11,"Stabsstelle BGM, Arbeitssicherheit, AMD",42,Arbeitssicherheit und Arbeitsmedizin,02,2018
+Plan,521147.48,Aufwendung,Innere Verwaltung,11,"Stabsstelle BGM, Arbeitssicherheit, AMD",42,Betriebliches Gesundheitsmanagement,01,2018
+Plan,11497.49,Ertrag,Innere Verwaltung,11,"Stabsstelle BGM, Arbeitssicherheit, AMD",42,Betriebliches Gesundheitsmanagement,01,2018
+Plan,125382.03,Aufwendung,Innere Verwaltung,11,Verwaltungsführung,03,Bürgerangelegenheiten und Bürgerservice,01,2018
+Plan,2931.33,Ertrag,Innere Verwaltung,11,Verwaltungsführung,03,Bürgerangelegenheiten und Bürgerservice,01,2018
+Plan,565595.42,Aufwendung,Innere Verwaltung,11,Verwaltungsführung,03,Bürgerbeteiligung und Bürgerengagement,03,2018
+Plan,50016.8,Ertrag,Innere Verwaltung,11,Verwaltungsführung,03,Bürgerbeteiligung und Bürgerengagement,03,2018
+Plan,946771.39,Aufwendung,Innere Verwaltung,11,Verwaltungsführung,03,Verwaltungsleitung / Steuerungsunterst.,02,2018
+Plan,22071.03,Ertrag,Innere Verwaltung,11,Verwaltungsführung,03,Verwaltungsleitung / Steuerungsunterst.,02,2018
+Plan,99000.0,Aufwendung,Innere Verwaltung,11,Zentrale Beschaffungen,20,Zentr. Beschaffungen d.Gesamtverwaltung,01,2018
+Plan,nan,Ertrag,Innere Verwaltung,11,Zentrale Beschaffungen,20,Zentr. Beschaffungen d.Gesamtverwaltung,01,2018
+Plan,627673.57,Aufwendung,Innere Verwaltung,11,Zentrale Dienste,21,Organisationsentwicklung,05,2018
+Plan,17980.14,Ertrag,Innere Verwaltung,11,Zentrale Dienste,21,Organisationsentwicklung,05,2018
+Plan,281852.79,Aufwendung,Innere Verwaltung,11,Zentrale Dienste,21,Sonstige Zentrale Dienste,03,2018
+Plan,1509.83,Ertrag,Innere Verwaltung,11,Zentrale Dienste,21,Sonstige Zentrale Dienste,03,2018
+Plan,829780.27,Aufwendung,Innere Verwaltung,11,Zentrale Dienste,21,Zentraleinkauf,04,2018
+Plan,23993.48,Ertrag,Innere Verwaltung,11,Zentrale Dienste,21,Zentraleinkauf,04,2018
+Plan,550478.0,Aufwendung,Innere Verwaltung,11,Zentrale IT-Dienste,39,Druckdienste,02,2018
+Plan,201475.01,Ertrag,Innere Verwaltung,11,Zentrale IT-Dienste,39,Druckdienste,02,2018
+Plan,2209528.12,Aufwendung,Innere Verwaltung,11,Zentrale IT-Dienste,39,Postdienste,03,2018
+Plan,525475.06,Ertrag,Innere Verwaltung,11,Zentrale IT-Dienste,39,Postdienste,03,2018
+Plan,977832.74,Aufwendung,Innere Verwaltung,11,Zentrale IT-Dienste,39,Zentralverfahren und SW-Entwicklung,01,2018
+Plan,172024.94,Ertrag,Innere Verwaltung,11,Zentrale IT-Dienste,39,Zentralverfahren und SW-Entwicklung,01,2018
+Plan,36898565.82,Aufwendung,Innere Verwaltung,11,Zentrales Personalkosten-Rest-Budget,30,Zentrales Personalkosten-Rest-Budget,01,2018
+Plan,12631600.0,Ertrag,Innere Verwaltung,11,Zentrales Personalkosten-Rest-Budget,30,Zentrales Personalkosten-Rest-Budget,01,2018
+Plan,7939038.14,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Einrichtungen der Jugendarbeit,03,Förd. KiJu in offenen Einrichtungen,01,2018
+Plan,837383.03,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Einrichtungen der Jugendarbeit,03,Förd. KiJu in offenen Einrichtungen,01,2018
+Plan,2126609.96,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Einrichtungen der Jugendarbeit,03,Pl./Weiterentw. Freiräume u.Spielflächen,06,2018
+Plan,1544509.56,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Einrichtungen der Jugendarbeit,03,Pl./Weiterentw. Freiräume u.Spielflächen,06,2018
+Plan,296114.53,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Elterngeld,09,Elterngeld,01,2018
+Plan,29.33,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Elterngeld,09,Elterngeld,01,2018
+Plan,1378197.79,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Familien- u. Schulpsychol. Beratung,11,Familien- u. Schulpsychol. Beratung,01,2018
+Plan,121125.09,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Familien- u. Schulpsychol. Beratung,11,Familien- u. Schulpsychol. Beratung,01,2018
+Plan,61516031.81,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Förderung von Kindern in Tagesbetreuung,01,Betrieb städtischer Kitas,01,2018
+Plan,27100282.64,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Förderung von Kindern in Tagesbetreuung,01,Betrieb städtischer Kitas,01,2018
+Plan,54815577.4,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Förderung von Kindern in Tagesbetreuung,01,Förderung v. Einrichtungen freier Träger,02,2018
+Plan,34934389.65,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Förderung von Kindern in Tagesbetreuung,01,Förderung v. Einrichtungen freier Träger,02,2018
+Plan,2419921.48,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Förd. KiJu außerhalb von Einrichtungen,10,Förd. KiJu außerhalb von Einrichtungen,01,2018
+Plan,336205.75,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Förd. KiJu außerhalb von Einrichtungen,10,Förd. KiJu außerhalb von Einrichtungen,01,2018
+Plan,980021.72,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Haus der Jugend Barmen,04,HdJ Bamen BGA,01,2018
+Plan,355051.28,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Haus der Jugend Barmen,04,HdJ Bamen BGA,01,2018
+Plan,1333223.8,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Leist. z.Förd.junger Menschen u.Familien,05,Beistandschaften,05,2018
+Plan,151.15,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Leist. z.Förd.junger Menschen u.Familien,05,Beistandschaften,05,2018
+Plan,104455339.18,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Leist. z.Förd.junger Menschen u.Familien,05,Hilfen z.Erziehung u.präventive Projekte,01,2018
+Plan,23771475.3,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Leist. z.Förd.junger Menschen u.Familien,05,Hilfen z.Erziehung u.präventive Projekte,01,2018
+Plan,4966821.45,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Tagespflege,02,Tagespflege,01,2018
+Plan,1542621.71,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Tagespflege,02,Tagespflege,01,2018
+Plan,814728.93,Aufwendung,Kultur und Wissenschaft,25,Archiv,05,Stadtarchiv,01,2018
+Plan,30380.89,Ertrag,Kultur und Wissenschaft,25,Archiv,05,Stadtarchiv,01,2018
+Plan,4216325.59,Aufwendung,Kultur und Wissenschaft,25,Bibliothek,04,Medien und Informationen,01,2018
+Plan,585108.89,Ertrag,Kultur und Wissenschaft,25,Bibliothek,04,Medien und Informationen,01,2018
+Plan,1322129.09,Aufwendung,Kultur und Wissenschaft,25,Historisches Zentrum,10,Historisches Zentrum,01,2018
+Plan,54118.09,Ertrag,Kultur und Wissenschaft,25,Historisches Zentrum,10,Historisches Zentrum,01,2018
+Plan,1323133.17,Aufwendung,Kultur und Wissenschaft,25,Kulturförderung,01,Kulturbüro,01,2018
+Plan,239178.66,Ertrag,Kultur und Wissenschaft,25,Kulturförderung,01,Kulturbüro,01,2018
+Plan,527071.4,Aufwendung,Kultur und Wissenschaft,25,KULTURsekretariat NRW,02,KULTURsekretariat,01,2018
+Plan,476211.0,Ertrag,Kultur und Wissenschaft,25,KULTURsekretariat NRW,02,KULTURsekretariat,01,2018
+Plan,3290504.33,Aufwendung,Kultur und Wissenschaft,25,Musik- / Kunstschule,03,Bergische Musikschule,01,2018
+Plan,1681530.74,Ertrag,Kultur und Wissenschaft,25,Musik- / Kunstschule,03,Bergische Musikschule,01,2018
+Plan,20202250.0,Aufwendung,Kultur und Wissenschaft,25,Theater und Konzerte,06,Zuschuss für Bühnen und Orchester GmbH,01,2018
+Plan,nan,Ertrag,Kultur und Wissenschaft,25,Theater und Konzerte,06,Zuschuss für Bühnen und Orchester GmbH,01,2018
+Plan,3847300.0,Aufwendung,Kultur und Wissenschaft,25,Theater und Konzerte,06,Zuschuss für Tanztheater,02,2018
+Plan,675000.0,Ertrag,Kultur und Wissenschaft,25,Theater und Konzerte,06,Zuschuss für Tanztheater,02,2018
+Plan,9455801.66,Aufwendung,Kultur und Wissenschaft,25,Tierpark,13,Zoologischer Garten,01,2018
+Plan,4324513.73,Ertrag,Kultur und Wissenschaft,25,Tierpark,13,Zoologischer Garten,01,2018
+Plan,4990266.99,Aufwendung,Kultur und Wissenschaft,25,Von der Heydt-Museum,09,Sammlung+son.Leist. Von der Heydt-Museum,01,2018
+Plan,288194.74,Ertrag,Kultur und Wissenschaft,25,Von der Heydt-Museum,09,Sammlung+son.Leist. Von der Heydt-Museum,01,2018
+Plan,2653000.0,Aufwendung,Kultur und Wissenschaft,25,Zuschuss Berg.Volkshochschule Zweckverb.,12,Zuschuss Berg.Volkshochschule Zweckverb.,01,2018
+Plan,nan,Ertrag,Kultur und Wissenschaft,25,Zuschuss Berg.Volkshochschule Zweckverb.,12,Zuschuss Berg.Volkshochschule Zweckverb.,01,2018
+Plan,518086.35,Aufwendung,Natur- und Landschaftspflege,55,Friedhöfe,06,Friedhöfe,01,2018
+Plan,372063.55,Ertrag,Natur- und Landschaftspflege,55,Friedhöfe,06,Friedhöfe,01,2018
+Plan,3203890.56,Aufwendung,Natur- und Landschaftspflege,55,Gewässerschutz,04,Gewässerschutz,01,2018
+Plan,413577.55,Ertrag,Natur- und Landschaftspflege,55,Gewässerschutz,04,Gewässerschutz,01,2018
+Plan,1125959.46,Aufwendung,Natur- und Landschaftspflege,55,Natur und Landschaft,02,Natur und Landschaft,01,2018
+Plan,59808.0,Ertrag,Natur- und Landschaftspflege,55,Natur und Landschaft,02,Natur und Landschaft,01,2018
+Plan,1140259.77,Aufwendung,Natur- und Landschaftspflege,55,Öffentliches Grün,01,"Freiraumplanung, Stadtökologie, etc.",04,2018
+Plan,624114.96,Ertrag,Natur- und Landschaftspflege,55,Öffentliches Grün,01,"Freiraumplanung, Stadtökologie, etc.",04,2018
+Plan,312281.09,Aufwendung,Natur- und Landschaftspflege,55,Öffentliches Grün,01,Kleingartenwesen,02,2018
+Plan,405999.92,Ertrag,Natur- und Landschaftspflege,55,Öffentliches Grün,01,Kleingartenwesen,02,2018
+Plan,344311.6,Aufwendung,Natur- und Landschaftspflege,55,Öffentliches Grün,01,Natur- und Umweltbildung,03,2018
+Plan,60956.53,Ertrag,Natur- und Landschaftspflege,55,Öffentliches Grün,01,Natur- und Umweltbildung,03,2018
+Plan,9247415.39,Aufwendung,Natur- und Landschaftspflege,55,Öffentliches Grün,01,Öffentliches Grün,01,2018
+Plan,1424340.63,Ertrag,Natur- und Landschaftspflege,55,Öffentliches Grün,01,Öffentliches Grün,01,2018
+Plan,2085390.69,Aufwendung,Natur- und Landschaftspflege,55,"Wald, Forst- und Landwirtschaft",03,Wald- und Forstwirtschaft,01,2018
+Plan,350933.9,Ertrag,Natur- und Landschaftspflege,55,"Wald, Forst- und Landwirtschaft",03,Wald- und Forstwirtschaft,01,2018
+Plan,1381171.48,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Grundstücksneuordnung,03,Bauleitpl. u.sonst. Städtebaul.Satzungen,02,2018
+Plan,10162.6,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Grundstücksneuordnung,03,Bauleitpl. u.sonst. Städtebaul.Satzungen,02,2018
+Plan,191814.02,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Grundstücksneuordnung,03,Bodenverkehrsgenehmigungsverfahren,01,2018
+Plan,95022.92,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Grundstücksneuordnung,03,Bodenverkehrsgenehmigungsverfahren,01,2018
+Plan,142250.0,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekte der Stadtentwicklung Elberfeld,12,Innenstadt Elberfeld,03,2018
+Plan,113800.0,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekte der Stadtentwicklung Elberfeld,12,Innenstadt Elberfeld,03,2018
+Plan,3343472.0,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekte der Stadtentwicklung Elberfeld,12,Projekt Elberf. Nordst./Arrenb. Mirke,02,2018
+Plan,3174972.0,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekte der Stadtentwicklung Elberfeld,12,Projekt Elberf. Nordst./Arrenb. Mirke,02,2018
+Plan,350000.0,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekte Stadtentw.Regionale/Döppersberg,10,Projekt Döppersberg,01,2018
+Plan,nan,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekte Stadtentw.Regionale/Döppersberg,10,Projekt Döppersberg,01,2018
+Plan,765123.6,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekt soziale Stadt,13,Soziale Stadt Heckinghausen,05,2018
+Plan,575872.28,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekt soziale Stadt,13,Soziale Stadt Heckinghausen,05,2018
+Plan,232347.21,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekt soziale Stadt,13,Soziale Stadt Oberbarmen/Wichlinghausen,01,2018
+Plan,50155.76,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekt soziale Stadt,13,Soziale Stadt Oberbarmen/Wichlinghausen,01,2018
+Plan,4396759.09,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekt soziale Stadt,13,Soziale Stadt Oberb./ Wichlingh. 2.Phase,04,2018
+Plan,4158032.28,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekt soziale Stadt,13,Soziale Stadt Oberb./ Wichlingh. 2.Phase,04,2018
+Plan,1357000.0,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Proj. Stadtentw. - Aktive Stadtzentren,11,Aktives Zentrum - Innenstadt Barmen,02,2018
+Plan,1292000.0,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Proj. Stadtentw. - Aktive Stadtzentren,11,Aktives Zentrum - Innenstadt Barmen,02,2018
+Plan,461353.89,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Flächensteuerung/strat. Projektentw.,03,2018
+Plan,1057.32,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Flächensteuerung/strat. Projektentw.,03,2018
+Plan,485153.08,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Handl.konzepte Stadtentwickl/-erneuerung,04,2018
+Plan,1057.24,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Handl.konzepte Stadtentwickl/-erneuerung,04,2018
+Plan,277240.31,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Städtebaul. Projekte u. Innenstadtentw.,02,2018
+Plan,845.76,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Städtebaul. Projekte u. Innenstadtentw.,02,2018
+Plan,297691.92,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Stadtgestaltung und Baukultur,01,2018
+Plan,845.78,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Stadtgestaltung und Baukultur,01,2018
+Plan,8700000.0,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Umsetzung Investitionsprogramm d Bundes,15,Umsetzung Investitionsprogramm d. Bundes,01,2018
+Plan,8700000.0,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Umsetzung Investitionsprogramm d Bundes,15,Umsetzung Investitionsprogramm d. Bundes,01,2018
+Plan,438258.43,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Verkehrliche Planung,04,Verkehrsplanung,01,2018
+Plan,71195.08,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Verkehrliche Planung,04,Verkehrsplanung,01,2018
+Plan,5769716.51,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,"Vermessung, Katasteramt und Geodaten",02,"Führ.Bereitst. u.Abgabe Geodaten,Service",02,2018
+Plan,1078703.78,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,"Vermessung, Katasteramt und Geodaten",02,"Führ.Bereitst. u.Abgabe Geodaten,Service",02,2018
+Plan,759900.21,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,"Vermessung, Katasteramt und Geodaten",02,Gesetzliche Wertermittlung,03,2018
+Plan,113558.37,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,"Vermessung, Katasteramt und Geodaten",02,Gesetzliche Wertermittlung,03,2018
+Plan,1269998.91,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,"Vermessung, Katasteramt und Geodaten",02,"Ingenieur-,Liegenschafts-,Landesvermess.",01,2018
+Plan,218114.4,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,"Vermessung, Katasteramt und Geodaten",02,"Ingenieur-,Liegenschafts-,Landesvermess.",01,2018
+Plan,12232531.11,Aufwendung,Schulträgeraufgaben,21,Berufskollegs,17,Berufskollegs,01,2018
+Plan,842199.39,Ertrag,Schulträgeraufgaben,21,Berufskollegs,17,Berufskollegs,01,2018
+Plan,136314.4,Aufwendung,Schulträgeraufgaben,21,Berufskollegs,17,Schulmensa Kohlstraße,02,2018
+Plan,51327.68,Ertrag,Schulträgeraufgaben,21,Berufskollegs,17,Schulmensa Kohlstraße,02,2018
+Plan,11262843.46,Aufwendung,Schulträgeraufgaben,21,Betreuungsangebote,05,Betreuungsangebote,01,2018
+Plan,9025992.33,Ertrag,Schulträgeraufgaben,21,Betreuungsangebote,05,Betreuungsangebote,01,2018
+Plan,3963190.51,Aufwendung,Schulträgeraufgaben,21,Förderschulen,16,Förderschulen,01,2018
+Plan,317454.95,Ertrag,Schulträgeraufgaben,21,Förderschulen,16,Förderschulen,01,2018
+Plan,11286428.47,Aufwendung,Schulträgeraufgaben,21,Gesamtschulen,15,Gesamtschulen,01,2018
+Plan,737522.3,Ertrag,Schulträgeraufgaben,21,Gesamtschulen,15,Gesamtschulen,01,2018
+Plan,26789453.35,Aufwendung,Schulträgeraufgaben,21,Grundschulen,11,Grundschulen,01,2018
+Plan,7394195.45,Ertrag,Schulträgeraufgaben,21,Grundschulen,11,Grundschulen,01,2018
+Plan,14484494.02,Aufwendung,Schulträgeraufgaben,21,Gymnasien,14,Gymnasien,01,2018
+Plan,963992.9,Ertrag,Schulträgeraufgaben,21,Gymnasien,14,Gymnasien,01,2018
+Plan,6394678.1,Aufwendung,Schulträgeraufgaben,21,Hauptschulen,12,Hauptschulen,01,2018
+Plan,474646.77,Ertrag,Schulträgeraufgaben,21,Hauptschulen,12,Hauptschulen,01,2018
+Plan,1863668.0,Aufwendung,Schulträgeraufgaben,21,Medienzentrum,04,Medienzentrum,01,2018
+Plan,393959.57,Ertrag,Schulträgeraufgaben,21,Medienzentrum,04,Medienzentrum,01,2018
+Plan,6280495.51,Aufwendung,Schulträgeraufgaben,21,Realschulen,13,Realschulen,01,2018
+Plan,456780.74,Ertrag,Schulträgeraufgaben,21,Realschulen,13,Realschulen,01,2018
+Plan,6528367.72,Aufwendung,Schulträgeraufgaben,21,Schülerbeförderung,06,Schülerbeförderung,01,2018
+Plan,111491.57,Ertrag,Schulträgeraufgaben,21,Schülerbeförderung,06,Schülerbeförderung,01,2018
+Plan,568740.28,Aufwendung,Sicherheit und Ordnung,12,Abwehr von Großschadensereignissen,13,Abwehr von Großschadensereignissen,01,2018
+Plan,93698.35,Ertrag,Sicherheit und Ordnung,12,Abwehr von Großschadensereignissen,13,Abwehr von Großschadensereignissen,01,2018
+Plan,29589704.49,Aufwendung,Sicherheit und Ordnung,12,Brandschutz,12,Gefahrenabwehr,01,2018
+Plan,1715128.68,Ertrag,Sicherheit und Ordnung,12,Brandschutz,12,Gefahrenabwehr,01,2018
+Plan,1018022.47,Aufwendung,Sicherheit und Ordnung,12,Brandschutz,12,Gefahrenvorbeugung,02,2018
+Plan,64980.38,Ertrag,Sicherheit und Ordnung,12,Brandschutz,12,Gefahrenvorbeugung,02,2018
+Plan,1033000.0,Aufwendung,Sicherheit und Ordnung,12,Chemisches und Veterinäruntersuchungsamt,15,Chemisches und Veterinäruntersuchungsamt,01,2018
+Plan,nan,Ertrag,Sicherheit und Ordnung,12,Chemisches und Veterinäruntersuchungsamt,15,Chemisches und Veterinäruntersuchungsamt,01,2018
+Plan,4868928.69,Aufwendung,Sicherheit und Ordnung,12,Einwohner- und Personenstandwesen,07,Einwohnerangelegenheiten,01,2018
+Plan,1837211.38,Ertrag,Sicherheit und Ordnung,12,Einwohner- und Personenstandwesen,07,Einwohnerangelegenheiten,01,2018
+Plan,1609438.63,Aufwendung,Sicherheit und Ordnung,12,Einwohner- und Personenstandwesen,07,Standesamtsaufgaben,02,2018
+Plan,614913.94,Ertrag,Sicherheit und Ordnung,12,Einwohner- und Personenstandwesen,07,Standesamtsaufgaben,02,2018
+Plan,868251.13,Aufwendung,Sicherheit und Ordnung,12,KFZ-Angelegenheiten,16,Fahrerlaubnisse,02,2018
+Plan,809084.12,Ertrag,Sicherheit und Ordnung,12,KFZ-Angelegenheiten,16,Fahrerlaubnisse,02,2018
+Plan,2412022.55,Aufwendung,Sicherheit und Ordnung,12,KFZ-Angelegenheiten,16,KFZ-Zulassung,01,2018
+Plan,3053777.8,Ertrag,Sicherheit und Ordnung,12,KFZ-Angelegenheiten,16,KFZ-Zulassung,01,2018
+Plan,290680.83,Aufwendung,Sicherheit und Ordnung,12,Öffentliche Toilettenanlagen,02,Öffentliche Toilettenanlagen,01,2018
+Plan,26000.0,Ertrag,Sicherheit und Ordnung,12,Öffentliche Toilettenanlagen,02,Öffentliche Toilettenanlagen,01,2018
+Plan,2444194.03,Aufwendung,Sicherheit und Ordnung,12,Ordnungsangelegenheiten,01,"Gewerbe-,Veterinärsw.,Lebensmittelüberw.",03,2018
+Plan,725409.31,Ertrag,Sicherheit und Ordnung,12,Ordnungsangelegenheiten,01,"Gewerbe-,Veterinärsw.,Lebensmittelüberw.",03,2018
+Plan,3258625.29,Aufwendung,Sicherheit und Ordnung,12,Ordnungsangelegenheiten,01,"Maßnahmen d.Gefahrenabwehr, sonst. DL",01,2018
+Plan,534833.91,Ertrag,Sicherheit und Ordnung,12,Ordnungsangelegenheiten,01,"Maßnahmen d.Gefahrenabwehr, sonst. DL",01,2018
+Plan,4294665.37,Aufwendung,Sicherheit und Ordnung,12,Ordnungsangelegenheiten,01,Verkehrsüberwachung,02,2018
+Plan,10869931.42,Ertrag,Sicherheit und Ordnung,12,Ordnungsangelegenheiten,01,Verkehrsüberwachung,02,2018
+Plan,5511991.41,Aufwendung,Sicherheit und Ordnung,12,Regelung des Aufenthalts von Ausländern,09,Aufenthaltsrechtliche Angel. ABH,01,2018
+Plan,509335.62,Ertrag,Sicherheit und Ordnung,12,Regelung des Aufenthalts von Ausländern,09,Aufenthaltsrechtliche Angel. ABH,01,2018
+Plan,21230015.78,Aufwendung,Sicherheit und Ordnung,12,Rettungsdienst,14,Rettungsdienst (Gebührenhaushalt),01,2018
+Plan,21881578.15,Ertrag,Sicherheit und Ordnung,12,Rettungsdienst,14,Rettungsdienst (Gebührenhaushalt),01,2018
+Plan,139046.47,Aufwendung,Sicherheit und Ordnung,12,Standesamtsaufsicht / Schiedsamtsangel.,03,Standesamtsaufsicht / Schiedsamtsangel.,01,2018
+Plan,1057.79,Ertrag,Sicherheit und Ordnung,12,Standesamtsaufsicht / Schiedsamtsangel.,03,Standesamtsaufsicht / Schiedsamtsangel.,01,2018
+Plan,80326.36,Aufwendung,Sicherheit und Ordnung,12,Statistik,10,Auftragsstatistik,01,2018
+Plan,nan,Ertrag,Sicherheit und Ordnung,12,Statistik,10,Auftragsstatistik,01,2018
+Plan,322305.64,Aufwendung,Sicherheit und Ordnung,12,Statistik,10,Statistische Informationen,02,2018
+Plan,2000.0,Ertrag,Sicherheit und Ordnung,12,Statistik,10,Statistische Informationen,02,2018
+Plan,1643568.62,Aufwendung,Sicherheit und Ordnung,12,Verkehrsangelegenheiten,04,Straßen- und Verkehrsangelegenheiten,01,2018
+Plan,2037547.08,Ertrag,Sicherheit und Ordnung,12,Verkehrsangelegenheiten,04,Straßen- und Verkehrsangelegenheiten,01,2018
+Plan,1000.0,Aufwendung,Sicherheit und Ordnung,12,Wahlen,11,Sonstige Wahlen u. sonstige Abstimmungen,05,2018
+Plan,nan,Ertrag,Sicherheit und Ordnung,12,Wahlen,11,Sonstige Wahlen u. sonstige Abstimmungen,05,2018
+Plan,363986.29,Aufwendung,Soziale Leistungen,31,Ärztlicher Dienst Schwerbehindertenrecht,11,Ärztlicher Dienst Schwerbehindertenrecht,01,2018
+Plan,208.44,Ertrag,Soziale Leistungen,31,Ärztlicher Dienst Schwerbehindertenrecht,11,Ärztlicher Dienst Schwerbehindertenrecht,01,2018
+Plan,744196.04,Aufwendung,Soziale Leistungen,31,Betreuung nach dem Betreuungsgesetz,02,Betreuung nach dem Betreuungsgesetz,04,2018
+Plan,6838.32,Ertrag,Soziale Leistungen,31,Betreuung nach dem Betreuungsgesetz,02,Betreuung nach dem Betreuungsgesetz,04,2018
+Plan,12869565.95,Aufwendung,Soziale Leistungen,31,Eingliederungshilfe (6. Kap. SGB XII),20,Eingliederungshilfe (6. Kap. SGB XII),01,2018
+Plan,2283209.04,Ertrag,Soziale Leistungen,31,Eingliederungshilfe (6. Kap. SGB XII),20,Eingliederungshilfe (6. Kap. SGB XII),01,2018
+Plan,43180899.61,Aufwendung,Soziale Leistungen,31,Grundsicherung i.Alter (4. Kap. SGB XII),18,Grundsicherung i.Alter (4. Kap. SGB XII),01,2018
+Plan,42404789.12,Ertrag,Soziale Leistungen,31,Grundsicherung i.Alter (4. Kap. SGB XII),18,Grundsicherung i.Alter (4. Kap. SGB XII),01,2018
+Plan,185145862.72,Aufwendung,Soziale Leistungen,31,Grundsicherung SGB II,03,Grundsicherung SGB II,05,2018
+Plan,100015200.0,Ertrag,Soziale Leistungen,31,Grundsicherung SGB II,03,Grundsicherung SGB II,05,2018
+Plan,605267.54,Aufwendung,Soziale Leistungen,31,Hilfe and. Lebenslagen (9. Kap. SGB XII),23,Hilfe and. Lebenslagen (9. Kap. SGB XII),01,2018
+Plan,13565.52,Ertrag,Soziale Leistungen,31,Hilfe and. Lebenslagen (9. Kap. SGB XII),23,Hilfe and. Lebenslagen (9. Kap. SGB XII),01,2018
+Plan,2909020.7,Aufwendung,Soziale Leistungen,31,Hilfe bes.soz.Schwierigk.(8.Kap.SGB XII),22,Hilfe bes.soz.Schwierigk.(8.Kap.SGB XII),01,2018
+Plan,285026.58,Ertrag,Soziale Leistungen,31,Hilfe bes.soz.Schwierigk.(8.Kap.SGB XII),22,Hilfe bes.soz.Schwierigk.(8.Kap.SGB XII),01,2018
+Plan,329717.53,Aufwendung,Soziale Leistungen,31,Hilfen bei Wohnproblemen,07,Hilfen z. Erhalt/Erlangung einer Wohnung,01,2018
+Plan,15590.92,Ertrag,Soziale Leistungen,31,Hilfen bei Wohnproblemen,07,Hilfen z. Erhalt/Erlangung einer Wohnung,01,2018
+Plan,10794365.78,Aufwendung,Soziale Leistungen,31,Hilfen für Migranten bei Wohnproblemen,09,Verwaltung+Betrieb Übergangseinrichtung.,01,2018
+Plan,2127475.68,Ertrag,Soziale Leistungen,31,Hilfen für Migranten bei Wohnproblemen,09,Verwaltung+Betrieb Übergangseinrichtung.,01,2018
+Plan,111072.01,Aufwendung,Soziale Leistungen,31,Hilfen für Wohnungslose,08,Bewirtschaftung Obdachlosenunterkünfte,01,2018
+Plan,163814.28,Ertrag,Soziale Leistungen,31,Hilfen für Wohnungslose,08,Bewirtschaftung Obdachlosenunterkünfte,01,2018
+Plan,23981459.68,Aufwendung,Soziale Leistungen,31,Hilfen nach AsylBLG,05,Hilfen nach AsylBLG,01,2018
+Plan,17329940.76,Ertrag,Soziale Leistungen,31,Hilfen nach AsylBLG,05,Hilfen nach AsylBLG,01,2018
+Plan,152146.54,Aufwendung,Soziale Leistungen,31,Hilfen nach dem SGB XII für Flüchtlinge,15,Hilfen nach dem SGB XII für Flüchtlinge,01,2018
+Plan,100009.12,Ertrag,Soziale Leistungen,31,Hilfen nach dem SGB XII für Flüchtlinge,15,Hilfen nach dem SGB XII für Flüchtlinge,01,2018
+Plan,12207143.14,Aufwendung,Soziale Leistungen,31,Hilfen z.Lebensunterhalt (3.Kap.SGB XII),17,Hilfen z.Lebensunterhalt (3.Kap.SGB XII),01,2018
+Plan,1116870.9,Ertrag,Soziale Leistungen,31,Hilfen z.Lebensunterhalt (3.Kap.SGB XII),17,Hilfen z.Lebensunterhalt (3.Kap.SGB XII),01,2018
+Plan,8074323.46,Aufwendung,Soziale Leistungen,31,Hilfen zur Gesundheit (5. Kap. SGB XII),19,Hilfen zur Gesundheit (5. Kap. SGB XII),01,2018
+Plan,3505.4,Ertrag,Soziale Leistungen,31,Hilfen zur Gesundheit (5. Kap. SGB XII),19,Hilfen zur Gesundheit (5. Kap. SGB XII),01,2018
+Plan,54853190.74,Aufwendung,Soziale Leistungen,31,Hilfe zur Pflege (7. Kap. SGB XII),21,Hilfe zur Pflege (7. Kap. SGB XII),01,2018
+Plan,5019686.63,Ertrag,Soziale Leistungen,31,Hilfe zur Pflege (7. Kap. SGB XII),21,Hilfe zur Pflege (7. Kap. SGB XII),01,2018
+Plan,489866.0,Aufwendung,Soziale Leistungen,31,Leistungen nach dem BaföG,04,Leistungen nach dem BAföG,01,2018
+Plan,1499.84,Ertrag,Soziale Leistungen,31,Leistungen nach dem BaföG,04,Leistungen nach dem BAföG,01,2018
+Plan,14372433.32,Aufwendung,Soziale Leistungen,31,Lstg. n.d.UVG+Heranzieh.außerh.Einricht.,12,Unterhaltsvorschuss,01,2018
+Plan,10710102.24,Ertrag,Soziale Leistungen,31,Lstg. n.d.UVG+Heranzieh.außerh.Einricht.,12,Unterhaltsvorschuss,01,2018
+Plan,993418.83,Aufwendung,Soziale Leistungen,31,Schwerbehindertenversorgung,10,Fürsorgestelle für Schwerbehinderte,02,2018
+Plan,703588.68,Ertrag,Soziale Leistungen,31,Schwerbehindertenversorgung,10,Fürsorgestelle für Schwerbehinderte,02,2018
+Plan,1813642.63,Aufwendung,Soziale Leistungen,31,Schwerbehindertenversorgung,10,Schwerbehindertenversorgung,01,2018
+Plan,2763994.85,Ertrag,Soziale Leistungen,31,Schwerbehindertenversorgung,10,Schwerbehindertenversorgung,01,2018
+Plan,40244.92,Aufwendung,Soziale Leistungen,31,Sonstige soziale Leistungen,14,Lastenausgleich,01,2018
+Plan,nan,Ertrag,Soziale Leistungen,31,Sonstige soziale Leistungen,14,Lastenausgleich,01,2018
+Plan,1296343.73,Aufwendung,Soziale Leistungen,31,Subjektbezogene Förderung für Wohnraum,06,Wohngeld / Komm. Zuschüsse zur Miete,01,2018
+Plan,10190.8,Ertrag,Soziale Leistungen,31,Subjektbezogene Förderung für Wohnraum,06,Wohngeld / Komm. Zuschüsse zur Miete,01,2018
+Plan,240000.0,Aufwendung,Soziale Leistungen,31,Unterstützung von Senioren,01,Zuschuss zum Eigenbetrieb APH,01,2018
+Plan,nan,Ertrag,Soziale Leistungen,31,Unterstützung von Senioren,01,Zuschuss zum Eigenbetrieb APH,01,2018
+Plan,5304755.59,Aufwendung,Soziale Leistungen,31,"Zentrum Integr./ Bildg., kult. Vielfalt",16,"Zentrum Integrat./Bildung, kult.Vielfalt",02,2018
+Plan,3755942.82,Ertrag,Soziale Leistungen,31,"Zentrum Integr./ Bildg., kult. Vielfalt",16,"Zentrum Integrat./Bildung, kult.Vielfalt",02,2018
+Plan,472480.59,Aufwendung,Sportförderung,42,Bereitstellung/Betrieb Bäder,03,FB Mählersbeck,01,2018
+Plan,96619.48,Ertrag,Sportförderung,42,Bereitstellung/Betrieb Bäder,03,FB Mählersbeck,01,2018
+Plan,12672860.36,Aufwendung,Sportförderung,42,Bereitstellung/Betrieb Bäder,03,Hallenbäder,02,2018
+Plan,2062991.49,Ertrag,Sportförderung,42,Bereitstellung/Betrieb Bäder,03,Hallenbäder,02,2018
+Plan,2945128.07,Aufwendung,Sportförderung,42,Bereitstellung/Betrieb Freisportanlagen,04,Sportaußenanlagen,01,2018
+Plan,314921.52,Ertrag,Sportförderung,42,Bereitstellung/Betrieb Freisportanlagen,04,Sportaußenanlagen,01,2018
+Plan,4010454.0,Aufwendung,Sportförderung,42,Bereitstellung/Betrieb Freisportanlagen,04,Stadion am Zoo,02,2018
+Plan,53853.55,Ertrag,Sportförderung,42,Bereitstellung/Betrieb Freisportanlagen,04,Stadion am Zoo,02,2018
+Plan,5520492.36,Aufwendung,Sportförderung,42,Bereitstellung/Betrieb ged. Sportanlagen,01,Turn- und Sporthallen,01,2018
+Plan,583255.4,Ertrag,Sportförderung,42,Bereitstellung/Betrieb ged. Sportanlagen,01,Turn- und Sporthallen,01,2018
+Plan,1855878.26,Aufwendung,Sportförderung,42,Bereitstellung/Betrieb ged. Sportanlagen,01,Uni Halle,02,2018
+Plan,394574.04,Ertrag,Sportförderung,42,Bereitstellung/Betrieb ged. Sportanlagen,01,Uni Halle,02,2018
+Plan,1441334.44,Aufwendung,Sportförderung,42,Sportförderung,02,Sportförderung,01,2018
+Plan,351916.96,Ertrag,Sportförderung,42,Sportförderung,02,Sportförderung,01,2018
+Plan,23981.61,Aufwendung,Stiftungen,71,Stiftungsmanagement,01,Stiftungsmanagement,01,2018
+Plan,4.18,Ertrag,Stiftungen,71,Stiftungsmanagement,01,Stiftungsmanagement,01,2018
+Plan,695854.33,Aufwendung,Umweltschutz,56,Bodenschutz,02,Bodenschutz,01,2018
+Plan,32259.69,Ertrag,Umweltschutz,56,Bodenschutz,02,Bodenschutz,01,2018
+Plan,425376.58,Aufwendung,Umweltschutz,56,Immissionsschutz / Betriebl.Umweltschutz,04,Immissionsschutz / Betriebl.Umweltschutz,01,2018
+Plan,285185.41,Ertrag,Umweltschutz,56,Immissionsschutz / Betriebl.Umweltschutz,04,Immissionsschutz / Betriebl.Umweltschutz,01,2018
+Plan,190267.59,Aufwendung,Umweltschutz,56,"Lärm, Luft, Klima",01,"Lärm, Luft, Klima",01,2018
+Plan,399.6,Ertrag,Umweltschutz,56,"Lärm, Luft, Klima",01,"Lärm, Luft, Klima",01,2018
+Plan,440445.76,Aufwendung,Umweltschutz,56,Umweltbeiträge,03,Umweltbeiträge,01,2018
+Plan,1780.96,Ertrag,Umweltschutz,56,Umweltbeiträge,03,Umweltbeiträge,01,2018
+Plan,3946795.72,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,Öffentliche Verkehrsflächen,01,"Brücken, Tunnel, Stützmauern und Treppen",02,2018
+Plan,197483.79,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,Öffentliche Verkehrsflächen,01,"Brücken, Tunnel, Stützmauern und Treppen",02,2018
+Plan,40395579.63,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,Öffentliche Verkehrsflächen,01,"Straßen, Wege und Plätze",01,2018
+Plan,8270369.61,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,Öffentliche Verkehrsflächen,01,"Straßen, Wege und Plätze",01,2018
+Plan,1933600.0,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,ÖPNV,04,Öffentlicher Personennahverkehr,01,2018
+Plan,256250.0,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,ÖPNV,04,Öffentlicher Personennahverkehr,01,2018
+Plan,9980000.0,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,Schwebebahn Infrastruktur,06,Schwebebahn Infrastruktur,01,2018
+Plan,16000000.0,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,Schwebebahn Infrastruktur,06,Schwebebahn Infrastruktur,01,2018
+Plan,12000000.0,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,Straßenreinigung und Winterdienst,05,Straßenreinigung,01,2018
+Plan,9100000.0,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,Straßenreinigung und Winterdienst,05,Straßenreinigung,01,2018
+Plan,4500000.0,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,Straßenreinigung und Winterdienst,05,Winterdienst,02,2018
+Plan,nan,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,Straßenreinigung und Winterdienst,05,Winterdienst,02,2018
+Plan,4835594.05,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,Verkehrstechnik,02,Öffentliche Beleuchtung,02,2018
+Plan,39835.13,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,Verkehrstechnik,02,Öffentliche Beleuchtung,02,2018
+Plan,3643838.72,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,Verkehrstechnik,02,Verkehrsleitende und -regelnde Anlagen,01,2018
+Plan,1660582.53,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,Verkehrstechnik,02,Verkehrsleitende und -regelnde Anlagen,01,2018
+Plan,29364100.0,Aufwendung,Ver- und Entsorgung,53,Abfallwirtschaft,02,Abfallgebühren Vor- und Nachkalkulation,01,2018
+Plan,29590000.0,Ertrag,Ver- und Entsorgung,53,Abfallwirtschaft,02,Abfallgebühren Vor- und Nachkalkulation,01,2018
+Plan,445740.26,Aufwendung,Ver- und Entsorgung,53,Koordinierung Abfallwirtschaft,04,Koordinierung Abfallwirtschaft,01,2018
+Plan,899.8,Ertrag,Ver- und Entsorgung,53,Koordinierung Abfallwirtschaft,04,Koordinierung Abfallwirtschaft,01,2018
+Plan,nan,Aufwendung,Ver- und Entsorgung,53,Versorgung,01,Energie- und Gasversorgung,01,2018
+Plan,17000000.0,Ertrag,Ver- und Entsorgung,53,Versorgung,01,Energie- und Gasversorgung,01,2018
+Plan,650000.0,Aufwendung,Ver- und Entsorgung,53,Wasser und Abwasser Wuppertal (WAW),03,Wasser und Abwasser Wuppertal (WAW),01,2018
+Plan,650000.0,Ertrag,Ver- und Entsorgung,53,Wasser und Abwasser Wuppertal (WAW),03,Wasser und Abwasser Wuppertal (WAW),01,2018
+Plan,4482975.33,Aufwendung,Wirtschaft und Tourismus,57,Allgemeine Einrichtungen,03,Historische Stadthalle Wuppertal,01,2018
+Plan,140880.81,Ertrag,Wirtschaft und Tourismus,57,Allgemeine Einrichtungen,03,Historische Stadthalle Wuppertal,01,2018
+Plan,nan,Aufwendung,Wirtschaft und Tourismus,57,Anteile an Unternehmen,04,Sonstige Beteiligungen,01,2018
+Plan,nan,Ertrag,Wirtschaft und Tourismus,57,Anteile an Unternehmen,04,Sonstige Beteiligungen,01,2018
+Plan,5392500.0,Aufwendung,Wirtschaft und Tourismus,57,Berg. Struktur- u. Wirtschaftsförd. GmbH,05,Berg. Struktur- u. Wirtschaftsförd. GmbH,01,2018
+Plan,5050000.0,Ertrag,Wirtschaft und Tourismus,57,Berg. Struktur- u. Wirtschaftsförd. GmbH,05,Berg. Struktur- u. Wirtschaftsförd. GmbH,01,2018
+Plan,nan,Aufwendung,Wirtschaft und Tourismus,57,Regionale Kooperationen,06,Regionalagentur Bergisches Städtedreieck,01,2018
+Plan,nan,Ertrag,Wirtschaft und Tourismus,57,Regionale Kooperationen,06,Regionalagentur Bergisches Städtedreieck,01,2018
+Plan,805800.0,Aufwendung,Wirtschaft und Tourismus,57,Stadtmarketing und Wirtschaftskomm.,02,Stadtmarketing u. Wirtschaftskomm.,01,2018
+Plan,nan,Ertrag,Wirtschaft und Tourismus,57,Stadtmarketing und Wirtschaftskomm.,02,Stadtmarketing u. Wirtschaftskomm.,01,2018
+Plan,1982000.0,Aufwendung,Wirtschaft und Tourismus,57,Wirtschaftsförderung,01,Wirtschafts- und Technologieförderung,01,2018
+Plan,nan,Ertrag,Wirtschaft und Tourismus,57,Wirtschaftsförderung,01,Wirtschafts- und Technologieförderung,01,2018
+Plan,-340000.0,Aufwendung,Allgemeine Finanzwirtschaft,61,Globale Minderausgaben,02,Globale Minderausgaben,01,2019
+Plan,nan,Ertrag,Allgemeine Finanzwirtschaft,61,Globale Minderausgaben,02,Globale Minderausgaben,01,2019
+Plan,nan,Aufwendung,Allgemeine Finanzwirtschaft,61,Sonstige allgemeine Finanzwirtschaft,04,Kreditwirtschaft,01,2019
+Plan,14822500.0,Ertrag,Allgemeine Finanzwirtschaft,61,Sonstige allgemeine Finanzwirtschaft,04,Kreditwirtschaft,01,2019
+Plan,1073830.0,Aufwendung,Allgemeine Finanzwirtschaft,61,Sonstige allgemeine Finanzwirtschaft,04,Sonstige allgemeine Finanzwirtschaft,02,2019
+Plan,2750500.0,Ertrag,Allgemeine Finanzwirtschaft,61,Sonstige allgemeine Finanzwirtschaft,04,Sonstige allgemeine Finanzwirtschaft,02,2019
+Plan,115600000.0,Aufwendung,Allgemeine Finanzwirtschaft,61,"Steuern,allgemeine Zuweisungen u.Umlagen",01,Allgemeine Zuweisungen und Umlagen,02,2019
+Plan,330699960.0,Ertrag,Allgemeine Finanzwirtschaft,61,"Steuern,allgemeine Zuweisungen u.Umlagen",01,Allgemeine Zuweisungen und Umlagen,02,2019
+Plan,31870000.0,Aufwendung,Allgemeine Finanzwirtschaft,61,"Steuern,allgemeine Zuweisungen u.Umlagen",01,Steuern,01,2019
+Plan,514715000.0,Ertrag,Allgemeine Finanzwirtschaft,61,"Steuern,allgemeine Zuweisungen u.Umlagen",01,Steuern,01,2019
+Plan,299267.91,Aufwendung,Bauen und Wohnen,52,Baubehördliche Information,02,Service und Information,01,2019
+Plan,25692.8,Ertrag,Bauen und Wohnen,52,Baubehördliche Information,02,Service und Information,01,2019
+Plan,538407.34,Aufwendung,Bauen und Wohnen,52,Denkmalschutz und Denkmalpflege,03,Denkmalschutz und Denkmalpflege,01,2019
+Plan,82557.48,Ertrag,Bauen und Wohnen,52,Denkmalschutz und Denkmalpflege,03,Denkmalschutz und Denkmalpflege,01,2019
+Plan,2678251.05,Aufwendung,Bauen und Wohnen,52,Maßnahmen der Bauaufsicht,01,"Bauaufsicht, Sonderbauten und Prüfungen",01,2019
+Plan,1952897.03,Ertrag,Bauen und Wohnen,52,Maßnahmen der Bauaufsicht,01,"Bauaufsicht, Sonderbauten und Prüfungen",01,2019
+Plan,624142.8,Aufwendung,Bauen und Wohnen,52,Soziale Wohnraumförderung,04,Soziale Wohnraumförderung,01,2019
+Plan,45789.4,Ertrag,Bauen und Wohnen,52,Soziale Wohnraumförderung,04,Soziale Wohnraumförderung,01,2019
+Plan,947021.41,Aufwendung,Bauen und Wohnen,52,Wohnraumsicherung und -versorgung,06,WBS/Wohnraumverm. Kontrolle u. Aufsicht,01,2019
+Plan,66037.28,Ertrag,Bauen und Wohnen,52,Wohnraumsicherung und -versorgung,06,WBS/Wohnraumverm. Kontrolle u. Aufsicht,01,2019
+Plan,403164.02,Aufwendung,Bauen und Wohnen,52,Wohnungsmarktbeobachtung,07,Mietpreisüberprüfung und Mietspiegel,01,2019
+Plan,2058.6,Ertrag,Bauen und Wohnen,52,Wohnungsmarktbeobachtung,07,Mietpreisüberprüfung und Mietspiegel,01,2019
+Plan,692096.07,Aufwendung,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,Hilfe u.Beratung psychisch u.Suchtkranke,04,2019
+Plan,439.14,Ertrag,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,Hilfe u.Beratung psychisch u.Suchtkranke,04,2019
+Plan,688757.05,Aufwendung,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,Infektionsschutz u. QS Gesundheit,05,2019
+Plan,31433.88,Ertrag,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,Infektionsschutz u. QS Gesundheit,05,2019
+Plan,179395.96,Aufwendung,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,KC Aids/STD Koordination/Beratung/Unters,06,2019
+Plan,47291.36,Ertrag,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,KC Aids/STD Koordination/Beratung/Unters,06,2019
+Plan,173379.71,Aufwendung,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,KC Arzneimittelüberwachung/Sozialpharmaz,08,2019
+Plan,88291.36,Ertrag,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,KC Arzneimittelüberwachung/Sozialpharmaz,08,2019
+Plan,561501.94,Aufwendung,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,KC Zahnmedizinischer Dienst,07,2019
+Plan,82299.74,Ertrag,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,KC Zahnmedizinischer Dienst,07,2019
+Plan,877947.03,Aufwendung,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,Kinder- und Jugendgesundheit,02,2019
+Plan,24849.51,Ertrag,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,Kinder- und Jugendgesundheit,02,2019
+Plan,627772.97,Aufwendung,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,"Prävention, Hilfe + Ärztliche Gutachten",01,2019
+Plan,180443.08,Ertrag,Gesundheitsdienste,41,Aufgaben der unteren Gesundheitsbehörde,01,"Prävention, Hilfe + Ärztliche Gutachten",01,2019
+Plan,957878.09,Aufwendung,Innere Verwaltung,11,Beschäftigtenvertretung,11,Personalvertretung,01,2019
+Plan,22736.37,Ertrag,Innere Verwaltung,11,Beschäftigtenvertretung,11,Personalvertretung,01,2019
+Plan,272923.08,Aufwendung,Innere Verwaltung,11,Beschäftigtenvertretung,11,Schwerbehindertenvertretung,02,2019
+Plan,6280.67,Ertrag,Innere Verwaltung,11,Beschäftigtenvertretung,11,Schwerbehindertenvertretung,02,2019
+Plan,658433.36,Aufwendung,Innere Verwaltung,11,Bezirksvertretungen,02,Bezirksvertretungen und Ehrenamt,01,2019
+Plan,37.44,Ertrag,Innere Verwaltung,11,Bezirksvertretungen,02,Bezirksvertretungen und Ehrenamt,01,2019
+Plan,510753.32,Aufwendung,Innere Verwaltung,11,BGA IT-Infrastruktur,38,BGA Nachrichtentechnik,01,2019
+Plan,697725.0,Ertrag,Innere Verwaltung,11,BGA IT-Infrastruktur,38,BGA Nachrichtentechnik,01,2019
+Plan,8400.0,Aufwendung,Innere Verwaltung,11,BGA IT-Infrastruktur,38,BGA Rechenzentrum,02,2019
+Plan,47000.0,Ertrag,Innere Verwaltung,11,BGA IT-Infrastruktur,38,BGA Rechenzentrum,02,2019
+Plan,164005.11,Aufwendung,Innere Verwaltung,11,Bürgerbüros,22,Bürgerbüros,01,2019
+Plan,1017.74,Ertrag,Innere Verwaltung,11,Bürgerbüros,22,Bürgerbüros,01,2019
+Plan,534530.24,Aufwendung,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,"Anlagenbuchhaltung, Bilanzen+Controlling",02,2019
+Plan,13307.9,Ertrag,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,"Anlagenbuchhaltung, Bilanzen+Controlling",02,2019
+Plan,362531.92,Aufwendung,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Beteiligungsmanagement,03,2019
+Plan,700004.92,Ertrag,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Beteiligungsmanagement,03,2019
+Plan,7600691.1,Aufwendung,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Finanzbuchhaltung,05,2019
+Plan,3880838.59,Ertrag,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Finanzbuchhaltung,05,2019
+Plan,797498.54,Aufwendung,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Haushaltsmanagement,01,2019
+Plan,19894.26,Ertrag,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Haushaltsmanagement,01,2019
+Plan,2009888.34,Aufwendung,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Steuern und sonstige Abgaben,08,2019
+Plan,502289.11,Ertrag,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Steuern und sonstige Abgaben,08,2019
+Plan,1093357.49,Aufwendung,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Vermögensmanagement,04,2019
+Plan,252649.93,Ertrag,Innere Verwaltung,11,Finanzmanagement und Rechnungswesen,16,Vermögensmanagement,04,2019
+Plan,514894.24,Aufwendung,Innere Verwaltung,11,Fördermittelmanagement,27,Zentrales Fördermanagement,01,2019
+Plan,nan,Ertrag,Innere Verwaltung,11,Fördermittelmanagement,27,Zentrales Fördermanagement,01,2019
+Plan,725682.71,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 1,05,GBL und Steuerungsunterstützung GB1,01,2019
+Plan,19036.27,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 1,05,GBL und Steuerungsunterstützung GB1,01,2019
+Plan,238517.41,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 1,05,Steuer. Klimaschutz+Klimawandelanpassung,03,2019
+Plan,35405.5,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 1,05,Steuer. Klimaschutz+Klimawandelanpassung,03,2019
+Plan,248248.86,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 2.1,06,GBL und Steuerungsunterstützung GB2.1,01,2019
+Plan,8348.17,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 2.1,06,GBL und Steuerungsunterstützung GB2.1,01,2019
+Plan,333714.83,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 2.2,07,GBL und Steuerungsunterstützung GB2.2,01,2019
+Plan,10814.82,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 2.2,07,GBL und Steuerungsunterstützung GB2.2,01,2019
+Plan,362388.66,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,EUROPA-Förderung,06,2019
+Plan,73264.45,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,EUROPA-Förderung,06,2019
+Plan,612392.28,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,GBL und Steuerungsunterstützung GB4,01,2019
+Plan,351397.15,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,GBL und Steuerungsunterstützung GB4,01,2019
+Plan,277991.96,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,IT-Strategie und Digitalisierung,07,2019
+Plan,6114.32,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,IT-Strategie und Digitalisierung,07,2019
+Plan,375994.64,Aufwendung,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,Zentrale Revision,05,2019
+Plan,10721.82,Ertrag,Innere Verwaltung,11,Geschäftsbereichsleitung GB 4,09,Zentrale Revision,05,2019
+Plan,191230.12,Aufwendung,Innere Verwaltung,11,Gleichstellung von Frau und Mann,10,Gleichstellung von Frau und Mann,01,2019
+Plan,22645.9,Ertrag,Innere Verwaltung,11,Gleichstellung von Frau und Mann,10,Gleichstellung von Frau und Mann,01,2019
+Plan,123624.0,Aufwendung,Innere Verwaltung,11,GMW / Gemeinnütz. Wohnungsbauges.,26,GMW,01,2019
+Plan,nan,Ertrag,Innere Verwaltung,11,GMW / Gemeinnütz. Wohnungsbauges.,26,GMW,01,2019
+Plan,2000000.0,Aufwendung,Innere Verwaltung,11,GMW / Gemeinnütz. Wohnungsbauges.,26,GWG,02,2019
+Plan,nan,Ertrag,Innere Verwaltung,11,GMW / Gemeinnütz. Wohnungsbauges.,26,GWG,02,2019
+Plan,1351786.99,Aufwendung,Innere Verwaltung,11,Grundstücksmanagement,25,Grundstücksmanagement,01,2019
+Plan,901008.04,Ertrag,Innere Verwaltung,11,Grundstücksmanagement,25,Grundstücksmanagement,01,2019
+Plan,1899247.58,Aufwendung,Innere Verwaltung,11,IT-Infrastruktur,37,Netz,01,2019
+Plan,828915.43,Ertrag,Innere Verwaltung,11,IT-Infrastruktur,37,Netz,01,2019
+Plan,2108697.91,Aufwendung,Innere Verwaltung,11,IT-Infrastruktur,37,Rechenzentrum,03,2019
+Plan,930515.32,Ertrag,Innere Verwaltung,11,IT-Infrastruktur,37,Rechenzentrum,03,2019
+Plan,1713892.21,Aufwendung,Innere Verwaltung,11,IT-Infrastruktur,37,Telefon,02,2019
+Plan,505257.6,Ertrag,Innere Verwaltung,11,IT-Infrastruktur,37,Telefon,02,2019
+Plan,3220217.23,Aufwendung,Innere Verwaltung,11,IT-Kundenservice,40,Client Management,01,2019
+Plan,1075371.44,Ertrag,Innere Verwaltung,11,IT-Kundenservice,40,Client Management,01,2019
+Plan,4192076.85,Aufwendung,Innere Verwaltung,11,IT-Kundenservice,40,Fachverfahren,02,2019
+Plan,1575870.23,Ertrag,Innere Verwaltung,11,IT-Kundenservice,40,Fachverfahren,02,2019
+Plan,565740.78,Aufwendung,Innere Verwaltung,11,IT-Steuerung und eVerwaltung,41,IT-Steuerung und eVerwaltung,01,2019
+Plan,14363.52,Ertrag,Innere Verwaltung,11,IT-Steuerung und eVerwaltung,41,IT-Steuerung und eVerwaltung,01,2019
+Plan,407586.6,Aufwendung,Innere Verwaltung,11,Kompetenzzentrum Frau und Beruf,36,Kompetenzzentrum Frau und Beruf,01,2019
+Plan,307500.0,Ertrag,Innere Verwaltung,11,Kompetenzzentrum Frau und Beruf,36,Kompetenzzentrum Frau und Beruf,01,2019
+Plan,153727.6,Aufwendung,Innere Verwaltung,11,Konferenzservice,24,Konferenzservice,01,2019
+Plan,39495.79,Ertrag,Innere Verwaltung,11,Konferenzservice,24,Konferenzservice,01,2019
+Plan,332000.0,Aufwendung,Innere Verwaltung,11,Mitgliedschaften,34,Beitr.mitgl.sch. im Gesamtverw.interesse,01,2019
+Plan,nan,Ertrag,Innere Verwaltung,11,Mitgliedschaften,34,Beitr.mitgl.sch. im Gesamtverw.interesse,01,2019
+Plan,317539.2,Aufwendung,Innere Verwaltung,11,Personalfortbildung und -entwicklung,14,Ausbildung,01,2019
+Plan,30285.49,Ertrag,Innere Verwaltung,11,Personalfortbildung und -entwicklung,14,Ausbildung,01,2019
+Plan,554007.05,Aufwendung,Innere Verwaltung,11,Personalfortbildung und -entwicklung,14,Kommunale Fortbildung,02,2019
+Plan,140518.28,Ertrag,Innere Verwaltung,11,Personalfortbildung und -entwicklung,14,Kommunale Fortbildung,02,2019
+Plan,1362130.39,Aufwendung,Innere Verwaltung,11,Personalmanagement,15,Personalabrechnung,04,2019
+Plan,724924.91,Ertrag,Innere Verwaltung,11,Personalmanagement,15,Personalabrechnung,04,2019
+Plan,1048257.42,Aufwendung,Innere Verwaltung,11,Personalmanagement,15,Personalbetreuung,02,2019
+Plan,14557.71,Ertrag,Innere Verwaltung,11,Personalmanagement,15,Personalbetreuung,02,2019
+Plan,818455.73,Aufwendung,Innere Verwaltung,11,Personalmanagement,15,Personalsteuerung und -recht,01,2019
+Plan,62018.55,Ertrag,Innere Verwaltung,11,Personalmanagement,15,Personalsteuerung und -recht,01,2019
+Plan,1071150.0,Aufwendung,Innere Verwaltung,11,Personalnebenkosten,28,Personalnebenkosten,01,2019
+Plan,405900.0,Ertrag,Innere Verwaltung,11,Personalnebenkosten,28,Personalnebenkosten,01,2019
+Plan,3121647.81,Aufwendung,Innere Verwaltung,11,Politische Gremien,01,Rat und Gremien / Fraktionen,01,2019
+Plan,82248.91,Ertrag,Innere Verwaltung,11,Politische Gremien,01,Rat und Gremien / Fraktionen,01,2019
+Plan,335198.61,Aufwendung,Innere Verwaltung,11,Presse- und Öffentlichkeitsarbeit,13,Presse- und Öffentlichkeitsarbeit,01,2019
+Plan,10544.95,Ertrag,Innere Verwaltung,11,Presse- und Öffentlichkeitsarbeit,13,Presse- und Öffentlichkeitsarbeit,01,2019
+Plan,325701.44,Aufwendung,Innere Verwaltung,11,Presse- und Öffentlichkeitsarbeit,13,Repräsentationen / Städtepartnerschaften,02,2019
+Plan,7956.75,Ertrag,Innere Verwaltung,11,Presse- und Öffentlichkeitsarbeit,13,Repräsentationen / Städtepartnerschaften,02,2019
+Plan,219908.08,Aufwendung,Innere Verwaltung,11,Rechnungsprüfung,12,Korruptionsbekämpfung und -prävention,02,2019
+Plan,5464.79,Ertrag,Innere Verwaltung,11,Rechnungsprüfung,12,Korruptionsbekämpfung und -prävention,02,2019
+Plan,1566863.17,Aufwendung,Innere Verwaltung,11,Rechnungsprüfung,12,Rechnungsprüfung,01,2019
+Plan,37927.44,Ertrag,Innere Verwaltung,11,Rechnungsprüfung,12,Rechnungsprüfung,01,2019
+Plan,870829.75,Aufwendung,Innere Verwaltung,11,Recht,19,Rechtsangelegenheiten,01,2019
+Plan,442758.55,Ertrag,Innere Verwaltung,11,Recht,19,Rechtsangelegenheiten,01,2019
+Plan,1847287.7,Aufwendung,Innere Verwaltung,11,Recht,19,Versicherungsangelegenheiten d.Kommunen,02,2019
+Plan,200191.35,Ertrag,Innere Verwaltung,11,Recht,19,Versicherungsangelegenheiten d.Kommunen,02,2019
+Plan,529563.97,Aufwendung,Innere Verwaltung,11,Recht,19,Zentrale Vergabestelle,03,2019
+Plan,470354.11,Ertrag,Innere Verwaltung,11,Recht,19,Zentrale Vergabestelle,03,2019
+Plan,270635.0,Aufwendung,Innere Verwaltung,11,ServiceCenter und E-Government,23,E-Government,02,2019
+Plan,2069.64,Ertrag,Innere Verwaltung,11,ServiceCenter und E-Government,23,E-Government,02,2019
+Plan,2603826.61,Aufwendung,Innere Verwaltung,11,ServiceCenter und E-Government,23,ServiceCenter,01,2019
+Plan,400024.12,Ertrag,Innere Verwaltung,11,ServiceCenter und E-Government,23,ServiceCenter,01,2019
+Plan,191744.88,Aufwendung,Innere Verwaltung,11,"Stabsstelle BGM, Arbeitssicherheit, AMD",42,Arbeitssicherheit und Arbeitsmedizin,02,2019
+Plan,53117.64,Ertrag,Innere Verwaltung,11,"Stabsstelle BGM, Arbeitssicherheit, AMD",42,Arbeitssicherheit und Arbeitsmedizin,02,2019
+Plan,525172.24,Aufwendung,Innere Verwaltung,11,"Stabsstelle BGM, Arbeitssicherheit, AMD",42,Betriebliches Gesundheitsmanagement,01,2019
+Plan,11550.97,Ertrag,Innere Verwaltung,11,"Stabsstelle BGM, Arbeitssicherheit, AMD",42,Betriebliches Gesundheitsmanagement,01,2019
+Plan,126829.69,Aufwendung,Innere Verwaltung,11,Verwaltungsführung,03,Bürgerangelegenheiten und Bürgerservice,01,2019
+Plan,2954.39,Ertrag,Innere Verwaltung,11,Verwaltungsführung,03,Bürgerangelegenheiten und Bürgerservice,01,2019
+Plan,416238.34,Aufwendung,Innere Verwaltung,11,Verwaltungsführung,03,Bürgerbeteiligung und Bürgerengagement,03,2019
+Plan,16.8,Ertrag,Innere Verwaltung,11,Verwaltungsführung,03,Bürgerbeteiligung und Bürgerengagement,03,2019
+Plan,956706.5,Aufwendung,Innere Verwaltung,11,Verwaltungsführung,03,Verwaltungsleitung / Steuerungsunterst.,02,2019
+Plan,22222.84,Ertrag,Innere Verwaltung,11,Verwaltungsführung,03,Verwaltungsleitung / Steuerungsunterst.,02,2019
+Plan,99000.0,Aufwendung,Innere Verwaltung,11,Zentrale Beschaffungen,20,Zentr. Beschaffungen d.Gesamtverwaltung,01,2019
+Plan,nan,Ertrag,Innere Verwaltung,11,Zentrale Beschaffungen,20,Zentr. Beschaffungen d.Gesamtverwaltung,01,2019
+Plan,635240.01,Aufwendung,Innere Verwaltung,11,Zentrale Dienste,21,Organisationsentwicklung,05,2019
+Plan,16910.08,Ertrag,Innere Verwaltung,11,Zentrale Dienste,21,Organisationsentwicklung,05,2019
+Plan,283564.07,Aufwendung,Innere Verwaltung,11,Zentrale Dienste,21,Sonstige Zentrale Dienste,03,2019
+Plan,1509.83,Ertrag,Innere Verwaltung,11,Zentrale Dienste,21,Sonstige Zentrale Dienste,03,2019
+Plan,839875.02,Aufwendung,Innere Verwaltung,11,Zentrale Dienste,21,Zentraleinkauf,04,2019
+Plan,23993.49,Ertrag,Innere Verwaltung,11,Zentrale Dienste,21,Zentraleinkauf,04,2019
+Plan,550783.23,Aufwendung,Innere Verwaltung,11,Zentrale IT-Dienste,39,Druckdienste,02,2019
+Plan,197675.8,Ertrag,Innere Verwaltung,11,Zentrale IT-Dienste,39,Druckdienste,02,2019
+Plan,2209833.14,Aufwendung,Innere Verwaltung,11,Zentrale IT-Dienste,39,Postdienste,03,2019
+Plan,521676.0,Ertrag,Innere Verwaltung,11,Zentrale IT-Dienste,39,Postdienste,03,2019
+Plan,978748.44,Aufwendung,Innere Verwaltung,11,Zentrale IT-Dienste,39,Zentralverfahren und SW-Entwicklung,01,2019
+Plan,160627.58,Ertrag,Innere Verwaltung,11,Zentrale IT-Dienste,39,Zentralverfahren und SW-Entwicklung,01,2019
+Plan,36814403.62,Aufwendung,Innere Verwaltung,11,Zentrales Personalkosten-Rest-Budget,30,Zentrales Personalkosten-Rest-Budget,01,2019
+Plan,12631600.0,Ertrag,Innere Verwaltung,11,Zentrales Personalkosten-Rest-Budget,30,Zentrales Personalkosten-Rest-Budget,01,2019
+Plan,7992778.74,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Einrichtungen der Jugendarbeit,03,Förd. KiJu in offenen Einrichtungen,01,2019
+Plan,836072.94,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Einrichtungen der Jugendarbeit,03,Förd. KiJu in offenen Einrichtungen,01,2019
+Plan,1276933.48,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Einrichtungen der Jugendarbeit,03,Pl./Weiterentw. Freiräume u.Spielflächen,06,2019
+Plan,760103.8,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Einrichtungen der Jugendarbeit,03,Pl./Weiterentw. Freiräume u.Spielflächen,06,2019
+Plan,299704.82,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Elterngeld,09,Elterngeld,01,2019
+Plan,16.29,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Elterngeld,09,Elterngeld,01,2019
+Plan,1395622.0,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Familien- u. Schulpsychol. Beratung,11,Familien- u. Schulpsychol. Beratung,01,2019
+Plan,121005.76,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Familien- u. Schulpsychol. Beratung,11,Familien- u. Schulpsychol. Beratung,01,2019
+Plan,63796168.45,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Förderung von Kindern in Tagesbetreuung,01,Betrieb städtischer Kitas,01,2019
+Plan,27998601.51,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Förderung von Kindern in Tagesbetreuung,01,Betrieb städtischer Kitas,01,2019
+Plan,56244946.92,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Förderung von Kindern in Tagesbetreuung,01,Förderung v. Einrichtungen freier Träger,02,2019
+Plan,35785889.65,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Förderung von Kindern in Tagesbetreuung,01,Förderung v. Einrichtungen freier Träger,02,2019
+Plan,2419543.18,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Förd. KiJu außerhalb von Einrichtungen,10,Förd. KiJu außerhalb von Einrichtungen,01,2019
+Plan,113599.25,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Förd. KiJu außerhalb von Einrichtungen,10,Förd. KiJu außerhalb von Einrichtungen,01,2019
+Plan,985537.04,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Haus der Jugend Barmen,04,HdJ Bamen BGA,01,2019
+Plan,354376.91,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Haus der Jugend Barmen,04,HdJ Bamen BGA,01,2019
+Plan,1350703.99,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Leist. z.Förd.junger Menschen u.Familien,05,Beistandschaften,05,2019
+Plan,83.64,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Leist. z.Förd.junger Menschen u.Familien,05,Beistandschaften,05,2019
+Plan,106736385.06,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Leist. z.Förd.junger Menschen u.Familien,05,Hilfen z.Erziehung u.präventive Projekte,01,2019
+Plan,23323722.09,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Leist. z.Förd.junger Menschen u.Familien,05,Hilfen z.Erziehung u.präventive Projekte,01,2019
+Plan,5252804.34,Aufwendung,"Kinder-, Jugend- und Familienhilfe",36,Tagespflege,02,Tagespflege,01,2019
+Plan,1587621.71,Ertrag,"Kinder-, Jugend- und Familienhilfe",36,Tagespflege,02,Tagespflege,01,2019
+Plan,824746.96,Aufwendung,Kultur und Wissenschaft,25,Archiv,05,Stadtarchiv,01,2019
+Plan,30343.8,Ertrag,Kultur und Wissenschaft,25,Archiv,05,Stadtarchiv,01,2019
+Plan,4260166.51,Aufwendung,Kultur und Wissenschaft,25,Bibliothek,04,Medien und Informationen,01,2019
+Plan,581974.74,Ertrag,Kultur und Wissenschaft,25,Bibliothek,04,Medien und Informationen,01,2019
+Plan,1336550.48,Aufwendung,Kultur und Wissenschaft,25,Historisches Zentrum,10,Historisches Zentrum,01,2019
+Plan,54050.29,Ertrag,Kultur und Wissenschaft,25,Historisches Zentrum,10,Historisches Zentrum,01,2019
+Plan,1208194.29,Aufwendung,Kultur und Wissenschaft,25,Kulturförderung,01,Kulturbüro,01,2019
+Plan,139028.66,Ertrag,Kultur und Wissenschaft,25,Kulturförderung,01,Kulturbüro,01,2019
+Plan,534443.56,Aufwendung,Kultur und Wissenschaft,25,KULTURsekretariat NRW,02,KULTURsekretariat,01,2019
+Plan,482941.0,Ertrag,Kultur und Wissenschaft,25,KULTURsekretariat NRW,02,KULTURsekretariat,01,2019
+Plan,3292290.95,Aufwendung,Kultur und Wissenschaft,25,Musik- / Kunstschule,03,Bergische Musikschule,01,2019
+Plan,1706228.69,Ertrag,Kultur und Wissenschaft,25,Musik- / Kunstschule,03,Bergische Musikschule,01,2019
+Plan,20400000.0,Aufwendung,Kultur und Wissenschaft,25,Theater und Konzerte,06,Zuschuss für Bühnen und Orchester GmbH,01,2019
+Plan,nan,Ertrag,Kultur und Wissenschaft,25,Theater und Konzerte,06,Zuschuss für Bühnen und Orchester GmbH,01,2019
+Plan,3774900.0,Aufwendung,Kultur und Wissenschaft,25,Theater und Konzerte,06,Zuschuss für Tanztheater,02,2019
+Plan,555000.0,Ertrag,Kultur und Wissenschaft,25,Theater und Konzerte,06,Zuschuss für Tanztheater,02,2019
+Plan,9533299.75,Aufwendung,Kultur und Wissenschaft,25,Tierpark,13,Zoologischer Garten,01,2019
+Plan,4963756.5,Ertrag,Kultur und Wissenschaft,25,Tierpark,13,Zoologischer Garten,01,2019
+Plan,5016122.09,Aufwendung,Kultur und Wissenschaft,25,Von der Heydt-Museum,09,Sammlung+son.Leist. Von der Heydt-Museum,01,2019
+Plan,288096.57,Ertrag,Kultur und Wissenschaft,25,Von der Heydt-Museum,09,Sammlung+son.Leist. Von der Heydt-Museum,01,2019
+Plan,2653000.0,Aufwendung,Kultur und Wissenschaft,25,Zuschuss Berg.Volkshochschule Zweckverb.,12,Zuschuss Berg.Volkshochschule Zweckverb.,01,2019
+Plan,nan,Ertrag,Kultur und Wissenschaft,25,Zuschuss Berg.Volkshochschule Zweckverb.,12,Zuschuss Berg.Volkshochschule Zweckverb.,01,2019
+Plan,521141.36,Aufwendung,Natur- und Landschaftspflege,55,Friedhöfe,06,Friedhöfe,01,2019
+Plan,371888.83,Ertrag,Natur- und Landschaftspflege,55,Friedhöfe,06,Friedhöfe,01,2019
+Plan,3244861.16,Aufwendung,Natur- und Landschaftspflege,55,Gewässerschutz,04,Gewässerschutz,01,2019
+Plan,403609.48,Ertrag,Natur- und Landschaftspflege,55,Gewässerschutz,04,Gewässerschutz,01,2019
+Plan,1129213.59,Aufwendung,Natur- und Landschaftspflege,55,Natur und Landschaft,02,Natur und Landschaft,01,2019
+Plan,59743.77,Ertrag,Natur- und Landschaftspflege,55,Natur und Landschaft,02,Natur und Landschaft,01,2019
+Plan,1134330.28,Aufwendung,Natur- und Landschaftspflege,55,Öffentliches Grün,01,"Freiraumplanung, Stadtökologie, etc.",04,2019
+Plan,543165.14,Ertrag,Natur- und Landschaftspflege,55,Öffentliches Grün,01,"Freiraumplanung, Stadtökologie, etc.",04,2019
+Plan,314193.14,Aufwendung,Natur- und Landschaftspflege,55,Öffentliches Grün,01,Kleingartenwesen,02,2019
+Plan,405915.28,Ertrag,Natur- und Landschaftspflege,55,Öffentliches Grün,01,Kleingartenwesen,02,2019
+Plan,466344.02,Aufwendung,Natur- und Landschaftspflege,55,Öffentliches Grün,01,Natur- und Umweltbildung,03,2019
+Plan,180805.02,Ertrag,Natur- und Landschaftspflege,55,Öffentliches Grün,01,Natur- und Umweltbildung,03,2019
+Plan,9278673.31,Aufwendung,Natur- und Landschaftspflege,55,Öffentliches Grün,01,Öffentliches Grün,01,2019
+Plan,1419059.63,Ertrag,Natur- und Landschaftspflege,55,Öffentliches Grün,01,Öffentliches Grün,01,2019
+Plan,2066064.89,Aufwendung,Natur- und Landschaftspflege,55,"Wald, Forst- und Landwirtschaft",03,Wald- und Forstwirtschaft,01,2019
+Plan,350867.66,Ertrag,Natur- und Landschaftspflege,55,"Wald, Forst- und Landwirtschaft",03,Wald- und Forstwirtschaft,01,2019
+Plan,1398755.17,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Grundstücksneuordnung,03,Bauleitpl. u.sonst. Städtebaul.Satzungen,02,2019
+Plan,10162.59,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Grundstücksneuordnung,03,Bauleitpl. u.sonst. Städtebaul.Satzungen,02,2019
+Plan,194298.41,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Grundstücksneuordnung,03,Bodenverkehrsgenehmigungsverfahren,01,2019
+Plan,95022.92,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Grundstücksneuordnung,03,Bodenverkehrsgenehmigungsverfahren,01,2019
+Plan,346000.0,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekte der Stadtentwicklung Elberfeld,12,Innenstadt Elberfeld,03,2019
+Plan,286800.0,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekte der Stadtentwicklung Elberfeld,12,Innenstadt Elberfeld,03,2019
+Plan,2755749.0,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekte der Stadtentwicklung Elberfeld,12,Projekt Elberf. Nordst./Arrenb. Mirke,02,2019
+Plan,2499749.0,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekte der Stadtentwicklung Elberfeld,12,Projekt Elberf. Nordst./Arrenb. Mirke,02,2019
+Plan,116667.0,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekte Stadtentw.Regionale/Döppersberg,10,Projekt Döppersberg,01,2019
+Plan,nan,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekte Stadtentw.Regionale/Döppersberg,10,Projekt Döppersberg,01,2019
+Plan,1535821.64,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekt soziale Stadt,13,Soziale Stadt Heckinghausen,05,2019
+Plan,1291867.72,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekt soziale Stadt,13,Soziale Stadt Heckinghausen,05,2019
+Plan,234078.93,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekt soziale Stadt,13,Soziale Stadt Oberbarmen/Wichlinghausen,01,2019
+Plan,50072.12,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekt soziale Stadt,13,Soziale Stadt Oberbarmen/Wichlinghausen,01,2019
+Plan,1934196.17,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekt soziale Stadt,13,Soziale Stadt Oberb./ Wichlingh. 2.Phase,04,2019
+Plan,1618567.84,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Projekt soziale Stadt,13,Soziale Stadt Oberb./ Wichlingh. 2.Phase,04,2019
+Plan,4057500.0,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Proj. Stadtentw. - Aktive Stadtzentren,11,Aktives Zentrum - Innenstadt Barmen,02,2019
+Plan,3902000.0,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Proj. Stadtentw. - Aktive Stadtzentren,11,Aktives Zentrum - Innenstadt Barmen,02,2019
+Plan,360604.4,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Flächensteuerung/strat. Projektentw.,03,2019
+Plan,11.16,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Flächensteuerung/strat. Projektentw.,03,2019
+Plan,384403.48,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Handl.konzepte Stadtentwickl/-erneuerung,04,2019
+Plan,11.08,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Handl.konzepte Stadtentwickl/-erneuerung,04,2019
+Plan,280613.75,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Städtebaul. Projekte u. Innenstadtentw.,02,2019
+Plan,8.88,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Städtebaul. Projekte u. Innenstadtentw.,02,2019
+Plan,301065.24,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Stadtgestaltung und Baukultur,01,2019
+Plan,8.88,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Räumliche Planung und Entwicklung,01,Stadtgestaltung und Baukultur,01,2019
+Plan,12000000.0,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Umsetzung Investitionsprogramm d Bundes,15,Umsetzung Investitionsprogramm d. Bundes,01,2019
+Plan,12000000.0,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Umsetzung Investitionsprogramm d Bundes,15,Umsetzung Investitionsprogramm d. Bundes,01,2019
+Plan,441889.87,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,Verkehrliche Planung,04,Verkehrsplanung,01,2019
+Plan,70702.6,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,Verkehrliche Planung,04,Verkehrsplanung,01,2019
+Plan,5811836.86,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,"Vermessung, Katasteramt und Geodaten",02,"Führ.Bereitst. u.Abgabe Geodaten,Service",02,2019
+Plan,1067229.69,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,"Vermessung, Katasteramt und Geodaten",02,"Führ.Bereitst. u.Abgabe Geodaten,Service",02,2019
+Plan,765975.0,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,"Vermessung, Katasteramt und Geodaten",02,Gesetzliche Wertermittlung,03,2019
+Plan,111319.49,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,"Vermessung, Katasteramt und Geodaten",02,Gesetzliche Wertermittlung,03,2019
+Plan,1215753.71,Aufwendung,"Räuml.Planung, Entwicklung, Geoinformat.",51,"Vermessung, Katasteramt und Geodaten",02,"Ingenieur-,Liegenschafts-,Landesvermess.",01,2019
+Plan,211007.88,Ertrag,"Räuml.Planung, Entwicklung, Geoinformat.",51,"Vermessung, Katasteramt und Geodaten",02,"Ingenieur-,Liegenschafts-,Landesvermess.",01,2019
+Plan,12305278.19,Aufwendung,Schulträgeraufgaben,21,Berufskollegs,17,Berufskollegs,01,2019
+Plan,801763.48,Ertrag,Schulträgeraufgaben,21,Berufskollegs,17,Berufskollegs,01,2019
+Plan,138165.28,Aufwendung,Schulträgeraufgaben,21,Berufskollegs,17,Schulmensa Kohlstraße,02,2019
+Plan,51327.68,Ertrag,Schulträgeraufgaben,21,Berufskollegs,17,Schulmensa Kohlstraße,02,2019
+Plan,12234369.05,Aufwendung,Schulträgeraufgaben,21,Betreuungsangebote,05,Betreuungsangebote,01,2019
+Plan,10004192.31,Ertrag,Schulträgeraufgaben,21,Betreuungsangebote,05,Betreuungsangebote,01,2019
+Plan,3964912.29,Aufwendung,Schulträgeraufgaben,21,Förderschulen,16,Förderschulen,01,2019
+Plan,290855.25,Ertrag,Schulträgeraufgaben,21,Förderschulen,16,Förderschulen,01,2019
+Plan,11340161.73,Aufwendung,Schulträgeraufgaben,21,Gesamtschulen,15,Gesamtschulen,01,2019
+Plan,704013.09,Ertrag,Schulträgeraufgaben,21,Gesamtschulen,15,Gesamtschulen,01,2019
+Plan,26595547.28,Aufwendung,Schulträgeraufgaben,21,Grundschulen,11,Grundschulen,01,2019
+Plan,7047411.02,Ertrag,Schulträgeraufgaben,21,Grundschulen,11,Grundschulen,01,2019
+Plan,14581634.05,Aufwendung,Schulträgeraufgaben,21,Gymnasien,14,Gymnasien,01,2019
+Plan,932556.98,Ertrag,Schulträgeraufgaben,21,Gymnasien,14,Gymnasien,01,2019
+Plan,6411876.27,Aufwendung,Schulträgeraufgaben,21,Hauptschulen,12,Hauptschulen,01,2019
+Plan,440074.31,Ertrag,Schulträgeraufgaben,21,Hauptschulen,12,Hauptschulen,01,2019
+Plan,1860651.22,Aufwendung,Schulträgeraufgaben,21,Medienzentrum,04,Medienzentrum,01,2019
+Plan,379930.59,Ertrag,Schulträgeraufgaben,21,Medienzentrum,04,Medienzentrum,01,2019
+Plan,6305354.4,Aufwendung,Schulträgeraufgaben,21,Realschulen,13,Realschulen,01,2019
+Plan,428076.71,Ertrag,Schulträgeraufgaben,21,Realschulen,13,Realschulen,01,2019
+Plan,6681967.35,Aufwendung,Schulträgeraufgaben,21,Schülerbeförderung,06,Schülerbeförderung,01,2019
+Plan,111402.36,Ertrag,Schulträgeraufgaben,21,Schülerbeförderung,06,Schülerbeförderung,01,2019
+Plan,559147.44,Aufwendung,Sicherheit und Ordnung,12,Abwehr von Großschadensereignissen,13,Abwehr von Großschadensereignissen,01,2019
+Plan,92431.64,Ertrag,Sicherheit und Ordnung,12,Abwehr von Großschadensereignissen,13,Abwehr von Großschadensereignissen,01,2019
+Plan,29532670.57,Aufwendung,Sicherheit und Ordnung,12,Brandschutz,12,Gefahrenabwehr,01,2019
+Plan,1685041.13,Ertrag,Sicherheit und Ordnung,12,Brandschutz,12,Gefahrenabwehr,01,2019
+Plan,1027105.46,Aufwendung,Sicherheit und Ordnung,12,Brandschutz,12,Gefahrenvorbeugung,02,2019
+Plan,64105.12,Ertrag,Sicherheit und Ordnung,12,Brandschutz,12,Gefahrenvorbeugung,02,2019
+Plan,1033000.0,Aufwendung,Sicherheit und Ordnung,12,Chemisches und Veterinäruntersuchungsamt,15,Chemisches und Veterinäruntersuchungsamt,01,2019
+Plan,nan,Ertrag,Sicherheit und Ordnung,12,Chemisches und Veterinäruntersuchungsamt,15,Chemisches und Veterinäruntersuchungsamt,01,2019
+Plan,4918548.29,Aufwendung,Sicherheit und Ordnung,12,Einwohner- und Personenstandwesen,07,Einwohnerangelegenheiten,01,2019
+Plan,1835374.32,Ertrag,Sicherheit und Ordnung,12,Einwohner- und Personenstandwesen,07,Einwohnerangelegenheiten,01,2019
+Plan,1630641.79,Aufwendung,Sicherheit und Ordnung,12,Einwohner- und Personenstandwesen,07,Standesamtsaufgaben,02,2019
+Plan,614723.71,Ertrag,Sicherheit und Ordnung,12,Einwohner- und Personenstandwesen,07,Standesamtsaufgaben,02,2019
+Plan,876994.32,Aufwendung,Sicherheit und Ordnung,12,KFZ-Angelegenheiten,16,Fahrerlaubnisse,02,2019
+Plan,808316.48,Ertrag,Sicherheit und Ordnung,12,KFZ-Angelegenheiten,16,Fahrerlaubnisse,02,2019
+Plan,2436907.24,Aufwendung,Sicherheit und Ordnung,12,KFZ-Angelegenheiten,16,KFZ-Zulassung,01,2019
+Plan,3051593.07,Ertrag,Sicherheit und Ordnung,12,KFZ-Angelegenheiten,16,KFZ-Zulassung,01,2019
+Plan,290880.85,Aufwendung,Sicherheit und Ordnung,12,Öffentliche Toilettenanlagen,02,Öffentliche Toilettenanlagen,01,2019
+Plan,26000.0,Ertrag,Sicherheit und Ordnung,12,Öffentliche Toilettenanlagen,02,Öffentliche Toilettenanlagen,01,2019
+Plan,2542822.15,Aufwendung,Sicherheit und Ordnung,12,Ordnungsangelegenheiten,01,"Gewerbe-,Veterinärsw.,Lebensmittelüberw.",03,2019
+Plan,724445.82,Ertrag,Sicherheit und Ordnung,12,Ordnungsangelegenheiten,01,"Gewerbe-,Veterinärsw.,Lebensmittelüberw.",03,2019
+Plan,3285682.52,Aufwendung,Sicherheit und Ordnung,12,Ordnungsangelegenheiten,01,"Maßnahmen d.Gefahrenabwehr, sonst. DL",01,2019
+Plan,525959.55,Ertrag,Sicherheit und Ordnung,12,Ordnungsangelegenheiten,01,"Maßnahmen d.Gefahrenabwehr, sonst. DL",01,2019
+Plan,4450582.24,Aufwendung,Sicherheit und Ordnung,12,Ordnungsangelegenheiten,01,Verkehrsüberwachung,02,2019
+Plan,10857127.38,Ertrag,Sicherheit und Ordnung,12,Ordnungsangelegenheiten,01,Verkehrsüberwachung,02,2019
+Plan,5565810.79,Aufwendung,Sicherheit und Ordnung,12,Regelung des Aufenthalts von Ausländern,09,Aufenthaltsrechtliche Angel. ABH,01,2019
+Plan,508750.78,Ertrag,Sicherheit und Ordnung,12,Regelung des Aufenthalts von Ausländern,09,Aufenthaltsrechtliche Angel. ABH,01,2019
+Plan,21453742.07,Aufwendung,Sicherheit und Ordnung,12,Rettungsdienst,14,Rettungsdienst (Gebührenhaushalt),01,2019
+Plan,22269547.2,Ertrag,Sicherheit und Ordnung,12,Rettungsdienst,14,Rettungsdienst (Gebührenhaushalt),01,2019
+Plan,140603.23,Aufwendung,Sicherheit und Ordnung,12,Standesamtsaufsicht / Schiedsamtsangel.,03,Standesamtsaufsicht / Schiedsamtsangel.,01,2019
+Plan,1048.31,Ertrag,Sicherheit und Ordnung,12,Standesamtsaufsicht / Schiedsamtsangel.,03,Standesamtsaufsicht / Schiedsamtsangel.,01,2019
+Plan,81447.88,Aufwendung,Sicherheit und Ordnung,12,Statistik,10,Auftragsstatistik,01,2019
+Plan,nan,Ertrag,Sicherheit und Ordnung,12,Statistik,10,Auftragsstatistik,01,2019
+Plan,326792.12,Aufwendung,Sicherheit und Ordnung,12,Statistik,10,Statistische Informationen,02,2019
+Plan,2000.0,Ertrag,Sicherheit und Ordnung,12,Statistik,10,Statistische Informationen,02,2019
+Plan,1660600.18,Aufwendung,Sicherheit und Ordnung,12,Verkehrsangelegenheiten,04,Straßen- und Verkehrsangelegenheiten,01,2019
+Plan,2100854.68,Ertrag,Sicherheit und Ordnung,12,Verkehrsangelegenheiten,04,Straßen- und Verkehrsangelegenheiten,01,2019
+Plan,160000.0,Aufwendung,Sicherheit und Ordnung,12,Wahlen,11,Europawahl,02,2019
+Plan,250000.0,Ertrag,Sicherheit und Ordnung,12,Wahlen,11,Europawahl,02,2019
+Plan,365864.85,Aufwendung,Soziale Leistungen,31,Ärztlicher Dienst Schwerbehindertenrecht,11,Ärztlicher Dienst Schwerbehindertenrecht,01,2019
+Plan,187.08,Ertrag,Soziale Leistungen,31,Ärztlicher Dienst Schwerbehindertenrecht,11,Ärztlicher Dienst Schwerbehindertenrecht,01,2019
+Plan,747729.68,Aufwendung,Soziale Leistungen,31,Betreuung nach dem Betreuungsgesetz,02,Betreuung nach dem Betreuungsgesetz,04,2019
+Plan,6838.34,Ertrag,Soziale Leistungen,31,Betreuung nach dem Betreuungsgesetz,02,Betreuung nach dem Betreuungsgesetz,04,2019
+Plan,13638774.12,Aufwendung,Soziale Leistungen,31,Eingliederungshilfe (6. Kap. SGB XII),20,Eingliederungshilfe (6. Kap. SGB XII),01,2019
+Plan,2283187.13,Ertrag,Soziale Leistungen,31,Eingliederungshilfe (6. Kap. SGB XII),20,Eingliederungshilfe (6. Kap. SGB XII),01,2019
+Plan,46103205.45,Aufwendung,Soziale Leistungen,31,Grundsicherung i.Alter (4. Kap. SGB XII),18,Grundsicherung i.Alter (4. Kap. SGB XII),01,2019
+Plan,45304789.13,Ertrag,Soziale Leistungen,31,Grundsicherung i.Alter (4. Kap. SGB XII),18,Grundsicherung i.Alter (4. Kap. SGB XII),01,2019
+Plan,186087424.4,Aufwendung,Soziale Leistungen,31,Grundsicherung SGB II,03,Grundsicherung SGB II,05,2019
+Plan,100268800.0,Ertrag,Soziale Leistungen,31,Grundsicherung SGB II,03,Grundsicherung SGB II,05,2019
+Plan,633772.1,Aufwendung,Soziale Leistungen,31,Hilfe and. Lebenslagen (9. Kap. SGB XII),23,Hilfe and. Lebenslagen (9. Kap. SGB XII),01,2019
+Plan,13565.5,Ertrag,Soziale Leistungen,31,Hilfe and. Lebenslagen (9. Kap. SGB XII),23,Hilfe and. Lebenslagen (9. Kap. SGB XII),01,2019
+Plan,2910173.35,Aufwendung,Soziale Leistungen,31,Hilfe bes.soz.Schwierigk.(8.Kap.SGB XII),22,Hilfe bes.soz.Schwierigk.(8.Kap.SGB XII),01,2019
+Plan,285020.17,Ertrag,Soziale Leistungen,31,Hilfe bes.soz.Schwierigk.(8.Kap.SGB XII),22,Hilfe bes.soz.Schwierigk.(8.Kap.SGB XII),01,2019
+Plan,333277.93,Aufwendung,Soziale Leistungen,31,Hilfen bei Wohnproblemen,07,Hilfen z. Erhalt/Erlangung einer Wohnung,01,2019
+Plan,15590.92,Ertrag,Soziale Leistungen,31,Hilfen bei Wohnproblemen,07,Hilfen z. Erhalt/Erlangung einer Wohnung,01,2019
+Plan,10551043.4,Aufwendung,Soziale Leistungen,31,Hilfen für Migranten bei Wohnproblemen,09,Verwaltung+Betrieb Übergangseinrichtung.,01,2019
+Plan,1927264.06,Ertrag,Soziale Leistungen,31,Hilfen für Migranten bei Wohnproblemen,09,Verwaltung+Betrieb Übergangseinrichtung.,01,2019
+Plan,112308.13,Aufwendung,Soziale Leistungen,31,Hilfen für Wohnungslose,08,Bewirtschaftung Obdachlosenunterkünfte,01,2019
+Plan,163814.28,Ertrag,Soziale Leistungen,31,Hilfen für Wohnungslose,08,Bewirtschaftung Obdachlosenunterkünfte,01,2019
+Plan,20766390.48,Aufwendung,Soziale Leistungen,31,Hilfen nach AsylBLG,05,Hilfen nach AsylBLG,01,2019
+Plan,16311940.76,Ertrag,Soziale Leistungen,31,Hilfen nach AsylBLG,05,Hilfen nach AsylBLG,01,2019
+Plan,152565.58,Aufwendung,Soziale Leistungen,31,Hilfen nach dem SGB XII für Flüchtlinge,15,Hilfen nach dem SGB XII für Flüchtlinge,01,2019
+Plan,100009.12,Ertrag,Soziale Leistungen,31,Hilfen nach dem SGB XII für Flüchtlinge,15,Hilfen nach dem SGB XII für Flüchtlinge,01,2019
+Plan,12899553.5,Aufwendung,Soziale Leistungen,31,Hilfen z.Lebensunterhalt (3.Kap.SGB XII),17,Hilfen z.Lebensunterhalt (3.Kap.SGB XII),01,2019
+Plan,1116867.5,Ertrag,Soziale Leistungen,31,Hilfen z.Lebensunterhalt (3.Kap.SGB XII),17,Hilfen z.Lebensunterhalt (3.Kap.SGB XII),01,2019
+Plan,8276771.82,Aufwendung,Soziale Leistungen,31,Hilfen zur Gesundheit (5. Kap. SGB XII),19,Hilfen zur Gesundheit (5. Kap. SGB XII),01,2019
+Plan,3505.4,Ertrag,Soziale Leistungen,31,Hilfen zur Gesundheit (5. Kap. SGB XII),19,Hilfen zur Gesundheit (5. Kap. SGB XII),01,2019
+Plan,55834873.43,Aufwendung,Soziale Leistungen,31,Hilfe zur Pflege (7. Kap. SGB XII),21,Hilfe zur Pflege (7. Kap. SGB XII),01,2019
+Plan,5013315.97,Ertrag,Soziale Leistungen,31,Hilfe zur Pflege (7. Kap. SGB XII),21,Hilfe zur Pflege (7. Kap. SGB XII),01,2019
+Plan,495873.56,Aufwendung,Soziale Leistungen,31,Leistungen nach dem BaföG,04,Leistungen nach dem BAföG,01,2019
+Plan,1499.84,Ertrag,Soziale Leistungen,31,Leistungen nach dem BaföG,04,Leistungen nach dem BAföG,01,2019
+Plan,14674060.33,Aufwendung,Soziale Leistungen,31,Lstg. n.d.UVG+Heranzieh.außerh.Einricht.,12,Unterhaltsvorschuss,01,2019
+Plan,11340056.61,Ertrag,Soziale Leistungen,31,Lstg. n.d.UVG+Heranzieh.außerh.Einricht.,12,Unterhaltsvorschuss,01,2019
+Plan,997062.35,Aufwendung,Soziale Leistungen,31,Schwerbehindertenversorgung,10,Fürsorgestelle für Schwerbehinderte,02,2019
+Plan,703588.68,Ertrag,Soziale Leistungen,31,Schwerbehindertenversorgung,10,Fürsorgestelle für Schwerbehinderte,02,2019
+Plan,1817627.99,Aufwendung,Soziale Leistungen,31,Schwerbehindertenversorgung,10,Schwerbehindertenversorgung,01,2019
+Plan,2763994.85,Ertrag,Soziale Leistungen,31,Schwerbehindertenversorgung,10,Schwerbehindertenversorgung,01,2019
+Plan,40244.92,Aufwendung,Soziale Leistungen,31,Sonstige soziale Leistungen,14,Lastenausgleich,01,2019
+Plan,nan,Ertrag,Soziale Leistungen,31,Sonstige soziale Leistungen,14,Lastenausgleich,01,2019
+Plan,1312901.17,Aufwendung,Soziale Leistungen,31,Subjektbezogene Förderung für Wohnraum,06,Wohngeld / Komm. Zuschüsse zur Miete,01,2019
+Plan,10190.8,Ertrag,Soziale Leistungen,31,Subjektbezogene Förderung für Wohnraum,06,Wohngeld / Komm. Zuschüsse zur Miete,01,2019
+Plan,240000.0,Aufwendung,Soziale Leistungen,31,Unterstützung von Senioren,01,Zuschuss zum Eigenbetrieb APH,01,2019
+Plan,nan,Ertrag,Soziale Leistungen,31,Unterstützung von Senioren,01,Zuschuss zum Eigenbetrieb APH,01,2019
+Plan,5307892.08,Aufwendung,Soziale Leistungen,31,"Zentrum Integr./ Bildg., kult. Vielfalt",16,"Zentrum Integrat./Bildung, kult.Vielfalt",02,2019
+Plan,2833042.79,Ertrag,Soziale Leistungen,31,"Zentrum Integr./ Bildg., kult. Vielfalt",16,"Zentrum Integrat./Bildung, kult.Vielfalt",02,2019
+Plan,476816.16,Aufwendung,Sportförderung,42,Bereitstellung/Betrieb Bäder,03,FB Mählersbeck,01,2019
+Plan,96573.51,Ertrag,Sportförderung,42,Bereitstellung/Betrieb Bäder,03,FB Mählersbeck,01,2019
+Plan,12790726.06,Aufwendung,Sportförderung,42,Bereitstellung/Betrieb Bäder,03,Hallenbäder,02,2019
+Plan,2062783.46,Ertrag,Sportförderung,42,Bereitstellung/Betrieb Bäder,03,Hallenbäder,02,2019
+Plan,2884757.79,Aufwendung,Sportförderung,42,Bereitstellung/Betrieb Freisportanlagen,04,Sportaußenanlagen,01,2019
+Plan,239973.84,Ertrag,Sportförderung,42,Bereitstellung/Betrieb Freisportanlagen,04,Sportaußenanlagen,01,2019
+Plan,2239086.9,Aufwendung,Sportförderung,42,Bereitstellung/Betrieb Freisportanlagen,04,Stadion am Zoo,02,2019
+Plan,53603.0,Ertrag,Sportförderung,42,Bereitstellung/Betrieb Freisportanlagen,04,Stadion am Zoo,02,2019
+Plan,5691309.98,Aufwendung,Sportförderung,42,Bereitstellung/Betrieb ged. Sportanlagen,01,Turn- und Sporthallen,01,2019
+Plan,733112.11,Ertrag,Sportförderung,42,Bereitstellung/Betrieb ged. Sportanlagen,01,Turn- und Sporthallen,01,2019
+Plan,1866979.43,Aufwendung,Sportförderung,42,Bereitstellung/Betrieb ged. Sportanlagen,01,Uni Halle,02,2019
+Plan,394521.23,Ertrag,Sportförderung,42,Bereitstellung/Betrieb ged. Sportanlagen,01,Uni Halle,02,2019
+Plan,1409486.44,Aufwendung,Sportförderung,42,Sportförderung,02,Sportförderung,01,2019
+Plan,316894.16,Ertrag,Sportförderung,42,Sportförderung,02,Sportförderung,01,2019
+Plan,24296.72,Aufwendung,Stiftungen,71,Stiftungsmanagement,01,Stiftungsmanagement,01,2019
+Plan,4.18,Ertrag,Stiftungen,71,Stiftungsmanagement,01,Stiftungsmanagement,01,2019
+Plan,753206.01,Aufwendung,Umweltschutz,56,Bodenschutz,02,Bodenschutz,01,2019
+Plan,72217.69,Ertrag,Umweltschutz,56,Bodenschutz,02,Bodenschutz,01,2019
+Plan,435997.09,Aufwendung,Umweltschutz,56,Immissionsschutz / Betriebl.Umweltschutz,04,Immissionsschutz / Betriebl.Umweltschutz,01,2019
+Plan,271157.22,Ertrag,Umweltschutz,56,Immissionsschutz / Betriebl.Umweltschutz,04,Immissionsschutz / Betriebl.Umweltschutz,01,2019
+Plan,191879.7,Aufwendung,Umweltschutz,56,"Lärm, Luft, Klima",01,"Lärm, Luft, Klima",01,2019
+Plan,390.12,Ertrag,Umweltschutz,56,"Lärm, Luft, Klima",01,"Lärm, Luft, Klima",01,2019
+Plan,454334.34,Aufwendung,Umweltschutz,56,Umweltbeiträge,03,Umweltbeiträge,01,2019
+Plan,1750.42,Ertrag,Umweltschutz,56,Umweltbeiträge,03,Umweltbeiträge,01,2019
+Plan,3955569.67,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,Öffentliche Verkehrsflächen,01,"Brücken, Tunnel, Stützmauern und Treppen",02,2019
+Plan,196346.5,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,Öffentliche Verkehrsflächen,01,"Brücken, Tunnel, Stützmauern und Treppen",02,2019
+Plan,40568419.13,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,Öffentliche Verkehrsflächen,01,"Straßen, Wege und Plätze",01,2019
+Plan,8392028.33,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,Öffentliche Verkehrsflächen,01,"Straßen, Wege und Plätze",01,2019
+Plan,1933600.0,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,ÖPNV,04,Öffentlicher Personennahverkehr,01,2019
+Plan,256250.0,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,ÖPNV,04,Öffentlicher Personennahverkehr,01,2019
+Plan,9980000.0,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,Schwebebahn Infrastruktur,06,Schwebebahn Infrastruktur,01,2019
+Plan,16000000.0,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,Schwebebahn Infrastruktur,06,Schwebebahn Infrastruktur,01,2019
+Plan,12000000.0,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,Straßenreinigung und Winterdienst,05,Straßenreinigung,01,2019
+Plan,9100000.0,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,Straßenreinigung und Winterdienst,05,Straßenreinigung,01,2019
+Plan,4500000.0,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,Straßenreinigung und Winterdienst,05,Winterdienst,02,2019
+Plan,nan,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,Straßenreinigung und Winterdienst,05,Winterdienst,02,2019
+Plan,4643899.44,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,Verkehrstechnik,02,Öffentliche Beleuchtung,02,2019
+Plan,33679.11,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,Verkehrstechnik,02,Öffentliche Beleuchtung,02,2019
+Plan,3652545.01,Aufwendung,"Verkehrsflächen und -anlagen, ÖPNV",54,Verkehrstechnik,02,Verkehrsleitende und -regelnde Anlagen,01,2019
+Plan,1712190.23,Ertrag,"Verkehrsflächen und -anlagen, ÖPNV",54,Verkehrstechnik,02,Verkehrsleitende und -regelnde Anlagen,01,2019
+Plan,29804100.0,Aufwendung,Ver- und Entsorgung,53,Abfallwirtschaft,02,Abfallgebühren Vor- und Nachkalkulation,01,2019
+Plan,30030000.0,Ertrag,Ver- und Entsorgung,53,Abfallwirtschaft,02,Abfallgebühren Vor- und Nachkalkulation,01,2019
+Plan,448955.78,Aufwendung,Ver- und Entsorgung,53,Koordinierung Abfallwirtschaft,04,Koordinierung Abfallwirtschaft,01,2019
+Plan,877.23,Ertrag,Ver- und Entsorgung,53,Koordinierung Abfallwirtschaft,04,Koordinierung Abfallwirtschaft,01,2019
+Plan,nan,Aufwendung,Ver- und Entsorgung,53,Versorgung,01,Energie- und Gasversorgung,01,2019
+Plan,17000000.0,Ertrag,Ver- und Entsorgung,53,Versorgung,01,Energie- und Gasversorgung,01,2019
+Plan,650000.0,Aufwendung,Ver- und Entsorgung,53,Wasser und Abwasser Wuppertal (WAW),03,Wasser und Abwasser Wuppertal (WAW),01,2019
+Plan,650000.0,Ertrag,Ver- und Entsorgung,53,Wasser und Abwasser Wuppertal (WAW),03,Wasser und Abwasser Wuppertal (WAW),01,2019
+Plan,4410086.67,Aufwendung,Wirtschaft und Tourismus,57,Allgemeine Einrichtungen,03,Historische Stadthalle Wuppertal,01,2019
+Plan,140880.88,Ertrag,Wirtschaft und Tourismus,57,Allgemeine Einrichtungen,03,Historische Stadthalle Wuppertal,01,2019
+Plan,nan,Aufwendung,Wirtschaft und Tourismus,57,Anteile an Unternehmen,04,Sonstige Beteiligungen,01,2019
+Plan,nan,Ertrag,Wirtschaft und Tourismus,57,Anteile an Unternehmen,04,Sonstige Beteiligungen,01,2019
+Plan,10455000.0,Aufwendung,Wirtschaft und Tourismus,57,Berg. Struktur- u. Wirtschaftsförd. GmbH,05,Berg. Struktur- u. Wirtschaftsförd. GmbH,01,2019
+Plan,10050000.0,Ertrag,Wirtschaft und Tourismus,57,Berg. Struktur- u. Wirtschaftsförd. GmbH,05,Berg. Struktur- u. Wirtschaftsförd. GmbH,01,2019
+Plan,806100.0,Aufwendung,Wirtschaft und Tourismus,57,Stadtmarketing und Wirtschaftskomm.,02,Stadtmarketing u. Wirtschaftskomm.,01,2019
+Plan,nan,Ertrag,Wirtschaft und Tourismus,57,Stadtmarketing und Wirtschaftskomm.,02,Stadtmarketing u. Wirtschaftskomm.,01,2019
+Plan,1982000.0,Aufwendung,Wirtschaft und Tourismus,57,Wirtschaftsförderung,01,Wirtschafts- und Technologieförderung,01,2019
+Plan,nan,Ertrag,Wirtschaft und Tourismus,57,Wirtschaftsförderung,01,Wirtschafts- und Technologieförderung,01,2019

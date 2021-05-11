@@ -1,0 +1,717 @@
+Identifikation;Fachbereich;Produkt;Konto;Haushaltsjahr;Budgetrichtung;Ansatz
+1;Bürgerservice;Brandschutz/Technische Hilfe;Kostenerstattungen von Gemeinden;2018;Ertrag;250
+2;Bürgerservice;Brandschutz/Technische Hilfe;Mieten und Pachten;2018;Ertrag;1000
+3;Bürgerservice;Brandschutz/Technische Hilfe;Sonstige Erträge;2018;Ertrag;6500
+4;Bürgerservice;Brandschutz/Technische Hilfe;Kostenerstattungen vom privaten Bereich;2018;Ertrag;20000
+5;Bürgerservice;Brandschutz/Technische Hilfe;Auflösung von Sonderposten;2018;Ertrag;54000
+6;Bürgerservice;Brandschutz/Technische Hilfe;Pauschalierte Lohnsteuer;2018;Aufwand;300
+7;Bürgerservice;Brandschutz/Technische Hilfe;Abschreibungen auf immaterielles Vermögen;2018;Aufwand;400
+8;Bürgerservice;Brandschutz/Technische Hilfe;Gebäudebewirtschaftung;2018;Aufwand;1000
+9;Bürgerservice;Brandschutz/Technische Hilfe;Inanspruchnahme von Rechten und Diensten;2018;Aufwand;1000
+10;Bürgerservice;Brandschutz/Technische Hilfe;Leistungszulagen;2018;Aufwand;1000
+11;Bürgerservice;Brandschutz/Technische Hilfe;Reisekosten;2018;Aufwand;1000
+12;Bürgerservice;Brandschutz/Technische Hilfe;Fachliteratur, Zeitschriften;2018;Aufwand;2000
+13;Bürgerservice;Brandschutz/Technische Hilfe;Unhaltung von Maschinen und techn. Anlagen;2018;Aufwand;2000
+14;Bürgerservice;Brandschutz/Technische Hilfe;Versorgungskasse Arbeitnehmer;2018;Aufwand;3800
+15;Bürgerservice;Brandschutz/Technische Hilfe;Lizenzaufwendungen;2018;Aufwand;4000
+16;Bürgerservice;Brandschutz/Technische Hilfe;Mieten und Pachten;2018;Aufwand;5000
+17;Bürgerservice;Brandschutz/Technische Hilfe;Telefon, Datenübertragung;2018;Aufwand;6000
+18;Bürgerservice;Brandschutz/Technische Hilfe;Dienstbezüge;2018;Aufwand;6200
+19;Bürgerservice;Brandschutz/Technische Hilfe;Sonstige Aufwendungen;2018;Aufwand;8000
+20;Bürgerservice;Brandschutz/Technische Hilfe;Sozialversicherung Arbeitnehmer;2018;Aufwand;9800
+21;Bürgerservice;Brandschutz/Technische Hilfe;Betriebs- und Schmierstoffe;2018;Aufwand;12000
+22;Bürgerservice;Brandschutz/Technische Hilfe;Kfz-Versicherungen;2018;Aufwand;12000
+23;Bürgerservice;Brandschutz/Technische Hilfe;Kostenerstattung na den privaten Bereich;2018;Aufwand;15000
+24;Bürgerservice;Brandschutz/Technische Hilfe;Abschreibungen auf BGA;2018;Aufwand;17000
+25;Bürgerservice;Brandschutz/Technische Hilfe;Aus- und Fortbildung;2018;Aufwand;20000
+26;Bürgerservice;Brandschutz/Technische Hilfe;Unterhaltung BGA;2018;Aufwand;20000
+27;Bürgerservice;Brandschutz/Technische Hilfe;Versicherungsbeiträge;2018;Aufwand;20000
+28;Bürgerservice;Brandschutz/Technische Hilfe;Abschreibungen auf bebaute Grundstücke;2018;Aufwand;25000
+29;Bürgerservice;Brandschutz/Technische Hilfe;Personalnebenaufwendungen;2018;Aufwand;25000
+30;Bürgerservice;Brandschutz/Technische Hilfe;Aufwendungen f. Energie, Wasser/Abwasser etc.;2018;Aufwand;28000
+31;Bürgerservice;Brandschutz/Technische Hilfe;Dienst- und Schutzkleidung;2018;Aufwand;30000
+32;Bürgerservice;Brandschutz/Technische Hilfe;Geringwertige Wirtschaftsgüter;2018;Aufwand;30000
+33;Bürgerservice;Brandschutz/Technische Hilfe;Aufwandsentschädigungen;2018;Aufwand;35000
+34;Bürgerservice;Brandschutz/Technische Hilfe;Wartungs- und Instandsetzungskosten;2018;Aufwand;35000
+35;Bürgerservice;Brandschutz/Technische Hilfe;Gebäudeunterhaltung;2018;Aufwand;45000
+36;Bürgerservice;Brandschutz/Technische Hilfe;Vergütungen;2018;Aufwand;49000
+37;Bürgerservice;Brandschutz/Technische Hilfe;Abschreibungen auf Fahrzeuge;2018;Aufwand;106000
+38;Bürgerservice;Einrichtungen der Jugendarbeit - Lagerhalle;Versicherungsbeiträge;2018;Aufwand;300
+39;Bürgerservice;Einrichtungen der Jugendarbeit - Lagerhalle;Abschreibungen;2018;Aufwand;2000
+40;Bürgerservice;Einrichtungen der Jugendarbeit - Lagerhalle;Energie/Wasser/Abwasser/Abfall;2018;Aufwand;2700
+41;Bürgerservice;Einrichtungen der Jugendarbeit - Lagerhalle;Unterhaltung der Grundstücke und Gebäude;2018;Aufwand;3000
+42;Bürgerservice;Förderung des Sports;Pauschalierte Lohnsteuer;2018;Aufwand;10
+43;Bürgerservice;Förderung des Sports;Leistungszulagen;2018;Aufwand;50
+44;Bürgerservice;Förderung des Sports;Versorgungskasse Arbeitnehmer;2018;Aufwand;150
+45;Bürgerservice;Förderung des Sports;Sozialversicherung Arbeitnehmer;2018;Aufwand;300
+46;Bürgerservice;Förderung des Sports;Vergütungen;2018;Aufwand;1500
+47;Bürgerservice;Förderung des Sports;Sachleistungen;2018;Aufwand;3000
+48;Bürgerservice;Friedhofs- und Bestattungswesen;Gebühren für die Erteilung von Bescheiden;2018;Ertrag;2500
+49;Bürgerservice;Friedhofs- und Bestattungswesen;Geschäftsaufwendungen;2018;Aufwand;100
+50;Bürgerservice;Friedhofs- und Bestattungswesen;Pauschalierte Lohnsteuer;2018;Aufwand;100
+51;Bürgerservice;Friedhofs- und Bestattungswesen;Leistungszulagen;2018;Aufwand;450
+52;Bürgerservice;Friedhofs- und Bestattungswesen;Versorgungskasse Arbeitnehmer;2018;Aufwand;1700
+53;Bürgerservice;Friedhofs- und Bestattungswesen;Sozialversicherung Arbeitnehmer;2018;Aufwand;4500
+54;Bürgerservice;Friedhofs- und Bestattungswesen;Vergütungen;2018;Aufwand;21500
+55;Bürgerservice;Gastschülerzuschüsse;Zuweisung an Gemeinden/-verbände;2018;Aufwand;27000
+56;Bürgerservice;Gewerbe;Verwaltugnsgebühren allgemein;2018;Ertrag;500
+57;Bürgerservice;Gewerbe;Gebühren für die Erteilung von Bescheiden;2018;Ertrag;5000
+58;Bürgerservice;Gewerbe;Verwaltungsgebühren;2018;Ertrag;6000
+59;Bürgerservice;Gewerbe;Pauschalierte Lohnsteuer;2018;Aufwand;100
+60;Bürgerservice;Gewerbe;Fachliteratur, Zeitschriften;2018;Aufwand;150
+61;Bürgerservice;Gewerbe;Leistungszulagen;2018;Aufwand;500
+62;Bürgerservice;Gewerbe;Sonstige Aufwendungen;2018;Aufwand;500
+63;Bürgerservice;Gewerbe;Versorgungskasse Arbeitnehmer;2018;Aufwand;1900
+64;Bürgerservice;Gewerbe;Sozialversicherung Arbeitnehmer;2018;Aufwand;4900
+65;Bürgerservice;Gewerbe;Vergütungen;2018;Aufwand;24600
+66;Bürgerservice;Grundschule Gensingen;Pachten;2018;Ertrag;300
+67;Bürgerservice;Grundschule Gensingen;Auflösung von Sonderposten;2018;Ertrag;310
+68;Bürgerservice;Grundschule Gensingen;Sonstige Erträge;2018;Ertrag;500
+69;Bürgerservice;Grundschule Gensingen;Zuweisung des Landes für Mittagsverpflegung;2018;Ertrag;2500
+70;Bürgerservice;Grundschule Gensingen;Auflösung von Sonderposten;2018;Ertrag;3000
+71;Bürgerservice;Grundschule Gensingen;Zuweisung des Landes Betreuende Grundschule;2018;Ertrag;5600
+72;Bürgerservice;Grundschule Gensingen;Auflösung von Sonderposten;2018;Ertrag;9500
+73;Bürgerservice;Grundschule Gensingen;Elternanteile Betreuende Grundschule;2018;Ertrag;12800
+74;Bürgerservice;Grundschule Gensingen;Elternanteile Mittagsverpflegung;2018;Ertrag;28500
+75;Bürgerservice;Grundschule Gensingen;Personalnebenaufwendungen;2018;Aufwand;100
+76;Bürgerservice;Grundschule Gensingen;Pauschalierte Lohnsteuer;2018;Aufwand;150
+77;Bürgerservice;Grundschule Gensingen;Reisekosten;2018;Aufwand;250
+78;Bürgerservice;Grundschule Gensingen;Aus- und Fortbildung;2018;Aufwand;300
+79;Bürgerservice;Grundschule Gensingen;Zuf. Beihilferückstellungen;2018;Aufwand;360
+80;Bürgerservice;Grundschule Gensingen;Beihilfen;2018;Aufwand;500
+81;Bürgerservice;Grundschule Gensingen;Fachliteratur, Zeitschriften;2018;Aufwand;500
+82;Bürgerservice;Grundschule Gensingen;Personalnebenaufwendungen;2018;Aufwand;500
+83;Bürgerservice;Grundschule Gensingen;Sonstige Aufwendungen;2018;Aufwand;500
+84;Bürgerservice;Grundschule Gensingen;Sonstige Aufwendungen;2018;Aufwand;1000
+85;Bürgerservice;Grundschule Gensingen;Abfallentsorgung;2018;Aufwand;1600
+86;Bürgerservice;Grundschule Gensingen;Telefon, Datenübertragung;2018;Aufwand;1800
+87;Bürgerservice;Grundschule Gensingen;Gebäudebewirtschaftung;2018;Aufwand;2000
+88;Bürgerservice;Grundschule Gensingen;Lehr- und Unterrichtsmittel;2018;Aufwand;2000
+89;Bürgerservice;Grundschule Gensingen;Schulbücherei;2018;Aufwand;2000
+90;Bürgerservice;Grundschule Gensingen;Pensionsrückstellungen;2018;Aufwand;2000
+91;Bürgerservice;Grundschule Gensingen;Versorgungskasse Beamte;2018;Aufwand;2100
+92;Bürgerservice;Grundschule Gensingen;Leistungszulagen;2018;Aufwand;2300
+93;Bürgerservice;Grundschule Gensingen;Büromaterial;2018;Aufwand;2500
+94;Bürgerservice;Grundschule Gensingen;Leasing;2018;Aufwand;2500
+95;Bürgerservice;Grundschule Gensingen;Abschreibungen auf Betriebsvorrichtungen;2018;Aufwand;2800
+96;Bürgerservice;Grundschule Gensingen;Verbrauchsmittel;2018;Aufwand;3000
+97;Bürgerservice;Grundschule Gensingen;Unterhaltung BGA;2018;Aufwand;3500
+98;Bürgerservice;Grundschule Gensingen;Geringwertige Wirtschaftsgüter;2018;Aufwand;4000
+99;Bürgerservice;Grundschule Gensingen;Datenverarbeitung, laufende Lizenzaufwendungen;2018;Aufwand;5000
+100;Bürgerservice;Grundschule Gensingen;Wasser/Abwasser;2018;Aufwand;5500
+101;Bürgerservice;Grundschule Gensingen;Dienstbezüge ;2018;Aufwand;8750
+102;Bürgerservice;Grundschule Gensingen;Versorgungskasse Arbeitnehmer;2018;Aufwand;9000
+103;Bürgerservice;Grundschule Gensingen;Strom;2018;Aufwand;9500
+104;Bürgerservice;Grundschule Gensingen;Heizung;2018;Aufwand;13000
+105;Bürgerservice;Grundschule Gensingen;Versicherungsbeiträge;2018;Aufwand;14000
+106;Bürgerservice;Grundschule Gensingen;Abschreibungen BGA;2018;Aufwand;14600
+107;Bürgerservice;Grundschule Gensingen;Sozialversicherung Arbeitnehmer;2018;Aufwand;24100
+108;Bürgerservice;Grundschule Gensingen;Reinigung;2018;Aufwand;35000
+109;Bürgerservice;Grundschule Gensingen;Abschreibungen auf bebaute Grundstücke;2018;Aufwand;41000
+110;Bürgerservice;Grundschule Gensingen;Mittagsverpflegung;2018;Aufwand;44000
+111;Bürgerservice;Grundschule Gensingen;Gebäudeunterhaltung;2018;Aufwand;49500
+112;Bürgerservice;Grundschule Gensingen;Vergütungen;2018;Aufwand;122500
+113;Bürgerservice;Grundschule Sprendlingen;Mieten und Pachten;2018;Ertrag;400
+114;Bürgerservice;Grundschule Sprendlingen;Sonstige Erträge;2018;Ertrag;2500
+115;Bürgerservice;Grundschule Sprendlingen;Zuweisung des Landes für Mittagsverpflegung;2018;Ertrag;4500
+116;Bürgerservice;Grundschule Sprendlingen;Zuweisung des Landes Betreuende Grundschule;2018;Ertrag;7200
+117;Bürgerservice;Grundschule Sprendlingen;Elternanteile Betreuende Grundschule;2018;Ertrag;12000
+118;Bürgerservice;Grundschule Sprendlingen;Elternanteile Mittagsverpflegung;2018;Ertrag;28000
+119;Bürgerservice;Grundschule Sprendlingen;Auflösung von Sonderposten;2018;Ertrag;53600
+120;Bürgerservice;Grundschule Sprendlingen;Personalnebenaufwendungen;2018;Aufwand;100
+121;Bürgerservice;Grundschule Sprendlingen;Aus- und Fortbildung;2018;Aufwand;200
+122;Bürgerservice;Grundschule Sprendlingen;Zuf. Beihilferückstellungen;2018;Aufwand;360
+123;Bürgerservice;Grundschule Sprendlingen;Beihilfen;2018;Aufwand;500
+124;Bürgerservice;Grundschule Sprendlingen;Fachliteratur, Zeitschriften;2018;Aufwand;500
+125;Bürgerservice;Grundschule Sprendlingen;Pauschalierte Lohnsteuer;2018;Aufwand;500
+126;Bürgerservice;Grundschule Sprendlingen;Personalnebenaufwendungen;2018;Aufwand;500
+127;Bürgerservice;Grundschule Sprendlingen;Sonstige Aufwendungen;2018;Aufwand;1000
+128;Bürgerservice;Grundschule Sprendlingen;Sonstige Geschäftsaufwendungen;2018;Aufwand;1000
+129;Bürgerservice;Grundschule Sprendlingen;Abfallentsorgung;2018;Aufwand;1200
+130;Bürgerservice;Grundschule Sprendlingen;Gebäudebewirtschaftung;2018;Aufwand;2000
+131;Bürgerservice;Grundschule Sprendlingen;Schulbücherei;2018;Aufwand;2000
+132;Bürgerservice;Grundschule Sprendlingen;Zuf. Pensionsrückstellungen;2018;Aufwand;2000
+133;Bürgerservice;Grundschule Sprendlingen;Versorgungskasse Beamte;2018;Aufwand;2100
+134;Bürgerservice;Grundschule Sprendlingen;Leistungszulagen;2018;Aufwand;2250
+135;Bürgerservice;Grundschule Sprendlingen;Leasing;2018;Aufwand;2400
+136;Bürgerservice;Grundschule Sprendlingen;Büromaterial;2018;Aufwand;2500
+137;Bürgerservice;Grundschule Sprendlingen;Reisekosten;2018;Aufwand;2500
+138;Bürgerservice;Grundschule Sprendlingen;Telefon, Datenübertragung;2018;Aufwand;3500
+139;Bürgerservice;Grundschule Sprendlingen;Unterhaltung BGA;2018;Aufwand;3500
+140;Bürgerservice;Grundschule Sprendlingen;Geringwertige Wirtschaftsgüter;2018;Aufwand;4000
+141;Bürgerservice;Grundschule Sprendlingen;Lehr- und Unterrichtsmittel;2018;Aufwand;4000
+142;Bürgerservice;Grundschule Sprendlingen;Wasser/Abwasser;2018;Aufwand;4500
+143;Bürgerservice;Grundschule Sprendlingen;Datenverarbeitung, laufende Lizenzaufwendungen;2018;Aufwand;5000
+144;Bürgerservice;Grundschule Sprendlingen;Dienstbezüge;2018;Aufwand;8750
+145;Bürgerservice;Grundschule Sprendlingen;Versorgungskasse Arbeitnehmer;2018;Aufwand;8950
+146;Bürgerservice;Grundschule Sprendlingen;Strom;2018;Aufwand;10500
+147;Bürgerservice;Grundschule Sprendlingen;Schülerbeförderungskosten;2018;Aufwand;12000
+148;Bürgerservice;Grundschule Sprendlingen;Abschreibungen BGA;2018;Aufwand;12500
+149;Bürgerservice;Grundschule Sprendlingen;Versicherungsbeiträge;2018;Aufwand;14000
+150;Bürgerservice;Grundschule Sprendlingen;Sozialversicherung Arbeitnehmer;2018;Aufwand;22700
+151;Bürgerservice;Grundschule Sprendlingen;Abschreibungen auf bebaute Grundstücke;2018;Aufwand;37300
+152;Bürgerservice;Grundschule Sprendlingen;Heizung;2018;Aufwand;39000
+153;Bürgerservice;Grundschule Sprendlingen;Mittagsverpflegung;2018;Aufwand;47500
+154;Bürgerservice;Grundschule Sprendlingen;Gebäudeunterhaltung;2018;Aufwand;50000
+155;Bürgerservice;Grundschule Sprendlingen;Reinigung;2018;Aufwand;52000
+156;Bürgerservice;Grundschule Sprendlingen;Vergütungen;2018;Aufwand;114600
+157;Bürgerservice;Grundsicherung für Arbeitssuchende;Leistungsbeteiligung nach SGB II;2018;Ertrag;10000
+158;Bürgerservice;Grundsicherung für Arbeitssuchende;Pauschalierte Lohnsteuer;2018;Aufwand;50
+159;Bürgerservice;Grundsicherung für Arbeitssuchende;Leistungszulagen;2018;Aufwand;160
+160;Bürgerservice;Grundsicherung für Arbeitssuchende;Versorgungskasse Arbeitnehmer;2018;Aufwand;700
+161;Bürgerservice;Grundsicherung für Arbeitssuchende;Sozialversicherung Arbeitnehmer;2018;Aufwand;1600
+162;Bürgerservice;Grundsicherung für Arbeitssuchende;Vergütungen;2018;Aufwand;7900
+163;Bürgerservice;Grundsicherung für Arbeitssuchende;Einmalige Leistungen;2018;Aufwand;10000
+164;Bürgerservice;Grundsicherung für Arbeitssuchende;Kosten der Unterkunft und Heizung;2018;Aufwand;200000
+165;Bürgerservice;Grundsicherung im Alter;Leistung von Sozialleistungsträgern;2018;Ertrag;3000
+166;Bürgerservice;Grundsicherung im Alter;Leistung von Sozialleistungsträgern;2018;Ertrag;3000
+167;Bürgerservice;Grundsicherung im Alter;Kostenersatz;2018;Ertrag;490000
+168;Bürgerservice;Grundsicherung im Alter;Pauschalierte Lohnsteuer;2018;Aufwand;110
+169;Bürgerservice;Grundsicherung im Alter;Zuf. Beihilferückstellungen;2018;Aufwand;360
+170;Bürgerservice;Grundsicherung im Alter;Beihilfen;2018;Aufwand;500
+171;Bürgerservice;Grundsicherung im Alter;Leistungszulagen;2018;Aufwand;750
+172;Bürgerservice;Grundsicherung im Alter;Zuf. Pensionsrückstellungen;2018;Aufwand;2000
+173;Bürgerservice;Grundsicherung im Alter;Versorgungskasse Beamte;2018;Aufwand;2100
+174;Bürgerservice;Grundsicherung im Alter;Versorgungskasse Arbeitnehmer;2018;Aufwand;2900
+175;Bürgerservice;Grundsicherung im Alter;Sozialversicherung Arbeitnehmer;2018;Aufwand;7300
+176;Bürgerservice;Grundsicherung im Alter;Dienstbezüge;2018;Aufwand;10200
+177;Bürgerservice;Grundsicherung im Alter;Vergütungen;2018;Aufwand;37000
+178;Bürgerservice;Grundsicherung im Alter;Leistungen außerhalb von Einrichtungen;2018;Aufwand;50000
+179;Bürgerservice;Grundsicherung im Alter;Leistungen außerhalb von Einrichtungen;2018;Aufwand;140000
+180;Bürgerservice;Grundsicherung im Alter;Leistungen außerhalb von Einrichtungen;2018;Aufwand;350000
+181;Bürgerservice;Heimat- und Kulturpflege;Pauschalierte Lohnsteuer;2018;Aufwand;10
+182;Bürgerservice;Heimat- und Kulturpflege;Leistungszulagen;2018;Aufwand;50
+183;Bürgerservice;Heimat- und Kulturpflege;Versorgungskasse Arbeitnehmer;2018;Aufwand;150
+184;Bürgerservice;Heimat- und Kulturpflege;Sozialversicherung Arbeitnehmer;2018;Aufwand;400
+185;Bürgerservice;Heimat- und Kulturpflege;Vergütungen;2018;Aufwand;1900
+186;Bürgerservice;Heimat- und Kulturpflege;Volkshochschule Sprendlingen-Gensingen;2018;Aufwand;1920
+187;Bürgerservice;Heimat- und Kulturpflege;Musikpflege;2018;Aufwand;2500
+188;Bürgerservice;Heimat- und Kulturpflege;Geschäftsaufwendungen;2018;Aufwand;3000
+189;Bürgerservice;Heimat- und Kulturpflege;Seniorenfastnacht;2018;Aufwand;3000
+190;Bürgerservice;Heimat- und Kulturpflege;Kulturelle Veranstaltungen;2018;Aufwand;4000
+191;Bürgerservice;Heimat- und Kulturpflege;Sonstige Aufwendungen;2018;Aufwand;5000
+192;Bürgerservice;Heimat- und Kulturpflege;Seniorenarbeit;2018;Aufwand;9000
+193;Bürgerservice;Hilfe zum Lebensunterhalt;Kostenersatz;2018;Ertrag;500
+194;Bürgerservice;Hilfe zum Lebensunterhalt;Rückzahlung gewährter Hilfen;2018;Ertrag;500
+195;Bürgerservice;Hilfe zum Lebensunterhalt;Kostenersatz;2018;Ertrag;5000
+196;Bürgerservice;Hilfe zum Lebensunterhalt;Kostenersatz;2018;Ertrag;10000
+197;Bürgerservice;Hilfe zum Lebensunterhalt;Kostenersatz;2018;Ertrag;50000
+198;Bürgerservice;Hilfe zum Lebensunterhalt;Pauschalierte Lohnsteuer;2018;Aufwand;50
+199;Bürgerservice;Hilfe zum Lebensunterhalt;Leistungszulagen;2018;Aufwand;160
+200;Bürgerservice;Hilfe zum Lebensunterhalt;Versorgungskasse Arbeitnehmer;2018;Aufwand;700
+201;Bürgerservice;Hilfe zum Lebensunterhalt;Sozialversicherung Arbeitnehmer;2018;Aufwand;1600
+202;Bürgerservice;Hilfe zum Lebensunterhalt;Leistungen außerhalb von Einrichtungen;2018;Aufwand;5000
+203;Bürgerservice;Hilfe zum Lebensunterhalt;Vergütungen;2018;Aufwand;8000
+204;Bürgerservice;Hilfe zum Lebensunterhalt;Leistungen außerhalb von Einrichtungen;2018;Aufwand;70000
+205;Bürgerservice;Hilfen für Asylbewerber;Kostenerstattung vom Kreis;2018;Ertrag;25000
+206;Bürgerservice;Hilfen für Asylbewerber;Kostenerstattungen Strom;2018;Ertrag;40000
+207;Bürgerservice;Hilfen für Asylbewerber;Kostenersatz;2018;Ertrag;100000
+208;Bürgerservice;Hilfen für Asylbewerber;Kostenerstattungen KdU;2018;Ertrag;151000
+209;Bürgerservice;Hilfen für Asylbewerber;Leistungen von Sozialleistungsträgern;2018;Ertrag;450000
+210;Bürgerservice;Hilfen für Asylbewerber;Leistungszulagen;2018;Aufwand;1400
+211;Bürgerservice;Hilfen für Asylbewerber;Versorgungskasse Arbeitnehmer;2018;Aufwand;5400
+212;Bürgerservice;Hilfen für Asylbewerber;Sozialversicherung Arbeitnehmer;2018;Aufwand;14000
+213;Bürgerservice;Hilfen für Asylbewerber;Aufwendungen für Strom;2018;Aufwand;40000
+214;Bürgerservice;Hilfen für Asylbewerber;Vergütungen;2018;Aufwand;69500
+215;Bürgerservice;Hilfen für Asylbewerber;Sonstige Kosen der Unterkunft;2018;Aufwand;75000
+216;Bürgerservice;Hilfen für Asylbewerber;Kosten der Unterkunft nach AsylblG;2018;Aufwand;250000
+217;Bürgerservice;Hilfen für Asylbewerber;Leistungen nach dem Asylbewerberleistungsgesetz;2018;Aufwand;450000
+218;Bürgerservice;Integration;Kraftfahrzeugsteuer;2018;Aufwand;200
+219;Bürgerservice;Integration;Telefonkoten;2018;Aufwand;350
+220;Bürgerservice;Integration;Aus- und Fortbildung;2018;Aufwand;500
+221;Bürgerservice;Integration;Kfz-Versicherungen;2018;Aufwand;1000
+222;Bürgerservice;Integration;Abschreibungen auf Fahrzeuge;2018;Aufwand;1200
+223;Bürgerservice;Integration;Fahrzeugunterhaltung;2018;Aufwand;3000
+224;Bürgerservice;Integration;Sach- und Dienstleistungen;2018;Aufwand;6000
+225;Bürgerservice;Integration;Sonstige Aufwendungen;2018;Aufwand;12000
+226;Bürgerservice;Jugendarbeit;Auflösung von Sonderposten;2018;Ertrag;500
+227;Bürgerservice;Jugendarbeit;Sonstige Erträge;2018;Ertrag;20000
+228;Bürgerservice;Jugendarbeit;Versicherungsbeiträge;2018;Aufwand;100
+229;Bürgerservice;Jugendarbeit;Pauschalierte Lohnsteuer;2018;Aufwand;300
+230;Bürgerservice;Jugendarbeit;Reisekosten;2018;Aufwand;500
+231;Bürgerservice;Jugendarbeit;Telefon, Datenübertragung;2018;Aufwand;800
+232;Bürgerservice;Jugendarbeit;Aus- und Fortbildung;2018;Aufwand;1000
+233;Bürgerservice;Jugendarbeit;Fachliteratur, Zeitschriften;2018;Aufwand;1000
+234;Bürgerservice;Jugendarbeit;Sonstige Aufwendungen für Sachleistungen;2018;Aufwand;1000
+235;Bürgerservice;Jugendarbeit;Leistungszulagen;2018;Aufwand;1100
+236;Bürgerservice;Jugendarbeit;Gebäudebewirtschaftung;2018;Aufwand;1500
+237;Bürgerservice;Jugendarbeit;Unterhaltung BGA;2018;Aufwand;2000
+238;Bürgerservice;Jugendarbeit;Abschreibungen auf BGA;2018;Aufwand;2900
+239;Bürgerservice;Jugendarbeit;Versorgungskasse Arbeitnehmer;2018;Aufwand;4200
+240;Bürgerservice;Jugendarbeit;Geringswertige Wirtschaftsgüter;2018;Aufwand;5000
+241;Bürgerservice;Jugendarbeit;Sachaufwendungen allgemeine Jugendarbeit;2018;Aufwand;10000
+242;Bürgerservice;Jugendarbeit;Sozialversicherung Arbeitnehmer;2018;Aufwand;10500
+243;Bürgerservice;Jugendarbeit;Vergütungen;2018;Aufwand;55000
+244;Bürgerservice;Kinder-, Jugend- und Familienerholung;Zuweisungen vom Kreis;2018;Ertrag;3500
+245;Bürgerservice;Kinder-, Jugend- und Familienerholung;Zuweisungen vom Land;2018;Ertrag;3500
+246;Bürgerservice;Kinder-, Jugend- und Familienerholung;Sonstige Erträge;2018;Ertrag;5000
+247;Bürgerservice;Kinder-, Jugend- und Familienerholung;Teilnehmerbeiträge Kinder-, Jugend- und Familienerholung;2018;Ertrag;11500
+248;Bürgerservice;Kinder-, Jugend- und Familienerholung;Teilnehmerbeiträge Kinderferienprogramm;2018;Ertrag;13000
+249;Bürgerservice;Kinder-, Jugend- und Familienerholung;Pauschalierte Lohnsteuer;2018;Aufwand;100
+250;Bürgerservice;Kinder-, Jugend- und Familienerholung;Leistungszulagen;2018;Aufwand;500
+251;Bürgerservice;Kinder-, Jugend- und Familienerholung;Reisekosten;2018;Aufwand;500
+252;Bürgerservice;Kinder-, Jugend- und Familienerholung;Steuern;2018;Aufwand;500
+253;Bürgerservice;Kinder-, Jugend- und Familienerholung;Sonstige Aufwendungen;2018;Aufwand;1000
+254;Bürgerservice;Kinder-, Jugend- und Familienerholung;Unterhaltung BGA;2018;Aufwand;1000
+255;Bürgerservice;Kinder-, Jugend- und Familienerholung;Versicherungsbeiträge;2018;Aufwand;1200
+256;Bürgerservice;Kinder-, Jugend- und Familienerholung;Abschreibungen auf Fahrzeuge;2018;Aufwand;1600
+257;Bürgerservice;Kinder-, Jugend- und Familienerholung;Versorgungskasse Arbeitnehmer;2018;Aufwand;1800
+258;Bürgerservice;Kinder-, Jugend- und Familienerholung;Sozialversicherung Arbeitnehmer;2018;Aufwand;4300
+259;Bürgerservice;Kinder-, Jugend- und Familienerholung;Abschreibungen BGA;2018;Aufwand;4400
+260;Bürgerservice;Kinder-, Jugend- und Familienerholung;Aus- und Fortbildung;2018;Aufwand;5000
+261;Bürgerservice;Kinder-, Jugend- und Familienerholung;Geringwertige Wirtschaftsgüter;2018;Aufwand;5000
+262;Bürgerservice;Kinder-, Jugend- und Familienerholung;Fahrzeugunterhaltung;2018;Aufwand;7000
+263;Bürgerservice;Kinder-, Jugend- und Familienerholung;Kinder-, Jugend- und Familienerholung;2018;Aufwand;20000
+264;Bürgerservice;Kinder-, Jugend- und Familienerholung;Vergütungen;2018;Aufwand;22500
+265;Bürgerservice;Kinder-, Jugend- und Familienerholung;Kinderferienprogramm;2018;Aufwand;30000
+266;Bürgerservice;Lernmittelfreihei GS Gensingen;Nutzungsentgelte;2018;Ertrag;600
+267;Bürgerservice;Lernmittelfreihei GS Gensingen;Zuweisungen vom Land;2018;Ertrag;3000
+268;Bürgerservice;Lernmittelfreihei GS Gensingen;Kostenerstattungen an das Land ;2018;Aufwand;600
+269;Bürgerservice;Lernmittelfreihei GS Gensingen;Lehr- und Unterrichtsmittel;2018;Aufwand;3000
+270;Bürgerservice;Lernmittelfreiheit GS Sprendlingen;Nutzungsentgelte;2018;Ertrag;500
+271;Bürgerservice;Lernmittelfreiheit GS Sprendlingen;Zuweisungen vom Land;2018;Ertrag;3000
+272;Bürgerservice;Lernmittelfreiheit GS Sprendlingen;Kostenerstattungen an das Land ;2018;Aufwand;500
+273;Bürgerservice;Lernmittelfreiheit GS Sprendlingen;Lehr- und Unterrichtsmittel;2018;Aufwand;3000
+274;Bürgerservice;Sicherheit und Ordnung;Sonstige Erträge;2018;Ertrag;1500
+275;Bürgerservice;Sicherheit und Ordnung;Kostenerstattungen vom privaten Bereich;2018;Ertrag;25000
+276;Bürgerservice;Sicherheit und Ordnung;Pauschalierte Lohnsteuer;2018;Aufwand;120
+277;Bürgerservice;Sicherheit und Ordnung;Aus- und Fortbildung;2018;Aufwand;200
+278;Bürgerservice;Sicherheit und Ordnung;Beihilfen;2018;Aufwand;300
+279;Bürgerservice;Sicherheit und Ordnung;Zuf. Beihilferückstellungen;2018;Aufwand;750
+280;Bürgerservice;Sicherheit und Ordnung;Leistungszulagen;2018;Aufwand;1000
+281;Bürgerservice;Sicherheit und Ordnung;Versorgungskasse Arbeitnehmer;2018;Aufwand;3700
+282;Bürgerservice;Sicherheit und Ordnung;Zuf. Pensionsrückstellungen;2018;Aufwand;4000
+283;Bürgerservice;Sicherheit und Ordnung;Versorgungskasse Beamte;2018;Aufwand;4200
+284;Bürgerservice;Sicherheit und Ordnung;Sozialversicherung Arbeitnehmer;2018;Aufwand;9400
+285;Bürgerservice;Sicherheit und Ordnung;Kostenerstattungen an den privaten Bereich;2018;Aufwand;10600
+286;Bürgerservice;Sicherheit und Ordnung;Sonstige Aufwendungen;2018;Aufwand;14000
+287;Bürgerservice;Sicherheit und Ordnung;Dienstbezüge;2018;Aufwand;20300
+288;Bürgerservice;Sicherheit und Ordnung;Soziale Sicherung (Obdachloseneinweisung);2018;Aufwand;32000
+289;Bürgerservice;Sicherheit und Ordnung;Vergütungen;2018;Aufwand;47700
+290;Bürgerservice;Sonstige Hilfen in anderen Lebenslagen;Leistungen von Sozialleistungsträgern;2018;Ertrag;15000
+291;Bürgerservice;Sonstige Hilfen in anderen Lebenslagen;Leistungen außerhalb von Einrichtungen;2018;Aufwand;10000
+292;Bürgerservice;Sonstige soziale Hilfen und Leistungen;Pauschalierte Lohnsteuer;2018;Aufwand;50
+293;Bürgerservice;Sonstige soziale Hilfen und Leistungen;Leistzungszulage;2018;Aufwand;400
+294;Bürgerservice;Sonstige soziale Hilfen und Leistungen;Versorgungskasse Arbeitnehmer;2018;Aufwand;1500
+295;Bürgerservice;Sonstige soziale Hilfen und Leistungen;Sozialversicherung Arbeitnehmer;2018;Aufwand;3900
+296;Bürgerservice;Sonstige soziale Hilfen und Leistungen;Vergütungen;2018;Aufwand;19500
+297;Bürgerservice;Standesamt, Einwohnermeldeamt;Ordnungsrechtliche Erträge;2018;Ertrag;100
+298;Bürgerservice;Standesamt, Einwohnermeldeamt;Kostenerstattungen vom privaten Bereich;2018;Ertrag;500
+299;Bürgerservice;Standesamt, Einwohnermeldeamt;Verwaltungsgebühren allgemein;2018;Ertrag;1000
+300;Bürgerservice;Standesamt, Einwohnermeldeamt;Sonstige laufende Erträge;2018;Ertrag;4000
+301;Bürgerservice;Standesamt, Einwohnermeldeamt;Verwaltungsgebühren allgemein;2018;Ertrag;7000
+302;Bürgerservice;Standesamt, Einwohnermeldeamt;Verwaltungsgebühren Standesamt;2018;Ertrag;13000
+303;Bürgerservice;Standesamt, Einwohnermeldeamt;Erträge Passgebühren;2018;Ertrag;60000
+304;Bürgerservice;Standesamt, Einwohnermeldeamt;Geringwertige Wirtschaftsgüter;2018;Aufwand;300
+305;Bürgerservice;Standesamt, Einwohnermeldeamt;Pauschalierte Lohnsteuer;2018;Aufwand;300
+306;Bürgerservice;Standesamt, Einwohnermeldeamt;Abschreibungen auf BGA;2018;Aufwand;510
+307;Bürgerservice;Standesamt, Einwohnermeldeamt;Fachliteratur, Zeitschriften;2018;Aufwand;700
+308;Bürgerservice;Standesamt, Einwohnermeldeamt;Beihilfen;2018;Aufwand;2000
+309;Bürgerservice;Standesamt, Einwohnermeldeamt;Leistungszulagen;2018;Aufwand;2400
+310;Bürgerservice;Standesamt, Einwohnermeldeamt;Sonstige Aufwendungen;2018;Aufwand;3000
+311;Bürgerservice;Standesamt, Einwohnermeldeamt;Zuf. Beihilferückstellungen;2018;Aufwand;3800
+312;Bürgerservice;Standesamt, Einwohnermeldeamt;Versorgungskasse Beamte;2018;Aufwand;6800
+313;Bürgerservice;Standesamt, Einwohnermeldeamt;Versorgungskasse Arbeitnehmer;2018;Aufwand;9100
+314;Bürgerservice;Standesamt, Einwohnermeldeamt;Unterhaltung Software;2018;Aufwand;11000
+315;Bürgerservice;Standesamt, Einwohnermeldeamt;Zuf. Pensionsrückstellungen;2018;Aufwand;18500
+316;Bürgerservice;Standesamt, Einwohnermeldeamt;Datenverarbeitung, laufende Lizenzaufwendungen;2018;Aufwand;21100
+317;Bürgerservice;Standesamt, Einwohnermeldeamt;Sozialversicherung Arbeitnehmer;2018;Aufwand;23500
+318;Bürgerservice;Standesamt, Einwohnermeldeamt;Dienstbezüge;2018;Aufwand;37100
+319;Bürgerservice;Standesamt, Einwohnermeldeamt;Personalausweise und Reisepässe;2018;Aufwand;57000
+320;Bürgerservice;Standesamt, Einwohnermeldeamt;Vergütungen;2018;Aufwand;118000
+321;Bürgerservice;Tageseinrichtungen für Kinder;Sonstige laufende Erträge;2018;Ertrag;3500
+322;Bürgerservice;Tageseinrichtungen für Kinder;Pauschalierte Lohnsteuer;2018;Aufwand;250
+323;Bürgerservice;Tageseinrichtungen für Kinder;Leistungszulagen;2018;Aufwand;1100
+324;Bürgerservice;Tageseinrichtungen für Kinder;Geschäftsaufwendungen;2018;Aufwand;3500
+325;Bürgerservice;Tageseinrichtungen für Kinder;Versorgungskasse Arbeitnehmer;2018;Aufwand;4000
+326;Bürgerservice;Tageseinrichtungen für Kinder;Sozialversicherung Arbeitnehmer;2018;Aufwand;10000
+327;Bürgerservice;Tageseinrichtungen für Kinder;Vergütungen;2018;Aufwand;52000
+328;Bürgerservice;Tourismusförderung;Sonstige Erträge;2018;Ertrag;2500
+329;Bürgerservice;Tourismusförderung;Bewirtschaftung der Grundstücke und Gebäude;2018;Aufwand;100
+330;Bürgerservice;Tourismusförderung;Fachliteratur, Zeitschriften;2018;Aufwand;200
+331;Bürgerservice;Tourismusförderung;Pauschalierte Lohnsteuer;2018;Aufwand;250
+332;Bürgerservice;Tourismusförderung;Geringwertige Wirtschaftsgüter;2018;Aufwand;1000
+333;Bürgerservice;Tourismusförderung;Telefon, Datenübertragung;2018;Aufwand;1000
+334;Bürgerservice;Tourismusförderung;Abschreibungen auf BGA;2018;Aufwand;1200
+335;Bürgerservice;Tourismusförderung;Leistungszulagen;2018;Aufwand;1200
+336;Bürgerservice;Tourismusförderung;Versorgungskasse Arbeitnehmer;2018;Aufwand;4600
+337;Bürgerservice;Tourismusförderung;Beiträge zu Wirtschaftsverbänden;2018;Aufwand;7500
+338;Bürgerservice;Tourismusförderung;Sozialversicherung Arbeitnehmer;2018;Aufwand;11500
+339;Bürgerservice;Tourismusförderung;Geschäftsaufwendungen;2018;Aufwand;35000
+340;Bürgerservice;Tourismusförderung;Öffentlichkeitsarbeit;2018;Aufwand;35000
+341;Bürgerservice;Tourismusförderung;Vergütungen;2018;Aufwand;58000
+342;Bürgerservice;Verkehrslenkung u. -regelung;Gebühren für die Erteilung von Bescheiden;2018;Ertrag;200
+343;Bürgerservice;Verkehrslenkung u. -regelung;Verwaltungsgebühren;2018;Ertrag;7000
+344;Bürgerservice;Verkehrslenkung u. -regelung;Unterhaltung BGA;2018;Aufwand;100
+345;Bürgerservice;Verkehrslenkung u. -regelung;Pauschalierte Lohnsteuer;2018;Aufwand;120
+346;Bürgerservice;Verkehrslenkung u. -regelung;Fachliteratur, Zeitschriften;2018;Aufwand;200
+347;Bürgerservice;Verkehrslenkung u. -regelung;Leistungszulagen;2018;Aufwand;850
+348;Bürgerservice;Verkehrslenkung u. -regelung;Abschreibungen auf BGA;2018;Aufwand;1100
+349;Bürgerservice;Verkehrslenkung u. -regelung;Sonstige Aufwendungen;2018;Aufwand;2000
+350;Bürgerservice;Verkehrslenkung u. -regelung;Versorgungskasse Arbeitnehmer;2018;Aufwand;3100
+351;Bürgerservice;Verkehrslenkung u. -regelung;Sozialversicherung Arbeitnehmer;2018;Aufwand;8000
+352;Bürgerservice;Verkehrslenkung u. -regelung;Vergütungen;2018;Aufwand;40200
+353;Bürgerservice;Zentrale Bußgeldstelle;Ordnungsrechtliche Erträge;2018;Ertrag;1000
+354;Bürgerservice;Zentrale Bußgeldstelle;Ordnungsrechtliche Erträge (Postbank);2018;Ertrag;25500
+355;Bürgerservice;Zentrale Bußgeldstelle;Pauschalierte Lohnsteuer;2018;Aufwand;120
+356;Bürgerservice;Zentrale Bußgeldstelle;Leistungszulagen;2018;Aufwand;150
+357;Bürgerservice;Zentrale Bußgeldstelle;Büromaterial;2018;Aufwand;200
+358;Bürgerservice;Zentrale Bußgeldstelle;Versorgungskasse Arbeitnehmer;2018;Aufwand;550
+359;Bürgerservice;Zentrale Bußgeldstelle;Sozialversicherung Arbeitnehmer;2018;Aufwand;1350
+360;Bürgerservice;Zentrale Bußgeldstelle;Dienst- und Schutzkleidung;2018;Aufwand;2000
+361;Bürgerservice;Zentrale Bußgeldstelle;Telefon, Datenübertragung;2018;Aufwand;2000
+362;Bürgerservice;Zentrale Bußgeldstelle;Sonstige Geschäftsaufwendungen;2018;Aufwand;3000
+363;Bürgerservice;Zentrale Bußgeldstelle;Reisekosten;2018;Aufwand;6000
+364;Bürgerservice;Zentrale Bußgeldstelle;Vergütungen;2018;Aufwand;7000
+365;Finanzen;Finanzen;Kostenerstattungen von Zweckverbänden;2018;Ertrag;900
+366;Finanzen;Finanzen;Auflösung von Rückstellungen;2018;Ertrag;6200
+367;Finanzen;Finanzen;Kostenerstattungen von Eigenbetrieben;2018;Ertrag;125500
+368;Finanzen;Finanzen;Pauschalierte Lohnsteuer;2018;Aufwand;1150
+369;Finanzen;Finanzen;Verwaltungsgebühren;2018;Aufwand;2500
+370;Finanzen;Finanzen;Leistungszulagen;2018;Aufwand;5500
+371;Finanzen;Finanzen;Zuf. Beihilferückstellungen;2018;Aufwand;5500
+372;Finanzen;Finanzen;Bankgebühren;2018;Aufwand;6500
+373;Finanzen;Finanzen;Beihilfen;2018;Aufwand;10000
+374;Finanzen;Finanzen;Versorgungskasse Beamte;2018;Aufwand;18000
+375;Finanzen;Finanzen;Versorgungskasse Arbeitnehmer;2018;Aufwand;21100
+376;Finanzen;Finanzen;Zuf. Pensionsrückstellungen;2018;Aufwand;26600
+377;Finanzen;Finanzen;Sozialversicherung Arbeitnehmer;2018;Aufwand;52100
+378;Finanzen;Finanzen;Versorgungsaufwendungen Beamte;2018;Aufwand;63500
+379;Finanzen;Finanzen;Dienstbezüge;2018;Aufwand;92000
+380;Finanzen;Finanzen;Vergütungen;2018;Aufwand;274000
+381;Finanzen;Sonstige allgemeineFinanzdienstleistung;Haben-Zinsen aus allgemeinem Kassenbestand;2018;Ertrag;1000
+382;Finanzen;Sonstige allgemeineFinanzdienstleistung;Zinsen aus Rücklagen;2018;Ertrag;1000
+383;Finanzen;Sonstige allgemeineFinanzdienstleistung;Säumniszuschläge, Mahngebühren;2018;Ertrag;30000
+384;Finanzen;Sonstige allgemeineFinanzdienstleistung;Säumniszuschläge;2018;Aufwand;100
+385;Finanzen;Sonstige allgemeineFinanzdienstleistung;Soll-Zinsen des allgemeinen Kassenbestand;2018;Aufwand;500
+386;Finanzen;Steuern, allgemeine Zuweisungen, Umlagen;Investitionsschlüsselzuweisung;2018;Ertrag;55200
+387;Finanzen;Steuern, allgemeine Zuweisungen, Umlagen;Schlüsselzuweisung B 1;2018;Ertrag;145700
+388;Finanzen;Steuern, allgemeine Zuweisungen, Umlagen;Vergnügungssteuer;2018;Ertrag;205000
+389;Finanzen;Steuern, allgemeine Zuweisungen, Umlagen;Schlüsselzuweisung B 2;2018;Ertrag;918000
+390;Finanzen;Steuern, allgemeine Zuweisungen, Umlagen;Verbandsgemeindeumlage;2018;Ertrag;5887000
+391;Finanzen;Steuern, allgemeine Zuweisungen, Umlagen;Umlage Fonds Deutsche Einheit;2018;Aufwand;69000
+392;Finanzen;Steuern, allgemeine Zuweisungen, Umlagen;Kreisumlage;2018;Aufwand;298350
+393;Finanzen;Zahlungsabwicklung;Kostenerstattungen von Anstalten;2018;Ertrag;2500
+394;Finanzen;Zahlungsabwicklung;Kostenerstattungen von Eigenbetrieben;2018;Ertrag;5000
+395;Finanzen;Zahlungsabwicklung;Auflösung von Rückstellungen;2018;Ertrag;6500
+396;Finanzen;Zahlungsabwicklung;Dienstbezüge;2018;Ertrag;33200
+397;Finanzen;Zahlungsabwicklung;Beihilferückstellungen;2018;Aufwand;1100
+398;Finanzen;Zahlungsabwicklung;Pauschalierte Lohnsteuer;2018;Aufwand;200
+399;Finanzen;Zahlungsabwicklung;Leistungszulagen;2018;Aufwand;1900
+400;Finanzen;Zahlungsabwicklung;Pensionsrückstellungen;2018;Aufwand;4100
+401;Finanzen;Zahlungsabwicklung;Beihilfen;2018;Aufwand;5000
+402;Finanzen;Zahlungsabwicklung;Versorgungskasse Arbeitnehmer;2018;Aufwand;7300
+403;Finanzen;Zahlungsabwicklung;Versorgungskasse Beamte;2018;Aufwand;7800
+404;Finanzen;Zahlungsabwicklung;Sozialversicherung Arbeitnehmer;2018;Aufwand;18600
+405;Finanzen;Zahlungsabwicklung;Versorgungsaufwendungen Beamte;2018;Aufwand;31600
+406;Finanzen;Zahlungsabwicklung;Vergütungen;2018;Aufwand;94000
+407;Planen und Bauen;Baurechtliche Verfahren;Auflösung von Rückstellungen;2018;Ertrag;210
+408;Planen und Bauen;Baurechtliche Verfahren;Gebühren für die Bauüberwachung;2018;Ertrag;8000
+409;Planen und Bauen;Baurechtliche Verfahren;Pauschalierte Lohnsteuer;2018;Aufwand;200
+410;Planen und Bauen;Baurechtliche Verfahren;Zuf. Beihilferückstellungen;2018;Aufwand;200
+411;Planen und Bauen;Baurechtliche Verfahren;Beihilfen;2018;Aufwand;500
+412;Planen und Bauen;Baurechtliche Verfahren;Versorgungskasse Beamte;2018;Aufwand;500
+413;Planen und Bauen;Baurechtliche Verfahren;Leistungszulagen;2018;Aufwand;1000
+414;Planen und Bauen;Baurechtliche Verfahren;Zuf. Pensionsrückstellungen;2018;Aufwand;1200
+415;Planen und Bauen;Baurechtliche Verfahren;Versorgungsaufwendungen;2018;Aufwand;1800
+416;Planen und Bauen;Baurechtliche Verfahren;Dienstbezüge;2018;Aufwand;2500
+417;Planen und Bauen;Baurechtliche Verfahren;Versorgungskasse Arbeitnehmer;2018;Aufwand;3700
+418;Planen und Bauen;Baurechtliche Verfahren;Sozialversicherung Arbeitnehmer;2018;Aufwand;9500
+419;Planen und Bauen;Baurechtliche Verfahren;Vergütungen;2018;Aufwand;48000
+420;Planen und Bauen;Bodenordnung und Liegenschaftskataster;Auflösung von Rückstellungen;2018;Ertrag;110
+421;Planen und Bauen;Bodenordnung und Liegenschaftskataster;Pauschalierte Lohnsteuer;2018;Aufwand;50
+422;Planen und Bauen;Bodenordnung und Liegenschaftskataster;Zuf. Beihilferückstellungen;2018;Aufwand;100
+423;Planen und Bauen;Bodenordnung und Liegenschaftskataster;Leistungszulagen;2018;Aufwand;110
+424;Planen und Bauen;Bodenordnung und Liegenschaftskataster;Versorgungskasse Beamte;2018;Aufwand;250
+425;Planen und Bauen;Bodenordnung und Liegenschaftskataster;Versorgungskasse Arbeitnehmer;2018;Aufwand;400
+426;Planen und Bauen;Bodenordnung und Liegenschaftskataster;Beihilfen;2018;Aufwand;500
+427;Planen und Bauen;Bodenordnung und Liegenschaftskataster;Zuf. Pensionsrückstellungen;2018;Aufwand;600
+428;Planen und Bauen;Bodenordnung und Liegenschaftskataster;Versorgungsaufwendungen;2018;Aufwand;900
+429;Planen und Bauen;Bodenordnung und Liegenschaftskataster;Sozialversicherung Arbeitnehmer;2018;Aufwand;1100
+430;Planen und Bauen;Bodenordnung und Liegenschaftskataster;Dienstbezüge;2018;Aufwand;1300
+431;Planen und Bauen;Bodenordnung und Liegenschaftskataster;Vergütungen;2018;Aufwand;5200
+432;Planen und Bauen;Freibad Sprendlingen;Abschreibungen auf immaterielles Vermögen;2018;Aufwand;200
+433;Planen und Bauen;Gewässerunterhaltung;Auflösung von Sonderposten;2018;Ertrag;4300
+434;Planen und Bauen;Gewässerunterhaltung;Pauschalierte Lohnsteuer;2018;Aufwand;50
+435;Planen und Bauen;Gewässerunterhaltung;Leistungszulagen;2018;Aufwand;130
+436;Planen und Bauen;Gewässerunterhaltung;Versorgungskasse Arbeitnehmer;2018;Aufwand;500
+437;Planen und Bauen;Gewässerunterhaltung;Versicherungsbeiträge;2018;Aufwand;700
+438;Planen und Bauen;Gewässerunterhaltung;Sozialversicherung Arbeitnehmer;2018;Aufwand;1300
+439;Planen und Bauen;Gewässerunterhaltung;Abschreibungen auf Infrastrukturvermögen;2018;Aufwand;5400
+440;Planen und Bauen;Gewässerunterhaltung;Vergütungen;2018;Aufwand;6500
+441;Planen und Bauen;Gewässerunterhaltung;Unterhaltung Gewässer 3. Ordnung;2018;Aufwand;50000
+442;Planen und Bauen;Kaufm. Gebäudemanagement;Auflösung von Rückstellungen;2018;Ertrag;250
+443;Planen und Bauen;Kaufm. Gebäudemanagement;Zuführung zu Pensionsrückstellungen;2018;Aufwand;150
+444;Planen und Bauen;Kaufm. Gebäudemanagement;Leistungszulagen;2018;Aufwand;900
+445;Planen und Bauen;Kaufm. Gebäudemanagement;Beihilfen;2018;Aufwand;1000
+446;Planen und Bauen;Kaufm. Gebäudemanagement;Versorgungsaufwendungen Beamte;2018;Aufwand;3300
+447;Planen und Bauen;Kaufm. Gebäudemanagement;Versorgungskasse Arbeitnehmer;2018;Aufwand;3400
+448;Planen und Bauen;Kaufm. Gebäudemanagement;Betriebs- und Geschäftsausstattung;2018;Aufwand;3500
+449;Planen und Bauen;Kaufm. Gebäudemanagement;Sozialversicherung Arbeitnehmer;2018;Aufwand;8400
+450;Planen und Bauen;Kaufm. Gebäudemanagement;Vergütungen;2018;Aufwand;43300
+451;Planen und Bauen;Klimaschutz/Energieberatung;Sonstige laufende Erträge;2018;Ertrag;2000
+452;Planen und Bauen;Klimaschutz/Energieberatung;Zuweisungen vom Bund;2018;Ertrag;53500
+453;Planen und Bauen;Klimaschutz/Energieberatung;Fachliteratur, Zeitschriften;2018;Aufwand;300
+454;Planen und Bauen;Klimaschutz/Energieberatung;Abschreibungen auf BGA;2018;Aufwand;400
+455;Planen und Bauen;Klimaschutz/Energieberatung;Pauschalierte Lohnsteuer;2018;Aufwand;400
+456;Planen und Bauen;Klimaschutz/Energieberatung;Büromaterial;2018;Aufwand;500
+457;Planen und Bauen;Klimaschutz/Energieberatung;Geringswertige Wirtschaftsgüter;2018;Aufwand;500
+458;Planen und Bauen;Klimaschutz/Energieberatung;Unterhaltung BGA;2018;Aufwand;500
+459;Planen und Bauen;Klimaschutz/Energieberatung;Telefon, Datenübertragung;2018;Aufwand;850
+460;Planen und Bauen;Klimaschutz/Energieberatung;Reisekosten;2018;Aufwand;1500
+461;Planen und Bauen;Klimaschutz/Energieberatung;Leistungszulagen;2018;Aufwand;1900
+462;Planen und Bauen;Klimaschutz/Energieberatung;Aus- und Fortbildung;2018;Aufwand;3000
+463;Planen und Bauen;Klimaschutz/Energieberatung;Öffentlichkeitsarbeit;2018;Aufwand;5000
+464;Planen und Bauen;Klimaschutz/Energieberatung;Geschäftsaufwendungen Projekt Wir wollen mehr;2018;Aufwand;6300
+465;Planen und Bauen;Klimaschutz/Energieberatung;Versorgungskasse Arbeitnehmer;2018;Aufwand;7500
+466;Planen und Bauen;Klimaschutz/Energieberatung;Sonstige Geschäftsaufwendungen;2018;Aufwand;10000
+467;Planen und Bauen;Klimaschutz/Energieberatung;Mieten ;2018;Aufwand;16500
+468;Planen und Bauen;Klimaschutz/Energieberatung;Sozialversicherung Arbeitnehmer;2018;Aufwand;18500
+469;Planen und Bauen;Klimaschutz/Energieberatung;Förderprogramm enerrgetische Sanierung;2018;Aufwand;20000
+470;Planen und Bauen;Klimaschutz/Energieberatung;Vergütungen;2018;Aufwand;93000
+471;Planen und Bauen;Liegenschaften;Mieten und Pachten;2018;Ertrag;3500
+472;Planen und Bauen;Liegenschaften;Sonstige laufende Aufwendungen;2018;Aufwand;100
+473;Planen und Bauen;Liegenschaften;Gebäudeunterhaltung;2018;Aufwand;200
+474;Planen und Bauen;Liegenschaften;Versicherungen;2018;Aufwand;400
+475;Planen und Bauen;Liegenschaften;Aufwendungen f. Energie, Wasser/Abwasser etc.;2018;Aufwand;450
+476;Planen und Bauen;Liegenschaften;Abschreibungen bebaute Grundstücke;2018;Aufwand;800
+477;Planen und Bauen;Liegenschaften;Steuern und Abgaben;2018;Aufwand;1000
+478;Planen und Bauen;Räumliche Planungs- und Entwicklungsarbeit;Auflösung von Rückstellungen;2018;Ertrag;4300
+479;Planen und Bauen;Räumliche Planungs- und Entwicklungsarbeit;Pauschalierte Lohnsteuer;2018;Aufwand;500
+480;Planen und Bauen;Räumliche Planungs- und Entwicklungsarbeit;Leistungszulagen;2018;Aufwand;2400
+481;Planen und Bauen;Räumliche Planungs- und Entwicklungsarbeit;Zuf. Beihilferückstellungen;2018;Aufwand;3900
+482;Planen und Bauen;Räumliche Planungs- und Entwicklungsarbeit;Versorgungskasse Arbeitnehmer;2018;Aufwand;8900
+483;Planen und Bauen;Räumliche Planungs- und Entwicklungsarbeit;Beihilfen;2018;Aufwand;9000
+484;Planen und Bauen;Räumliche Planungs- und Entwicklungsarbeit;Versorgungskasse Beamte;2018;Aufwand;9700
+485;Planen und Bauen;Räumliche Planungs- und Entwicklungsarbeit;Sozialversicherung Arbeitnehmer;2018;Aufwand;23000
+486;Planen und Bauen;Räumliche Planungs- und Entwicklungsarbeit;Zuf. Pensionsrückstellungen;2018;Aufwand;25200
+487;Planen und Bauen;Räumliche Planungs- und Entwicklungsarbeit;Versorgungsaufwendungen;2018;Aufwand;36700
+488;Planen und Bauen;Räumliche Planungs- und Entwicklungsarbeit;Dienstbezüge;2018;Aufwand;53000
+489;Planen und Bauen;Räumliche Planungs- und Entwicklungsarbeit;Aufwendungen für Sach- und Dienstleistungen;2018;Aufwand;60000
+490;Planen und Bauen;Räumliche Planungs- und Entwicklungsarbeit;Vergütungen;2018;Aufwand;116000
+491;Planen und Bauen;Sonstige Erholungseinrichtungen;Auflösung von Rückstellungen;2018;Ertrag;550
+492;Planen und Bauen;Sonstige Erholungseinrichtungen;Auflösung von Sonderposten;2018;Ertrag;900
+493;Planen und Bauen;Sonstige Erholungseinrichtungen;Abschreibungen auf Betriebs- und Geschäftsausstattung;2018;Aufwand;250
+494;Planen und Bauen;Sonstige Erholungseinrichtungen;Zuf. Beihilferückstellungen;2018;Aufwand;500
+495;Planen und Bauen;Sonstige Erholungseinrichtungen;Versicherungsbeiträge;2018;Aufwand;800
+496;Planen und Bauen;Sonstige Erholungseinrichtungen;Beihilfen;2018;Aufwand;1000
+497;Planen und Bauen;Sonstige Erholungseinrichtungen;Abschreibungen auf bebaute Grundstücke;2018;Aufwand;1200
+498;Planen und Bauen;Sonstige Erholungseinrichtungen;Versorgungskasse Beamte;2018;Aufwand;1200
+499;Planen und Bauen;Sonstige Erholungseinrichtungen;Abschreibungen auf Bauten auf fremden Grund;2018;Aufwand;1400
+500;Planen und Bauen;Sonstige Erholungseinrichtungen;Gebäudeunterhaltung;2018;Aufwand;1500
+501;Planen und Bauen;Sonstige Erholungseinrichtungen;Zuf. Pensionsrückstellungen;2018;Aufwand;3000
+502;Planen und Bauen;Sonstige Erholungseinrichtungen;Abschreibungen auf bebaute Grundstücke;2018;Aufwand;3800
+503;Planen und Bauen;Sonstige Erholungseinrichtungen;Versorgungsaufwendungen;2018;Aufwand;4500
+504;Planen und Bauen;Sonstige Erholungseinrichtungen;Dienstbezüge;2018;Aufwand;6500
+505;Planen und Bauen;Techn. Gebäudemanagement;Auflösung von Sonderposten;2018;Ertrag;2300
+506;Planen und Bauen;Techn. Gebäudemanagement;Kostenerstattungen von Eigenbetrieben;2018;Ertrag;22500
+507;Planen und Bauen;Techn. Gebäudemanagement;Abschreibungen auf Betriebsvorrichtungen;2018;Aufwand;400
+508;Planen und Bauen;Techn. Gebäudemanagement;Abschreibungen auf Straßen;2018;Aufwand;400
+509;Planen und Bauen;Techn. Gebäudemanagement;Pauschalierte Lohnsteuer;2018;Aufwand;500
+510;Planen und Bauen;Techn. Gebäudemanagement;Abschreibungen auf BGA;2018;Aufwand;600
+511;Planen und Bauen;Techn. Gebäudemanagement;Gebäudeversicherungen;2018;Aufwand;1000
+512;Planen und Bauen;Techn. Gebäudemanagement;Reinigung;2018;Aufwand;1000
+513;Planen und Bauen;Techn. Gebäudemanagement;Abfallentsorgung;2018;Aufwand;1300
+514;Planen und Bauen;Techn. Gebäudemanagement;Unterhaltung BGA;2018;Aufwand;1500
+515;Planen und Bauen;Techn. Gebäudemanagement;Gebäudebewirtschaftung;2018;Aufwand;2000
+516;Planen und Bauen;Techn. Gebäudemanagement;Geringwertige Wirtschaftsgüter;2018;Aufwand;2000
+517;Planen und Bauen;Techn. Gebäudemanagement;Wasser/Abwasser;2018;Aufwand;2000
+518;Planen und Bauen;Techn. Gebäudemanagement;Leistungszulagen;2018;Aufwand;2950
+519;Planen und Bauen;Techn. Gebäudemanagement;Fahzeugunterhaltung;2018;Aufwand;3500
+520;Planen und Bauen;Techn. Gebäudemanagement;Versorgungskasse Arbeitnehmer;2018;Aufwand;11200
+521;Planen und Bauen;Techn. Gebäudemanagement;Abschreibungen auf bebaute Grundsücke;2018;Aufwand;11900
+522;Planen und Bauen;Techn. Gebäudemanagement;Heizung;2018;Aufwand;15000
+523;Planen und Bauen;Techn. Gebäudemanagement;Srom;2018;Aufwand;15000
+524;Planen und Bauen;Techn. Gebäudemanagement;Gebäudeunterhaltung;2018;Aufwand;21500
+525;Planen und Bauen;Techn. Gebäudemanagement;Sozialversicherung Arbeitnehmer;2018;Aufwand;27600
+526;Planen und Bauen;Techn. Gebäudemanagement;Vergütungen;2018;Aufwand;145300
+527;Zentraler Service;Behindertenbeirat;Sonstige laufende Aufwendungen;2018;Aufwand;100
+528;Zentraler Service;Behindertenbeirat;Aufw. f. Rats- und Ausschussmitglieder;2018;Aufwand;500
+529;Zentraler Service;Behindertenbeirat;Reisekosten;2018;Aufwand;500
+530;Zentraler Service;Behindertenbeirat;Aufw. f. den/die Vorsitzende/n;2018;Aufwand;2400
+531;Zentraler Service;Behindertenbeirat;Sachleistungen;2018;Aufwand;3500
+532;Zentraler Service;Datenverarbeitung/EDV;Kostenerstattungen von Zweckverbänden;2018;Ertrag;3000
+533;Zentraler Service;Datenverarbeitung/EDV;Kostenerstattungen von Eigenbetrieben;2018;Ertrag;34000
+534;Zentraler Service;Datenverarbeitung/EDV;Pauschalierte Lohnsteuer;2018;Aufwand;350
+535;Zentraler Service;Datenverarbeitung/EDV;Sonstige laufende Aufwendungen;2018;Aufwand;500
+536;Zentraler Service;Datenverarbeitung/EDV;Leistungszulagen;2018;Aufwand;1950
+537;Zentraler Service;Datenverarbeitung/EDV;Inanspruchnahme von Rechten und Diensten;2018;Aufwand;2500
+538;Zentraler Service;Datenverarbeitung/EDV;Geringwertige Wirtschaftsgüter;2018;Aufwand;3000
+539;Zentraler Service;Datenverarbeitung/EDV;Abschreibungen auf immaterielles Vermögen;2018;Aufwand;4600
+540;Zentraler Service;Datenverarbeitung/EDV;Unterhaltung BGA;2018;Aufwand;5000
+541;Zentraler Service;Datenverarbeitung/EDV;Unterhaltung Hardware;2018;Aufwand;5000
+542;Zentraler Service;Datenverarbeitung/EDV;Versorgungskasse Arbeitnehmer;2018;Aufwand;7400
+543;Zentraler Service;Datenverarbeitung/EDV;Abschreibungen auf BGA;2018;Aufwand;7500
+544;Zentraler Service;Datenverarbeitung/EDV;Sozialversicherung Arbeitnehmer;2018;Aufwand;18200
+545;Zentraler Service;Datenverarbeitung/EDV;Unterhaltung Software, Updates;2018;Aufwand;45500
+546;Zentraler Service;Datenverarbeitung/EDV;Laufende Lizenzaufwendungen;2018;Aufwand;47000
+547;Zentraler Service;Datenverarbeitung/EDV;Vergütungen;2018;Aufwand;95500
+548;Zentraler Service;Freibad Sprendlingen;Erstattung von Steuern;2018;Ertrag;10000
+549;Zentraler Service;Freibad Sprendlingen;Sonstige Erträge;2018;Ertrag;10000
+550;Zentraler Service;Freibad Sprendlingen;Reisekosten;2018;Aufwand;500
+551;Zentraler Service;Freibad Sprendlingen;Abschreibungen auf Maschinen, techn. Anlagen;2018;Aufwand;600
+552;Zentraler Service;Freibad Sprendlingen;Pauschalierte Lohnsteuer;2018;Aufwand;1400
+553;Zentraler Service;Freibad Sprendlingen;Abschreibungen auf BGA;2018;Aufwand;3200
+554;Zentraler Service;Freibad Sprendlingen;Abschreibungen auf bebaute Grundstücke;2018;Aufwand;4200
+555;Zentraler Service;Freibad Sprendlingen;Abschreibungen auf Betriebsvorrichtungen;2018;Aufwand;4400
+556;Zentraler Service;Freibad Sprendlingen;Versorgungskasse Arbeitnehmer;2018;Aufwand;6000
+557;Zentraler Service;Freibad Sprendlingen;Sozialversicherung Arbeitnehmer;2018;Aufwand;15000
+558;Zentraler Service;Freibad Sprendlingen;Sonstige Aufwendungen;2018;Aufwand;65000
+559;Zentraler Service;Freibad Sprendlingen;Vergütungen;2018;Aufwand;74000
+560;Zentraler Service;Gleichstellung;Pauschalierte Lohnsteuer;2018;Aufwand;50
+561;Zentraler Service;Gleichstellung;Reisekosten;2018;Aufwand;200
+562;Zentraler Service;Gleichstellung;Aus- und Fortbildung;2018;Aufwand;500
+563;Zentraler Service;Gleichstellung;Sonstige laufende Aufwendungen;2018;Aufwand;500
+564;Zentraler Service;Gleichstellung;Sozialversicheurng Beamte;2018;Aufwand;500
+565;Zentraler Service;Gleichstellung;Sachleistungen;2018;Aufwand;3500
+566;Zentraler Service;Gleichstellung;Dienstbezüge;2018;Aufwand;3600
+567;Zentraler Service;Gremien;Auflösung von Rückstellungen;2018;Ertrag;900
+568;Zentraler Service;Gremien;Zuf. Beihilferückstellungen;2018;Aufwand;300
+569;Zentraler Service;Gremien;Reisekosten;2018;Aufwand;500
+570;Zentraler Service;Gremien;Aus- und Fortbildung;2018;Aufwand;1000
+571;Zentraler Service;Gremien;Leistungszulagen;2018;Aufwand;1450
+572;Zentraler Service;Gremien;Zuf. Pensionsrückstellungen;2018;Aufwand;1710
+573;Zentraler Service;Gremien;Versorgungskasse Beamte;2018;Aufwand;2100
+574;Zentraler Service;Gremien;Sonstige laufende Aufwendungen;2018;Aufwand;3000
+575;Zentraler Service;Gremien;Beihilfen;2018;Aufwand;3500
+576;Zentraler Service;Gremien;Versorgungskasse Arbeitnehmer;2018;Aufwand;5300
+577;Zentraler Service;Gremien;Versorgungsaufwendungen für Beamte;2018;Aufwand;8300
+578;Zentraler Service;Gremien;Aufw. f. Rats- und Ausschussmitglieder;2018;Aufwand;10000
+579;Zentraler Service;Gremien;Dienstbezüge;2018;Aufwand;10100
+580;Zentraler Service;Gremien;Sozialversicherung Arbeitnehmer;2018;Aufwand;14300
+581;Zentraler Service;Gremien;Vergütungen;2018;Aufwand;70800
+582;Zentraler Service;Hallenbad Gensingen;Sonstige Erträge;2018;Ertrag;10500
+583;Zentraler Service;Hallenbad Gensingen;Erstattung von Steuern;2018;Ertrag;30000
+584;Zentraler Service;Hallenbad Gensingen;Abschreibungen auf immaterielles Vermögen;2018;Aufwand;500
+585;Zentraler Service;Hallenbad Gensingen;Reisekosten;2018;Aufwand;1000
+586;Zentraler Service;Hallenbad Gensingen;Abschreibungen auf Maschinen, techn. Anlagen;2018;Aufwand;1100
+587;Zentraler Service;Hallenbad Gensingen;Abschreibungen auf BGA;2018;Aufwand;3300
+588;Zentraler Service;Hallenbad Gensingen;Pauschalierte Lohnsteuer;2018;Aufwand;3400
+589;Zentraler Service;Hallenbad Gensingen;Abschreibungen auf Betriebsvorrichtungen;2018;Aufwand;5900
+590;Zentraler Service;Hallenbad Gensingen;Versorgungskasse Arbeitnehmer;2018;Aufwand;16000
+591;Zentraler Service;Hallenbad Gensingen;Abschreibungen auf bebaute Grundstücke;2018;Aufwand;19200
+592;Zentraler Service;Hallenbad Gensingen;Sozialversicherung Arbeitnehmer;2018;Aufwand;39000
+593;Zentraler Service;Hallenbad Gensingen;Sonstige Aufwendungen;2018;Aufwand;191000
+594;Zentraler Service;Hallenbad Gensingen;Vergütungen;2018;Aufwand;198000
+595;Zentraler Service;Migrationsbeauftragte;Pauschalierte Lohnsteuer;2018;Aufwand;50
+596;Zentraler Service;Migrationsbeauftragte;Telefon, Datenübertragung;2018;Aufwand;150
+597;Zentraler Service;Migrationsbeauftragte;Sozialversicherung Beamte;2018;Aufwand;500
+598;Zentraler Service;Migrationsbeauftragte;Aufw. f. Rats- und Ausschussmitglieder;2018;Aufwand;1000
+599;Zentraler Service;Migrationsbeauftragte;Aus- und Fortbildung;2018;Aufwand;1000
+600;Zentraler Service;Migrationsbeauftragte;Aufw. f. den/die Vorsitzende/n;2018;Aufwand;2400
+601;Zentraler Service;Migrationsbeauftragte;Dienstbezüge;2018;Aufwand;3600
+602;Zentraler Service;Migrationsbeauftragte;Sachleistungen;2018;Aufwand;7000
+603;Zentraler Service;Öffentlichkeitsarbeit;Leistungszulagen;2018;Aufwand;500
+604;Zentraler Service;Öffentlichkeitsarbeit;Versorgungskasse Arbeitnehmer;2018;Aufwand;1750
+605;Zentraler Service;Öffentlichkeitsarbeit;Beihilfen;2018;Aufwand;2000
+606;Zentraler Service;Öffentlichkeitsarbeit;Öffentlichkeitsarbeit;2018;Aufwand;3500
+607;Zentraler Service;Öffentlichkeitsarbeit;Sozialversicherung Arbeitnehmer;2018;Aufwand;4500
+608;Zentraler Service;Öffentlichkeitsarbeit;Repräsentation;2018;Aufwand;8000
+609;Zentraler Service;Öffentlichkeitsarbeit;Sonstige Geschäftsaufwendungen;2018;Aufwand;10000
+610;Zentraler Service;Öffentlichkeitsarbeit;Vergütungen;2018;Aufwand;22600
+611;Zentraler Service;Öffentlichkeitsarbeit;Öffetnliche Bekanntmachungen;2018;Aufwand;25000
+612;Zentraler Service;Organisation;Auflösung von Rückstellungen;2018;Ertrag;1650
+613;Zentraler Service;Organisation;Versorgungsaufwendungen Beamte;2018;Aufwand;16500
+614;Zentraler Service;Organisation;Zuf. Beihilferückstellungen;2018;Aufwand;600
+615;Zentraler Service;Organisation;Zuf. Pensionsrückstellungen;2018;Aufwand;3410
+616;Zentraler Service;Organisation;Beihilfen;2018;Aufwand;3500
+617;Zentraler Service;Organisation;Versorgungskasse Beamte;2018;Aufwand;4200
+618;Zentraler Service;Organisation;Dienstbezüge;2018;Aufwand;20100
+619;Zentraler Service;Personal;Kostenerstattungen vom Bund;2018;Ertrag;1500
+620;Zentraler Service;Personal;Auflösung von Rückstellungen;2018;Ertrag;3100
+621;Zentraler Service;Personal;Sonstige Erträge;2018;Ertrag;7000
+622;Zentraler Service;Personal;Kostenerstattungen von Zweckverbänden;2018;Ertrag;7200
+623;Zentraler Service;Personal;Kostenerstattungen von Eigenbetrieben;2018;Ertrag;30000
+624;Zentraler Service;Personal;Allgemeine Betreuung der Bediensteten;2018;Aufwand;1000
+625;Zentraler Service;Personal;Beiträge zu Berufsvertretungen und Verbänden;2018;Aufwand;2000
+626;Zentraler Service;Personal;Personaleinstellungen;2018;Aufwand;2500
+627;Zentraler Service;Personal;Leistungszulagen;2018;Aufwand;2800
+628;Zentraler Service;Personal;Zuf. Beihilferückstellungen;2018;Aufwand;3300
+629;Zentraler Service;Personal;Personalnebenaufwendungen;2018;Aufwand;3500
+630;Zentraler Service;Personal;Zuf. Pensionsrückstellungen;2018;Aufwand;5600
+631;Zentraler Service;Personal;Versorgungskasse Beamte;2018;Aufwand;7200
+632;Zentraler Service;Personal;Beihilfen;2018;Aufwand;10000
+633;Zentraler Service;Personal;Versorgungskasse Arbeitnehmer;2018;Aufwand;10500
+634;Zentraler Service;Personal;Reisekosten;2018;Aufwand;15000
+635;Zentraler Service;Personal;Sozialversicherung Arbeitnehmer;2018;Aufwand;26800
+636;Zentraler Service;Personal;Inanspruchnahme von Rechten und Diensten;2018;Aufwand;35000
+637;Zentraler Service;Personal;Versorgungsaufwendungen Beamte;2018;Aufwand;37400
+638;Zentraler Service;Personal;Dienstbezüge;2018;Aufwand;41000
+639;Zentraler Service;Personal;Aus- und Fortbildung;2018;Aufwand;50000
+640;Zentraler Service;Personal;Vergütungen;2018;Aufwand;136000
+641;Zentraler Service;Verwaltungssteuerung;Auflösung von Rückstellungen;2018;Ertrag;9500
+642;Zentraler Service;Verwaltungssteuerung;Sozialvers. Sonstige;2018;Aufwand;500
+643;Zentraler Service;Verwaltungssteuerung;Aus- und Fortbildung;2018;Aufwand;1000
+644;Zentraler Service;Verwaltungssteuerung;Sachleistungen;2018;Aufwand;2500
+645;Zentraler Service;Verwaltungssteuerung;Verfügungsmittel;2018;Aufwand;3000
+646;Zentraler Service;Verwaltungssteuerung;Reisekosten;2018;Aufwand;5000
+647;Zentraler Service;Verwaltungssteuerung;Vergütung Beigeordnete;2018;Aufwand;5000
+648;Zentraler Service;Verwaltungssteuerung;Zuf. Beihilferückstellungen;2018;Aufwand;5400
+649;Zentraler Service;Verwaltungssteuerung;Versorgungskasse Beamte;2018;Aufwand;17400
+650;Zentraler Service;Verwaltungssteuerung;Beihilfen;2018;Aufwand;30000
+651;Zentraler Service;Verwaltungssteuerung;Zuf. Pensionsrückstellungen;2018;Aufwand;45200
+652;Zentraler Service;Verwaltungssteuerung;Versorgungsaufwendungen für Beamte;2018;Aufwand;69500
+653;Zentraler Service;Verwaltungssteuerung;Dienstbezüge;2018;Aufwand;114500
+654;Zentraler Service;Wirtschaftsförderung;Auflösung von Rückstellungen;2018;Ertrag;450
+655;Zentraler Service;Wirtschaftsförderung;Zuf. Beihilferückstellungen;2018;Aufwand;150
+656;Zentraler Service;Wirtschaftsförderung;Zuf. Pensionsrückstellungen;2018;Aufwand;900
+657;Zentraler Service;Wirtschaftsförderung;Pauschalierte Lohnsteuer;2018;Aufwand;1000
+658;Zentraler Service;Wirtschaftsförderung;Versorgungskasse Beamte;2018;Aufwand;1100
+659;Zentraler Service;Wirtschaftsförderung;Versorgungsaufwendungen;2018;Aufwand;4500
+660;Zentraler Service;Wirtschaftsförderung;Dienstbezüge;2018;Aufwand;5500
+661;Zentraler Service;Wirtschaftsförderung;Geschäftsaufwendungen;2018;Aufwand;50000
+662;Zentraler Service;Zentrale Dienste;Sonstige Erträge;2018;Ertrag;5000
+663;Zentraler Service;Zentrale Dienste;Kostenerstattungen von Zweckverbänden;2018;Ertrag;7100
+664;Zentraler Service;Zentrale Dienste;Kostenerstattungen von Eigenbetrieben;2018;Ertrag;23000
+665;Zentraler Service;Zentrale Dienste;Kraftfahrzeugsteuer;2018;Aufwand;150
+666;Zentraler Service;Zentrale Dienste;Pauschalierte Lohnsteuer;2018;Aufwand;400
+667;Zentraler Service;Zentrale Dienste;Sonstige Aufwendungen;2018;Aufwand;2000
+668;Zentraler Service;Zentrale Dienste;Leistungszulagen;2018;Aufwand;2800
+669;Zentraler Service;Zentrale Dienste;Unterhaltung BGA;2018;Aufwand;4000
+670;Zentraler Service;Zentrale Dienste;Geringwertige Wirtschaftsgüter;2018;Aufwand;7000
+671;Zentraler Service;Zentrale Dienste;Leasing;2018;Aufwand;7500
+672;Zentraler Service;Zentrale Dienste;Telefon, Datenübertragung;2018;Aufwand;9000
+673;Zentraler Service;Zentrale Dienste;Abschreibungen auf BGA;2018;Aufwand;9800
+674;Zentraler Service;Zentrale Dienste;Versorgungskasse Arbeitnehmer;2018;Aufwand;10500
+675;Zentraler Service;Zentrale Dienste;Miete, Leasing;2018;Aufwand;18000
+676;Zentraler Service;Zentrale Dienste;Fachliteratur, Zeitschriften;2018;Aufwand;19000
+677;Zentraler Service;Zentrale Dienste;Beiträge zu Wirtschaftsverbänden;2018;Aufwand;20000
+678;Zentraler Service;Zentrale Dienste;Versicherungen;2018;Aufwand;25000
+679;Zentraler Service;Zentrale Dienste;Sozialversicherung Arbeitnehmer;2018;Aufwand;27500
+680;Zentraler Service;Zentrale Dienste;Büromaterial;2018;Aufwand;45000
+681;Zentraler Service;Zentrale Dienste;Sachverständigen- und Gerichtskosten;2018;Aufwand;45000
+682;Zentraler Service;Zentrale Dienste;Porto- und Versandkosten;2018;Aufwand;48000
+683;Zentraler Service;Zentrale Dienste;Vergütungen;2018;Aufwand;138500
+684;Stabstelle ;Controlling und Koordination;Fachliteratur, Zeitschriften;2018;Aufwand;400
+685;Stabstelle ;Controlling und Koordination;Beihilfen;2018;Aufwand;500
+686;Stabstelle ;Controlling und Koordination;Aus- und Fortbildung;2018;Aufwand;3800
+687;Stabstelle ;Controlling und Koordination;Zuf. Beihilferückstellungen;2018;Aufwand;4500
+688;Stabstelle ;Controlling und Koordination;Versorgungskasse Beamte;2018;Aufwand;10200
+689;Stabstelle ;Controlling und Koordination;Sonstige laufende Aufwendungen;2018;Aufwand;27000
+690;Stabstelle ;Controlling und Koordination;Zuf. Pensionsrückstellungen;2018;Aufwand;28200
+691;Stabstelle ;Controlling und Koordination;Dienstbezüge;2018;Aufwand;48500
+692;Stabstelle ;Projektsteuerung und Information;Leistungszulagen;2018;Aufwand;1110
+693;Stabstelle ;Projektsteuerung und Information;Versorgungskasse Arbeitnehmer;2018;Aufwand;4300
+694;Stabstelle ;Projektsteuerung und Information;Sozialversicherung Arbeitnehmer;2018;Aufwand;10700
+695;Stabstelle ;Projektsteuerung und Information;Sonstige Geschäftsaufwendungen;2018;Aufwand;15000
+696;Stabstelle ;Projektsteuerung und Information;Geschäftausfwendungen Projekt Zukunftsstadt;2018;Aufwand;20000
+697;Stabstelle ;Projektsteuerung und Information;Zuweisungen und Zuschüsse für laufende Zwecke;2018;Aufwand;26600
+698;Stabstelle ;Projektsteuerung und Information;Vergütungen;2018;Aufwand;54900
+699;Stabstelle ;Qualitätsmanagement;Sonstige laufende Aufwendungen;2018;Aufwand;1000
+700;Stabstelle ;Qualitätsmanagement;Versorgungskasse Beamte;2018;Aufwand;2000
+701;Stabstelle ;Qualitätsmanagement;Beihilfen;2018;Aufwand;3000
+702;Stabstelle ;Qualitätsmanagement;Aus- und Fortbildung;2018;Aufwand;4500
+703;Stabstelle ;Qualitätsmanagement;Zuf. Pensionsrückstellungen;2018;Aufwand;5200
+704;Stabstelle ;Qualitätsmanagement;Dienstbezüge;2018;Aufwand;34500
+705;Stabstelle ;Statistik und Wahlen;Pauschalierte Lohnsteuer;2018;Aufwand;50
+706;Stabstelle ;Statistik und Wahlen;Beihilfen;2018;Aufwand;500
+707;Stabstelle ;Statistik und Wahlen;Leistungszulagen;2018;Aufwand;700
+708;Stabstelle ;Statistik und Wahlen;Geschäftsaufwendungen;2018;Aufwand;1500
+709;Stabstelle ;Statistik und Wahlen;Zuführung zu Beihilferückstellungen;2018;Aufwand;1600
+710;Stabstelle ;Statistik und Wahlen;Versorgungskasse Arbeitnehmer;2018;Aufwand;2700
+711;Stabstelle ;Statistik und Wahlen;Versorgungskasse Beamte;2018;Aufwand;4850
+712;Stabstelle ;Statistik und Wahlen;Sozialversicherung Arbeitnehmer;2018;Aufwand;6800
+713;Stabstelle ;Statistik und Wahlen;Zuführung zu Pensionsrückstellungen;2018;Aufwand;6900
+714;Stabstelle ;Statistik und Wahlen;Dienstbezüge;2018;Aufwand;8600
+715;Stabstelle ;Statistik und Wahlen;Kommunalwahlen;2018;Aufwand;20000
+716;Stabstelle ;Statistik und Wahlen;Vergütungen;2018;Aufwand;34100

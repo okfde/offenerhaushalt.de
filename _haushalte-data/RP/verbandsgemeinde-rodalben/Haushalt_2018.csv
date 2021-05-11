@@ -1,0 +1,932 @@
+ID;Haushaltsjahr;Fachbereich;Produkt;Konto;Ansatz;Budgetrichtung
+1;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Aufwendungen für Bürgermeister;9000;Aufwand
+2;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Bürgermeister;73000;Aufwand
+3;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Aufwendungen für Beigeordnete;24500;Aufwand
+4;2018;Fachbereich 1 (Hauptamt);Gremien;Sitzungsgelder;10000;Aufwand
+5;2018;Fachbereich 1 (Hauptamt);Gleichstellung;Sonstige;420;Aufwand
+6;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Sonstige (Ehrensold);1500;Aufwand
+7;2018;Fachbereich 1 (Hauptamt);Grundleistungen (§ 3 AsylbLG);Dienstbezüge;10800;Aufwand
+8;2018;Fachbereich 1 (Hauptamt);Freistellungsverfahren;Dienstbezüge Beamte;5000;Aufwand
+9;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Steuern;Dienstbezüge Beamte;23000;Aufwand
+10;2018;Fachbereich 1 (Hauptamt);Gaststättenrecht;Dienstbezüge Beamte;2800;Aufwand
+11;2018;Fachbereich 1 (Hauptamt);Genehmigung Straßenverkehr;Dienstbezüge Beamte;6500;Aufwand
+12;2018;Fachbereich 1 (Hauptamt);Haushalts- und Finanzplanung;Dienstbezüge Beamte;52000;Aufwand
+13;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Dienstbezüge Beamte;1100;Aufwand
+14;2018;Fachbereich 1 (Hauptamt);Gewerberecht;Dienstbezüge Beamte;5300;Aufwand
+15;2018;Fachbereich 1 (Hauptamt);Sportförderung;Dienstbezüge Beamte;5600;Aufwand
+16;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Dienstbezüge Beamte;31500;Aufwand
+17;2018;Fachbereich 1 (Hauptamt);Grundsicherung im Alter;Dienstbezüge Beamte;2800;Aufwand
+18;2018;Fachbereich 1 (Hauptamt);Raumordnung, Landesplanung;Dienstbezüge Beamte;35000;Aufwand
+19;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Dienstbezüge Beamte;19000;Aufwand
+20;2018;Fachbereich 1 (Hauptamt);Personal;Dienstbezüge Beamte;55000;Aufwand
+21;2018;Fachbereich 1 (Hauptamt);Statistik, Wahlen;Dienstbezüge Beamte;5300;Aufwand
+22;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Dienstbezüge Beamte;5000;Aufwand
+23;2018;Fachbereich 1 (Hauptamt);Hilfe zum Lebensunterhalt (3. Kapitel SGB XII);Dienstbezüge Beamte;2800;Aufwand
+24;2018;Fachbereich 1 (Hauptamt);Rechnungswesen;Dienstbezüge Beamte;60000;Aufwand
+25;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Gebühren u. Beiträge;Dienstbezüge Beamte;5000;Aufwand
+26;2018;Fachbereich 1 (Hauptamt);Verkehrssicherheit;Dienstbezüge Beamte;6500;Aufwand
+27;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Dienstbezüge Beamte;5000;Aufwand
+28;2018;Fachbereich 1 (Hauptamt);Grundsicherung für Arbeitssuchende (SGB II);Dienstbezüge Beamte;2800;Aufwand
+29;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Dienstbezüge Beamte;40000;Aufwand
+30;2018;Fachbereich 1 (Hauptamt);Allgemeinde Schulverwaltung;Dienstbezüge Beamte;33500;Aufwand
+31;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Dienstbezüge Beamte;130000;Aufwand
+32;2018;Fachbereich 1 (Hauptamt);Bauantrag, Baugenehmigung;Dienstbezüge Beamte;5000;Aufwand
+33;2018;Fachbereich 1 (Hauptamt);Wirtschaftsförderung;Dienstbezüge Beamte;19000;Aufwand
+34;2018;Fachbereich 1 (Hauptamt);Versicherungen;Dienstbezüge Beamte;5300;Aufwand
+35;2018;Fachbereich 1 (Hauptamt);GS - Leimen-Merzalben;Vergütung Beschäftigte;66000;Aufwand
+36;2018;Fachbereich 1 (Hauptamt);Förderung Einrichtungen Dritter;Vergütung Beschäftigte;11500;Aufwand
+37;2018;Fachbereich 1 (Hauptamt);GS - Rodalben;Vergütung Beschäftigte;109000;Aufwand
+38;2018;Fachbereich 1 (Hauptamt);Freistellungsverfahren;Vergütung Beschäftigte;8000;Aufwand
+39;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Vergütung Beschäftigte;69600;Aufwand
+40;2018;Fachbereich 1 (Hauptamt);Allgemeinde Schulverwaltung;Vergütung Beschäftigte;53100;Aufwand
+41;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Steuern;Vergütung Beschäftigte;11000;Aufwand
+42;2018;Fachbereich 1 (Hauptamt);GS Münchweiler;Vergütung Beschäftigte;57000;Aufwand
+43;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Vergütung Beschäftigte;6000;Aufwand
+44;2018;Fachbereich 1 (Hauptamt);Überwachung ruhender Verkehr;Vergütung Beschäftigte;35500;Aufwand
+45;2018;Fachbereich 1 (Hauptamt);Technisches Gebäudemanagement;Vergütung Beschäftigte;33000;Aufwand
+46;2018;Fachbereich 1 (Hauptamt);Grundleistungen (§ 3 AsylbLG);Vergütung Beschäftigte;37000;Aufwand
+47;2018;Fachbereich 1 (Hauptamt);Personal;Vergütung Beschäftigte;54000;Aufwand
+48;2018;Fachbereich 1 (Hauptamt);Zentrale Beschaffung;Vergütung Beschäftigte;4000;Aufwand
+49;2018;Fachbereich 1 (Hauptamt);Bauantrag, Baugenehmigung;Vergütung Beschäftigte;8000;Aufwand
+50;2018;Fachbereich 1 (Hauptamt);Hausdruckerei, Fotokopierdienst, Buchbinderei;Vergütung Beschäftigte;4000;Aufwand
+51;2018;Fachbereich 1 (Hauptamt);Radwege;Vergütung Beschäftigte;10800;Aufwand
+52;2018;Fachbereich 1 (Hauptamt);Passangelegenheiten;Vergütung Beschäftigte;38000;Aufwand
+53;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Vergütung Beschäftigte;27000;Aufwand
+54;2018;Fachbereich 1 (Hauptamt);Rechnungswesen;Vergütung Beschäftigte;26000;Aufwand
+55;2018;Fachbereich 1 (Hauptamt);Dienstleistungen;Vergütung Beschäftigte;41000;Aufwand
+56;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Vergütung Beschäftigte;36000;Aufwand
+57;2018;Fachbereich 1 (Hauptamt);Feuerwehr - Gefahrenbekämpfung;Vergütung Beschäftigte;40000;Aufwand
+58;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Vergütung Beschäftigte;352000;Aufwand
+59;2018;Fachbereich 1 (Hauptamt);Meldeangelegenheiten;Vergütung Beschäftigte;38000;Aufwand
+60;2018;Fachbereich 1 (Hauptamt);Zentrale Servicestelle für alle Gremien;Vergütung Beschäftigte;40000;Aufwand
+61;2018;Fachbereich 1 (Hauptamt);Kommunale Sportstätten und Bäder;Vergütung Beschäftigte;5000;Aufwand
+62;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Vergütung Beschäftigte;32500;Aufwand
+63;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Vergütung Beschäftigte;2900;Aufwand
+64;2018;Fachbereich 1 (Hauptamt);Standesamt;Vergütung Beschäftigte;40000;Aufwand
+65;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Vergütung Beschäftigte;22500;Aufwand
+66;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Vergütung Beschäftigte;14100;Aufwand
+67;2018;Fachbereich 1 (Hauptamt);Post- und Telfonzentrale;Vergütung Beschäftigte;34000;Aufwand
+68;2018;Fachbereich 1 (Hauptamt);Genehmigung Straßenverkehr;Vergütung Beschäftigte;6000;Aufwand
+69;2018;Fachbereich 1 (Hauptamt);Feuerwehrhäuser;Vergütung Beschäftigte;4100;Aufwand
+70;2018;Fachbereich 1 (Hauptamt);Gewerberecht;Vergütung Beschäftigte;9300;Aufwand
+71;2018;Fachbereich 1 (Hauptamt);GS Clausen-Donsieders;Vergütung Beschäftigte;52800;Aufwand
+72;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Leistungsentgelte;80;Aufwand
+73;2018;Fachbereich 1 (Hauptamt);Bauantrag, Baugenehmigung;Leistungsentgelte;160;Aufwand
+74;2018;Fachbereich 1 (Hauptamt);Dienstleistungen;Leistungsentgelte;900;Aufwand
+75;2018;Fachbereich 1 (Hauptamt);Rechnungswesen;Leistungsentgelte;550;Aufwand
+76;2018;Fachbereich 1 (Hauptamt);Hausdruckerei, Fotokopierdienst, Buchbinderei;Leistungsentgelte;90;Aufwand
+77;2018;Fachbereich 1 (Hauptamt);Zentrale Servicestelle für alle Gremien;Leistungsentgelte;850;Aufwand
+78;2018;Fachbereich 1 (Hauptamt);Zentrale Beschaffung;Leistungsentgelte;90;Aufwand
+79;2018;Fachbereich 1 (Hauptamt);Personal;Leistungsentgelte;1298;Aufwand
+80;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Leistungszulagen;550;Aufwand
+81;2018;Fachbereich 1 (Hauptamt);GS Clausen-Donsieders;Leistungsentgelte;1100;Aufwand
+82;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Leistungsentgelte;700;Aufwand
+83;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Leistungsentgelte;800;Aufwand
+84;2018;Fachbereich 1 (Hauptamt);Technisches Gebäudemanagement;Leistungsentgelte;700;Aufwand
+85;2018;Fachbereich 1 (Hauptamt);Feuerwehrhäuser;Leistungsentgelte;100;Aufwand
+86;2018;Fachbereich 1 (Hauptamt);Überwachung ruhender Verkehr;Leistungsentgelte;750;Aufwand
+87;2018;Fachbereich 1 (Hauptamt);GS Münchweiler;Leistungsentgelte;1200;Aufwand
+88;2018;Fachbereich 1 (Hauptamt);Genehmigung Straßenverkehr;Leistungsentgelte;130;Aufwand
+89;2018;Fachbereich 1 (Hauptamt);GS - Rodalben;Leistungsentgelte;2200;Aufwand
+90;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Leistungsentgelte;2100;Aufwand
+91;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Leistungsentgelte;8000;Aufwand
+92;2018;Fachbereich 1 (Hauptamt);Radwege;Leistungsentgelte;250;Aufwand
+93;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Leistungsentgelte;500;Aufwand
+94;2018;Fachbereich 1 (Hauptamt);Allgemeinde Schulverwaltung;Leistungsentgelte;1000;Aufwand
+95;2018;Fachbereich 1 (Hauptamt);Freistellungsverfahren;Leistungsentgelte;160;Aufwand
+96;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Steuern;Leistungszulagen;250;Aufwand
+97;2018;Fachbereich 1 (Hauptamt);GS - Leimen-Merzalben;Leistungsentgelte;1400;Aufwand
+98;2018;Fachbereich 1 (Hauptamt);Feuerwehr - Gefahrenbekämpfung;Leistungsentgelte;850;Aufwand
+99;2018;Fachbereich 1 (Hauptamt);Meldeangelegenheiten;Leistungsentgelte;800;Aufwand
+100;2018;Fachbereich 1 (Hauptamt);Gewerberecht;Leistungszulagen;200;Aufwand
+101;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Leistungsentgelte;150;Aufwand
+102;2018;Fachbereich 1 (Hauptamt);Passangelegenheiten;Leistungsentgelte;800;Aufwand
+103;2018;Fachbereich 1 (Hauptamt);Förderung Einrichtungen Dritter;Leistungsentgelte;250;Aufwand
+104;2018;Fachbereich 1 (Hauptamt);Post- und Telfonzentrale;Leistungsentgelte;700;Aufwand
+105;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Leistungszulagen;700;Aufwand
+106;2018;Fachbereich 1 (Hauptamt);Standesamt;Leistungsentgelte;850;Aufwand
+107;2018;Fachbereich 1 (Hauptamt);Kommunale Sportstätten und Bäder;Vergütungen (Aushilfe - Beckenaufsicht);2000;Aufwand
+108;2018;Fachbereich 1 (Hauptamt);Grundleistungen (§ 3 AsylbLG);Beiträge Versorgungskasse -Beamte-;1500;Aufwand
+109;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Beiträge Versorgungskasse -Beamte-;5800;Aufwand
+110;2018;Fachbereich 1 (Hauptamt);Wirtschaftsförderung;Beiträge Versorgungskasse -Beamte-;3300;Aufwand
+111;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Beiträge Versorgungskasse -Beamte-;1000;Aufwand
+112;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Beiträge Versorgungskasse -Beamte-;14000;Aufwand
+113;2018;Fachbereich 1 (Hauptamt);Hilfe zum Lebensunterhalt (3. Kapitel SGB XII);Beiträge Versorgungskasse -Beamte-;800;Aufwand
+114;2018;Fachbereich 1 (Hauptamt);Gaststättenrecht;Beiträge Versorgungskasse -Beamte-;800;Aufwand
+115;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Beiträge Versorgungskasse -Beamte-;1800;Aufwand
+116;2018;Fachbereich 1 (Hauptamt);Allgemeinde Schulverwaltung;Beiträge Versorgungskasse -Beamte-;6500;Aufwand
+117;2018;Fachbereich 1 (Hauptamt);Genehmigung Straßenverkehr;Beiträge Versorgungskasse -Beamte-;1100;Aufwand
+118;2018;Fachbereich 1 (Hauptamt);Haushalts- und Finanzplanung;Beiträge Versorgungskasse -Beamte-;11000;Aufwand
+119;2018;Fachbereich 1 (Hauptamt);Gewerberecht;Beiträge Versorgungskasse -Beamte-;3000;Aufwand
+120;2018;Fachbereich 1 (Hauptamt);Freistellungsverfahren;Beiträge Versorgungskasse -Beamte-;1000;Aufwand
+121;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Beiträge Versorgungskasse -Beamte-;8500;Aufwand
+122;2018;Fachbereich 1 (Hauptamt);Versicherungen;Beiträge Versorgungskasse -Beamte-;1000;Aufwand
+123;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Beiträge Versorgungskasse -Beamte-;20000;Aufwand
+124;2018;Fachbereich 1 (Hauptamt);Grundsicherung für Arbeitssuchende (SGB II);Beiträge Versorgungskasse -Beamte-;800;Aufwand
+125;2018;Fachbereich 1 (Hauptamt);Sportförderung;Beiträge Versorgungskasse -Beamte-;1100;Aufwand
+126;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Steuern;Beiträge Versorgungskasse -Beamte-;4400;Aufwand
+127;2018;Fachbereich 1 (Hauptamt);Raumordnung, Landesplanung;Beiträge Versorgungskasse -Beamte-;3000;Aufwand
+128;2018;Fachbereich 1 (Hauptamt);Personal;Beiträge Versorgungskasse -Beamte-;10300;Aufwand
+129;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Beiträge Versorgungskasse -Beamte-;3300;Aufwand
+130;2018;Fachbereich 1 (Hauptamt);Statistik, Wahlen;Beiträge Versorgungskasse -Beamte-;1000;Aufwand
+131;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Gebühren u. Beiträge;Beiträge Versorgungskasse -Beamte-;1100;Aufwand
+132;2018;Fachbereich 1 (Hauptamt);Rechnungswesen;Beiträge Versorgungskasse -Beamte-;13000;Aufwand
+133;2018;Fachbereich 1 (Hauptamt);Bauantrag, Baugenehmigung;Beiträge Versorgungskasse -Beamte-;1000;Aufwand
+134;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Beiträge Versorgungskasse -Beamte-;600;Aufwand
+135;2018;Fachbereich 1 (Hauptamt);Verkehrssicherheit;Beiträge Versorgungskasse -Beamte-;1100;Aufwand
+136;2018;Fachbereich 1 (Hauptamt);Grundsicherung im Alter;Beiträge Versorgungskasse -Beamte-;800;Aufwand
+137;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Versorgungsbeiträge Beschäftigte;480;Aufwand
+138;2018;Fachbereich 1 (Hauptamt);Passangelegenheiten;Versorgungsbeiträge Beschäftigte;3000;Aufwand
+139;2018;Fachbereich 1 (Hauptamt);Genehmigung Straßenverkehr;Versorgungsbeiträge Beschäftigte;500;Aufwand
+140;2018;Fachbereich 1 (Hauptamt);Standesamt;Versorgungsbeiträge Beschäftigte;3000;Aufwand
+141;2018;Fachbereich 1 (Hauptamt);Grundleistungen (§ 3 AsylbLG);Versorgungsbeiträge Beschäftigte;2900;Aufwand
+142;2018;Fachbereich 1 (Hauptamt);Gewerberecht;Versorgungsbeiträge Beschäftigte;800;Aufwand
+143;2018;Fachbereich 1 (Hauptamt);Meldeangelegenheiten;Versorgungsbeiträge Beschäftigte;3000;Aufwand
+144;2018;Fachbereich 1 (Hauptamt);Feuerwehrhäuser;Versorgungsbeiträge Beschäftigte;350;Aufwand
+145;2018;Fachbereich 1 (Hauptamt);Überwachung ruhender Verkehr;Versorgungsbeiträge Beschäftigte;2800;Aufwand
+146;2018;Fachbereich 1 (Hauptamt);Kommunale Sportstätten und Bäder;Versorgungsbeiträge Beschäftigte;100;Aufwand
+147;2018;Fachbereich 1 (Hauptamt);Freistellungsverfahren;Versorgungsbeiträge Beschäftigte;630;Aufwand
+148;2018;Fachbereich 1 (Hauptamt);Feuerwehr - Gefahrenbekämpfung;Versorgungsbeiträge Beschäftigte;3200;Aufwand
+149;2018;Fachbereich 1 (Hauptamt);GS Münchweiler;Versorgungsbeiträge Beschäftigte;4600;Aufwand
+150;2018;Fachbereich 1 (Hauptamt);Allgemeinde Schulverwaltung;Versorgungsbeiträge Beschäftigte;3600;Aufwand
+151;2018;Fachbereich 1 (Hauptamt);Dienstleistungen;Versorgungsbeiträge Beschäftigte;3200;Aufwand
+152;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Steuern;Versorgungsbeiträge Beschäftigte;850;Aufwand
+153;2018;Fachbereich 1 (Hauptamt);Zentrale Servicestelle für alle Gremien;Versorgungsbeiträge Beschäftigte;3100;Aufwand
+154;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Versorgungsbeiträge Beschäftigte;2800;Aufwand
+155;2018;Fachbereich 1 (Hauptamt);Zentrale Beschaffung;Versorgungsbeiträge Beschäftigte;350;Aufwand
+156;2018;Fachbereich 1 (Hauptamt);Radwege;Versorgungsbeiträge Beschäftigte;850;Aufwand
+157;2018;Fachbereich 1 (Hauptamt);Hausdruckerei, Fotokopierdienst, Buchbinderei;Versorgungsbeiträge Beschäftigte;350;Aufwand
+158;2018;Fachbereich 1 (Hauptamt);Förderung Einrichtungen Dritter;Versorgungsbeiträge Beschäftigte;900;Aufwand
+159;2018;Fachbereich 1 (Hauptamt);Post- und Telfonzentrale;Versorgungsbeiträge Beschäftigte;2800;Aufwand
+160;2018;Fachbereich 1 (Hauptamt);GS - Rodalben;Versorgungsbeiträge Beschäftigte;8600;Aufwand
+161;2018;Fachbereich 1 (Hauptamt);Rechnungswesen;Versorgungsbeiträge Beschäftigte;2100;Aufwand
+162;2018;Fachbereich 1 (Hauptamt);Technisches Gebäudemanagement;Versorgungsbeiträge Beschäftigte;2700;Aufwand
+163;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Versorgungsbeiträge Beschäftigte;3000;Aufwand
+164;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Versorgungsbeiträge Beschäftigte;1100;Aufwand
+165;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Versorgungsbeiträge Beschäftigte;28500;Aufwand
+166;2018;Fachbereich 1 (Hauptamt);Personal;Versorgungsbeiträge Beschäftigte;4500;Aufwand
+167;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Versorgungsbeiträge Beschäftigte;250;Aufwand
+168;2018;Fachbereich 1 (Hauptamt);Bauantrag, Baugenehmigung;Versorgungsbeiträge Beschäftigte;630;Aufwand
+169;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Versorgungsbeiträge Beschäftigte;2200;Aufwand
+170;2018;Fachbereich 1 (Hauptamt);GS - Leimen-Merzalben;Versorgungsbeiträge Beschäftigte;5200;Aufwand
+171;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Versorgungsbeiträge Beschäftigte;1800;Aufwand
+172;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Versorgungsbeiträge Beschäftigte;6300;Aufwand
+173;2018;Fachbereich 1 (Hauptamt);GS Clausen-Donsieders;Versorgungsbeiträge Beschäftigte;4100;Aufwand
+174;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Beiträge zu Versorgungskassen / Sonstige;75;Aufwand
+175;2018;Fachbereich 1 (Hauptamt);Passangelegenheiten;Sozialversicherungsbeiträge Beschäftigte;7600;Aufwand
+176;2018;Fachbereich 1 (Hauptamt);Gewerberecht;Sozialversicherungsbeiträge Beschäftigte;2000;Aufwand
+177;2018;Fachbereich 1 (Hauptamt);Bauantrag, Baugenehmigung;Sozialversicherungsbeiträge Beschäftigte;1600;Aufwand
+178;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Sozialversicherungsbeiträge Beschäftigte;70000;Aufwand
+179;2018;Fachbereich 1 (Hauptamt);Post- und Telfonzentrale;Sozialversicherungsbeiträge Beschäftigte;7000;Aufwand
+180;2018;Fachbereich 1 (Hauptamt);Zentrale Servicestelle für alle Gremien;Sozialversicherungsbeiträge Beschäftigte;8100;Aufwand
+181;2018;Fachbereich 1 (Hauptamt);Kommunale Sportstätten und Bäder;Sozialversicherungsbeiträge Beschäftigte;500;Aufwand
+182;2018;Fachbereich 1 (Hauptamt);Förderung Einrichtungen Dritter;Sozialversicherungsbeiträge Beschäftigte;2400;Aufwand
+183;2018;Fachbereich 1 (Hauptamt);Allgemeinde Schulverwaltung;Sozialversicherungsbeiträge Beschäftigte;8500;Aufwand
+184;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Sozialversicherungsbeiträge Beschäftigte;6800;Aufwand
+185;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Sozialversicherungsbeiträge Beschäftigte;4200;Aufwand
+186;2018;Fachbereich 1 (Hauptamt);GS Clausen-Donsieders;Sozialversicherungsbeiträge Beschäftigte;11000;Aufwand
+187;2018;Fachbereich 1 (Hauptamt);Standesamt;Sozialversicherungsbeiträge Beschäftigte;8000;Aufwand
+188;2018;Fachbereich 1 (Hauptamt);GS - Leimen-Merzalben;Sozialversicherungsbeiträge Beschäftigte;14000;Aufwand
+189;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Sozialversicherungsbeiträge Beschäftigte;5500;Aufwand
+190;2018;Fachbereich 1 (Hauptamt);Personal;Sozialversicherungsbeiträge Beschäftigte;11500;Aufwand
+191;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Sozialversicherungsbeiträge Beschäftigte;7500;Aufwand
+192;2018;Fachbereich 1 (Hauptamt);Technisches Gebäudemanagement;Sozialversicherungsbeiträge Beschäftigte;6200;Aufwand
+193;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Sozialversicherungsbeiträge Beschäftigte;1250;Aufwand
+194;2018;Fachbereich 1 (Hauptamt);Radwege;Sozialversicherungsbeiträge Beschäftigte;2200;Aufwand
+195;2018;Fachbereich 1 (Hauptamt);Grundleistungen (§ 3 AsylbLG);Sozialversicherungsbeiträge Beschäftigte;7500;Aufwand
+196;2018;Fachbereich 1 (Hauptamt);Hausdruckerei, Fotokopierdienst, Buchbinderei;Sozialversicherungsbeiträge Beschäftigte;800;Aufwand
+197;2018;Fachbereich 1 (Hauptamt);Genehmigung Straßenverkehr;Sozialversicherungsbeiträge Beschäftigte;1300;Aufwand
+198;2018;Fachbereich 1 (Hauptamt);GS - Rodalben;Sozialversicherungsbeiträge Beschäftigte;22200;Aufwand
+199;2018;Fachbereich 1 (Hauptamt);Dienstleistungen;Sozialversicherungsbeiträge Beschäftigte;8300;Aufwand
+200;2018;Fachbereich 1 (Hauptamt);GS Münchweiler;Sozialversicherungsbeiträge Beschäftigte;12500;Aufwand
+201;2018;Fachbereich 1 (Hauptamt);Zentrale Beschaffung;Sozialversicherungsbeiträge Beschäftigte;800;Aufwand
+202;2018;Fachbereich 1 (Hauptamt);Überwachung ruhender Verkehr;Sozialversicherungsbeiträge Beschäftigte;7200;Aufwand
+203;2018;Fachbereich 1 (Hauptamt);Rechnungswesen;Sozialversicherungsbeiträge Beschäftigte;5300;Aufwand
+204;2018;Fachbereich 1 (Hauptamt);Feuerwehrhäuser;Sozialversicherungsbeiträge Beschäftigte;1250;Aufwand
+205;2018;Fachbereich 1 (Hauptamt);Meldeangelegenheiten;Sozialversicherungsbeiträge Beschäftigte;7600;Aufwand
+206;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Sozialversicherungsbeiträge Beschäftigte;650;Aufwand
+207;2018;Fachbereich 1 (Hauptamt);Feuerwehr - Gefahrenbekämpfung;Sozialversicherungsbeiträge Beschäftigte;8000;Aufwand
+208;2018;Fachbereich 1 (Hauptamt);Freistellungsverfahren;Sozialversicherungsbeiträge Beschäftigte;1600;Aufwand
+209;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Sozialversicherungsbeiträge Beschäftigte;16300;Aufwand
+210;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Sozialversicherungsbeiträge Beschäftigte;2900;Aufwand
+211;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Steuern;Sozialversicherungsbeiträge Beschäftigte;2300;Aufwand
+212;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Sozialversicherungsanteil - Beigordnete;1200;Aufwand
+213;2018;Fachbereich 1 (Hauptamt);Kommunale Sportstätten und Bäder;Sozialversicherungsbeiträge Beschäftigte;500;Aufwand
+214;2018;Fachbereich 1 (Hauptamt);Grundsicherung im Alter;Beihilfen, Unterstützungen u.dergleichen;650;Aufwand
+215;2018;Fachbereich 1 (Hauptamt);Gewerberecht;Beihilfen, Unterstützungen u.dergleichen;1300;Aufwand
+216;2018;Fachbereich 1 (Hauptamt);Genehmigung Straßenverkehr;Beihilfen, Unterstützungen u.dergleichen;300;Aufwand
+217;2018;Fachbereich 1 (Hauptamt);Sportförderung;Beihilfen, Unterstützungen u.dergleichen;400;Aufwand
+218;2018;Fachbereich 1 (Hauptamt);Grundleistungen (§ 3 AsylbLG);Beihilfen, Unterstützungen u.dergleichen;2600;Aufwand
+219;2018;Fachbereich 1 (Hauptamt);Wirtschaftsförderung;Beihilfen, Unterstützungen u.dergleichen;900;Aufwand
+220;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Steuern;Beihilfen, Unterstützungen u.dergleichen;2000;Aufwand
+221;2018;Fachbereich 1 (Hauptamt);Raumordnung, Landesplanung;Beihilfen, Unterstützungen u.dergleichen;3000;Aufwand
+222;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Gebühren u. Beiträge;Beihilfen, Unterstützungen u.dergleichen;400;Aufwand
+223;2018;Fachbereich 1 (Hauptamt);Hilfe zum Lebensunterhalt (3. Kapitel SGB XII);Beihilfen, Unterstützungen u.dergleichen;650;Aufwand
+224;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Beihilfen, Unterstützungen u.dergleichen;500;Aufwand
+225;2018;Fachbereich 1 (Hauptamt);Personal;Beihilfen, Unterstützungen u.dergleichen;11000;Aufwand
+226;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Beihilfen, Unterstützungen u.dergleichen;1800;Aufwand
+227;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Beihilfen, Unterstützungen u.dergleichen;8900;Aufwand
+228;2018;Fachbereich 1 (Hauptamt);Verkehrssicherheit;Beihilfen, Unterstützungen u.dergleichen;300;Aufwand
+229;2018;Fachbereich 1 (Hauptamt);Haushalts- und Finanzplanung;Beihilfen, Unterstützungen u.dergleichen;3600;Aufwand
+230;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Beihilfen, Unterstützungen u.dergleichen;2000;Aufwand
+231;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Beihilfen, Unterstützungen u.dergleichen;900;Aufwand
+232;2018;Fachbereich 1 (Hauptamt);Rechnungswesen;Beihilfen, Unterstützungen u.dergleichen;4600;Aufwand
+233;2018;Fachbereich 1 (Hauptamt);Statistik, Wahlen;Beihilfen, Unterstützungen u.dergleichen;1200;Aufwand
+234;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Beihilfen, Unterstützungen u.dergleichen;2300;Aufwand
+235;2018;Fachbereich 1 (Hauptamt);Gaststättenrecht;Beihilfen, Unterstützungen u.dergleichen;700;Aufwand
+236;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Beihilfen, Unterstützungen u.dergleichen;8400;Aufwand
+237;2018;Fachbereich 1 (Hauptamt);Grundsicherung für Arbeitssuchende (SGB II);Beihilfen, Unterstützungen u.dergleichen;650;Aufwand
+238;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Beihilfen, Unterstützungen u.dergleichen;1300;Aufwand
+239;2018;Fachbereich 1 (Hauptamt);Bauantrag, Baugenehmigung;Beihilfen, Unterstützungen u.dergleichen;650;Aufwand
+240;2018;Fachbereich 1 (Hauptamt);Allgemeinde Schulverwaltung;Beihilfen, Unterstützungen u.dergleichen;2200;Aufwand
+241;2018;Fachbereich 1 (Hauptamt);Versicherungen;Beihilfen, Unterstützungen u.dergleichen;1200;Aufwand
+242;2018;Fachbereich 1 (Hauptamt);Freistellungsverfahren;Beihilfen, Unterstützungen u.dergleichen;650;Aufwand
+243;2018;Fachbereich 1 (Hauptamt);GS - Leimen-Merzalben;Beihilfen, Unterstützungen u.dergleichen;30;Aufwand
+244;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Beihilfen, Unterstützungen u.dergleichen;235;Aufwand
+245;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Beihilfen, Unterstützungen u.dergleichen;30;Aufwand
+246;2018;Fachbereich 1 (Hauptamt);Dienstleistungen;Beihilfen, Unterstützungen u.dergleichen;30;Aufwand
+247;2018;Fachbereich 1 (Hauptamt);Passangelegenheiten;Beihilfen, Unterstützungen u.dergleichen;30;Aufwand
+248;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Beihilfen, Unterstützungen u.dergleichen;10;Aufwand
+249;2018;Fachbereich 1 (Hauptamt);Technisches Gebäudemanagement;Beihilfen, Unterstützungen u.dergleichen;15;Aufwand
+250;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Beihilfen, Unterstützungen u.dergleichen;30;Aufwand
+251;2018;Fachbereich 1 (Hauptamt);Zentrale Servicestelle für alle Gremien;Beihilfen, Unterstützungen u.dergleichen;30;Aufwand
+252;2018;Fachbereich 1 (Hauptamt);Überwachung ruhender Verkehr;Beihilfen, Unterstützungen u.dergleichen;20;Aufwand
+253;2018;Fachbereich 1 (Hauptamt);Standesamt;Beihilfen, Unterstützungen u.dergleichen;30;Aufwand
+254;2018;Fachbereich 1 (Hauptamt);Meldeangelegenheiten;Beihilfen, Unterstützungen u.dergleichen;30;Aufwand
+255;2018;Fachbereich 1 (Hauptamt);Genehmigung Straßenverkehr;Beihilfen, Unterstützungen u.dergleichen;10;Aufwand
+256;2018;Fachbereich 1 (Hauptamt);Allgemeinde Schulverwaltung;Beihilfen, Unterstützungen u.dergleichen;30;Aufwand
+257;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Beihilfen, Unterstützungen u.dergleichen;300;Aufwand
+258;2018;Fachbereich 1 (Hauptamt);GS - Rodalben;Beihilfen, Unterstützungen u.dergleichen;60;Aufwand
+259;2018;Fachbereich 1 (Hauptamt);Kommunale Sportstätten und Bäder;Beihilfen, Unterstützungen u.dergleichen;60;Aufwand
+260;2018;Fachbereich 1 (Hauptamt);Allgemeinde Schulverwaltung;Personalnebenaufwendungen / Arbeitnehmer;180;Aufwand
+261;2018;Fachbereich 1 (Hauptamt);Feuerwehr - Gefahrenbekämpfung;Personalnebenaufwendungen / Arbeitnehmer;80;Aufwand
+262;2018;Fachbereich 1 (Hauptamt);Förderung Einrichtungen Dritter;Personalnebenaufwendungen / Arbeitnehmer;25;Aufwand
+263;2018;Fachbereich 1 (Hauptamt);Überwachung ruhender Verkehr;Personalnebenaufwendungen / Arbeitnehmer;80;Aufwand
+264;2018;Fachbereich 1 (Hauptamt);GS - Leimen-Merzalben;Personalnebenaufwendungen / Arbeitnehmer;150;Aufwand
+265;2018;Fachbereich 1 (Hauptamt);GS - Rodalben;Personalnebenaufwendungen / Arbeitnehmer;150;Aufwand
+266;2018;Fachbereich 1 (Hauptamt);GS Clausen-Donsieders;Personalnebenaufwendungen / Arbeitnehmer;80;Aufwand
+267;2018;Fachbereich 1 (Hauptamt);Genehmigung Straßenverkehr;Personalnebenaufwendungen / Arbeitnehmer;15;Aufwand
+268;2018;Fachbereich 1 (Hauptamt);GS Münchweiler;Personalnebenaufwendungen / Arbeitnehmer;80;Aufwand
+269;2018;Fachbereich 1 (Hauptamt);Bauantrag, Baugenehmigung;Personalnebenaufwendungen / Arbeitnehmer;20;Aufwand
+270;2018;Fachbereich 1 (Hauptamt);Meldeangelegenheiten;Personalnebenaufwendungen / Arbeitnehmer;100;Aufwand
+271;2018;Fachbereich 1 (Hauptamt);Post- und Telfonzentrale;Personalnebenaufwendungen / Arbeitnehmer;80;Aufwand
+272;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Personalnebenaufwendungen / Arbeitnehmer;15;Aufwand
+273;2018;Fachbereich 1 (Hauptamt);Zentrale Beschaffung;Personalnebenaufwendungen / Arbeitnehmer;10;Aufwand
+274;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Personalnebenaufwendungen / Arbeitnehmer;700;Aufwand
+275;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Personalnebenaufwendungen / Arbeitnehmer;10;Aufwand
+276;2018;Fachbereich 1 (Hauptamt);Freistellungsverfahren;Personalnebenaufwendungen / Arbeitnehmer;20;Aufwand
+277;2018;Fachbereich 1 (Hauptamt);Kommunale Sportstätten und Bäder;Personalnebenaufwendungen / Arbeitnehmer;50;Aufwand
+278;2018;Fachbereich 1 (Hauptamt);Passangelegenheiten;Personalnebenaufwendungen / Arbeitnehmer;100;Aufwand
+279;2018;Fachbereich 1 (Hauptamt);Rechnungswesen;Personalnebenaufwendungen / Arbeitnehmer;60;Aufwand
+280;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Personalnebenaufwendungen / Arbeitnehmer;150;Aufwand
+281;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Steuern;Personalnebenaufwendungen / Arbeitnehmer;25;Aufwand
+282;2018;Fachbereich 1 (Hauptamt);Hausdruckerei, Fotokopierdienst, Buchbinderei;Personalnebenaufwendungen / Arbeitnehmer;10;Aufwand
+283;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Personalnebenaufwendungen / Arbeitnehmer;60;Aufwand
+284;2018;Fachbereich 1 (Hauptamt);Personal;Personalnebenaufwendungen / Arbeitnehmer;300;Aufwand
+285;2018;Fachbereich 1 (Hauptamt);Radwege;Personalnebenaufwendungen / Arbeitnehmer;20;Aufwand
+286;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Personalnebenaufwendungen / Arbeitnehmer;40;Aufwand
+287;2018;Fachbereich 1 (Hauptamt);Technisches Gebäudemanagement;Personalnebenaufwendungen / Arbeitnehmer;40;Aufwand
+288;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Personalnebenaufwendungen / Arbeitnehmer;80;Aufwand
+289;2018;Fachbereich 1 (Hauptamt);Dienstleistungen;Personalnebenaufwendungen / Arbeitnehmer;40;Aufwand
+290;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Personalnebenaufwendungen / Arbeitnehmer;80;Aufwand
+291;2018;Fachbereich 1 (Hauptamt);Standesamt;Personalnebenaufwendungen / Arbeitnehmer;80;Aufwand
+292;2018;Fachbereich 1 (Hauptamt);Rechnungswesen;Zuführungen zu Pensionsrückstellungen  Beamte;15400;Aufwand
+293;2018;Fachbereich 1 (Hauptamt);Personal;Zuführungen zu Pensionsrückstellungen  Beamte;721300;Aufwand
+294;2018;Fachbereich 1 (Hauptamt);Grundsicherung im Alter;Zuführungen zu Pensionsrückstellungen  Beamte;1000;Aufwand
+295;2018;Fachbereich 1 (Hauptamt);Sportförderung;Zuführungen zu Pensionsrückstellungen  Beamte;1700;Aufwand
+296;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Zuführungen zu Pensionsrückstellungen  Beamte;4500;Aufwand
+297;2018;Fachbereich 1 (Hauptamt);Statistik, Wahlen;Zuführungen zu Pensionsrückstellungen  Beamte;3250;Aufwand
+298;2018;Fachbereich 1 (Hauptamt);Hilfe zum Lebensunterhalt (3. Kapitel SGB XII);Zuführungen zu Pensionsrückstellungen  Beamte;1000;Aufwand
+299;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Zuführungen zu Pensionsrückstellungen  Beamte;35000;Aufwand
+300;2018;Fachbereich 1 (Hauptamt);Haushalts- und Finanzplanung;Zuführungen zu Pensionsrückstellungen  Beamte;19350;Aufwand
+301;2018;Fachbereich 1 (Hauptamt);Raumordnung, Landesplanung;Zuführungen zu Pensionsrückstellungen  Beamte;1900;Aufwand
+302;2018;Fachbereich 1 (Hauptamt);Wirtschaftsförderung;Zuführungen zu Pensionsrückstellungen  Beamte;4500;Aufwand
+303;2018;Fachbereich 1 (Hauptamt);Versicherungen;Zuführungen zu Pensionsrückstellungen  Beamte;3250;Aufwand
+304;2018;Fachbereich 1 (Hauptamt);Allgemeinde Schulverwaltung;Zuführungen zu Pensionsrückstellungen  Beamte;10100;Aufwand
+305;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Zuführungen zu Pensionsrückstellungen  Beamte;2700;Aufwand
+306;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Zuführungen zu Pensionsrückstellungen  Beamte;37300;Aufwand
+307;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Steuern;Zuführungen zu Pensionsrückstellungen  Beamte;11100;Aufwand
+308;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Zuführungen zu Pensionsrückstellungen  Beamte;50650;Aufwand
+309;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Gebühren u. Beiträge;Zuführungen zu Pensionsrückstellungen  Beamte;1600;Aufwand
+310;2018;Fachbereich 1 (Hauptamt);Freistellungsverfahren;Zuführungen zu Pensionsrückstellungen  Beamte;950;Aufwand
+311;2018;Fachbereich 1 (Hauptamt);Bauantrag, Baugenehmigung;Zuführungen zu Pensionsrückstellungen  Beamte;950;Aufwand
+312;2018;Fachbereich 1 (Hauptamt);Gewerberecht;Zuführungen zu Pensionsrückstellungen  Beamte;4050;Aufwand
+313;2018;Fachbereich 1 (Hauptamt);Leistungen in besonderen Fällen (§ 2 AsylbLG);Zuführungen zu Pensionsrückstellungen  Beamte;2000;Aufwand
+314;2018;Fachbereich 1 (Hauptamt);Genehmigung Straßenverkehr;Zuführungen zu Pensionsrückstellungen  Beamte;1500;Aufwand
+315;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Zuführungen zu Pensionsrückstellungen  Beamte;8300;Aufwand
+316;2018;Fachbereich 1 (Hauptamt);Grundsicherung für Arbeitssuchende (SGB II);Zuführungen zu Pensionsrückstellungen  Beamte;1000;Aufwand
+317;2018;Fachbereich 1 (Hauptamt);Verkehrssicherheit;Zuführungen zu Pensionsrückstellungen  Beamte;1500;Aufwand
+318;2018;Fachbereich 1 (Hauptamt);Gaststättenrecht;Zuführungen zu Pensionsrückstellungen  Beamte;1000;Aufwand
+319;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Zuführungen Beihilferückstellungen Beamte;10100;Aufwand
+320;2018;Fachbereich 1 (Hauptamt);Personal;Zuführungen Beihilferückstellungen Beamte;125200;Aufwand
+321;2018;Fachbereich 1 (Hauptamt);Raumordnung, Landesplanung;Zuführungen Beihilferückstellungen Beamte;350;Aufwand
+322;2018;Fachbereich 1 (Hauptamt);Grundleistungen (§ 3 AsylbLG);Zuführungen Beihilferückstellungen Beamte;460;Aufwand
+323;2018;Fachbereich 1 (Hauptamt);Rechnungswesen;Zuführungen Beihilferückstellungen Beamte;3300;Aufwand
+324;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Steuern;Zuführungen Beihilferückstellungen Beamte;2400;Aufwand
+325;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Gebühren u. Beiträge;Zuführungen Beihilferückstellungen Beamte;350;Aufwand
+326;2018;Fachbereich 1 (Hauptamt);Haushalts- und Finanzplanung;Zuführungen Beihilferückstellungen Beamte;3600;Aufwand
+327;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Zuführungen Beihilferückstellungen Beamte;6000;Aufwand
+328;2018;Fachbereich 1 (Hauptamt);Gewerberecht;Zuführungen Beihilferückstellungen Beamte;950;Aufwand
+329;2018;Fachbereich 1 (Hauptamt);Wirtschaftsförderung;Zuführungen Beihilferückstellungen Beamte;670;Aufwand
+330;2018;Fachbereich 1 (Hauptamt);Leistungen in besonderen Fällen (§ 2 AsylbLG);Zuführungen Beihilferückstellungen Beamte;450;Aufwand
+331;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Zuführungen Beihilferückstellungen Beamte;670;Aufwand
+332;2018;Fachbereich 1 (Hauptamt);Verkehrssicherheit;Zuführungen Beihilferückstellungen Beamte;230;Aufwand
+333;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Zuführungen Beihilferückstellungen Beamte;560;Aufwand
+334;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Zuführungen Beihilferückstellungen Beamte;1900;Aufwand
+335;2018;Fachbereich 1 (Hauptamt);Allgemeinde Schulverwaltung;Zuführungen Beihilferückstellungen Beamte;2300;Aufwand
+336;2018;Fachbereich 1 (Hauptamt);Hilfe zum Lebensunterhalt (3. Kapitel SGB XII);Zuführungen Beihilferückstellungen Beamte;230;Aufwand
+337;2018;Fachbereich 1 (Hauptamt);Grundsicherung für Arbeitssuchende (SGB II);Zuführungen Beihilferückstellungen Beamte;230;Aufwand
+338;2018;Fachbereich 1 (Hauptamt);Versicherungen;Zuführungen Beihilferückstellungen Beamte;570;Aufwand
+339;2018;Fachbereich 1 (Hauptamt);Gaststättenrecht;Zuführungen Beihilferückstellungen Beamte;230;Aufwand
+340;2018;Fachbereich 1 (Hauptamt);Genehmigung Straßenverkehr;Zuführungen Beihilferückstellungen Beamte;230;Aufwand
+341;2018;Fachbereich 1 (Hauptamt);Freistellungsverfahren;Zuführungen Beihilferückstellungen Beamte;180;Aufwand
+342;2018;Fachbereich 1 (Hauptamt);Bauantrag, Baugenehmigung;Zuführungen Beihilferückstellungen Beamte;180;Aufwand
+343;2018;Fachbereich 1 (Hauptamt);Statistik, Wahlen;Zuführungen Beihilferückstellungen Beamte;580;Aufwand
+344;2018;Fachbereich 1 (Hauptamt);Grundsicherung im Alter;Zuführungen Beihilferückstellungen Beamte;230;Aufwand
+345;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Zuführungen Beihilferückstellungen Beamte;90000;Aufwand
+346;2018;Fachbereich 1 (Hauptamt);Sportförderung;Zuführungen Beihilferückstellungen Beamte;380;Aufwand
+347;2018;Fachbereich 1 (Hauptamt);Zentrale Beschaffung;Pauschalierte Lohnsteuer;30;Aufwand
+348;2018;Fachbereich 1 (Hauptamt);Allgemeinde Schulverwaltung;Pauschalierte Lohnsteuer;400;Aufwand
+349;2018;Fachbereich 1 (Hauptamt);Personal;Pauschalierte Lohnsteuer;300;Aufwand
+350;2018;Fachbereich 1 (Hauptamt);Technisches Gebäudemanagement;Pauschalierte Lohnsteuer;150;Aufwand
+351;2018;Fachbereich 1 (Hauptamt);Dienstleistungen;Pauschalierte Lohnsteuer;200;Aufwand
+352;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Pauschalierte Lohnsteuer;240;Aufwand
+353;2018;Fachbereich 1 (Hauptamt);Feuerwehrhäuser;Pauschalierte Lohnsteuer;100;Aufwand
+354;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Pauschalierte Lohnsteuer;200;Aufwand
+355;2018;Fachbereich 1 (Hauptamt);Standesamt;Pauschalierte Lohnsteuer;250;Aufwand
+356;2018;Fachbereich 1 (Hauptamt);GS Münchweiler;Pauschalierte Lohnsteuer;550;Aufwand
+357;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Pauschalierte Lohnsteuer;250;Aufwand
+358;2018;Fachbereich 1 (Hauptamt);Radwege;Pauschalierte Lohnsteuer;60;Aufwand
+359;2018;Fachbereich 1 (Hauptamt);Meldeangelegenheiten;Pauschalierte Lohnsteuer;250;Aufwand
+360;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Pauschalierte Lohnsteuer;30;Aufwand
+361;2018;Fachbereich 1 (Hauptamt);GS Clausen-Donsieders;Pauschalierte Lohnsteuer;80;Aufwand
+362;2018;Fachbereich 1 (Hauptamt);GS - Rodalben;Pauschalierte Lohnsteuer;350;Aufwand
+363;2018;Fachbereich 1 (Hauptamt);Hausdruckerei, Fotokopierdienst, Buchbinderei;Pauschalierte Lohnsteuer;30;Aufwand
+364;2018;Fachbereich 1 (Hauptamt);GS - Leimen-Merzalben;Pauschalierte Lohnsteuer;370;Aufwand
+365;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Pauschalierte Lohnsteuer;20;Aufwand
+366;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Pauschalierte Lohnsteuer;2200;Aufwand
+367;2018;Fachbereich 1 (Hauptamt);Förderung Einrichtungen Dritter;Pauschalierte Lohnsteuer;80;Aufwand
+368;2018;Fachbereich 1 (Hauptamt);Genehmigung Straßenverkehr;Pauschalierte Lohnsteuer;30;Aufwand
+369;2018;Fachbereich 1 (Hauptamt);Kommunale Sportstätten und Bäder;Pauschalierte Lohnsteuer;200;Aufwand
+370;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Pauschalierte Lohnsteuer;450;Aufwand
+371;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Steuern;Pauschalierte Lohnsteuer;80;Aufwand
+372;2018;Fachbereich 1 (Hauptamt);Überwachung ruhender Verkehr;Pauschalierte Lohnsteuer;100;Aufwand
+373;2018;Fachbereich 1 (Hauptamt);Passangelegenheiten;Pauschalierte Lohnsteuer;250;Aufwand
+374;2018;Fachbereich 1 (Hauptamt);Grundleistungen (§ 3 AsylbLG);Pauschalierte Lohnsteuer;200;Aufwand
+375;2018;Fachbereich 1 (Hauptamt);Rechnungswesen;Pauschalierte Lohnsteuer;170;Aufwand
+376;2018;Fachbereich 1 (Hauptamt);Feuerwehr - Gefahrenbekämpfung;Pauschalierte Lohnsteuer;250;Aufwand
+377;2018;Fachbereich 1 (Hauptamt);Freistellungsverfahren;Pauschalierte Lohnsteuer;70;Aufwand
+378;2018;Fachbereich 1 (Hauptamt);Gewerberecht;Pauschalierte Lohnsteuer;50;Aufwand
+379;2018;Fachbereich 1 (Hauptamt);Post- und Telfonzentrale;Pauschalierte Lohnsteuer;250;Aufwand
+380;2018;Fachbereich 1 (Hauptamt);Zentrale Servicestelle für alle Gremien;Pauschalierte Lohnsteuer;250;Aufwand
+381;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Pauschalierte Lohnsteuer;1100;Aufwand
+382;2018;Fachbereich 1 (Hauptamt);Bauantrag, Baugenehmigung;Pauschalierte Lohnsteuer;70;Aufwand
+383;2018;Fachbereich 1 (Hauptamt);Personal;Versorgungsaufwendungen Pensionäre;590000;Aufwand
+384;2018;Fachbereich 1 (Hauptamt);Personal;Beihilfen, Unterstützungen u.dergl. (Versorgungsbereich);140000;Aufwand
+385;2018;Fachbereich 1 (Hauptamt);Mietwohngrundstücke;Unterhaltung  Gebäude und Grundstücke;500;Aufwand
+386;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Unterhaltung -Grundstücke u.baul.Anlagen;25000;Aufwand
+387;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Unterhaltung d.Grundstücke u.baul.Anlage;3000;Aufwand
+388;2018;Fachbereich 1 (Hauptamt);Radwege;Straßen, Wege, Plätze und Verkehrslenkungsanlagen;35000;Aufwand
+389;2018;Fachbereich 1 (Hauptamt);Fuhrpark;Wartungs- und Instandhaltungskosten;1500;Aufwand
+390;2018;Fachbereich 1 (Hauptamt);Fuhrpark;Betriebs- und Schmierstoffe - Kfz;3500;Aufwand
+391;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Betriebs- und Schmierstoffe;500;Aufwand
+392;2018;Fachbereich 1 (Hauptamt);Fuhrpark;Reifen;500;Aufwand
+393;2018;Fachbereich 1 (Hauptamt);Fuhrpark;Sonstige Fahrzeugkosten - TÜV u.ähnl.;100;Aufwand
+394;2018;Fachbereich 1 (Hauptamt);Zentrale Beschaffung;Unterhaltung der Betriebs- und Geschäftsausstattung;500;Aufwand
+395;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Unterhaltung der Betriebs- und Geschäftsausstattung;3000;Aufwand
+396;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Unterhaltung der Betriebs- und Geschäftsausstattung;500;Aufwand
+397;2018;Fachbereich 1 (Hauptamt);Überwachung ruhender Verkehr;Geringw. Geräte, Ausstattungs-, Ausrüstungsgegenstände;500;Aufwand
+398;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Geringw. Geräte, Ausstattungs-, Ausrüstungsgegenstände;400;Aufwand
+399;2018;Fachbereich 1 (Hauptamt);Zentrale Beschaffung;Geringw. Geräte, Ausst.-, Ausrüst. u.sonst.Gebrauchsgegenst.;1500;Aufwand
+400;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Geringw. Geräte, Ausst.-, Ausrüstungsgegenst.;8000;Aufwand
+401;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Geringw. Geräte, Ausstattungs-, Ausrüstungsgegenstände;1000;Aufwand
+402;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Sonstige Verbrauchsmittel;1600;Aufwand
+403;2018;Fachbereich 1 (Hauptamt);Zentrale Beschaffung;Sonstige Verbrauchsmittel;500;Aufwand
+404;2018;Fachbereich 1 (Hauptamt);Wirtschaftsförderung;Zuweisung - Busverbindung (AST);25000;Aufwand
+405;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Erstattung - Geschäftsführung (ZPW);9000;Aufwand
+406;2018;Fachbereich 1 (Hauptamt);Personal;Sonstige Aufwendungen für Sach- und Dienstleistungen;2000;Aufwand
+407;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Abschreibungen auf immaterielle Vermögensgegenstände;625;Aufwand
+408;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Abschreibungen auf immaterielle Vermögensgegenstände;4507;Aufwand
+409;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Abschreibungen auf immaterielle Vermögensgegenstände;95;Aufwand
+410;2018;Fachbereich 1 (Hauptamt);Mietwohngrundstücke;Abschreibungen auf bebaute Grundstücke / mit Wohnbauten;835;Aufwand
+411;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Abschreibungen auf bebaute Grundstücke / mit Schulgebäuden und Turnhallen;3402;Aufwand
+412;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Abschreibungen auf bebaute Grundstücke / mit Verwaltungsgebäuden;41967;Aufwand
+413;2018;Fachbereich 1 (Hauptamt);Radwege;Straßen, Wege, Plätze und Verkehrslenkungsanlagen;445;Aufwand
+414;2018;Fachbereich 1 (Hauptamt);Radwege;Abschreibung auf Straßen, Wege, Plätze und Verkehrslenkungsanlagen;19690;Aufwand
+415;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Abschreibungen auf Bauten auf fremdem Grund und Boden / sonstige Gebäuden;879;Aufwand
+416;2018;Fachbereich 1 (Hauptamt);Feuerwehrfahrzeuge u. technisches Gerät;Abschreibungen auf Fahrzeuge;36657;Aufwand
+417;2018;Fachbereich 1 (Hauptamt);Photovoltaikanlage;Abschreibungen auf Betriebsvorrichtungen;5643;Aufwand
+418;2018;Fachbereich 1 (Hauptamt);Photovoltaikanlage;Abschreibungen auf Betriebsvorrichtungen;3188;Aufwand
+419;2018;Fachbereich 1 (Hauptamt);Photovoltaikanlage;Abschreibungen auf Betriebsvorrichtungen;4221;Aufwand
+420;2018;Fachbereich 1 (Hauptamt);Photovoltaikanlage;Abschreibungen auf Betriebsvorrichtungen;5425;Aufwand
+421;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Abschreibungen auf Betriebsausstattung;157;Aufwand
+422;2018;Fachbereich 1 (Hauptamt);Post- und Telfonzentrale;Abschreibungen auf Geschäftsausstattung;417;Aufwand
+423;2018;Fachbereich 1 (Hauptamt);Zentrale Beschaffung;Abschreibungen auf Geschäftsausstattung;76;Aufwand
+424;2018;Fachbereich 1 (Hauptamt);Feuerwehrfahrzeuge u. technisches Gerät;Abschreibungen auf Geschäftsausstattung;5095;Aufwand
+425;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Abschreibungen auf Geschäftsausstattung;745;Aufwand
+426;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Abschreibungen auf Geschäftsausstattung;70;Aufwand
+427;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Abschreibungen auf Geschäftsausstattung;82;Aufwand
+428;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Abschreibungen auf Geschäftsausstattung;1535;Aufwand
+429;2018;Fachbereich 1 (Hauptamt);"Zweckverband ""Gräfensteiener Park""";Zweckverbandsumlage;25000;Aufwand
+430;2018;Fachbereich 1 (Hauptamt);Steuern allg. Zuweisung, allg. Umlagen;"Fonds ""Deutsche Einheit""";57600;Aufwand
+431;2018;Fachbereich 1 (Hauptamt);Steuern allg. Zuweisung, allg. Umlagen;Umlagen an das Land (Zentrale Verwaltungsschule);7500;Aufwand
+432;2018;Fachbereich 1 (Hauptamt);Steuern allg. Zuweisung, allg. Umlagen;Kreisumlage;693100;Aufwand
+433;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Aufwendungen für Aus- und Fortbildung, Umschulung;1000;Aufwand
+434;2018;Fachbereich 1 (Hauptamt);Überwachung ruhender Verkehr;Aufwendungen für Aus- und Fortbildung, Umschulung;300;Aufwand
+435;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Aufwendungen für Aus- und Fortbildung, Umschulung;500;Aufwand
+436;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Aufwendungen für Aus- und Fortbildung, Umschulung;1000;Aufwand
+437;2018;Fachbereich 1 (Hauptamt);Personal;Aufwendungen für Aus- und Fortbildung, Umschulung;5000;Aufwand
+438;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Aufwendungen für Aus- und Fortbildung, Umschulung;6000;Aufwand
+439;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Aufwendungen für Aus- und Fortbildung, Umschulung;1000;Aufwand
+440;2018;Fachbereich 1 (Hauptamt);Raumordnung, Landesplanung;Aufwendungen für Aus- und Fortbildung, Umschulung;200;Aufwand
+441;2018;Fachbereich 1 (Hauptamt);Haushalts- und Finanzplanung;Aufwendungen für Aus- und Fortbildung, Umschulung;300;Aufwand
+442;2018;Fachbereich 1 (Hauptamt);Rechnungswesen;Aufwendungen für Aus- und Fortbildung, Umschulung;1000;Aufwand
+443;2018;Fachbereich 1 (Hauptamt);Meldeangelegenheiten;Aufwendungen für Aus- und Fortbildung, Umschulung;200;Aufwand
+444;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Aufwendungen für Aus- und Fortbildung, Umschulung;1000;Aufwand
+445;2018;Fachbereich 1 (Hauptamt);Gremien;Aufwendungen für Aus- und Fortbildung, Umschulung;1500;Aufwand
+446;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Aufwendungen für Aus- und Fortbildung, Umschulung;700;Aufwand
+447;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Dienstreisen;300;Aufwand
+448;2018;Fachbereich 1 (Hauptamt);Gremien;Reisekosten;1000;Aufwand
+449;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Dienstreisen;5000;Aufwand
+450;2018;Fachbereich 1 (Hauptamt);Personal;Reisekosten;1000;Aufwand
+451;2018;Fachbereich 1 (Hauptamt);Feuerwehr - Gefahrenbekämpfung;Dienstreisen;250;Aufwand
+452;2018;Fachbereich 1 (Hauptamt);Raumordnung, Landesplanung;Dienstreisen;100;Aufwand
+453;2018;Fachbereich 1 (Hauptamt);Meldeangelegenheiten;Dienstreisen;50;Aufwand
+454;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Reisekosten;1000;Aufwand
+455;2018;Fachbereich 1 (Hauptamt);Allgemeinde Schulverwaltung;Dienstreisen;250;Aufwand
+456;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Reisekosten;200;Aufwand
+457;2018;Fachbereich 1 (Hauptamt);Haushalts- und Finanzplanung;Reisekosten;150;Aufwand
+458;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Reisekosten;400;Aufwand
+459;2018;Fachbereich 1 (Hauptamt);Rechnungswesen;Dienstreisen;150;Aufwand
+460;2018;Fachbereich 1 (Hauptamt);Leistungen in besonderen Fällen (§ 2 AsylbLG);Dienstreisen;250;Aufwand
+461;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Reisekosten;100;Aufwand
+462;2018;Fachbereich 1 (Hauptamt);Kommunale Sportstätten und Bäder;Dienstreisen;100;Aufwand
+463;2018;Fachbereich 1 (Hauptamt);Passangelegenheiten;Dienstreisen;100;Aufwand
+464;2018;Fachbereich 1 (Hauptamt);GS - Leimen-Merzalben;Dienstreisen;150;Aufwand
+465;2018;Fachbereich 1 (Hauptamt);GS Münchweiler;Dienstreisen;200;Aufwand
+466;2018;Fachbereich 1 (Hauptamt);GS Clausen-Donsieders;Dienstreisen;100;Aufwand
+467;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Dienstreisen;300;Aufwand
+468;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Dienstreisen;50;Aufwand
+469;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Aufwendungen für Dienst- und Schutzkleidung;300;Aufwand
+470;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Aufwendungen für Dienst- und Schutzkleidung;500;Aufwand
+471;2018;Fachbereich 1 (Hauptamt);Überwachung ruhender Verkehr;Aufwendungen für Dienst- und Schutzkleidung;500;Aufwand
+472;2018;Fachbereich 1 (Hauptamt);Personal;Sonstige Personalnebenaufwendungen;15000;Aufwand
+473;2018;Fachbereich 1 (Hauptamt);Liegenschaften;Mieten und Pachten;200;Aufwand
+474;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Miete -Obdachlose;5000;Aufwand
+475;2018;Fachbereich 1 (Hauptamt);Post- und Telfonzentrale;Leasing (Telefonanlage);10000;Aufwand
+476;2018;Fachbereich 1 (Hauptamt);Hausdruckerei, Fotokopierdienst, Buchbinderei;Leasing;15000;Aufwand
+477;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Leasing;1600;Aufwand
+478;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Leasing;1200;Aufwand
+479;2018;Fachbereich 1 (Hauptamt);Fuhrpark;Leasing Dienstwagen;11000;Aufwand
+480;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Gebühren u. Beiträge;Leasing (Software WKB);1500;Aufwand
+481;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Laufende Lizenzaufwendungen;11000;Aufwand
+482;2018;Fachbereich 1 (Hauptamt);Meldeangelegenheiten;Ausgaben für Datenverarbeitung;12000;Aufwand
+483;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Unterhaltung Software, Updates;22000;Aufwand
+484;2018;Fachbereich 1 (Hauptamt);Überwachung ruhender Verkehr;Unterhaltung Software, Updates;500;Aufwand
+485;2018;Fachbereich 1 (Hauptamt);Statistik, Wahlen;Unterhaltung Software, Updates;750;Aufwand
+486;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Unterhaltung Software, Updates;1900;Aufwand
+487;2018;Fachbereich 1 (Hauptamt);Rechnungswesen;Datenverarbeitung / Sonstige;500;Aufwand
+488;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Gerichts-, Anwalts-, Notar-, Gerichtsvollzieherkosten;5000;Aufwand
+489;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Gerichts-, Anwalts-, Notar-, Gerichtsvollzieherkosten;2000;Aufwand
+490;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Gerichts-, Anwalts-, Notar-, Gerichtsvollzieherkosten;500;Aufwand
+491;2018;Fachbereich 1 (Hauptamt);Wirtschaftsförderung;Kostenanteile Standortinitiative Südwestpfalz;3700;Aufwand
+492;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Sonstige Aufwendungen - Fundtiere etc.;2000;Aufwand
+493;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Kostenerstattung MTB e.V. (Mitgliedsbeitr., Marketing etc.);15000;Aufwand
+494;2018;Fachbereich 1 (Hauptamt);Überwachung ruhender Verkehr;Sonstiges (Abschleppkosten etc.);200;Aufwand
+495;2018;Fachbereich 1 (Hauptamt);Hausdruckerei, Fotokopierdienst, Buchbinderei;Büromaterial;3000;Aufwand
+496;2018;Fachbereich 1 (Hauptamt);Post- und Telfonzentrale;Büromaterial;600;Aufwand
+497;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Büromaterial;500;Aufwand
+498;2018;Fachbereich 1 (Hauptamt);Überwachung ruhender Verkehr;Büromaterial (Verwarnungsvordrucke);1000;Aufwand
+499;2018;Fachbereich 1 (Hauptamt);Zentrale Beschaffung;Bürobedarf;12000;Aufwand
+500;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Büromaterial;100;Aufwand
+501;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Büromaterial, Vordrucke u.a.;200;Aufwand
+502;2018;Fachbereich 1 (Hauptamt);Schiedswesen;Fachliteratur,  Zeitschriften;60;Aufwand
+503;2018;Fachbereich 1 (Hauptamt);Genehmigung Straßenverkehr;Fachliteratur, Zeitschriften;200;Aufwand
+504;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Fachliteratur,  Zeitschriften;150;Aufwand
+505;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Fachliteratur, Zeitschriften;800;Aufwand
+506;2018;Fachbereich 1 (Hauptamt);Statistik, Wahlen;Fachliteratur, Zeitschriften;650;Aufwand
+507;2018;Fachbereich 1 (Hauptamt);Personal;Fachliteratur, Zeitschriften;1000;Aufwand
+508;2018;Fachbereich 1 (Hauptamt);Zentrale Beschaffung;Fachliteratur,  Zeitschriften;3500;Aufwand
+509;2018;Fachbereich 1 (Hauptamt);Passangelegenheiten;Bücher und Zeitschriften;250;Aufwand
+510;2018;Fachbereich 1 (Hauptamt);Post- und Telfonzentrale;Porto und Versandkosten;28000;Aufwand
+511;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Steuern;Porto und Versandkosten;600;Aufwand
+512;2018;Fachbereich 1 (Hauptamt);Überwachung ruhender Verkehr;Porto und Versandkosten;100;Aufwand
+513;2018;Fachbereich 1 (Hauptamt);Post- und Telfonzentrale;Telefon, Datenübertragungskosten;4500;Aufwand
+514;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Telefon, Datenübertragungskosten;100;Aufwand
+515;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Telefon, Datenübertragungskosten;50;Aufwand
+516;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Telefon, Datenübertragungskosten;30;Aufwand
+517;2018;Fachbereich 1 (Hauptamt);Technikunterstützte Informationsverwaltung;Datenübertragungsgebühren;7000;Aufwand
+518;2018;Fachbereich 1 (Hauptamt);Öffentlichkeitsarbeit;Öffentliche Bekanntmachungen;10000;Aufwand
+519;2018;Fachbereich 1 (Hauptamt);Personal;Öffentliche Bekanntmachungen;1500;Aufwand
+520;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Geschäftsaufwendungen / öffentliche Bekanntmachungen;1000;Aufwand
+521;2018;Fachbereich 1 (Hauptamt);Gleichstellung;Öffentlichkeitsarbeit;200;Aufwand
+522;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Werbung -Internet;10000;Aufwand
+523;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Kontogebühren;7000;Aufwand
+524;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Gebühren u. Beiträge;Geschäftsaufwendungen (Kuvertierkosten etc.);2000;Aufwand
+525;2018;Fachbereich 1 (Hauptamt);Photovoltaikanlage;Geschäftsaufwendungen / Sonstiges;200;Aufwand
+526;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Weitere Verwaltungs-u.Betriebsausgaben;10000;Aufwand
+527;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Sonstiges;8000;Aufwand
+528;2018;Fachbereich 1 (Hauptamt);Wirtschaftsförderung;Bürgerbus;1000;Aufwand
+529;2018;Fachbereich 1 (Hauptamt);Photovoltaikanlage;Geschäftsaufwendungen / Sonstiges;300;Aufwand
+530;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Geschäftsaufwendungen / Sonstiges;100;Aufwand
+531;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Steuern;Geschäftsaufwendungen (Kuvertierkosten etc.);2000;Aufwand
+532;2018;Fachbereich 1 (Hauptamt);Photovoltaikanlage;Geschäftsaufwendungen / Sonstiges;500;Aufwand
+533;2018;Fachbereich 1 (Hauptamt);Zentrale Beschaffung;Geschäftsaufwendungen / Sonstiges;100;Aufwand
+534;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Sonstige Geschäftsausgaben;500;Aufwand
+535;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Geschäftsaufwendungen / Sonstiges;40;Aufwand
+536;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Versicherungen;100;Aufwand
+537;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Gebäudeversicherung;4000;Aufwand
+538;2018;Fachbereich 1 (Hauptamt);Mietwohngrundstücke;Versicherungen;150;Aufwand
+539;2018;Fachbereich 1 (Hauptamt);Fuhrpark;Kfz-Versicherungen;3000;Aufwand
+540;2018;Fachbereich 1 (Hauptamt);Personal;Sammeldiensthaftpflicht;1100;Aufwand
+541;2018;Fachbereich 1 (Hauptamt);Radwege;Haftpflichtversicherungen;100;Aufwand
+542;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Haftpflichtversicherungen;400;Aufwand
+543;2018;Fachbereich 1 (Hauptamt);Versicherungen;Unfallversicherungen;25000;Aufwand
+544;2018;Fachbereich 1 (Hauptamt);Versicherungen;Rechtsschutzversicherungen;1220;Aufwand
+545;2018;Fachbereich 1 (Hauptamt);Versicherungen;Sonstige Versicherungen;3500;Aufwand
+546;2018;Fachbereich 1 (Hauptamt);Photovoltaikanlage;Sonstige Versicherungen;90;Aufwand
+547;2018;Fachbereich 1 (Hauptamt);Photovoltaikanlage;Sonstige Versicherungen;150;Aufwand
+548;2018;Fachbereich 1 (Hauptamt);Hausdruckerei, Fotokopierdienst, Buchbinderei;Sonstige Versicherungen;1100;Aufwand
+549;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Sonstige Versicherungen (Sachversicherungen);500;Aufwand
+550;2018;Fachbereich 1 (Hauptamt);Photovoltaikanlage;Sonstige Versicherungen;150;Aufwand
+551;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Kassenversicherung u.ähnliches;18000;Aufwand
+552;2018;Fachbereich 1 (Hauptamt);Personal;Mitgliedsbeiträge;650;Aufwand
+553;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Beiträge für Gemeidekassenverband;50;Aufwand
+554;2018;Fachbereich 1 (Hauptamt);Schiedswesen;Mitgliedsbeiträge;250;Aufwand
+555;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Mitgliedsbeiträge    (KAV);1250;Aufwand
+556;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Mitgliedsbeiträge - Fremdenverkehr;8500;Aufwand
+557;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Mitgliedsbeiträge;100;Aufwand
+558;2018;Fachbereich 1 (Hauptamt);Mietwohngrundstücke;Grundsteuer;180;Aufwand
+559;2018;Fachbereich 1 (Hauptamt);Liegenschaften;Grundsteuer;5;Aufwand
+560;2018;Fachbereich 1 (Hauptamt);Fuhrpark;Kfz-Steuer;450;Aufwand
+561;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Verfügungsmittel des Bürgermeisters;2000;Aufwand
+562;2018;Fachbereich 1 (Hauptamt);Öffentlichkeitsarbeit;Repräsentationsmittel;3500;Aufwand
+563;2018;Fachbereich 1 (Hauptamt);Ehrungen, Jubiläen;Ehrung, Jubiläum;4000;Aufwand
+564;2018;Fachbereich 1 (Hauptamt);Sonstige allgemeine Finanzwirtschaft;Zinsen an den Kreditmarkt;38000;Aufwand
+565;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Zinsaufwendungen an den inländischen Geldmarkt;20000;Aufwand
+566;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Heizung;22000;Aufwand
+567;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Reinigung;700;Aufwand
+568;2018;Fachbereich 1 (Hauptamt);Photovoltaikanlage;Strom;20;Aufwand
+569;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Strom;24000;Aufwand
+570;2018;Fachbereich 1 (Hauptamt);Mietwohngrundstücke;Abgaben;400;Aufwand
+571;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Abgaben;7500;Aufwand
+572;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;"Geschäftsaufwendungen Projekt ""Notinsel""";1000;Aufwand
+573;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;"Kostenerstattung ""Pfälzer Waldpfad""";8000;Aufwand
+574;2018;Fachbereich 1 (Hauptamt);Steuern allg. Zuweisung, allg. Umlagen;Vergnügungssteuer;60000;Ertrag
+575;2018;Fachbereich 1 (Hauptamt);Steuern allg. Zuweisung, allg. Umlagen;Schlüsselzuweisung B1;141400;Ertrag
+576;2018;Fachbereich 1 (Hauptamt);Steuern allg. Zuweisung, allg. Umlagen;Schlüsselzuweisungen B2;1593300;Ertrag
+577;2018;Fachbereich 1 (Hauptamt);Steuern allg. Zuweisung, allg. Umlagen;Investitionsschlüsselzuweisungen;54700;Ertrag
+578;2018;Fachbereich 1 (Hauptamt);GS Clausen-Donsieders;Zuweisungen und Zuschüsse für laufende Zwecke  vom Landkreis;9000;Ertrag
+579;2018;Fachbereich 1 (Hauptamt);GS - Rodalben;Zuweisungen und Zuschüsse für laufende Zwecke / vom Landkreis;23000;Ertrag
+580;2018;Fachbereich 1 (Hauptamt);GS Münchweiler;Zuweisungen und Zuschüsse für laufende Zwecke / vom Landkreis;10000;Ertrag
+581;2018;Fachbereich 1 (Hauptamt);Feuerwehr - Gefahrenbekämpfung;Sonderposten aus Zuwendungen;669;Ertrag
+582;2018;Fachbereich 1 (Hauptamt);Radwege;Sonderposten aus Zuwendungen;14670;Ertrag
+583;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Sonderposten aus Zuwendungen;16254;Ertrag
+584;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Sonderposten aus Zuwendungen;624;Ertrag
+585;2018;Fachbereich 1 (Hauptamt);Steuern allg. Zuweisung, allg. Umlagen;Verbandsgemeindeumlage;3303400;Ertrag
+586;2018;Fachbereich 1 (Hauptamt);Genehmigung Straßenverkehr;Verkehrspolizeiliche Genehmigungen;9000;Ertrag
+587;2018;Fachbereich 1 (Hauptamt);Schiedswesen;Schiedsgebühren;150;Ertrag
+588;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Verwaltungsgebühren / Sonstiges;1500;Ertrag
+589;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;sonst. Verwaltungsgebühren;200;Ertrag
+590;2018;Fachbereich 1 (Hauptamt);GS Clausen-Donsieders;Entgelte für Nachmittagsbetreuung;15000;Ertrag
+591;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Einnahmen aus Verkauf;1500;Ertrag
+592;2018;Fachbereich 1 (Hauptamt);Mietwohngrundstücke;Mieten;4800;Ertrag
+593;2018;Fachbereich 1 (Hauptamt);GS - Leimen-Merzalben;Mieten und Pachten;300;Ertrag
+594;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Miete VG-Werke, Landkreis, Stadt Rod.;28000;Ertrag
+595;2018;Fachbereich 1 (Hauptamt);Liegenschaften;Pachtzins für gemeindeeigene Grundstücke;120;Ertrag
+596;2018;Fachbereich 1 (Hauptamt);Kommunale Sportstätten und Bäder;Mieten und Pachten;1261;Ertrag
+597;2018;Fachbereich 1 (Hauptamt);Mietwohngrundstücke;Nebenabgaben zur Miete;1200;Ertrag
+598;2018;Fachbereich 1 (Hauptamt);Photovoltaikanlage;Einspeisevergütung;13000;Ertrag
+599;2018;Fachbereich 1 (Hauptamt);GS - Leimen-Merzalben;vermischte Einnahmen;600;Ertrag
+600;2018;Fachbereich 1 (Hauptamt);Photovoltaikanlage;Privatrechtliche Leistungsentgelte / Sonstige;11000;Ertrag
+601;2018;Fachbereich 1 (Hauptamt);Photovoltaikanlage;Privatrechtliche Leistungsentgelte / Sonstige;5000;Ertrag
+602;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Sonstige Erträge - Nebenabgaben;17000;Ertrag
+603;2018;Fachbereich 1 (Hauptamt);Photovoltaikanlage;Privatrechtliche Leistungsentgelte / Sonstige;5000;Ertrag
+604;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Personalkostenanteile Werke, für Bgm. u. Beig.;29000;Ertrag
+605;2018;Fachbereich 1 (Hauptamt);Hausdruckerei, Fotokopierdienst, Buchbinderei;Rückersätze (Fotokopien u.ähnliches) v. Eigenbetrieben;2000;Ertrag
+606;2018;Fachbereich 1 (Hauptamt);Post- und Telfonzentrale;Kostenersatz v. Eigenbetrieben;3000;Ertrag
+607;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Erstattungen - VG Werke;70000;Ertrag
+608;2018;Fachbereich 1 (Hauptamt);Steuern allg. Zuweisung, allg. Umlagen;Sonderumlage Stadt Rodalben;15000;Ertrag
+609;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Erst.Personalkosten für abg. Personal;20000;Ertrag
+610;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Kostenerstattungen und Kostenumlagen / vom sonstigen privaten Bereich;200;Ertrag
+611;2018;Fachbereich 1 (Hauptamt);Hausdruckerei, Fotokopierdienst, Buchbinderei;Kostenerstattungen vom privaten Bereich;200;Ertrag
+612;2018;Fachbereich 1 (Hauptamt);Post- und Telfonzentrale;Kostenerstattungen vom privaten Bereich;100;Ertrag
+613;2018;Fachbereich 1 (Hauptamt);Personal;Kostenerstattungen (Diensthaftplicht);1000;Ertrag
+614;2018;Fachbereich 1 (Hauptamt);Tourismusförderung;Erstattungen übrige Bereiche;5000;Ertrag
+615;2018;Fachbereich 1 (Hauptamt);Überwachung ruhender Verkehr;Verwarnungsgelder, Bußgelder u.a.;27000;Ertrag
+616;2018;Fachbereich 1 (Hauptamt);Verkehrssicherheit;Bußgelder, Verwarnungsgelder u.a.;100;Ertrag
+617;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Bußgelder;1500;Ertrag
+618;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Säumniszuschl., Mahngeb. Vollstreckungskosten u.a.;25000;Ertrag
+619;2018;Fachbereich 1 (Hauptamt);GS - Rodalben;Versicherungserstattungen;1000;Ertrag
+620;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Weitere sonstige laufende Erträge / Sonstige;207;Ertrag
+621;2018;Fachbereich 1 (Hauptamt);Hilfe zum Lebensunterhalt (3. Kapitel SGB XII);Weitere sonstige laufende Erträge / Sonstige;31;Ertrag
+622;2018;Fachbereich 1 (Hauptamt);Raumordnung, Landesplanung;Weitere sonstige laufende Erträge / Sonstige;202;Ertrag
+623;2018;Fachbereich 1 (Hauptamt);Statistik, Wahlen;Weitere sonstige laufende Erträge / Sonstige;31;Ertrag
+624;2018;Fachbereich 1 (Hauptamt);Personal;Eigenanteil Beihilfe;4500;Ertrag
+625;2018;Fachbereich 1 (Hauptamt);Gewerberecht;Weitere sonstige laufende Erträge / Sonstige;125;Ertrag
+626;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Eigenanteil Beihilfe;280;Ertrag
+627;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Steuern;Weitere sonstige laufende Erträge / Sonstige;156;Ertrag
+628;2018;Fachbereich 1 (Hauptamt);Haushalts- und Finanzplanung;Weitere sonstige laufende Erträge / Sonstige;312;Ertrag
+629;2018;Fachbereich 1 (Hauptamt);Feuerwehr - Gefahrenbekämpfung;Weitere sonstige laufende Erträge / Sonstige;156;Ertrag
+630;2018;Fachbereich 1 (Hauptamt);Bauantrag, Baugenehmigung;Weitere sonstige laufende Erträge / Sonstige;62;Ertrag
+631;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Weitere sonstige laufende Erträge / Sonstige;795;Ertrag
+632;2018;Fachbereich 1 (Hauptamt);Rechnungswesen;Weitere sonstige laufende Erträge / Sonstige;500;Ertrag
+633;2018;Fachbereich 1 (Hauptamt);Grundsicherung im Alter;Weitere sonstige laufende Erträge / Sonstige;31;Ertrag
+634;2018;Fachbereich 1 (Hauptamt);Allgemeinde Schulverwaltung;Weitere sonstige laufende Erträge / Sonstige;187;Ertrag
+635;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Weitere sonstige laufende Erträge / Sonstige;312;Ertrag
+636;2018;Fachbereich 1 (Hauptamt);Freistellungsverfahren;Weitere sonstige laufende Erträge / Sonstige;62;Ertrag
+637;2018;Fachbereich 1 (Hauptamt);Sportförderung;Weitere sonstige laufende Erträge / Sonstige;31;Ertrag
+638;2018;Fachbereich 1 (Hauptamt);Kaufmännisches Gebäudemanagement;Weitere sonstige laufende Erträge / Sonstige;312;Ertrag
+639;2018;Fachbereich 1 (Hauptamt);Grundsicherung für Arbeitssuchende (SGB II);Weitere sonstige laufende Erträge / Sonstige;31;Ertrag
+640;2018;Fachbereich 1 (Hauptamt);Gaststättenrecht;Weitere sonstige laufende Erträge / Sonstige;31;Ertrag
+641;2018;Fachbereich 1 (Hauptamt);Festsetzung u. Erhebung v. Gebühren u. Beiträge;Weitere sonstige laufende Erträge / Sonstige;31;Ertrag
+642;2018;Fachbereich 1 (Hauptamt);Versicherungen;Weitere sonstige laufende Erträge / Sonstige;31;Ertrag
+643;2018;Fachbereich 1 (Hauptamt);Leistungen für Dritte (Ortsgemeinden etc.);Erträge aus der Auflösung von Rückstellungen;22000;Ertrag
+644;2018;Fachbereich 1 (Hauptamt);Leistungen für VG-Werke;Erträge aus der Auflösung von Rückstellungen;69600;Ertrag
+645;2018;Fachbereich 1 (Hauptamt);Verwaltungssteuerung;Erträge aus der Auflösung von Rückstellungen;734200;Ertrag
+646;2018;Fachbereich 1 (Hauptamt);Personal;Erträge aus der Auflösung von Rückstellungen;24300;Ertrag
+647;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Erträge aus der Auflösung von Rückstellungen;47000;Ertrag
+648;2018;Fachbereich 1 (Hauptamt);Mahnung, Vollstreckung;Erträge aus der Auflösung von Rückstellungen;80000;Ertrag
+649;2018;Fachbereich 1 (Hauptamt);Feuerwehr - Gefahrenbekämpfung;Erträge aus der Auflösung von Rückstellungen;55000;Ertrag
+650;2018;Fachbereich 1 (Hauptamt);Zahlungsabwicklung;Zinserträge von Gemeinden und Gemeindeverbänden;31200;Ertrag
+651;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Obdachloseneinweisung - Ersätze -;1000;Ertrag
+652;2018;Fachbereich 1 (Hauptamt);sonst. Ordnungsangelegenheiten;Kostenerstattungen -Bestattungskosten-;1000;Ertrag
+653;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Unterhaltung -Grundstücke u.baul.Anlagen;25000;Aufwand
+654;2018;Fachbereich 2 (Bauverwaltung);Unterhaltung von öffentlichen Gewässern;Unterhaltung des Infrastrukturvermögens / Sonstiges;1000;Aufwand
+655;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Betriebs- und Schmierstoffe;500;Aufwand
+656;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Unterhaltung der Maschinen und technischen Anlagen;1000;Aufwand
+657;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Unterhaltung der Betriebs- und Geschäftsausstattung;500;Aufwand
+658;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Geringw. Geräte, Ausstatt-u. Ausrüstungsgegenstände;500;Aufwand
+659;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Verbandsstoffe, Sanitätsverbrauchsmaterial;100;Aufwand
+660;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Sonstige Verbrauchsmittel;700;Aufwand
+661;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Abschreibungen auf bebaute Grundstücke  / mit Sportanlagen;786;Aufwand
+662;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Abschreibungen auf Betriebsausstattung;55;Aufwand
+663;2018;Fachbereich 2 (Bauverwaltung);Technikunterstützte Informationsverwaltung;Abschreibungen auf Betriebsausstattung;1309;Aufwand
+664;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Abschreibungen auf Betriebsausstattung;272;Aufwand
+665;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Abschreibungen auf Geschäftsausstattung;409;Aufwand
+666;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Mieten und Pachten;250;Aufwand
+667;2018;Fachbereich 2 (Bauverwaltung);Verkehrsanlagen;"Vergütungen an Sachverständige ""Baumkataster""";1000;Aufwand
+668;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Geschäftsaufwendungen / Sonstiges;600;Aufwand
+669;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Versicherungen;200;Aufwand
+670;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Sonstige Versicherungen;50;Aufwand
+671;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;"Aufwendungen für Heizung - Sporthalle ""Am Rathaus""";10000;Aufwand
+672;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Reinigung;500;Aufwand
+673;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Strom;5000;Aufwand
+674;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Abgaben;3000;Aufwand
+675;2018;Fachbereich 2 (Bauverwaltung);Raumordnung, Landesplanung;Verwaltungsgebühren - Baugenehmigungen -;2000;Ertrag
+676;2018;Fachbereich 2 (Bauverwaltung);Freistellungsverfahren;Verwaltungsgebühren;1500;Ertrag
+677;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;Entgelte / Sonstiges;8000;Ertrag
+678;2018;Fachbereich 2 (Bauverwaltung);Kommunale Sportstätten und Bäder;"Kostenerstattungen - Sporthalle ""Am Rathaus""";11000;Ertrag
+679;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Sonstige Aufwendungen  (Erstattungen Lohnausfall etc.);22500;Aufwand
+680;2018;Fachbereich 3 (Bürgerdienste);Grundleistungen (§ 3 AsylbLG);Leistungszulagen;750;Aufwand
+681;2018;Fachbereich 3 (Bürgerdienste);Grundleistungen (§ 3 AsylbLG);Personalnebenaufwendungen / Arbeitnehmer;50;Aufwand
+682;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Unterhaltung-Grundstücke u.baul. Anlagen;40000;Aufwand
+683;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Unterhaltung-Grundstücke u.baul. Anlagen;15000;Aufwand
+684;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Unterhaltung-Grundstücke u.baul. Anlagen;5000;Aufwand
+685;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Unterhaltung der Grundstücke;500;Aufwand
+686;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Unterhaltung-Grundstücke u.baul. Anlagen;5000;Aufwand
+687;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrhäuser;Unterhaltung -Grundstücke u.baul.Anlagen;35000;Aufwand
+688;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrfahrzeuge u. technisches Gerät;Wartungs- und Instandsetzungskosten;35000;Aufwand
+689;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Betriebs- und Schmierstoffe;200;Aufwand
+690;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Betriebs- und Schmierstoffe;50;Aufwand
+691;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Betriebs- und Schmierstoffe;100;Aufwand
+692;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrfahrzeuge u. technisches Gerät;Betriebs- u. Schmierstoffe;7000;Aufwand
+693;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrfahrzeuge u. technisches Gerät;Reifen;4000;Aufwand
+694;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrfahrzeuge u. technisches Gerät;Sonstiges - Reparaturen, Ersatzteile, TÜV etc.;3500;Aufwand
+695;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Unterhaltung der technischen Anlagen (BHKW);5000;Aufwand
+696;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrhäuser;Unterhaltung der Betriebs- und Geschäftsausstattung;1000;Aufwand
+697;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Unterhaltung der Betriebs- und Geschäftsausstattung;13000;Aufwand
+698;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Unterhaltung der Betriebs- und Geschäftsausstattung;1000;Aufwand
+699;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Unterhaltung der Betriebs- und Geschäftsausstattung;1500;Aufwand
+700;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Unterhaltung der Betriebs- und Geschäftsausstattung;500;Aufwand
+701;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Unterhaltung der Betriebs- und Geschäftsausstattung;5000;Aufwand
+702;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrfahrzeuge u. technisches Gerät;Unterhaltung der Betriebs- und Geschäftsausstattung;4000;Aufwand
+703;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrhäuser;Geringw. Geräte, Ausstattungs-, Ausrüstungsgegenstände;1500;Aufwand
+704;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Geringw. Geräte, Ausstatt- u. Ausrüstungsgegenstände;5000;Aufwand
+705;2018;Fachbereich 3 (Bürgerdienste);Gewerberecht;Geringwertige Geräte, Ausstattungs-, Ausrüstungs- und sonstige Gebrauchsgegenstände;300;Aufwand
+706;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrfahrzeuge u. technisches Gerät;Geringw. Geräte, Ausstattungs-, Ausrüstungsgegenstände;1000;Aufwand
+707;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Gringw. Geräte,Ausstattungs- u.Ausrüstungsgegenstände;8000;Aufwand
+708;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Geringw. Geräte, Ausstatt- u. Ausrüstungsgegenstände;10000;Aufwand
+709;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Geringw. Geräte, Ausstatt.- u. Ausrüstungsgegenstände;8000;Aufwand
+710;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Geringw. Geräte, Ausstatt- u. Ausrüstungsgegenstände;19000;Aufwand
+711;2018;Fachbereich 3 (Bürgerdienste);Allgemeinde Schulverwaltung;Schülerbeförderungskosten;8000;Aufwand
+712;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Essenskosten;12000;Aufwand
+713;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Essenskosten;3800;Aufwand
+714;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Essenskosten;9000;Aufwand
+715;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Tagesessen;40000;Aufwand
+716;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Arzneimittel, Verbandsstoffe, Sanitätsverbrauchsmaterial;300;Aufwand
+717;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Lehr- und Unterrichtsmittel;500;Aufwand
+718;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Laborbedarf, Werkstättenbedarf, Lebensmittel, Arzneimittel, Verbandsstoffe, Sanitätsverbrauchsmaterial, Baumaterial, sonstiger Anstaltsbedarf, Saat- und Pflanzgut;500;Aufwand
+719;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Arzneimittel, Verbandsstoffe, Sanitätsverbrauchsmaterial;300;Aufwand
+720;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Laborbedarf, Werkstättenbedarf, u.a.;500;Aufwand
+721;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Verbrauchsmittel an Schulen: Lehr- und Unterrichtsmittel;800;Aufwand
+722;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Verbrauchsmittel: Lehr- und Unterrichtsmittel;1000;Aufwand
+723;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Verbrauchsmittel: Lehr- und Unterrichtsmittel;3000;Aufwand
+724;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Verbrauchsmittel: Lehr- und Unterrichtsmittel;5200;Aufwand
+725;2018;Fachbereich 3 (Bürgerdienste);Lernmittelfreiheit - Schulbuchausleihe;Verbrauchsmittel an Schulen: Lehr- und Unterrichtsmittel;4000;Aufwand
+726;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Sonstige Verbrauchsmittel;1400;Aufwand
+727;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Sonstige Verbrauchsmittel;2000;Aufwand
+728;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Sonstige Verbrauchsmittel;4000;Aufwand
+729;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrhäuser;Sonstige Verbrauchsmittel;500;Aufwand
+730;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Sonstige Verbrauchsmittel;800;Aufwand
+731;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Sonstige Verbrauchsmittel;1000;Aufwand
+732;2018;Fachbereich 3 (Bürgerdienste);Lernmittelfreiheit - Schulbuchausleihe;Kostenerstattungen an den öffentlichen Bereich;1000;Aufwand
+733;2018;Fachbereich 3 (Bürgerdienste);Standesamt;Kostenerstattungen öffentlicher Bereich;240;Aufwand
+734;2018;Fachbereich 3 (Bürgerdienste);Passangelegenheiten;Kosten für Personalausweise u. Reisepässe;49000;Aufwand
+735;2018;Fachbereich 3 (Bürgerdienste);Standesamt;Abschreibungen auf immaterielle Vermögensgegenstände;246;Aufwand
+736;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Abschreibungen auf bebaute Grundstücke / mit Schulgebäuden und Turnhallen;3316;Aufwand
+737;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Abschreibungen auf bebaute Grundstücke / mit Schulgebäuden und Turnhallen;21655;Aufwand
+738;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Abschreibungen auf bebaute Grundstücke / mit Schulgebäuden und Turnhallen;7888;Aufwand
+739;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Abschreibungen auf bebaute Grundstücke / mit Schulgebäuden und Turnhallen;26606;Aufwand
+740;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrhäuser;Abschreibungen auf bebaute Grundstücke;30827;Aufwand
+741;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrfahrzeuge u. technisches Gerät;Abschreibungen auf Fahrzeuge;8919;Aufwand
+742;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrfahrzeuge u. technisches Gerät;Abschreibungen auf Maschinen und technische Anlagen;3305;Aufwand
+743;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrfahrzeuge u. technisches Gerät;Abschreibungen auf Maschinen und technische Anlagen;874;Aufwand
+744;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Abschreibungen auf Betriebsausstattung;3277;Aufwand
+745;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Abschreibungen auf Betriebsausstattung;70;Aufwand
+746;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrfahrzeuge u. technisches Gerät;Abschreibungen auf Betriebsausstattung;163;Aufwand
+747;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrfahrzeuge u. technisches Gerät;Abschreibungen auf Geschäftsausstattung;50;Aufwand
+748;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrhäuser;Abschreibungen auf Geschäftsausstattung;131;Aufwand
+749;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Abschreibungen auf Geschäftsausstattung;756;Aufwand
+750;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Abschreibungen auf Geschäftsausstattung;1919;Aufwand
+751;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Abschreibungen auf Geschäftsausstattung;353;Aufwand
+752;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Abschreibungen auf Geschäftsausstattung;632;Aufwand
+753;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Abschreibungen auf Geschäftsausstattung;2333;Aufwand
+754;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrhäuser;Abschreibungen auf Geschäftsausstattung;561;Aufwand
+755;2018;Fachbereich 3 (Bürgerdienste);Kommunale Sportstätten und Bäder;Abschreibungen auf Geschäftsausstattung;1162;Aufwand
+756;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Abschreibungen auf Geschäftsausstattung;1113;Aufwand
+757;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Abschreibungen auf Geschäftsausstattung;125;Aufwand
+758;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Abschreibungen auf Geschäftsausstattung;702;Aufwand
+759;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Abschreibungen auf Geschäftsausstattung;140;Aufwand
+760;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Abschreibungen auf Geschäftsausstattung;387;Aufwand
+761;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Abschreibungen auf Geschäftsausstattung;10341;Aufwand
+762;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Zuschüsse Abschlussfahrten;500;Aufwand
+763;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Zuweisung an Kameradschaftskasse;1000;Aufwand
+764;2018;Fachbereich 3 (Bürgerdienste);Heimat u. sonst. Kulturpflege;Zuschüsse für laufende Zwecke / an Sonstige;5000;Aufwand
+765;2018;Fachbereich 3 (Bürgerdienste);Sportförderung;Zuschüsse an Sportvereine;7000;Aufwand
+766;2018;Fachbereich 3 (Bürgerdienste);Förderung Einrichtungen Dritter;"Zuweisungen an ""OK"" u. Volksbildungswerk";10000;Aufwand
+767;2018;Fachbereich 3 (Bürgerdienste);Grundsicherung für Arbeitssuchende (SGB II);Kostenbeteiligungen nach SGB II / an Landkreise;130000;Aufwand
+768;2018;Fachbereich 3 (Bürgerdienste);Grundsicherung im Alter;Anteil VG an Grundsicherung (25%);40000;Aufwand
+769;2018;Fachbereich 3 (Bürgerdienste);Hilfe zum Lebensunterhalt (3. Kapitel SGB XII);Kostenbeteiligungen gem. AGSGB XII - örtliche Träger;12000;Aufwand
+770;2018;Fachbereich 3 (Bürgerdienste);Arbeitsgelegenheiten (§ 5 AsylbLG);Gemeinnützige Tätigkeiten;2000;Aufwand
+771;2018;Fachbereich 3 (Bürgerdienste);Leistungen in besonderen Fällen (§ 2 AsylbLG);Leistungen nach dem AsylbLG;55000;Aufwand
+772;2018;Fachbereich 3 (Bürgerdienste);Grundleistungen (§ 3 AsylbLG);Leistungen nach dem AsylblG;80000;Aufwand
+773;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Aufwendungen für Aus- und Fortbildung, Umschulung;200;Aufwand
+774;2018;Fachbereich 3 (Bürgerdienste);Allgemeinde Schulverwaltung;Aufwendungen für Aus- und Fortbildung, Umschulung;260;Aufwand
+775;2018;Fachbereich 3 (Bürgerdienste);Aus u. Fortbildung;Aufwendungen für Aus- und Fortbildung, Umschulung;8000;Aufwand
+776;2018;Fachbereich 3 (Bürgerdienste);Standesamt;Aufwendungen für Aus- und Fortbildung, Umschulung;3000;Aufwand
+777;2018;Fachbereich 3 (Bürgerdienste);Gewerberecht;Aufwendungen für Aus- und Fortbildung, Umschulung;600;Aufwand
+778;2018;Fachbereich 3 (Bürgerdienste);Grundleistungen (§ 3 AsylbLG);Aufwendungen für Aus- und Fortbildung, Umschulung;600;Aufwand
+779;2018;Fachbereich 3 (Bürgerdienste);Passangelegenheiten;Aufwendungen für Aus- und Fortbildung, Umschulung;600;Aufwand
+780;2018;Fachbereich 3 (Bürgerdienste);Standesamt;Dienstreisen;1200;Aufwand
+781;2018;Fachbereich 3 (Bürgerdienste);Gewerberecht;Dienstreisen;100;Aufwand
+782;2018;Fachbereich 3 (Bürgerdienste);Aus u. Fortbildung;Dienstreisen;200;Aufwand
+783;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Aufwendungen für Dienst- und Schutzkleidung;9000;Aufwand
+784;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Miete (Schillerhalle u. Turnhalle TV-Clausen);8000;Aufwand
+785;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Leasing (Kopiergeräte, Telefonanlagen, etc.);1000;Aufwand
+786;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Leasing;500;Aufwand
+787;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Leasing (Kopiergeräte, Telefonanlagen, etc.);4500;Aufwand
+788;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Leasing (Kopiergeräte, Telefonanlagen, etc.);1300;Aufwand
+789;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Leasing (Kopiergeräte, Telefonanlagen, etc.);1600;Aufwand
+790;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Datenverarbeitung / laufende Lizenzaufwendungen;200;Aufwand
+791;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Datenverarbeitung / laufende Lizenzaufwendungen;1000;Aufwand
+792;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Datenverarbeitung / laufende Lizenzaufwendungen;200;Aufwand
+793;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Datenverarbeitung / laufende Lizenzaufwendungen;500;Aufwand
+794;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Datenverarbeitung / laufende Lizenzaufwendungen;1000;Aufwand
+795;2018;Fachbereich 3 (Bürgerdienste);Standesamt;Unterhaltung Software, Updates;12000;Aufwand
+796;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Unterhaltung Software, Updates;4500;Aufwand
+797;2018;Fachbereich 3 (Bürgerdienste);Gewerberecht;Unterhaltung Software, Updates;1000;Aufwand
+798;2018;Fachbereich 3 (Bürgerdienste);Leistungen für Dritte (Ortsgemeinden etc.);Hauptuntersuchung Spielplätzte;3000;Aufwand
+799;2018;Fachbereich 3 (Bürgerdienste);Grundleistungen (§ 3 AsylbLG);Gerichts-, Anwalts-, Notar-, Gerichtsvollzieherkosten;500;Aufwand
+800;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Sonstige Aufwendungen für Dienstleistungen;100;Aufwand
+801;2018;Fachbereich 3 (Bürgerdienste);Meldeangelegenheiten;Büromaterial;600;Aufwand
+802;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Bürobedarf;1000;Aufwand
+803;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Bürobedarf;200;Aufwand
+804;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Bürobedarf;300;Aufwand
+805;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Bürobedarf;200;Aufwand
+806;2018;Fachbereich 3 (Bürgerdienste);Standesamt;Büromaterial;100;Aufwand
+807;2018;Fachbereich 3 (Bürgerdienste);Passangelegenheiten;Büromaterial;100;Aufwand
+808;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Bürobedarf;1200;Aufwand
+809;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Fachliteratur,  Zeitschriften;300;Aufwand
+810;2018;Fachbereich 3 (Bürgerdienste);Gewerberecht;Fachliteratur, Zeitschriften;360;Aufwand
+811;2018;Fachbereich 3 (Bürgerdienste);Hilfe zum Lebensunterhalt (3. Kapitel SGB XII);Fachliteratur,  Zeitschriften;200;Aufwand
+812;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Fachliteratur,  Zeitschriften;1300;Aufwand
+813;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Fachliteratur,  Zeitschriften;400;Aufwand
+814;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Fachliteratur,  Zeitschriften;1000;Aufwand
+815;2018;Fachbereich 3 (Bürgerdienste);Standesamt;Fachliteratur, Zeitschriften;1000;Aufwand
+816;2018;Fachbereich 3 (Bürgerdienste);Meldeangelegenheiten;Fachliteratur, Zeitschriften;100;Aufwand
+817;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Fachliteratur,  Zeitschriften;800;Aufwand
+818;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Bücher;500;Aufwand
+819;2018;Fachbereich 3 (Bürgerdienste);Standesamt;Spezielle Sachausgaben -Standesamt-;1000;Aufwand
+820;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Porto und Versandkosten;200;Aufwand
+821;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Porto und Versandkosten;50;Aufwand
+822;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Porto und Versandkosten;50;Aufwand
+823;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Porto und Versandkosten;80;Aufwand
+824;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Post- u. Fernmeldegebühren;1400;Aufwand
+825;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Telefon, Datenübertragungskosten;1000;Aufwand
+826;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Telefon, Datenübertragungskosten;3000;Aufwand
+827;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Telefon, Datenübertragungskosten;1100;Aufwand
+828;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Telefon, Datenübertragungskosten;1200;Aufwand
+829;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Rundfunk- und Fernsehgebühren;500;Aufwand
+830;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Rundfunk- und Fernsehgebühren;400;Aufwand
+831;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Rundfunk- und Fernsehgebühren;200;Aufwand
+832;2018;Fachbereich 3 (Bürgerdienste);Lernmittelfreiheit - Schulbuchausleihe;Geschäftsaufwendungen / Sonstiges;50;Aufwand
+833;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Geschäftsaufwendungen / Sonstiges;1500;Aufwand
+834;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Geschäftsaufwendungen / Sonstiges;100;Aufwand
+835;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Geschäftsaufwendungen / Sonstiges;500;Aufwand
+836;2018;Fachbereich 3 (Bürgerdienste);Grundleistungen (§ 3 AsylbLG);Integrationsmaßnahmen;10000;Aufwand
+837;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Geschäftsaufwendungen / Sonstiges;500;Aufwand
+838;2018;Fachbereich 3 (Bürgerdienste);Gaststättenrecht;Geschäftsaufwendungen / Sonstiges;1700;Aufwand
+839;2018;Fachbereich 3 (Bürgerdienste);Sonstige Leistungen (§6 AsylbLG);Geschäftsaufwendungen / Sonstiges;35000;Aufwand
+840;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Geschäftsaufwendungen / Sonstiges;3000;Aufwand
+841;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Versicherungen (Gebäude);1600;Aufwand
+842;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Versicherungen (Gebäude);3100;Aufwand
+843;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Versicherungen (Gebäude);5000;Aufwand
+844;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Versicherungen (Gebäude);2800;Aufwand
+845;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrhäuser;Versicherungen;2300;Aufwand
+846;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrfahrzeuge u. technisches Gerät;Kfz- Versicherung;4500;Aufwand
+847;2018;Fachbereich 3 (Bürgerdienste);Allgemeinde Schulverwaltung;Schülerunfallversicherung;16500;Aufwand
+848;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Sonstige Versicherungen;1500;Aufwand
+849;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Sonstige Versicherungen;400;Aufwand
+850;2018;Fachbereich 3 (Bürgerdienste);Photovoltaikanlage;Sonstige Versicherungen;120;Aufwand
+851;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Sonstige Versicherungen;500;Aufwand
+852;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Sonstige Versicherungen;200;Aufwand
+853;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Sonstige Versicherungen;300;Aufwand
+854;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Beiträge zu Wirtschaftsverbänden, Berufsvertretungen und Vereinen;25;Aufwand
+855;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Beiträge zu Wirtschaftsverbänden, Berufsvertretungen und Vereinen;25;Aufwand
+856;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Mitgliedsbeiträge;1000;Aufwand
+857;2018;Fachbereich 3 (Bürgerdienste);Standesamt;Mitgliedsbeiträge;200;Aufwand
+858;2018;Fachbereich 3 (Bürgerdienste);Förderung Einrichtungen Dritter;Mitgliedsbeitrag OK;150;Aufwand
+859;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Beiträge zu Wirtschaftsverbänden, Berufsvertretungen und Vereinen;25;Aufwand
+860;2018;Fachbereich 3 (Bürgerdienste);Heimat u. sonst. Kulturpflege;Sonstige Beiträge;50;Aufwand
+861;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Grundsteuer;120;Aufwand
+862;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Heizung;50000;Aufwand
+863;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Heizung;15000;Aufwand
+864;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrhäuser;Heizung;28000;Aufwand
+865;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Heizung;25000;Aufwand
+866;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Heizung;15000;Aufwand
+867;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Reinigung;2500;Aufwand
+868;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrhäuser;Reinigung;500;Aufwand
+869;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Reinigung;22000;Aufwand
+870;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Reinigung;600;Aufwand
+871;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Reinigung;500;Aufwand
+872;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Strom;1500;Aufwand
+873;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Strom;9000;Aufwand
+874;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Strom;7000;Aufwand
+875;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Strom;5000;Aufwand
+876;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrhäuser;Strom;17000;Aufwand
+877;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Strom Turnhalle und Hallenbad (Zusatzabnahme);20000;Aufwand
+878;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Abgaben;2800;Aufwand
+879;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrhäuser;Abgaben;5500;Aufwand
+880;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Abgaben;10000;Aufwand
+881;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Abgaben;5000;Aufwand
+882;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Abgaben;5000;Aufwand
+883;2018;Fachbereich 3 (Bürgerdienste);Leistungen in besonderen Fällen (§ 2 AsylbLG);KdU Grundleistungen - Miete;30000;Aufwand
+884;2018;Fachbereich 3 (Bürgerdienste);Grundleistungen (§ 3 AsylbLG);KdU Grundleistungen - Miete;50000;Aufwand
+885;2018;Fachbereich 3 (Bürgerdienste);Grundleistungen (§ 3 AsylbLG);KdU Grundleistungen - Strom/Gas;24000;Aufwand
+886;2018;Fachbereich 3 (Bürgerdienste);Leistungen in besonderen Fällen (§ 2 AsylbLG);KdU Grundleistungen - Strom/Gas;10000;Aufwand
+887;2018;Fachbereich 3 (Bürgerdienste);Leistungen in besonderen Fällen (§ 2 AsylbLG);Sonstige allgemeine Zuweisungen / von Gemeinden und Gemeindeverbänden;50000;Ertrag
+888;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Zuweisungen für laufende Zwecke vom Bund;1000;Ertrag
+889;2018;Fachbereich 3 (Bürgerdienste);Lernmittelfreiheit - Schulbuchausleihe;Zuweisungen und Zuschüsse  vom Land;4000;Ertrag
+890;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Zuweisungen und Zuschüsse  vom Land;8000;Ertrag
+891;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Zuweisungen und Zuschüsse  vom Land;64000;Ertrag
+892;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Zuweisungen und Zuschüsse  vom Land;1900;Ertrag
+893;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Zuweisungen und Zuschüsse  vom Land;147000;Ertrag
+894;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Zuweisungen und Zuschüsse  vom Land;58500;Ertrag
+895;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Sonderposten aus Zuwendungen;16603;Ertrag
+896;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Sonderposten aus Zuwendungen;1946;Ertrag
+897;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Sonderposten aus Zuwendungen;5376;Ertrag
+898;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrhäuser;Sonderposten aus Zuwendungen;11222;Ertrag
+899;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Sonderposten aus Zuwendungen;14583;Ertrag
+900;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrfahrzeuge u. technisches Gerät;Sonderposten aus Zuwendungen;2315;Ertrag
+901;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrfahrzeuge u. technisches Gerät;Sonderposten aus Zuwendungen;11079;Ertrag
+902;2018;Fachbereich 3 (Bürgerdienste);Feuerwehrfahrzeuge u. technisches Gerät;Sonderposten aus Zuwendungen;5643;Ertrag
+903;2018;Fachbereich 3 (Bürgerdienste);Hilfe zum Lebensunterhalt (3. Kapitel SGB XII);Rückzahlung gewährter Hilfen;600;Ertrag
+904;2018;Fachbereich 3 (Bürgerdienste);Rückzahlung gewährter Hilfen (AsylbLG);Rückzahlung gewährter Hilfen;2000;Ertrag
+905;2018;Fachbereich 3 (Bürgerdienste);Leistungen in besonderen Fällen (§ 2 AsylbLG);Rückzahlung gewährter Hilfen / des überörtlichen Trägers ohne eigene Kostenbeteiligung;2000;Ertrag
+906;2018;Fachbereich 3 (Bürgerdienste);Passangelegenheiten;Gebühren für Reisepässe;25000;Ertrag
+907;2018;Fachbereich 3 (Bürgerdienste);Gaststättenrecht;Gaststätten-Gestattungen;3500;Ertrag
+908;2018;Fachbereich 3 (Bürgerdienste);Gewerberecht;Gewerbegenehmigungen;2800;Ertrag
+909;2018;Fachbereich 3 (Bürgerdienste);Gewerberecht;Verwaltungsgebühren/ Sonstiges;300;Ertrag
+910;2018;Fachbereich 3 (Bürgerdienste);Standesamt;Verwaltungsgebühren;20000;Ertrag
+911;2018;Fachbereich 3 (Bürgerdienste);Meldeangelegenheiten;Verwaltungsgebühren;12000;Ertrag
+912;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Entgelte für die Nachmittagsbetreuung;4500;Ertrag
+913;2018;Fachbereich 3 (Bürgerdienste);Lernmittelfreiheit - Schulbuchausleihe;Entgelte für die Benutzung von öffentlichen Einrichtungen;400;Ertrag
+914;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Entgelte für die Nachmittagsbetreuung;9000;Ertrag
+915;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Benutzungsgebühren - Lehrschwimmbecken;200;Ertrag
+916;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Verkauf Tagesessen;25000;Ertrag
+917;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Beteiligung Essenskosten;2500;Ertrag
+918;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Beteiligung Essenskosten;6500;Ertrag
+919;2018;Fachbereich 3 (Bürgerdienste);GS Münchweiler;Beteiligung Essenskosten;9000;Ertrag
+920;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Einspeisevergütung BHKW;20000;Ertrag
+921;2018;Fachbereich 3 (Bürgerdienste);Standesamt;Einnahmen aus Verkauf (Stammbücher etc.);800;Ertrag
+922;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Kostenerstattungen vom öffentlichen Bereich;300;Ertrag
+923;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Erstattungen vom Kreis;15000;Ertrag
+924;2018;Fachbereich 3 (Bürgerdienste);GS - Rodalben;Kostenerstattungen vom privaten Bereich;2000;Ertrag
+925;2018;Fachbereich 3 (Bürgerdienste);Feuerwehr - Gefahrenbekämpfung;Erstattungen von übrigen Bereichen;5000;Ertrag
+926;2018;Fachbereich 3 (Bürgerdienste);GS Clausen-Donsieders;Kostenerstattungen vom privaten Bereich;700;Ertrag
+927;2018;Fachbereich 3 (Bürgerdienste);Lernmittelfreiheit - Schulbuchausleihe;Kostenerstattungen und Kostenumlagen / vom sonstigen privaten Bereich;250;Ertrag
+928;2018;Fachbereich 3 (Bürgerdienste);GS - Leimen-Merzalben;Kostenerstattungen vom privaten Bereich;300;Ertrag
+929;2018;Fachbereich 3 (Bürgerdienste);Grundleistungen (§ 3 AsylbLG);Weitere sonstige laufende Erträge / Sonstige;61;Ertrag
+930;2018;Fachbereich 3 (Bürgerdienste);Passangelegenheiten;Gebühren für Personalausweise;33000;Ertrag
+931;2018;Fachbereich 3 (Bürgerdienste);Grundleistungen (§ 3 AsylbLG);Erstattungen Asylbewerberleistungsgesetz;290000;Ertrag

@@ -1,0 +1,203 @@
+art_label,produktbereich_name,produktbereich_label,amount,time_year,produktgruppe_name,produktgruppe_label
+Ertrag,1,Innere Verwaltung,461415,2012,101,"Politische Gremien, Verwaltungsführung und internationale Angelegenheiten"
+Aufwand,1,Innere Verwaltung,14818542,2012,101,"Politische Gremien, Verwaltungsführung und internationale Angelegenheiten"
+Ertrag,1,Innere Verwaltung,116113,2012,102,"Haushalts-, betriebswirtschaftliche und technische Prüfungen, Sonderprüfungen"
+Aufwand,1,Innere Verwaltung,5239085,2012,102,"Haushalts-, betriebswirtschaftliche und technische Prüfungen, Sonderprüfungen"
+Ertrag,1,Innere Verwaltung,18971262,2012,103,Personal- und Organisationsmanagement
+Aufwand,1,Innere Verwaltung,87153100,2012,103,Personal- und Organisationsmanagement
+Ertrag,1,Innere Verwaltung,6217248,2012,104,IT- und Kommunikationsdienste
+Aufwand,1,Innere Verwaltung,32567823,2012,104,IT- und Kommunikationsdienste
+Ertrag,1,Innere Verwaltung,0,2012,105,Organisationsmanagement
+Aufwand,1,Innere Verwaltung,0,2012,105,Organisationsmanagement
+Ertrag,1,Innere Verwaltung,4663913,2012,106,Zentrale Dienstleistungen
+Aufwand,1,Innere Verwaltung,45017968,2012,106,Zentrale Dienstleistungen
+Ertrag,1,Innere Verwaltung,4117695,2012,107,Rechts- und Versicherungsangelegenheiten
+Aufwand,1,Innere Verwaltung,12087333,2012,107,Rechts- und Versicherungsangelegenheiten
+Ertrag,1,Innere Verwaltung,103540056,2012,108,Zentrale Liegenschaftsangelegenheiten
+Aufwand,1,Innere Verwaltung,33736199,2012,108,Zentrale Liegenschaftsangelegenheiten
+Ertrag,1,Innere Verwaltung,13437480,2012,109,Kasse und Veranlagung gemeindl. Abgaben
+Aufwand,1,Innere Verwaltung,22348595,2012,109,Kasse und Veranlagung gemeindl. Abgaben
+Ertrag,1,Innere Verwaltung,1301018,2012,110,"Controlling, Finanzsteuerung, Rechungswesen"
+Aufwand,1,Innere Verwaltung,9042839,2012,110,"Controlling, Finanzsteuerung, Rechungswesen"
+Ertrag,1,Innere Verwaltung,1574005,2012,111,Sonstige Innere Verwaltung
+Aufwand,1,Innere Verwaltung,24937723,2012,111,Sonstige Innere Verwaltung
+Ertrag,2,Sicherheit und Ordnung,8951637,2012,201,Allgemeine Sicherheit und Ordnung
+Aufwand,2,Sicherheit und Ordnung,16104283,2012,201,Allgemeine Sicherheit und Ordnung
+Ertrag,2,Sicherheit und Ordnung,2351593,2012,202,Gewerbewesen
+Aufwand,2,Sicherheit und Ordnung,4213381,2012,202,Gewerbewesen
+Ertrag,2,Sicherheit und Ordnung,4622286,2012,203,Märkte
+Aufwand,2,Sicherheit und Ordnung,6903693,2012,203,Märkte
+Ertrag,2,Sicherheit und Ordnung,12800071,2012,204,Verkehrs- u. Kfz.-Wesen
+Aufwand,2,Sicherheit und Ordnung,8976488,2012,204,Verkehrs- u. Kfz.-Wesen
+Ertrag,2,Sicherheit und Ordnung,30857584,2012,205,Verkehrsüberwachung
+Aufwand,2,Sicherheit und Ordnung,20324044,2012,205,Verkehrsüberwachung
+Ertrag,2,Sicherheit und Ordnung,1139474,2012,206,Verbraucherschutz und Veterinäraufsicht
+Aufwand,2,Sicherheit und Ordnung,5726398,2012,206,Verbraucherschutz und Veterinäraufsicht
+Ertrag,2,Sicherheit und Ordnung,7391900,2012,207,Einwohnerangelegenheiten
+Aufwand,2,Sicherheit und Ordnung,12745568,2012,207,Einwohnerangelegenheiten
+Ertrag,2,Sicherheit und Ordnung,1943238,2012,208,Personenstandswesen
+Aufwand,2,Sicherheit und Ordnung,4095075,2012,208,Personenstandswesen
+Ertrag,2,Sicherheit und Ordnung,6621476,2012,209,Ausländerangelegenheiten
+Aufwand,2,Sicherheit und Ordnung,16599386,2012,209,Ausländerangelegenheiten
+Ertrag,2,Sicherheit und Ordnung,853146,2012,210,Statistik und Informationsmanagement
+Aufwand,2,Sicherheit und Ordnung,2344709,2012,210,Statistik und Informationsmanagement
+Ertrag,2,Sicherheit und Ordnung,739632,2012,211,Wahlen
+Aufwand,2,Sicherheit und Ordnung,2202436,2012,211,Wahlen
+Ertrag,2,Sicherheit und Ordnung,37384711,2012,212,"Brand- u. Bevölkerungsschutz, Rettungsdienst"
+Aufwand,2,Sicherheit und Ordnung,102967188,2012,212,"Brand- u. Bevölkerungsschutz, Rettungsdienst"
+Ertrag,2,Sicherheit und Ordnung,0,2012,213,Einwohner- und Bürgerbefragungen
+Aufwand,2,Sicherheit und Ordnung,0,2012,213,Einwohner- und Bürgerbefragungen
+Ertrag,3,Schulträgeraufgaben,83181791,2012,301,Schulträgeraufgaben
+Aufwand,3,Schulträgeraufgaben,355929522,2012,301,Schulträgeraufgaben
+Ertrag,4,Kultur und Wissenschaft,576211,2012,401,Museumsreferat
+Aufwand,4,Kultur und Wissenschaft,6372147,2012,401,Museumsreferat
+Ertrag,4,Kultur und Wissenschaft,4844672,2012,402,Museum Ludwig
+Aufwand,4,Kultur und Wissenschaft,13853313,2012,402,Museum Ludwig
+Ertrag,4,Kultur und Wissenschaft,1039507,2012,403,Römisch-Germanisches Museum
+Aufwand,4,Kultur und Wissenschaft,3162973,2012,403,Römisch-Germanisches Museum
+Ertrag,4,Kultur und Wissenschaft,1932999,2012,404,Rautenstrauch-Joest-Museum
+Aufwand,4,Kultur und Wissenschaft,6947641,2012,404,Rautenstrauch-Joest-Museum
+Ertrag,4,Kultur und Wissenschaft,447099,2012,405,Museum für Angewandte Kunst
+Aufwand,4,Kultur und Wissenschaft,2863626,2012,405,Museum für Angewandte Kunst
+Ertrag,4,Kultur und Wissenschaft,857176,2012,406,Museum für Ostasiatische Kunst
+Aufwand,4,Kultur und Wissenschaft,2379286,2012,406,Museum für Ostasiatische Kunst
+Ertrag,4,Kultur und Wissenschaft,521950,2012,407,Museum Schnütgen
+Aufwand,4,Kultur und Wissenschaft,1752603,2012,407,Museum Schnütgen
+Ertrag,4,Kultur und Wissenschaft,316876,2012,408,Kölnisches Stadtmuseum
+Aufwand,4,Kultur und Wissenschaft,2087547,2012,408,Kölnisches Stadtmuseum
+Ertrag,4,Kultur und Wissenschaft,181233,2012,409,Kunst- und Museumsbibliothek / Rheinisches Bildarchiv
+Aufwand,4,Kultur und Wissenschaft,2353728,2012,409,Kunst- und Museumsbibliothek / Rheinisches Bildarchiv
+Ertrag,4,Kultur und Wissenschaft,169903,2012,410,NS-Dokumentationszentrum
+Aufwand,4,Kultur und Wissenschaft,1952045,2012,410,NS-Dokumentationszentrum
+Ertrag,4,Kultur und Wissenschaft,714240,2012,411,Museumsdienst
+Aufwand,4,Kultur und Wissenschaft,1626755,2012,411,Museumsdienst
+Ertrag,4,Kultur und Wissenschaft,525781,2012,412,Historisches Archiv
+Aufwand,4,Kultur und Wissenschaft,17003155,2012,412,Historisches Archiv
+Ertrag,4,Kultur und Wissenschaft,759870,2012,413,Archäologische Zone und Jüdisches Museum
+Aufwand,4,Kultur und Wissenschaft,1506063,2012,413,Archäologische Zone und Jüdisches Museum
+Ertrag,4,Kultur und Wissenschaft,11466198,2012,414,Volkshochschule
+Aufwand,4,Kultur und Wissenschaft,17624588,2012,414,Volkshochschule
+Ertrag,4,Kultur und Wissenschaft,3401025,2012,415,Rheinische Musikschule
+Aufwand,4,Kultur und Wissenschaft,6798022,2012,415,Rheinische Musikschule
+Ertrag,4,Kultur und Wissenschaft,1326586,2012,416,Kulturförderung
+Aufwand,4,Kultur und Wissenschaft,87325200,2012,416,Kulturförderung
+Ertrag,4,Kultur und Wissenschaft,1217353,2012,417,Puppenspiele
+Aufwand,4,Kultur und Wissenschaft,2735502,2012,417,Puppenspiele
+Ertrag,4,Kultur und Wissenschaft,1782129,2012,418,Stadtbibliothek
+Aufwand,4,Kultur und Wissenschaft,13359615,2012,418,Stadtbibliothek
+Ertrag,5,Soziale Hilfen,72762670,2012,501,Leistungen nach dem  SGB XII
+Aufwand,5,Soziale Hilfen,296627707,2012,501,Leistungen nach dem  SGB XII
+Ertrag,5,Soziale Hilfen,123835520,2012,502,Kommunale Leistungen nach dem SGB II
+Aufwand,5,Soziale Hilfen,342254338,2012,502,Kommunale Leistungen nach dem SGB II
+Ertrag,5,Soziale Hilfen,15282735,2012,503,Weitere soziale Pflichtleistungen
+Aufwand,5,Soziale Hilfen,46231465,2012,503,Weitere soziale Pflichtleistungen
+Ertrag,5,Soziale Hilfen,115297,2012,504,Freiwillige Sozialleistungen und interkulturelle Hilfen
+Aufwand,5,Soziale Hilfen,7334096,2012,504,Freiwillige Sozialleistungen und interkulturelle Hilfen
+Ertrag,5,Soziale Hilfen,2804068,2012,505,Leistungen n. d. Schwerbehindertenrecht - SGB IX
+Aufwand,5,Soziale Hilfen,4016630,2012,505,Leistungen n. d. Schwerbehindertenrecht - SGB IX
+Ertrag,5,Soziale Hilfen,0,2012,506,Leistungen nach dem Lastenausgleichsgesetz
+Aufwand,5,Soziale Hilfen,718100,2012,506,Leistungen nach dem Lastenausgleichsgesetz
+Ertrag,5,Soziale Hilfen,3749304,2012,507,"Betrieb, Unterhaltung u. Förderung von Bürgerhäusern u. -zentren"
+Aufwand,5,Soziale Hilfen,8998430,2012,507,"Betrieb, Unterhaltung u. Förderung von Bürgerhäusern u. -zentren"
+Ertrag,5,Soziale Hilfen,14682026,2012,508,Leistungen für Bildung und Teilhabe
+Aufwand,5,Soziale Hilfen,14963629,2012,508,Leistungen für Bildung und Teilhabe
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",16213021,2012,601,Kinder- und jugendpädagogische Einrichtung
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",20454342,2012,601,Kinder- und jugendpädagogische Einrichtung
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",693417,2012,602,Leistungen nach dem Bundeselterngeld- und Elternzeitgesetz
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",244421,2012,602,Leistungen nach dem Bundeselterngeld- und Elternzeitgesetz
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",200493897,2012,603,Kindertagesbetreuung
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",350193932,2012,603,Kindertagesbetreuung
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",10732999,2012,604,Kinder- und Jugendarbeit
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",35929278,2012,604,Kinder- und Jugendarbeit
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",417584,2012,605,familienbezogene Beratung und Behandlung
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",4360521,2012,605,familienbezogene Beratung und Behandlung
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",18439126,2012,606,Hilfe für junge Menschen und ihre Familien
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",201357903,2012,606,Hilfe für junge Menschen und ihre Familien
+Ertrag,7,Gesundheitsdienste,4385519,2012,701,Gesundheitsdienste
+Aufwand,7,Gesundheitsdienste,33190849,2012,701,Gesundheitsdienste
+Ertrag,8,Sportförderung,3179223,2012,801,Sportförderung/Unterhaltung von Sportstätten
+Aufwand,8,Sportförderung,26553520,2012,801,Sportförderung/Unterhaltung von Sportstätten
+Ertrag,9,"Räumliche Planung und Entwicklung, Geoinformationen",127021,2012,901,Stadtplanung
+Aufwand,9,"Räumliche Planung und Entwicklung, Geoinformationen",6139311,2012,901,Stadtplanung
+Ertrag,9,"Räumliche Planung und Entwicklung, Geoinformationen",1972384,2012,902,Stadtentwicklung
+Aufwand,9,"Räumliche Planung und Entwicklung, Geoinformationen",9394083,2012,902,Stadtentwicklung
+Ertrag,9,"Räumliche Planung und Entwicklung, Geoinformationen",2582890,2012,903,"Grundstücksbezogene Basisinformationen, Grundstücksordnung und Wertermittlung"
+Aufwand,9,"Räumliche Planung und Entwicklung, Geoinformationen",14968313,2012,903,"Grundstücksbezogene Basisinformationen, Grundstücksordnung und Wertermittlung"
+Ertrag,10,Bauen und Wohnen,12125486,2012,1001,"Baugenehmigungen, Bauordnungsbehördliche Maßnahmen"
+Aufwand,10,Bauen und Wohnen,11117697,2012,1001,"Baugenehmigungen, Bauordnungsbehördliche Maßnahmen"
+Ertrag,10,Bauen und Wohnen,781329,2012,1002,Denkmalpflege
+Aufwand,10,Bauen und Wohnen,4249257,2012,1002,Denkmalpflege
+Ertrag,10,Bauen und Wohnen,9429452,2012,1003,"Wohnraumförderung, Wohnungserhaltung u. -pflege, Hilfen für Wohnungssuchende"
+Aufwand,10,Bauen und Wohnen,10983429,2012,1003,"Wohnraumförderung, Wohnungserhaltung u. -pflege, Hilfen für Wohnungssuchende"
+Ertrag,10,Bauen und Wohnen,16408076,2012,1004,Bereitstellung und Bewirtschaftung von Wohnraum
+Aufwand,10,Bauen und Wohnen,39276512,2012,1004,Bereitstellung und Bewirtschaftung von Wohnraum
+Ertrag,10,Bauen und Wohnen,887146,2012,1005,Leistungen zur Vermeidung von Obdachlosigkeit
+Aufwand,10,Bauen und Wohnen,8385443,2012,1005,Leistungen zur Vermeidung von Obdachlosigkeit
+Ertrag,11,Ver- und Entsorgung,89714353,2012,1101,Ver- und Entsorgung
+Aufwand,11,Ver- und Entsorgung,6800374,2012,1101,Ver- und Entsorgung
+Ertrag,12,"Verkehrsflächen und -anlagen, ÖPNV",63903655,2012,1201,"Straßen, Wege, Plätze"
+Aufwand,12,"Verkehrsflächen und -anlagen, ÖPNV",166983150,2012,1201,"Straßen, Wege, Plätze"
+Ertrag,12,"Verkehrsflächen und -anlagen, ÖPNV",76068976,2012,1202,"Brücken, Tunnel, Stadtbahn, ÖPNV"
+Aufwand,12,"Verkehrsflächen und -anlagen, ÖPNV",132026683,2012,1202,"Brücken, Tunnel, Stadtbahn, ÖPNV"
+Ertrag,13,Natur- und Landschaftspflege,1836985,2012,1301,"Öffentliches Grün, Wald- und Forstwirtschaft, Erholungsanlagen"
+Aufwand,13,Natur- und Landschaftspflege,43404513,2012,1301,"Öffentliches Grün, Wald- und Forstwirtschaft, Erholungsanlagen"
+Ertrag,13,Natur- und Landschaftspflege,1314196,2012,1302,Wasser und Wasserbau
+Aufwand,13,Natur- und Landschaftspflege,13880890,2012,1302,Wasser und Wasserbau
+Ertrag,13,Natur- und Landschaftspflege,21765922,2012,1303,Friedhöfe
+Aufwand,13,Natur- und Landschaftspflege,19516466,2012,1303,Friedhöfe
+Ertrag,14,Umweltschutz,5066821,2012,1401,"Umweltordnung, -vorsorge"
+Aufwand,14,Umweltschutz,13619552,2012,1401,"Umweltordnung, -vorsorge"
+Ertrag,15,Wirtschaft und Tourismus,118058824,2012,1501,Wirtschaft und Tourismus
+Aufwand,15,Wirtschaft und Tourismus,33585833,2012,1501,Wirtschaft und Tourismus
+Ertrag,16,Allgemeine Finanzwirtschaft,1970581254,2012,1601,Allgemeine Finanzwirschaft
+Aufwand,16,Allgemeine Finanzwirtschaft,541832917,2012,1601,Allgemeine Finanzwirschaft
+Ertrag,17,Stiftungen,68213,2012,1701,Stiftungen zur Förderung des Musikstudiums
+Aufwand,17,Stiftungen,43532,2012,1701,Stiftungen zur Förderung des Musikstudiums
+Ertrag,17,Stiftungen,31826,2012,1702,Stiftung zur Förderung des Schul- und Ausbildungswesens
+Aufwand,17,Stiftungen,22414,2012,1702,Stiftung zur Förderung des Schul- und Ausbildungswesens
+Ertrag,17,Stiftungen,1841356,2012,1703,Waisenhausstiftung
+Aufwand,17,Stiftungen,659248,2012,1703,Waisenhausstiftung
+Ertrag,17,Stiftungen,428687,2012,1704,Altersstiftung
+Aufwand,17,Stiftungen,358290,2012,1704,Altersstiftung
+Ertrag,17,Stiftungen,2180775,2012,1705,Wohnungsstiftungen
+Aufwand,17,Stiftungen,1678412,2012,1705,Wohnungsstiftungen
+Ertrag,17,Stiftungen,882577,2012,1706,Stiftung Dr. Dormagen-Guffanti
+Aufwand,17,Stiftungen,671445,2012,1706,Stiftung Dr. Dormagen-Guffanti
+Ertrag,17,Stiftungen,247925,2012,1707,Gemeinsamer Hospitalstiftungsfonds
+Aufwand,17,Stiftungen,134508,2012,1707,Gemeinsamer Hospitalstiftungsfonds
+Ertrag,17,Stiftungen,3847,2012,1708,Büchereistiftung
+Aufwand,17,Stiftungen,2834,2012,1708,Büchereistiftung
+Ertrag,17,Stiftungen,618724,2012,1709,Stiftung Johann-Heinrich Claren
+Aufwand,17,Stiftungen,320040,2012,1709,Stiftung Johann-Heinrich Claren
+Ertrag,17,Stiftungen,19275,2012,1710,Stiftung Dr. Eduard Schreibers
+Aufwand,17,Stiftungen,7075,2012,1710,Stiftung Dr. Eduard Schreibers
+Ertrag,17,Stiftungen,5422,2012,1711,Emilie-Kühner-Stiftung
+Aufwand,17,Stiftungen,0,2012,1711,Emilie-Kühner-Stiftung
+Ertrag,17,Stiftungen,40405,2012,1712,Gemeinsame Stiftungen Geschwister Abelen und Karl Bau
+Aufwand,17,Stiftungen,24047,2012,1712,Gemeinsame Stiftungen Geschwister Abelen und Karl Bau
+Ertrag,17,Stiftungen,142766,2012,1713,Hermann-Frank-Fonds
+Aufwand,17,Stiftungen,68067,2012,1713,Hermann-Frank-Fonds
+Ertrag,17,Stiftungen,184096,2012,1714,Stiftung für in Not geratene Einwohner der Stadt Köln
+Aufwand,17,Stiftungen,88509,2012,1714,Stiftung für in Not geratene Einwohner der Stadt Köln
+Ertrag,17,Stiftungen,181679,2012,1715,Guilleaume-Stiftung St. Antoniusheim
+Aufwand,17,Stiftungen,125461,2012,1715,Guilleaume-Stiftung St. Antoniusheim
+Ertrag,17,Stiftungen,6699,2012,1716,Krankenhausstiftung Worringen
+Aufwand,17,Stiftungen,15000,2012,1716,Krankenhausstiftung Worringen
+Ertrag,17,Stiftungen,4336,2012,1717,Gustav-von-Mevissen-Stiftung
+Aufwand,17,Stiftungen,3009,2012,1717,Gustav-von-Mevissen-Stiftung
+Ertrag,17,Stiftungen,4148,2012,1718,Stiftung Feldotto
+Aufwand,17,Stiftungen,910,2012,1718,Stiftung Feldotto
+Ertrag,17,Stiftungen,19848,2012,1719,Stiftung Faßbender
+Aufwand,17,Stiftungen,0,2012,1719,Stiftung Faßbender
+Ertrag,17,Stiftungen,15542,2012,1720,Dr. Wilhelm und Gisela Fuß-Stiftung
+Aufwand,17,Stiftungen,9603,2012,1720,Dr. Wilhelm und Gisela Fuß-Stiftung
+Ertrag,17,Stiftungen,36154,2012,1721,Stiftung Dick
+Aufwand,17,Stiftungen,2700,2012,1721,Stiftung Dick
+Ertrag,17,Stiftungen,7578,2012,1722,Stiftung Friedrich Damm
+Aufwand,17,Stiftungen,4580,2012,1722,Stiftung Friedrich Damm
+Ertrag,17,Stiftungen,22741,2012,1723,Stiftung Mathilde Groll
+Aufwand,17,Stiftungen,10727,2012,1723,Stiftung Mathilde Groll
+Ertrag,17,Stiftungen,27572,2012,1724,Gerda und Manfred Ulbrich-Stiftung
+Aufwand,17,Stiftungen,0,2012,1724,Gerda und Manfred Ulbrich-Stiftung
+Ertrag,18,Bezirksorientierte Mittel,0,2012,1801,Bezirksorientierte Mittel
+Aufwand,18,Bezirksorientierte Mittel,0,2012,1801,Bezirksorientierte Mittel

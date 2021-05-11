@@ -1,0 +1,203 @@
+art_label,produktbereich_name,produktbereich_label,amount,time_year,produktgruppe_name,produktgruppe_label
+Ertrag,1,Innere Verwaltung,66051,2016,101,"Politische Gremien, Verwaltungsführung und internationale Angelegenheiten"
+Aufwand,1,Innere Verwaltung,17353869,2016,101,"Politische Gremien, Verwaltungsführung und internationale Angelegenheiten"
+Ertrag,1,Innere Verwaltung,1496543,2016,102,"Haushalts-, betriebswirtschaftliche und technische Prüfungen, Sonderprüfungen"
+Aufwand,1,Innere Verwaltung,6288923,2016,102,"Haushalts-, betriebswirtschaftliche und technische Prüfungen, Sonderprüfungen"
+Ertrag,1,Innere Verwaltung,34547915,2016,103,Personal- und Organisationsmanagement
+Aufwand,1,Innere Verwaltung,143619116,2016,103,Personal- und Organisationsmanagement
+Ertrag,1,Innere Verwaltung,5742344,2016,104,IT- und Kommunikationsdienste
+Aufwand,1,Innere Verwaltung,41783431,2016,104,IT- und Kommunikationsdienste
+Ertrag,1,Innere Verwaltung,0,2016,105,Organisationsmanagement
+Aufwand,1,Innere Verwaltung,0,2016,105,Organisationsmanagement
+Ertrag,1,Innere Verwaltung,4559761,2016,106,Zentrale Dienstleistungen
+Aufwand,1,Innere Verwaltung,51583133,2016,106,Zentrale Dienstleistungen
+Ertrag,1,Innere Verwaltung,4162413,2016,107,Rechts- und Versicherungsangelegenheiten
+Aufwand,1,Innere Verwaltung,11561378,2016,107,Rechts- und Versicherungsangelegenheiten
+Ertrag,1,Innere Verwaltung,84644597,2016,108,Zentrale Liegenschaftsangelegenheiten
+Aufwand,1,Innere Verwaltung,25766141,2016,108,Zentrale Liegenschaftsangelegenheiten
+Ertrag,1,Innere Verwaltung,8304898,2016,109,Kasse und Veranlagung gemeindl. Abgaben
+Aufwand,1,Innere Verwaltung,28522397,2016,109,Kasse und Veranlagung gemeindl. Abgaben
+Ertrag,1,Innere Verwaltung,170174,2016,110,"Controlling, Finanzsteuerung, Rechungswesen"
+Aufwand,1,Innere Verwaltung,12528782,2016,110,"Controlling, Finanzsteuerung, Rechungswesen"
+Ertrag,1,Innere Verwaltung,1445677,2016,111,Sonstige Innere Verwaltung
+Aufwand,1,Innere Verwaltung,29679836,2016,111,Sonstige Innere Verwaltung
+Ertrag,2,Sicherheit und Ordnung,3819872,2016,201,Allgemeine Sicherheit und Ordnung
+Aufwand,2,Sicherheit und Ordnung,18055977,2016,201,Allgemeine Sicherheit und Ordnung
+Ertrag,2,Sicherheit und Ordnung,2172504,2016,202,Gewerbewesen
+Aufwand,2,Sicherheit und Ordnung,3086619,2016,202,Gewerbewesen
+Ertrag,2,Sicherheit und Ordnung,4609086,2016,203,Märkte
+Aufwand,2,Sicherheit und Ordnung,4865766,2016,203,Märkte
+Ertrag,2,Sicherheit und Ordnung,14032315,2016,204,Verkehrs- u. Kfz.-Wesen
+Aufwand,2,Sicherheit und Ordnung,10462023,2016,204,Verkehrs- u. Kfz.-Wesen
+Ertrag,2,Sicherheit und Ordnung,41894731,2016,205,Verkehrsüberwachung
+Aufwand,2,Sicherheit und Ordnung,27941461,2016,205,Verkehrsüberwachung
+Ertrag,2,Sicherheit und Ordnung,1234800,2016,206,Verbraucherschutz und Veterinäraufsicht
+Aufwand,2,Sicherheit und Ordnung,6775423,2016,206,Verbraucherschutz und Veterinäraufsicht
+Ertrag,2,Sicherheit und Ordnung,6482865,2016,207,Einwohnerangelegenheiten
+Aufwand,2,Sicherheit und Ordnung,12912353,2016,207,Einwohnerangelegenheiten
+Ertrag,2,Sicherheit und Ordnung,2011313,2016,208,Personenstandswesen
+Aufwand,2,Sicherheit und Ordnung,4784319,2016,208,Personenstandswesen
+Ertrag,2,Sicherheit und Ordnung,6511953,2016,209,Ausländerangelegenheiten
+Aufwand,2,Sicherheit und Ordnung,20148012,2016,209,Ausländerangelegenheiten
+Ertrag,2,Sicherheit und Ordnung,100,2016,210,Statistik und Informationsmanagement
+Aufwand,2,Sicherheit und Ordnung,1864199,2016,210,Statistik und Informationsmanagement
+Ertrag,2,Sicherheit und Ordnung,0,2016,211,Wahlen
+Aufwand,2,Sicherheit und Ordnung,2838058,2016,211,Wahlen
+Ertrag,2,Sicherheit und Ordnung,48208598,2016,212,"Brand- u. Bevölkerungsschutz, Rettungsdienst"
+Aufwand,2,Sicherheit und Ordnung,136900909,2016,212,"Brand- u. Bevölkerungsschutz, Rettungsdienst"
+Ertrag,2,Sicherheit und Ordnung,0,2016,213,Einwohner- und Bürgerbefragungen
+Aufwand,2,Sicherheit und Ordnung,50000,2016,213,Einwohner- und Bürgerbefragungen
+Ertrag,3,Schulträgeraufgaben,125564870,2016,301,Schulträgeraufgaben
+Aufwand,3,Schulträgeraufgaben,425180800,2016,301,Schulträgeraufgaben
+Ertrag,4,Kultur und Wissenschaft,218601,2016,401,Museumsreferat
+Aufwand,4,Kultur und Wissenschaft,9619192,2016,401,Museumsreferat
+Ertrag,4,Kultur und Wissenschaft,3873936,2016,402,Museum Ludwig
+Aufwand,4,Kultur und Wissenschaft,14427018,2016,402,Museum Ludwig
+Ertrag,4,Kultur und Wissenschaft,565998,2016,403,Römisch-Germanisches Museum
+Aufwand,4,Kultur und Wissenschaft,3200750,2016,403,Römisch-Germanisches Museum
+Ertrag,4,Kultur und Wissenschaft,1372665,2016,404,Rautenstrauch-Joest-Museum
+Aufwand,4,Kultur und Wissenschaft,7145453,2016,404,Rautenstrauch-Joest-Museum
+Ertrag,4,Kultur und Wissenschaft,236270,2016,405,Museum für Angewandte Kunst
+Aufwand,4,Kultur und Wissenschaft,2989929,2016,405,Museum für Angewandte Kunst
+Ertrag,4,Kultur und Wissenschaft,413074,2016,406,Museum für Ostasiatische Kunst
+Aufwand,4,Kultur und Wissenschaft,1887772,2016,406,Museum für Ostasiatische Kunst
+Ertrag,4,Kultur und Wissenschaft,118207,2016,407,Museum Schnütgen
+Aufwand,4,Kultur und Wissenschaft,1678542,2016,407,Museum Schnütgen
+Ertrag,4,Kultur und Wissenschaft,326528,2016,408,Kölnisches Stadtmuseum
+Aufwand,4,Kultur und Wissenschaft,2282941,2016,408,Kölnisches Stadtmuseum
+Ertrag,4,Kultur und Wissenschaft,141536,2016,409,Kunst- und Museumsbibliothek / Rheinisches Bildarchiv
+Aufwand,4,Kultur und Wissenschaft,2743799,2016,409,Kunst- und Museumsbibliothek / Rheinisches Bildarchiv
+Ertrag,4,Kultur und Wissenschaft,108665,2016,410,NS-Dokumentationszentrum
+Aufwand,4,Kultur und Wissenschaft,2054488,2016,410,NS-Dokumentationszentrum
+Ertrag,4,Kultur und Wissenschaft,521400,2016,411,Museumsdienst
+Aufwand,4,Kultur und Wissenschaft,1754303,2016,411,Museumsdienst
+Ertrag,4,Kultur und Wissenschaft,3821842,2016,412,Historisches Archiv
+Aufwand,4,Kultur und Wissenschaft,21002696,2016,412,Historisches Archiv
+Ertrag,4,Kultur und Wissenschaft,515858,2016,413,Archäologische Zone und Jüdisches Museum
+Aufwand,4,Kultur und Wissenschaft,1658875,2016,413,Archäologische Zone und Jüdisches Museum
+Ertrag,4,Kultur und Wissenschaft,7554250,2016,414,Volkshochschule
+Aufwand,4,Kultur und Wissenschaft,17204032,2016,414,Volkshochschule
+Ertrag,4,Kultur und Wissenschaft,3417626,2016,415,Rheinische Musikschule
+Aufwand,4,Kultur und Wissenschaft,7306917,2016,415,Rheinische Musikschule
+Ertrag,4,Kultur und Wissenschaft,1134216,2016,416,Kulturförderung
+Aufwand,4,Kultur und Wissenschaft,102954124,2016,416,Kulturförderung
+Ertrag,4,Kultur und Wissenschaft,1188894,2016,417,Puppenspiele
+Aufwand,4,Kultur und Wissenschaft,2307470,2016,417,Puppenspiele
+Ertrag,4,Kultur und Wissenschaft,1779422,2016,418,Stadtbibliothek
+Aufwand,4,Kultur und Wissenschaft,14471512,2016,418,Stadtbibliothek
+Ertrag,5,Soziale Hilfen,198333699,2016,501,Leistungen nach dem  SGB XII
+Aufwand,5,Soziale Hilfen,378462910,2016,501,Leistungen nach dem  SGB XII
+Ertrag,5,Soziale Hilfen,127152175,2016,502,Kommunale Leistungen nach dem SGB II
+Aufwand,5,Soziale Hilfen,380693319,2016,502,Kommunale Leistungen nach dem SGB II
+Ertrag,5,Soziale Hilfen,19861843,2016,503,Weitere soziale Pflichtleistungen
+Aufwand,5,Soziale Hilfen,74568952,2016,503,Weitere soziale Pflichtleistungen
+Ertrag,5,Soziale Hilfen,650099,2016,504,Freiwillige Sozialleistungen und interkulturelle Hilfen
+Aufwand,5,Soziale Hilfen,8412584,2016,504,Freiwillige Sozialleistungen und interkulturelle Hilfen
+Ertrag,5,Soziale Hilfen,2702510,2016,505,Leistungen n. d. Schwerbehindertenrecht - SGB IX
+Aufwand,5,Soziale Hilfen,3945686,2016,505,Leistungen n. d. Schwerbehindertenrecht - SGB IX
+Ertrag,5,Soziale Hilfen,0,2016,506,Leistungen nach dem Lastenausgleichsgesetz
+Aufwand,5,Soziale Hilfen,0,2016,506,Leistungen nach dem Lastenausgleichsgesetz
+Ertrag,5,Soziale Hilfen,2100297,2016,507,"Betrieb, Unterhaltung u. Förderung von Bürgerhäusern u. -zentren"
+Aufwand,5,Soziale Hilfen,9658167,2016,507,"Betrieb, Unterhaltung u. Förderung von Bürgerhäusern u. -zentren"
+Ertrag,5,Soziale Hilfen,14533753,2016,508,Leistungen für Bildung und Teilhabe
+Aufwand,5,Soziale Hilfen,14923904,2016,508,Leistungen für Bildung und Teilhabe
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",15846973,2016,601,Kinder- und jugendpädagogische Einrichtung
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",21257120,2016,601,Kinder- und jugendpädagogische Einrichtung
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",432014,2016,602,Leistungen nach dem Bundeselterngeld- und Elternzeitgesetz
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",913071,2016,602,Leistungen nach dem Bundeselterngeld- und Elternzeitgesetz
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",281255188,2016,603,Kindertagesbetreuung
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",505485899,2016,603,Kindertagesbetreuung
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",3334566,2016,604,Kinder- und Jugendarbeit
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",39578860,2016,604,Kinder- und Jugendarbeit
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",369446,2016,605,familienbezogene Beratung und Behandlung
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",4886938,2016,605,familienbezogene Beratung und Behandlung
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",20057633,2016,606,Hilfe für junge Menschen und ihre Familien
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",228216145,2016,606,Hilfe für junge Menschen und ihre Familien
+Ertrag,7,Gesundheitsdienste,4870600,2016,701,Gesundheitsdienste
+Aufwand,7,Gesundheitsdienste,37399485,2016,701,Gesundheitsdienste
+Ertrag,8,Sportförderung,2766242,2016,801,Sportförderung/Unterhaltung von Sportstätten
+Aufwand,8,Sportförderung,30179153,2016,801,Sportförderung/Unterhaltung von Sportstätten
+Ertrag,9,"Räumliche Planung und Entwicklung, Geoinformationen",28775,2016,901,Stadtplanung
+Aufwand,9,"Räumliche Planung und Entwicklung, Geoinformationen",8645725,2016,901,Stadtplanung
+Ertrag,9,"Räumliche Planung und Entwicklung, Geoinformationen",46919368,2016,902,Stadtentwicklung
+Aufwand,9,"Räumliche Planung und Entwicklung, Geoinformationen",17231154,2016,902,Stadtentwicklung
+Ertrag,9,"Räumliche Planung und Entwicklung, Geoinformationen",2040930,2016,903,"Grundstücksbezogene Basisinformationen, Grundstücksordnung und Wertermittlung"
+Aufwand,9,"Räumliche Planung und Entwicklung, Geoinformationen",16915969,2016,903,"Grundstücksbezogene Basisinformationen, Grundstücksordnung und Wertermittlung"
+Ertrag,10,Bauen und Wohnen,11412347,2016,1001,"Baugenehmigungen, Bauordnungsbehördliche Maßnahmen"
+Aufwand,10,Bauen und Wohnen,14174154,2016,1001,"Baugenehmigungen, Bauordnungsbehördliche Maßnahmen"
+Ertrag,10,Bauen und Wohnen,727778,2016,1002,Denkmalpflege
+Aufwand,10,Bauen und Wohnen,4330504,2016,1002,Denkmalpflege
+Ertrag,10,Bauen und Wohnen,13347318,2016,1003,"Wohnraumförderung, Wohnungserhaltung u. -pflege, Hilfen für Wohnungssuchende"
+Aufwand,10,Bauen und Wohnen,13245536,2016,1003,"Wohnraumförderung, Wohnungserhaltung u. -pflege, Hilfen für Wohnungssuchende"
+Ertrag,10,Bauen und Wohnen,22485272,2016,1004,Bereitstellung und Bewirtschaftung von Wohnraum
+Aufwand,10,Bauen und Wohnen,69469171,2016,1004,Bereitstellung und Bewirtschaftung von Wohnraum
+Ertrag,10,Bauen und Wohnen,715953,2016,1005,Leistungen zur Vermeidung von Obdachlosigkeit
+Aufwand,10,Bauen und Wohnen,10504172,2016,1005,Leistungen zur Vermeidung von Obdachlosigkeit
+Ertrag,11,Ver- und Entsorgung,84605275,2016,1101,Ver- und Entsorgung
+Aufwand,11,Ver- und Entsorgung,11003610,2016,1101,Ver- und Entsorgung
+Ertrag,12,"Verkehrsflächen und -anlagen, ÖPNV",61819532,2016,1201,"Straßen, Wege, Plätze"
+Aufwand,12,"Verkehrsflächen und -anlagen, ÖPNV",179141707,2016,1201,"Straßen, Wege, Plätze"
+Ertrag,12,"Verkehrsflächen und -anlagen, ÖPNV",73929877,2016,1202,"Brücken, Tunnel, Stadtbahn, ÖPNV"
+Aufwand,12,"Verkehrsflächen und -anlagen, ÖPNV",136747506,2016,1202,"Brücken, Tunnel, Stadtbahn, ÖPNV"
+Ertrag,13,Natur- und Landschaftspflege,2069937,2016,1301,"Öffentliches Grün, Wald- und Forstwirtschaft, Erholungsanlagen"
+Aufwand,13,Natur- und Landschaftspflege,51049345,2016,1301,"Öffentliches Grün, Wald- und Forstwirtschaft, Erholungsanlagen"
+Ertrag,13,Natur- und Landschaftspflege,105340,2016,1302,Wasser und Wasserbau
+Aufwand,13,Natur- und Landschaftspflege,12420631,2016,1302,Wasser und Wasserbau
+Ertrag,13,Natur- und Landschaftspflege,21110398,2016,1303,Friedhöfe
+Aufwand,13,Natur- und Landschaftspflege,21661025,2016,1303,Friedhöfe
+Ertrag,14,Umweltschutz,1491387,2016,1401,"Umweltordnung, -vorsorge"
+Aufwand,14,Umweltschutz,15725345,2016,1401,"Umweltordnung, -vorsorge"
+Ertrag,15,Wirtschaft und Tourismus,72146525,2016,1501,Wirtschaft und Tourismus
+Aufwand,15,Wirtschaft und Tourismus,35937126,2016,1501,Wirtschaft und Tourismus
+Ertrag,16,Allgemeine Finanzwirtschaft,2465847635,2016,1601,Allgemeine Finanzwirschaft
+Aufwand,16,Allgemeine Finanzwirtschaft,615423109,2016,1601,Allgemeine Finanzwirschaft
+Ertrag,17,Stiftungen,54100,2016,1701,Stiftungen zur Förderung des Musikstudiums
+Aufwand,17,Stiftungen,37300,2016,1701,Stiftungen zur Förderung des Musikstudiums
+Ertrag,17,Stiftungen,14400,2016,1702,Stiftung zur Förderung des Schul- und Ausbildungswesens
+Aufwand,17,Stiftungen,5000,2016,1702,Stiftung zur Förderung des Schul- und Ausbildungswesens
+Ertrag,17,Stiftungen,1230500,2016,1703,Waisenhausstiftung
+Aufwand,17,Stiftungen,935200,2016,1703,Waisenhausstiftung
+Ertrag,17,Stiftungen,412600,2016,1704,Altersstiftung
+Aufwand,17,Stiftungen,264700,2016,1704,Altersstiftung
+Ertrag,17,Stiftungen,2216400,2016,1705,Wohnungsstiftungen
+Aufwand,17,Stiftungen,1707300,2016,1705,Wohnungsstiftungen
+Ertrag,17,Stiftungen,863400,2016,1706,Stiftung Dr. Dormagen-Guffanti
+Aufwand,17,Stiftungen,583000,2016,1706,Stiftung Dr. Dormagen-Guffanti
+Ertrag,17,Stiftungen,192800,2016,1707,Gemeinsamer Hospitalstiftungsfonds
+Aufwand,17,Stiftungen,105100,2016,1707,Gemeinsamer Hospitalstiftungsfonds
+Ertrag,17,Stiftungen,2300,2016,1708,Büchereistiftung
+Aufwand,17,Stiftungen,700,2016,1708,Büchereistiftung
+Ertrag,17,Stiftungen,461100,2016,1709,Stiftung Johann-Heinrich Claren
+Aufwand,17,Stiftungen,266800,2016,1709,Stiftung Johann-Heinrich Claren
+Ertrag,17,Stiftungen,16900,2016,1710,Stiftung Dr. Eduard Schreibers
+Aufwand,17,Stiftungen,11100,2016,1710,Stiftung Dr. Eduard Schreibers
+Ertrag,17,Stiftungen,4800,2016,1711,Emilie-Kühner-Stiftung
+Aufwand,17,Stiftungen,2700,2016,1711,Emilie-Kühner-Stiftung
+Ertrag,17,Stiftungen,38300,2016,1712,Gemeinsame Stiftungen Geschwister Abelen und Karl Bau
+Aufwand,17,Stiftungen,29700,2016,1712,Gemeinsame Stiftungen Geschwister Abelen und Karl Bau
+Ertrag,17,Stiftungen,19900,2016,1713,Hermann-Frank-Fonds
+Aufwand,17,Stiftungen,0,2016,1713,Hermann-Frank-Fonds
+Ertrag,17,Stiftungen,43500,2016,1714,Stiftung für in Not geratene Einwohner der Stadt Köln
+Aufwand,17,Stiftungen,11400,2016,1714,Stiftung für in Not geratene Einwohner der Stadt Köln
+Ertrag,17,Stiftungen,170800,2016,1715,Guilleaume-Stiftung St. Antoniusheim
+Aufwand,17,Stiftungen,134000,2016,1715,Guilleaume-Stiftung St. Antoniusheim
+Ertrag,17,Stiftungen,6600,2016,1716,Krankenhausstiftung Worringen
+Aufwand,17,Stiftungen,3900,2016,1716,Krankenhausstiftung Worringen
+Ertrag,17,Stiftungen,1600,2016,1717,Gustav-von-Mevissen-Stiftung
+Aufwand,17,Stiftungen,300,2016,1717,Gustav-von-Mevissen-Stiftung
+Ertrag,17,Stiftungen,3800,2016,1718,Stiftung Feldotto
+Aufwand,17,Stiftungen,2500,2016,1718,Stiftung Feldotto
+Ertrag,17,Stiftungen,18100,2016,1719,Stiftung Faßbender
+Aufwand,17,Stiftungen,11800,2016,1719,Stiftung Faßbender
+Ertrag,17,Stiftungen,14500,2016,1720,Dr. Wilhelm und Gisela Fuß-Stiftung
+Aufwand,17,Stiftungen,9800,2016,1720,Dr. Wilhelm und Gisela Fuß-Stiftung
+Ertrag,17,Stiftungen,31300,2016,1721,Stiftung Dick
+Aufwand,17,Stiftungen,20100,2016,1721,Stiftung Dick
+Ertrag,17,Stiftungen,5300,2016,1722,Stiftung Friedrich Damm
+Aufwand,17,Stiftungen,2900,2016,1722,Stiftung Friedrich Damm
+Ertrag,17,Stiftungen,20700,2016,1723,Stiftung Mathilde Groll
+Aufwand,17,Stiftungen,13600,2016,1723,Stiftung Mathilde Groll
+Ertrag,17,Stiftungen,25600,2016,1724,Gerda und Manfred Ulbrich-Stiftung
+Aufwand,17,Stiftungen,17000,2016,1724,Gerda und Manfred Ulbrich-Stiftung
+Ertrag,18,Bezirksorientierte Mittel,0,2016,1801,Bezirksorientierte Mittel
+Aufwand,18,Bezirksorientierte Mittel,504000,2016,1801,Bezirksorientierte Mittel

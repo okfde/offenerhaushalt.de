@@ -1,0 +1,844 @@
+"ID";"Jahr";"Bereich";"Bereichbezeichnung";"Gruppe";"Gruppen-Bezeichnung";"Produkt";"Produkt-Bezeichnung";"FIBU-Konto";"Konto-Bezeichnung";"Art";"Ansatz"
+1;2015;"05";"Soziale Leistungen";"05311";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";"0531101";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";4211032;"Kosten-/Aufwendungsersatz Pflichtige";"Einnahmen";2000
+2;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";4013000;"Gewerbesteuer";"Einnahmen";3197513
+3;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5241000;"Bewirtschaftungsaufwand";"Ausgaben";10986
+4;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557303";"Solaranlage Maarhalle";4421001;"Einspeisevergütung Solaranlagen";"Einnahmen";12000
+5;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557305";"Solaranlage Rathaus";4421001;"Einspeisevergütung Solaranlagen";"Einnahmen";12000
+6;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4211009;"Ersatzleistungen v. Dritten";"Einnahmen";500
+7;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5241000;"Bewirtschaftungsaufwand";"Ausgaben";23207
+8;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";4321013;"Entgelte Bürg.hs Me, Lindenpl.";"Einnahmen";5500
+9;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5241000;"Bewirtschaftungsaufwand";"Ausgaben";15611
+10;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5241000;"Bewirtschaftungsaufwand";"Ausgaben";95279
+11;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";5241007;"Stromk.(Train.bel.)f.Sportpl. ";"Ausgaben";2180
+12;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";5211014;"Unterhaltung der Sammler      ";"Ausgaben";48500
+13;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";4411002;"Mieteinn. f. Hallennutzung    ";"Einnahmen";3500
+14;2015;"10";"Bauen und Wohnen";"10523";"Denkmalschutz und -pflege";"1052301";"Denkmalschutz und -pflege";5211019;"Unterh.-u.Bewirtsch.Wasserturm";"Ausgaben";5536
+15;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";5241000;"Bewirtschaftungsaufwand";"Ausgaben";5254
+16;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";5241000;"Bewirtschaftungsaufwand";"Ausgaben";20412
+17;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";5241000;"Bewirtschaftungsaufwand";"Ausgaben";45836
+18;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";5313000;"Umlage an den Erftverband";"Ausgaben";121982
+19;2015;"13";"Natur und Landschaftspflege";"13552";"Öffentliche Gewässer, wasserbauliche Anlagen";"1355201";"Gewässerunterhaltung";5313000;"Umlage an den Erftverband";"Ausgaben";99000
+20;2015;"04";"Kultur und Wissenschaft";"04263";"Musikschulen";"0426301";"Musikschule ";5241000;"Bewirtschaftungsaufwand";"Ausgaben";3642
+21;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5241005;"Betriebskosten Ampelanlagen   ";"Ausgaben";6868
+22;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12545";"Straßenreinigung";"1254501";"Straßenreinigung und Winterdienst";4321021;"Straßenreinigungsgebühren     ";"Einnahmen";50000
+23;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";4321000;"Abwassergeb. (Schmutzwasser)";"Einnahmen";932679
+24;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";4321019;"Müllabfuhrgebühren            ";"Einnahmen";456079
+25;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";4321016;"Gebühren Biotonne             ";"Einnahmen";154417
+26;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";4321001;"Abwassergeb. (Niederschlagswasser)";"Einnahmen";350680
+27;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";4032000;"Hundesteuer";"Einnahmen";50000
+28;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5421000;"Aufw. für ehremamtl. Tätigkeit";"Ausgaben";14000
+29;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";5499002;"Tierkörperbeseitigung         ";"Ausgaben";156
+30;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5422003;"Miete Fahrzeughalle Girbelsr. ";"Ausgaben";5327
+31;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5431003;"Post- u. Fernmeldegebühren    ";"Ausgaben";21825
+32;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111102";"Verwaltungsführung";5011001;"Dienstaufw.entsch. BM+Stellver";"Ausgaben";3871
+33;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5431003;"Post- u. Fernmeldegebühren    ";"Ausgaben";2576
+34;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5281005;"Schulwandern, Veranstaltungen ";"Ausgaben";1585
+35;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";5431003;"Post- u. Fernmeldegebühren    ";"Ausgaben";227
+36;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111101";"Politische Gremien";5431018;"Zuschüsse Geschäftsf. Fraktion";"Ausgaben";2531
+37;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";60517
+38;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";4012000;"Grundsteuer B";"Einnahmen";1300587
+39;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";4011000;"Grundsteuer A";"Einnahmen";61921
+40;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111102";"Verwaltungsführung";5431023;"Pausch.Entsch.BM f.Dienstfahrt";"Ausgaben";2918
+41;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";95679
+42;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111101";"Politische Gremien";5421002;"Schulungsgelder               ";"Ausgaben";1809
+43;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";5421004;"Auslagenersatz Schiedsmann    ";"Ausgaben";372
+44;2015;"03";"Schulträgeraufgaben";"03243";"Offene Ganztagsschule";"0324301";"Offene Ganztagsschule";4321011;"Elternbeiträge OGS Golzheim";"Einnahmen";15000
+45;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";4031000;"Vergnügungssteuer";"Einnahmen";5000
+46;2015;"16";"Allgemeine Finanzwirtschaft";"16612";"Sonstige allgemeine Finanzwirtschaft";"1661201";"Sonstige allgemeine Finanzwirtschaft";4618000;"Zinsen aus Gewerbesteuerveranlagung";"Einnahmen";50000
+47;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";4618000;"Zinsen aus Gewerbesteuerveranlagung";"Einnahmen";0
+48;2015;"03";"Schulträgeraufgaben";"03243";"Offene Ganztagsschule";"0324301";"Offene Ganztagsschule";4321012;"Elternbeiträge OGS Merzenich";"Einnahmen";30000
+49;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";4321010;"Benutzungs-u.Bewirtschaft.geb.";"Einnahmen";7000
+50;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";4321008;"Benutzungs- u. Bewirtsch.geb. ";"Einnahmen";2500
+51;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";4411000;"Mieten und Pachten";"Einnahmen";78200
+52;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";4321009;"Benutzungs-u.Bewirtsch.geb.   ";"Einnahmen";9000
+53;2015;"05";"Soziale Leistungen";"05312";"Grundsicherungsleistungen nach dem Zweiten Buch Sozialgesetzbuch";"0531201";"Grundsicherungsleistungen nach dem Zweiten Buch Sozialgesetzbuch";5041000;"Beihilfen für Beamte";"Ausgaben";0
+54;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5041000;"Beihilfen für Beamte";"Ausgaben";11966
+55;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111102";"Verwaltungsführung";5141000;"Beihilfen,Unterstützungen dgl.";"Ausgaben";17690
+56;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111102";"Verwaltungsführung";5041000;"Beihilfen für Beamte";"Ausgaben";16650
+57;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5041000;"Beihilfen für Beamte";"Ausgaben";12279
+58;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5141000;"Beihilfen,Unterstützungen dgl.";"Ausgaben";74923
+59;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";5041000;"Beihilfen für Beamte";"Ausgaben";7805
+60;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";5141000;"Beihilfen,Unterstützungen dgl.";"Ausgaben";7805
+61;2015;"03";"Schulträgeraufgaben";"03243";"Offene Ganztagsschule";"0324301";"Offene Ganztagsschule";5291000;"Betriebskosten OGS an SKF";"Ausgaben";119500
+62;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111102";"Verwaltungsführung";5499000;"Ehrungen, Repräsentation";"Ausgaben";13360
+63;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111110";"Liegenschaftsverwaltung";5241000;"Bewirtschaftungsaufwand";"Ausgaben";7284
+64;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5313003;"Umlage/Wartung an KDVZ Frechen";"Ausgaben";198000
+65;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";5422005;"Nutzungsentsch. Haus Oberstr.1";"Ausgaben";4327
+66;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4411003;"Mieteinnahmen Räume Polizei   ";"Einnahmen";1500
+67;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";4321018;"Gebühren Inanspruchn. freiw.FW";"Einnahmen";6000
+68;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";5291016;"Fahrtkosten Kita Morschenich  ";"Ausgaben";21780
+69;2015;"03";"Schulträgeraufgaben";"03241";"Schülerbeförderung";"0324101";"Schülerbeförderung";5291009;"Schülerbeförderungskosten     ";"Ausgaben";26015
+70;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5431003;"Post- u. Fernmeldegebühren    ";"Ausgaben";1339
+71;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5431003;"Post- u. Fernmeldegebühren    ";"Ausgaben";1598
+72;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";5211000;"Unterhaltungsaufwand";"Ausgaben";7820
+73;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531501";"Soziale Einrichtungen für Ältere";5291030;"Seniorenarbeit Ö55+Ö";"Ausgaben";2040
+74;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";5251000;"Unterhaltung von Fahrzeugen";"Ausgaben";33900
+75;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";5237000;"Deponiekosten";"Ausgaben";17690
+76;2015;"13";"Natur und Landschaftspflege";"13555";"Land- und Forstwirtschaft";"1355501";"Förderung der Land- und Forstwirtschaft, Wirtschaftswege";5211011;"Instandhalt. d.Wirtschaftswege";"Ausgaben";20812
+77;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5211000;"Unterhaltungsaufwand";"Ausgaben";63659
+78;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5211000;"Unterhaltungsaufwand";"Ausgaben";8322
+79;2015;"04";"Kultur und Wissenschaft";"04281";"Heimat- und sonstige Kunstpflege";"0428101";"Kulturveranstaltungen und Kulturförderung";5211009;"Unterhalt.K. Heimatmuseum     ";"Ausgaben";1090
+80;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331008;"Geldleistung gem. õ 6";"Ausgaben";500
+81;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331015;"Regelbedarf nach  õ 3";"Ausgaben";98000
+82;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";4562001;"Geb.Verw.zwangsverfahren      ";"Einnahmen";35000
+83;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5255000;"Unterh./Instandsetzung bewegl. Vermögen";"Ausgaben";15401
+84;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5251000;"Unterhaltung von Fahrzeugen";"Ausgaben";23736
+85;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5211020;"Straßenmark. u.Verkehrszeichen";"Ausgaben";4162
+86;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331019;"Ambulante Krankenhilfe nach  õ 4";"Ausgaben";10000
+87;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";114759
+88;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5211015;"Unterhaltungsk. Straßen u.Wege";"Ausgaben";141266
+89;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5211002;"Unterh. Friedh. u. FH.Kapellen";"Ausgaben";11520
+90;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111102";"Verwaltungsführung";5121000;"Beitr. zu Versorg.kasse Beamte";"Ausgaben";89492
+91;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";4561000;"Bußgelder";"Einnahmen";14000
+92;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5281015;"Kochkurse, Ausflüge, Feste K+T";"Ausgaben";2300
+93;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5241000;"Bewirtschaftungsaufwand";"Ausgaben";20912
+94;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5441002;"div. Versich. + Sterbekasse   ";"Ausgaben";9582
+95;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557303";"Solaranlage Maarhalle";5241001;"Versicherungsbeiträge         ";"Ausgaben";200
+96;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557305";"Solaranlage Rathaus";5241001;"Versicherungsbeiträge         ";"Ausgaben";200
+97;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557304";"Solaranlage Grundschule Merzenich";5241001;"Versicherungsbeiträge         ";"Ausgaben";200
+98;2015;"13";"Natur und Landschaftspflege";"13551";"Öffentliches Grün, Landschaftsbau";"1355101";"Parkanlagen und öffentliche Grünflächen, Dorfverschönerung";5211024;"Unterh.k. Naherh.Geb. Steinweg";"Ausgaben";3120
+99;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5241001;"Versicherungsbeiträge         ";"Ausgaben";1492
+100;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";5241014;"Vers.l. Sport-u.Tennish.Merz. ";"Ausgaben";1527
+101;2015;"03";"Schulträgeraufgaben";"03218";"Gesamtschulen";"0321801";"Zweckverband Gesamtschule";5241001;"Versicherungsbeiträge         ";"Ausgaben";17145
+102;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5241001;"Versicherungsbeiträge         ";"Ausgaben";10336
+103;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5241012;"Steuern u.Vers.beitr.Bürhs.Mer";"Ausgaben";2181
+104;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5241001;"Versicherungsbeiträge         ";"Ausgaben";1325
+105;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5241011;"Steuern u.Vers.beitr.Bürhs.Mer";"Ausgaben";1299
+106;2015;"04";"Kultur und Wissenschaft";"04281";"Heimat- und sonstige Kunstpflege";"0428101";"Kulturveranstaltungen und Kulturförderung";5411004;"Ausgleichsabgabe nach SGB IX  ";"Ausgaben";721
+107;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5441001;"Beiträge div. Versicherungen  ";"Ausgaben";68000
+108;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5499021;"Kosten med. Vorsorgeuntersuch.";"Ausgaben";1545
+109;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5412003;"Ausbild.FW-Leute +Lohnausfälle";"Ausgaben";10818
+110;2015;"05";"Soziale Leistungen";"05351";"Sonstige soziale Leistungen";"0535101";"Sonstige soziale Leistungen";4591013;"Kostenerstattung Mobilticket  ";"Einnahmen";18500
+111;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";4321023;"Geb.f.Aufbahrungen in Leichenh";"Einnahmen";7110
+112;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";4321014;"Entsch.f.Aushub v. Grabstätten";"Einnahmen";21810
+113;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";4321003;"Gebühren für Wahlgrabstätten  ";"Einnahmen";0
+114;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";4591002;"Erstattung Energiekosten      ";"Einnahmen";205
+115;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4591002;"Erstattung Energiekosten      ";"Einnahmen";100
+116;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";4321015;"Geb. f. Benutzung Grillplatz  ";"Einnahmen";2500
+117;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";4311007;"Verwaltungsgebühren Bauwesen  ";"Einnahmen";4000
+118;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";4321004;"Gebühren f. Urnengrabstätten  ";"Einnahmen";0
+119;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";4321005;"Geb. f. Urnenwahlgrabstätten  ";"Einnahmen";0
+120;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5241006;"Energ.K,Wasserv.,Abg.Kirmpl.Me";"Ausgaben";520
+121;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";5241000;"Bewirtschaftungsaufwand";"Ausgaben";4160
+122;2015;"16";"Allgemeine Finanzwirtschaft";"16612";"Sonstige allgemeine Finanzwirtschaft";"1661201";"Sonstige allgemeine Finanzwirtschaft";5473000;"Aufwendungen St.Ni.Erl.";"Ausgaben";0
+123;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111102";"Verwaltungsführung";5491000;"Verfügungsmittel";"Ausgaben";2060
+124;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5281016;"Lehrer- u. Schülerbücherei    ";"Ausgaben";2823
+125;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5281011;"Lehr- u. Lernmittel           ";"Ausgaben";3057
+126;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5431000;"Bürobedarf";"Ausgaben";"13672.30"
+127;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212203";"Einwohnermeldewesen";5291018;"Kosten für Ausweise           ";"Ausgaben";37131
+128;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5255000;"Unterh./Instandsetzung bewegl. Vermögen";"Ausgaben";"3740.31"
+129;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5431017;"Schulbedürfnisse              ";"Ausgaben";2432
+130;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5499014;"Verbandsbeiträge              ";"Ausgaben";3915
+131;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5211000;"Unterhaltungsaufwand";"Ausgaben";8324
+132;2015;"03";"Schulträgeraufgaben";"03218";"Gesamtschulen";"0321801";"Zweckverband Gesamtschule";5313002;"Umlage an Schulverband N/M    ";"Ausgaben";851000
+133;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5238000;"Eigengrabgeb. kath. Kirche Morschenich";"Ausgaben";3500
+134;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5211000;"Unterhaltungsaufwand";"Ausgaben";52000
+135;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";5211000;"Unterhaltungsaufwand";"Ausgaben";22340
+136;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5211026;"Unterhaltungskosten Grillplatz";"Ausgaben";1560
+137;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";5211000;"Unterhaltungsaufwand";"Ausgaben";"23975.56"
+138;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";4591002;"Erstattung Energiekosten      ";"Einnahmen";1700
+139;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";4591002;"Erstattung Energiekosten      ";"Einnahmen";15
+140;2015;"04";"Kultur und Wissenschaft";"04263";"Musikschulen";"0426301";"Musikschule ";4591002;"Erstattung Energiekosten      ";"Einnahmen";50
+141;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111107";"Personalwesen";5411006;"Stellenbewertungen            ";"Ausgaben";1000
+142;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5499011;"Beitrag StGB                  ";"Ausgaben";5770
+143;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5431006;"Kosten fürs Amtsblatt         ";"Ausgaben";10303
+144;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";5431014;"Kosten fürs Schiedsmannsamt   ";"Ausgaben";362
+145;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5431007;"Dienstreisen, Fahrtkostenerst.";"Ausgaben";4091
+146;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";5255001;"Beschaffung von  Arbeitskleidung";"Ausgaben";6560
+147;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5291008;"Abfuhr von sonst. Abfall      ";"Ausgaben";10500
+148;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5422000;"Fotokopierkosten";"Ausgaben";30000
+149;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5412000;"Kosten Arbeitssicherheit";"Ausgaben";8243
+150;2015;"03";"Schulträgeraufgaben";"03221";"Sonderschulen";"0322101";"Zweckverband Sonderschule";5313005;"Verbandsumlage                ";"Ausgaben";148597
+151;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5499005;"Vorleistungen i.R. Haftpflicht";"Ausgaben";721
+152;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5422007;"Miete Jugendtreff Golzheim";"Ausgaben";600
+153;2015;"16";"Allgemeine Finanzwirtschaft";"16612";"Sonstige allgemeine Finanzwirtschaft";"1661201";"Sonstige allgemeine Finanzwirtschaft";4562000;"Säumniszuschläge";"Einnahmen";0
+154;2015;"17";"Stiftungen";"17700";"Stiftungen";"1770003";"ÖÖÖCollas-MittelÖÖÖ";5318004;"Verteilung der Mittel         ";"Ausgaben";3945
+155;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5241009;"Kosten Lehrschwimmbecken      ";"Ausgaben";2602
+156;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";5291017;"Kosten f.Verbrauchsübernahmen ";"Ausgaben";4040
+157;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5431011;"Schließfachgebühr Sparkasse   ";"Ausgaben";42
+158;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5431010;"Führungsgebühren Girokonten   ";"Ausgaben";3091
+159;2015;"04";"Kultur und Wissenschaft";"04281";"Heimat- und sonstige Kunstpflege";"0428101";"Kulturveranstaltungen und Kulturförderung";5281010;"Kulturelle Veranstaltungen    ";"Ausgaben";"6666.61"
+160;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557304";"Solaranlage Grundschule Merzenich";4421001;"Einspeisevergütung Solaranlagen";"Einnahmen";12000
+161;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4591000;"vermischte Einnahmen";"Einnahmen";500
+162;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";4321022;"Anerkennungsgebühren          ";"Einnahmen";1500
+163;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";4493000;"Leistungsbtlg. zur Eingl. AS";"Einnahmen";3600
+164;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";4591002;"Erstattung Energiekosten      ";"Einnahmen";60
+165;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";4591002;"Erstattung Energiekosten      ";"Einnahmen";600
+166;2015;"13";"Natur und Landschaftspflege";"13551";"Öffentliches Grün, Landschaftsbau";"1355101";"Parkanlagen und öffentliche Grünflächen, Dorfverschönerung";4591000;"vermischte Einnahmen";"Einnahmen";120
+167;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";4311009;"Gebühren Ordnungsamt          ";"Einnahmen";18000
+168;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";4488006;"Kostenerst. Kirmesplatz Merz. ";"Einnahmen";500
+169;2015;"16";"Allgemeine Finanzwirtschaft";"16612";"Sonstige allgemeine Finanzwirtschaft";"1661201";"Sonstige allgemeine Finanzwirtschaft";5517000;"Zinsaufwendung Kreditinstitute";"Ausgaben";92000
+170;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";4142001;"Zuschuss Kreis f. Jugendarbeit";"Einnahmen";55000
+171;2015;"13";"Natur und Landschaftspflege";"13551";"Öffentliches Grün, Landschaftsbau";"1355101";"Parkanlagen und öffentliche Grünflächen, Dorfverschönerung";5281009;"Kosten für Dorfverschönerung  ";"Ausgaben";4162
+172;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5318014;"Zuschuss an Pfarrbücherei     ";"Ausgaben";410
+173;2015;"04";"Kultur und Wissenschaft";"04263";"Musikschulen";"0426301";"Musikschule ";5281007;"anteil. Geb. i.R.soz.Regelung ";"Ausgaben";1560
+174;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5422006;"Pachtzahl. f. Parkplätze u.a. ";"Ausgaben";1648
+175;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";5291015;"Entsorg.v.Grundstücksentw.anl.";"Ausgaben";2500
+176;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";5241017;"Steuern u.Vers.Beiträge Fahrz.";"Ausgaben";5724
+177;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5251004;"Bewirtsch.+Unterh.Dienstfahrz.";"Ausgaben";2081
+178;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5251002;"Betriebs-+Unterh.K. Spülmobil ";"Ausgaben";312
+179;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5251003;"Betriebskosten Gemeindemobil  ";"Ausgaben";6000
+180;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5441003;"Schülerunfallversicherung     ";"Ausgaben";19885
+181;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5441000;"Steuern, Vers., Schadensfälle";"Ausgaben";55
+182;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5241016;"Vers.Beiträge Warteh.Geschw.An";"Ausgaben";3538
+183;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";4591002;"Erstattung Energiekosten      ";"Einnahmen";1710
+184;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";5291020;"Planungs- u. Vermessungskosten";"Ausgaben";61200
+185;2015;"08";"Sportförderung";"08421";"Förderung des Sports";"0842101";"Förderung des Sports";5318019;"Beihilfen an Ortsvereine      ";"Ausgaben";10400
+186;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212203";"Einwohnermeldewesen";5431013;"Kosten für EC-Kartenzahlung   ";"Ausgaben";785
+187;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5431002;"Bücher und Zeitschriften      ";"Ausgaben";8193
+188;2015;"02";"Sicherheit und Ordnung";"02121";"Statistik und Wahlen";"0212102";"Wahlen";5431021;"Sachkosten Kommunalwahl       ";"Ausgaben";7000
+189;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5281023;"Ausflüge/Feste/Kochen Jugend";"Ausgaben";1000
+190;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";5255000;"Unterh./Instandsetzung bewegl. Vermögen";"Ausgaben";3120
+191;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5291032;"Entsorg.k. f.Haus-u.Sperrmüll ";"Ausgaben";329330
+192;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5291003;"Abfuhrentgelt Sperrgut, u.ä.  ";"Ausgaben";18886
+193;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5291012;"Abfuhrkosten Windelsäcke      ";"Ausgaben";728
+194;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5291027;"Sammlungskosten Altpapier     ";"Ausgaben";55325
+195;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";5499001;"Vermischte Ausgaben           ";"Ausgaben";103
+196;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5499001;"Vermischte Ausgaben           ";"Ausgaben";10
+197;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";4111000;"Schlüsselzuweisungen vom Land";"Einnahmen";1553335
+198;2015;"16";"Allgemeine Finanzwirtschaft";"16612";"Sonstige allgemeine Finanzwirtschaft";"1661201";"Sonstige allgemeine Finanzwirtschaft";4562002;"Stundungszinsen               ";"Einnahmen";1500
+199;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4487003;"Schadenersatzleistungen";"Einnahmen";1000
+200;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";4487007;"Erstattung DSD (Altpapier)    ";"Einnahmen";23742
+201;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";4591000;"vermischte Einnahmen";"Einnahmen";0
+202;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";4488003;"Entschädigung Sperrgut        ";"Einnahmen";4264
+203;2015;"03";"Schulträgeraufgaben";"03218";"Gesamtschulen";"0321801";"Zweckverband Gesamtschule";4487015;"Erst.Vers.leist. Gesamtschule ";"Einnahmen";14280
+204;2015;"05";"Soziale Leistungen";"05311";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";"0531101";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";5232030;"Abführung an örtl. Träger";"Ausgaben";5000
+205;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";4591011;"Erstatt.Vers.l.Sport-+Tennish.";"Einnahmen";1300
+206;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";4591017;"Erstatt.Versicher.l. Maarhalle";"Einnahmen";1190
+207;2015;"04";"Kultur und Wissenschaft";"04281";"Heimat- und sonstige Kunstpflege";"0428101";"Kulturveranstaltungen und Kulturförderung";5318027;"Förderung 1000 Jahre Golzheim -50%-";"Ausgaben";3500
+208;2015;"17";"Stiftungen";"17700";"Stiftungen";"1770003";"ÖÖÖCollas-MittelÖÖÖ";5318030;"Förderung 1000 Jahre Golzheim -50%-";"Ausgaben";3500
+209;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111101";"Politische Gremien";5421001;"Pausch.Entsch.Gemeindevertr.  ";"Ausgaben";67000
+210;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111101";"Politische Gremien";5492000;"Fraktionszuwendungen";"Ausgaben";26000
+211;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111110";"Liegenschaftsverwaltung";4411001;"Mieten und Pachten";"Einnahmen";6000
+212;2015;"08";"Sportförderung";"08421";"Förderung des Sports";"0842101";"Förderung des Sports";5318015;"Zuschüsse an Sportvereine     ";"Ausgaben";49050
+213;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5281019;"Werkunterricht                ";"Ausgaben";1814
+214;2015;"17";"Stiftungen";"17700";"Stiftungen";"1770002";"Stiftung Rixen";4411005;"Pächte aus Stiftungsländereien";"Einnahmen";4230
+215;2015;"17";"Stiftungen";"17700";"Stiftungen";"1770002";"Stiftung Rixen";5318002;"Verteil.Pachteinn.,Abgaben etc";"Ausgaben";5090
+216;2015;"02";"Sicherheit und Ordnung";"02128";"Abwehr von Großschadensereignissen, Katastrophenschutz";"0212801";"Katastrophenschutz";5211010;"Wartung + Pflege der Sirenen  ";"Ausgaben";436
+217;2015;"16";"Allgemeine Finanzwirtschaft";"16612";"Sonstige allgemeine Finanzwirtschaft";"1661201";"Sonstige allgemeine Finanzwirtschaft";4617004;"Zinserträge Kassenmittel      ";"Einnahmen";15000
+218;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";4488007;"Erstatt. aus Verkauf Biosäcke ";"Einnahmen";100
+219;2015;"05";"Soziale Leistungen";"05331";"Förderung von anderen Trägern der Wohlfahrtspflege";"0533101";"Förderung von anderen Trägern der Wohlfahrtspflege";5318026;"DRK Suchdienst";"Ausgaben";500
+220;2015;"05";"Soziale Leistungen";"05331";"Förderung von anderen Trägern der Wohlfahrtspflege";"0533101";"Förderung von anderen Trägern der Wohlfahrtspflege";5318017;"Zuschuss an VDK Golzheim      ";"Ausgaben";150
+221;2015;"05";"Soziale Leistungen";"05331";"Förderung von anderen Trägern der Wohlfahrtspflege";"0533101";"Förderung von anderen Trägern der Wohlfahrtspflege";5318021;"Zuschuss an ISM Merz.         ";"Ausgaben";2020
+222;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";4488008;"Erstatt.ant.K.Verkauf Müllsäck";"Einnahmen";247
+223;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5332002;" Stationäre Krankenhilfe nach  õ 4";"Ausgaben";10000
+224;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5281004;"Schulgarten                   ";"Ausgaben";445
+225;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111101";"Politische Gremien";5441000;"Steuern, Vers., Schadensfälle";"Ausgaben";535
+226;2015;"13";"Natur und Landschaftspflege";"13555";"Land- und Forstwirtschaft";"1355501";"Förderung der Land- und Forstwirtschaft, Wirtschaftswege";4487014;"Unterhaltungszuschüsse WiWe   ";"Einnahmen";4000
+227;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";5281000;"Erstattung Nebenkosten";"Ausgaben";1048
+228;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";5431015;"Sachkosten                    ";"Ausgaben";15000
+229;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";5211023;"Unterhaltungskosten Sportheime";"Ausgaben";9888
+230;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4311006;"Verwaltungsgebühren           ";"Einnahmen";500
+231;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5237001;"Entsorgung Bioabfälle (Dep.K.)";"Ausgaben";98520
+232;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";4482001;"Kostenerst.Kreis f.Aufw.Lehrg.";"Einnahmen";8500
+233;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212203";"Einwohnermeldewesen";5499009;"Weiterltg. Geb. Fischereisch. ";"Ausgaben";515
+234;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";4488002;"Erstatt. Personalkosten d. TV ";"Einnahmen";1650185
+235;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12545";"Straßenreinigung";"1254501";"Straßenreinigung und Winterdienst";5291023;"Straßenrein.k. an Unternehmer ";"Ausgaben";28831
+236;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557302";"Dienstleistungsgesellschaft MIJLAN";5281012;"Pers-+Sachk.erstatt.an MIJLAN ";"Ausgaben";6250
+237;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5281020;"Spiel- u. Beschäft.material K+T";"Ausgaben";1000
+238;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";4562000;"Säumniszuschläge";"Einnahmen";1000
+239;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5291006;"Verwert.k. Altholz u. Grünabf.";"Ausgaben";2678
+240;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";5372001;"Kreisuml.-Belastung Jugendamt-";"Ausgaben";2702615
+241;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";5372000;"Kreisumlage";"Ausgaben";4636512
+242;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5422002;"Entsch.Aufstellung Wartehallen";"Ausgaben";515
+243;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5318005;"Zusch.an TV Go f.Nutzung Halle";"Ausgaben";4500
+244;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";4411004;"Pacht f. Kleingartenanlage    ";"Einnahmen";693
+245;2015;"17";"Stiftungen";"17700";"Stiftungen";"1770003";"ÖÖÖCollas-MittelÖÖÖ";4147000;"Zuw. lfd Zwecke von p. Untern.";"Einnahmen";7325
+246;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4591016;"Preisnachl. Eigenverbr. Strom ";"Einnahmen";2000
+247;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111103";"Beschäftigtenvertretung";5411005;"Betriebssportgemeinschaft     ";"Ausgaben";259
+248;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5281013;"Stromkosten                   ";"Ausgaben";103004
+249;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5271000;"Lernmittel nach Lernm.-fhg";"Ausgaben";11589
+250;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";4591000;"vermischte Einnahmen";"Einnahmen";160
+251;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212204";"Personenstandswesen";4311004;"Standesamtsgebühren           ";"Einnahmen";6000
+252;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212203";"Einwohnermeldewesen";4311002;"Gebühren für Fischereischeine ";"Einnahmen";1000
+253;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212203";"Einwohnermeldewesen";4311003;"Gebühren f. Führungszeugnisse ";"Einnahmen";5000
+254;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";4311005;"Verw.Geb. f. Grabsteingenehm. ";"Einnahmen";1750
+255;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212203";"Einwohnermeldewesen";4311010;"Gebühren Einwohnermeldeamt";"Einnahmen";51000
+256;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5431008;"Prozess- u. Gutachterkosten   ";"Ausgaben";5150
+257;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5255000;"Unterh./Instandsetzung bewegl. Vermögen";"Ausgaben";2081
+258;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331011;"Einm.L.-Gutsch.f.Kleid.etc õ 3";"Ausgaben";0
+259;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5412004;"Fortbildungsmaßnahmen         ";"Ausgaben";309
+260;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5291026;"Prüfungen Wirtschaftsprüfer   ";"Ausgaben";18575
+261;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";4488013;"Eigenanteile Ausflüge/Feste Kinder+T.";"Einnahmen";1
+262;2015;"13";"Natur und Landschaftspflege";"13552";"Öffentliche Gewässer, wasserbauliche Anlagen";"1355201";"Gewässerunterhaltung";5313001;"Umlage Wasserverband Eifel-Rur";"Ausgaben";50000
+263;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";5313001;"Umlage Wasserverband Eifel-Rur";"Ausgaben";801296
+264;2015;"13";"Natur und Landschaftspflege";"13551";"Öffentliches Grün, Landschaftsbau";"1355101";"Parkanlagen und öffentliche Grünflächen, Dorfverschönerung";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";171823
+265;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5499004;"Allgemeine Sachkosten         ";"Ausgaben";53
+266;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5499014;"Verbandsbeiträge              ";"Ausgaben";1545
+267;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5431004;"Fernsehgebühren / GEMA        ";"Ausgaben";1133
+268;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111102";"Verwaltungsführung";5011000;"Dienstbezüge Beamte";"Ausgaben";98544
+269;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5011000;"Dienstbezüge Beamte";"Ausgaben";12207
+270;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5011000;"Dienstbezüge Beamte";"Ausgaben";51137
+271;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";5011000;"Dienstbezüge Beamte";"Ausgaben";7154
+272;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111110";"Liegenschaftsverwaltung";5011000;"Dienstbezüge Beamte";"Ausgaben";12520
+273;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";5011000;"Dienstbezüge Beamte";"Ausgaben";18308
+274;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5011000;"Dienstbezüge Beamte";"Ausgaben";6103
+275;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5011000;"Dienstbezüge Beamte";"Ausgaben";6103
+276;2015;"05";"Soziale Leistungen";"05311";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";"0531101";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";5011000;"Dienstbezüge Beamte";"Ausgaben";15465
+277;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5011000;"Dienstbezüge Beamte";"Ausgaben";2729
+278;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";5011000;"Dienstbezüge Beamte";"Ausgaben";6103
+279;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";5011000;"Dienstbezüge Beamte";"Ausgaben";8943
+280;2015;"13";"Natur und Landschaftspflege";"13555";"Land- und Forstwirtschaft";"1355501";"Förderung der Land- und Forstwirtschaft, Wirtschaftswege";5011000;"Dienstbezüge Beamte";"Ausgaben";7154
+281;2015;"05";"Soziale Leistungen";"05311";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";"0531101";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";5331030;"Leistungen an Nichtseßhafte";"Ausgaben";1700
+282;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";4487001;"Schadenersatzleistungen       ";"Einnahmen";1000
+283;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5412005;"Zusch. Erlang.Fahrerlaub.Kl.C ";"Ausgaben";3091
+284;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5041000;"Beihilfen für Beamte";"Ausgaben";20
+285;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";1295647
+286;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12545";"Straßenreinigung";"1254501";"Straßenreinigung und Winterdienst";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";11489
+287;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111106";"Presse- und Öffentlichkeitsarbeit, Partnerschaften";5291033;"Städtepartnerschaft";"Ausgaben";2081
+288;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5281021;"Jugendfreizeiten";"Ausgaben";1800
+289;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5291004;"Abfuhrentg.Bünd.samml.(Grünab)";"Ausgaben";4404
+290;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5291011;"Abfuhrentgelt Hausmüll        ";"Ausgaben";86879
+291;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5291024;"Vergütung Abfuhr Biotonne     ";"Ausgaben";56913
+292;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5291029;"Computerunterst.Behälterentl. ";"Ausgaben";8253
+293;2015;"05";"Soziale Leistungen";"05311";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";"0531101";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";4211031;"Erstattungen Sozialleistungsträger";"Einnahmen";2000
+294;2015;"05";"Soziale Leistungen";"05331";"Förderung von anderen Trägern der Wohlfahrtspflege";"0533101";"Förderung von anderen Trägern der Wohlfahrtspflege";5318007;"Zuschuss an Caritasverband M. ";"Ausgaben";990
+295;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5281008;"Bücher und Zeitschriften K + T";"Ausgaben";200
+296;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";4591000;"vermischte Einnahmen";"Einnahmen";500
+297;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4481002;"Pauschale Landeszuweisung õ 4 FlüAG";"Einnahmen";67515
+298;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4481003;"Pausch. Landeszuw. soz. Betreuung õ 4 FlüAG";"Einnahmen";2100
+299;2015;"05";"Soziale Leistungen";"05351";"Sonstige soziale Leistungen";"0535101";"Sonstige soziale Leistungen";5291019;"Kostenbeteiligung Mobilticket ";"Ausgaben";18500
+300;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5255000;"Unterh./Instandsetzung bewegl. Vermögen";"Ausgaben";312
+301;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5499029;"Zuwendungen aus ÖKinder.Lachen.LernenÖ";"Ausgaben";0
+302;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111107";"Personalwesen";5412001;"Ausbild. von Verw.angehörigen ";"Ausgaben";8243
+303;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";5411000;"Personalnebenkosten";"Ausgaben";1030
+304;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5411000;"Personalnebenkosten";"Ausgaben";259
+305;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5291013;"Aufwend. aus FW-Einsätzen     ";"Ausgaben";2081
+306;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";5211025;"Unterhaltungsk.d. Sportplätze ";"Ausgaben";10408
+307;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5211006;"Pau. Unterh.k.Straßenbeleuchtung";"Ausgaben";60000
+308;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";4487001;"Schadenersatzleistungen       ";"Einnahmen";3000
+309;2015;"10";"Bauen und Wohnen";"10523";"Denkmalschutz und -pflege";"1052301";"Denkmalschutz und -pflege";4591000;"vermischte Einnahmen";"Einnahmen";0
+310;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";4311001;"Erst.K.für Grabmalbeseitigung ";"Einnahmen";2970
+311;2015;"15";"Wirtschaft und Tourismus";"15571";"Wirtschaftsförderung";"1557101";"Wirtschaftsförderung";5291034;"Beratungsleistungen";"Ausgaben";15000
+312;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4487000;"Erstattung Beihilfekosten";"Einnahmen";5000
+313;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";4487000;"Erstattung Beihilfekosten";"Einnahmen";50000
+314;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111102";"Verwaltungsführung";4487000;"Erstattung Beihilfekosten";"Einnahmen";10000
+315;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";4487000;"Erstattung Beihilfekosten";"Einnahmen";28000
+316;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";5473000;"Aufwendungen St.Ni.Erl.";"Ausgaben";0
+317;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5473000;"Aufwendungen St.Ni.Erl.";"Ausgaben";0
+318;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";4591000;"vermischte Einnahmen";"Einnahmen";5
+319;2015;"04";"Kultur und Wissenschaft";"04281";"Heimat- und sonstige Kunstpflege";"0428101";"Kulturveranstaltungen und Kulturförderung";5318011;"Zusch.Betriebs/Unterh.k.Heimat";"Ausgaben";800
+320;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";5211001;"Beseitigung von Glasschäden";"Ausgaben";409
+321;2015;"02";"Sicherheit und Ordnung";"02121";"Statistik und Wahlen";"0212102";"Wahlen";4480001;"Erstatt. Wahlk. Bundestagswahl";"Einnahmen";0
+322;2015;"03";"Schulträgeraufgaben";"03243";"Offene Ganztagsschule";"0324301";"Offene Ganztagsschule";5281017;"Sachkosten OGS                ";"Ausgaben";10408
+323;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5232006;"Erst.Betriebk.Lehrschwimm.anSV";"Ausgaben";31218
+324;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06366";"Einrichtungen der Jugendarbeit";"0636601";"Bereitstellung u. Betrieb von Spielplätzen, Bolzplätzen und Skateanlagen";5211022;"Unterhaltungsaufwand Spielpl.";"Ausgaben";5204
+325;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111102";"Verwaltungsführung";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";50021
+326;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";93109
+327;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";50842
+328;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111107";"Personalwesen";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";32435
+329;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";217550
+330;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";8422
+331;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";52285
+332;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212202";"Gewerbe und Gaststätten";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";15386
+333;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212203";"Einwohnermeldewesen";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";40405
+334;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212204";"Personenstandswesen";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";35913
+335;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";12505
+336;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";141119
+337;2015;"03";"Schulträgeraufgaben";"03221";"Sonderschulen";"0322101";"Zweckverband Sonderschule";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";0
+338;2015;"03";"Schulträgeraufgaben";"03241";"Schülerbeförderung";"0324101";"Schülerbeförderung";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";3716
+339;2015;"04";"Kultur und Wissenschaft";"04263";"Musikschulen";"0426301";"Musikschule ";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";3716
+340;2015;"05";"Soziale Leistungen";"05311";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";"0531101";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";24754
+341;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";7001
+342;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531501";"Soziale Einrichtungen für Ältere";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";56232
+343;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";5693
+344;2015;"05";"Soziale Leistungen";"05331";"Förderung von anderen Trägern der Wohlfahrtspflege";"0533101";"Förderung von anderen Trägern der Wohlfahrtspflege";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";2411
+345;2015;"05";"Soziale Leistungen";"05351";"Sonstige soziale Leistungen";"0535101";"Sonstige soziale Leistungen";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";47215
+346;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";22469
+347;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";88049
+348;2015;"10";"Bauen und Wohnen";"10521";"Bau- und Grundstücksordnung";"1052101";"Freistellung- und Genehmigungsverfahren, Ordnungsaufgaben";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";18266
+349;2015;"10";"Bauen und Wohnen";"10522";"Wohnungsbauförderung";"1052201";"Wohnungsbauförderung";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";3796
+350;2015;"10";"Bauen und Wohnen";"10523";"Denkmalschutz und -pflege";"1052301";"Denkmalschutz und -pflege";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";3796
+351;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";29082
+352;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";25308
+353;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";29211
+354;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111102";"Verwaltungsführung";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";3871
+355;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";11080
+356;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";3938
+357;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111107";"Personalwesen";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";2509
+358;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";16847
+359;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";651
+360;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";4044
+361;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212202";"Gewerbe und Gaststätten";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";1190
+362;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212203";"Einwohnermeldewesen";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";3125
+363;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212204";"Personenstandswesen";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";2777
+364;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";968
+365;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";10947
+366;2015;"03";"Schulträgeraufgaben";"03221";"Sonderschulen";"0322101";"Zweckverband Sonderschule";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";0
+367;2015;"03";"Schulträgeraufgaben";"03241";"Schülerbeförderung";"0324101";"Schülerbeförderung";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";288
+368;2015;"03";"Schulträgeraufgaben";"03243";"Offene Ganztagsschule";"0324301";"Offene Ganztagsschule";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";1022
+369;2015;"04";"Kultur und Wissenschaft";"04263";"Musikschulen";"0426301";"Musikschule ";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";288
+370;2015;"05";"Soziale Leistungen";"05311";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";"0531101";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";1915
+371;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";541
+372;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531501";"Soziale Einrichtungen für Ältere";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";4647
+373;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";4403
+374;2015;"05";"Soziale Leistungen";"05331";"Förderung von anderen Trägern der Wohlfahrtspflege";"0533101";"Förderung von anderen Trägern der Wohlfahrtspflege";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";187
+375;2015;"05";"Soziale Leistungen";"05351";"Sonstige soziale Leistungen";"0535101";"Sonstige soziale Leistungen";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";3653
+376;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";8927
+377;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";100422
+378;2015;"08";"Sportförderung";"08421";"Förderung des Sports";"0842101";"Förderung des Sports";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";1022
+379;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";1738
+380;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";6815
+381;2015;"10";"Bauen und Wohnen";"10521";"Bau- und Grundstücksordnung";"1052101";"Freistellung- und Genehmigungsverfahren, Ordnungsaufgaben";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";1413
+382;2015;"10";"Bauen und Wohnen";"10522";"Wohnungsbauförderung";"1052201";"Wohnungsbauförderung";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";294
+383;2015;"10";"Bauen und Wohnen";"10523";"Denkmalschutz und -pflege";"1052301";"Denkmalschutz und -pflege";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";294
+384;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";3515
+385;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";1961
+386;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";2260
+387;2015;"13";"Natur und Landschaftspflege";"13551";"Öffentliches Grün, Landschaftsbau";"1355101";"Parkanlagen und öffentliche Grünflächen, Dorfverschönerung";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";13338
+388;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";7424
+389;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";4716
+390;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111102";"Verwaltungsführung";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";9981
+391;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";28991
+392;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";10123
+393;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111107";"Personalwesen";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";6633
+394;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";44344
+395;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";1611
+396;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";10371
+397;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212202";"Gewerbe und Gaststätten";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";2979
+398;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212203";"Einwohnermeldewesen";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";8228
+399;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212204";"Personenstandswesen";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";7329
+400;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";2504
+401;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";28639
+402;2015;"03";"Schulträgeraufgaben";"03221";"Sonderschulen";"0322101";"Zweckverband Sonderschule";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";0
+403;2015;"03";"Schulträgeraufgaben";"03241";"Schülerbeförderung";"0324101";"Schülerbeförderung";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";760
+404;2015;"04";"Kultur und Wissenschaft";"04263";"Musikschulen";"0426301";"Musikschule ";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";760
+405;2015;"05";"Soziale Leistungen";"05311";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";"0531101";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";5058
+406;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";1433
+407;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531501";"Soziale Einrichtungen für Ältere";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";11005
+408;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";1163
+409;2015;"05";"Soziale Leistungen";"05331";"Förderung von anderen Trägern der Wohlfahrtspflege";"0533101";"Förderung von anderen Trägern der Wohlfahrtspflege";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";488
+410;2015;"05";"Soziale Leistungen";"05351";"Sonstige soziale Leistungen";"0535101";"Sonstige soziale Leistungen";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";9637
+411;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";23245
+412;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";261416
+413;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";4514
+414;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";17096
+415;2015;"10";"Bauen und Wohnen";"10521";"Bau- und Grundstücksordnung";"1052101";"Freistellung- und Genehmigungsverfahren, Ordnungsaufgaben";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";3592
+416;2015;"10";"Bauen und Wohnen";"10522";"Wohnungsbauförderung";"1052201";"Wohnungsbauförderung";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";775
+417;2015;"10";"Bauen und Wohnen";"10523";"Denkmalschutz und -pflege";"1052301";"Denkmalschutz und -pflege";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";775
+418;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";4429
+419;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";4929
+420;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";5767
+421;2015;"13";"Natur und Landschaftspflege";"13551";"Öffentliches Grün, Landschaftsbau";"1355101";"Parkanlagen und öffentliche Grünflächen, Dorfverschönerung";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";34840
+422;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";19382
+423;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";12272
+424;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";370
+425;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+426;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531501";"Soziale Einrichtungen für Ältere";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";1068
+427;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";1932
+428;2015;"13";"Natur und Landschaftspflege";"13551";"Öffentliches Grün, Landschaftsbau";"1355101";"Parkanlagen und öffentliche Grünflächen, Dorfverschönerung";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+429;2015;"03";"Schulträgeraufgaben";"03218";"Gesamtschulen";"0321801";"Zweckverband Gesamtschule";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";0
+430;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06366";"Einrichtungen der Jugendarbeit";"0636601";"Bereitstellung u. Betrieb von Spielplätzen, Bolzplätzen und Skateanlagen";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";0
+431;2015;"13";"Natur und Landschaftspflege";"13552";"Öffentliche Gewässer, wasserbauliche Anlagen";"1355201";"Gewässerunterhaltung";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";0
+432;2015;"13";"Natur und Landschaftspflege";"13555";"Land- und Forstwirtschaft";"1355501";"Förderung der Land- und Forstwirtschaft, Wirtschaftswege";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";0
+433;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5019000;"Dienstbezüge sonst. Beschäft.";"Ausgaben";0
+434;2015;"03";"Schulträgeraufgaben";"03218";"Gesamtschulen";"0321801";"Zweckverband Gesamtschule";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";0
+435;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06366";"Einrichtungen der Jugendarbeit";"0636601";"Bereitstellung u. Betrieb von Spielplätzen, Bolzplätzen und Skateanlagen";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";0
+436;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12545";"Straßenreinigung";"1254501";"Straßenreinigung und Winterdienst";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";992
+437;2015;"13";"Natur und Landschaftspflege";"13555";"Land- und Forstwirtschaft";"1355501";"Förderung der Land- und Forstwirtschaft, Wirtschaftswege";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";0
+438;2015;"03";"Schulträgeraufgaben";"03218";"Gesamtschulen";"0321801";"Zweckverband Gesamtschule";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";0
+439;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06366";"Einrichtungen der Jugendarbeit";"0636601";"Bereitstellung u. Betrieb von Spielplätzen, Bolzplätzen und Skateanlagen";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";0
+440;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12545";"Straßenreinigung";"1254501";"Straßenreinigung und Winterdienst";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";2611
+441;2015;"13";"Natur und Landschaftspflege";"13552";"Öffentliche Gewässer, wasserbauliche Anlagen";"1355201";"Gewässerunterhaltung";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";0
+442;2015;"13";"Natur und Landschaftspflege";"13555";"Land- und Forstwirtschaft";"1355501";"Förderung der Land- und Forstwirtschaft, Wirtschaftswege";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";0
+443;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";75
+444;2015;"05";"Soziale Leistungen";"05311";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";"0531101";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";4482030;"Erstattungen durch örtl. Träger";"Einnahmen";1500
+445;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";4141002;"Zuschuss Land Betreuungsmaßn. ";"Einnahmen";8000
+446;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";4487004;"Entsch.f.Containerstandplätze ";"Einnahmen";13975
+447;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5499008;"Weiterleitg. Umsatzsteuer DSD ";"Ausgaben";0
+448;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531501";"Soziale Einrichtungen für Ältere";5291022;"Seniorenarb.Bürg.hs.Me,Lindepl";"Ausgaben";1600
+449;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5499019;"Erst.Geb. Brandschau Stadt DN ";"Ausgaben";1030
+450;2015;"03";"Schulträgeraufgaben";"03243";"Offene Ganztagsschule";"0324301";"Offene Ganztagsschule";4141000;"Zuw. lfd Zwecke vom Land";"Einnahmen";27000
+451;2015;"03";"Schulträgeraufgaben";"03243";"Offene Ganztagsschule";"0324301";"Offene Ganztagsschule";4141001;"Landeszuweisung OGS           ";"Einnahmen";50000
+452;2015;"13";"Natur und Landschaftspflege";"13555";"Land- und Forstwirtschaft";"1355501";"Förderung der Land- und Forstwirtschaft, Wirtschaftswege";5211018;"Unterh.Begleitgrün Wirtsch.weg";"Ausgaben";12487
+453;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";4487011;"Kostenerstattg. Bergbautreib. ";"Einnahmen";100000
+454;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";4321025;"Geb. f. Reihengrabstätten     ";"Einnahmen";0
+455;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5411007;"Entschädigung für Geldeinzug  ";"Ausgaben";1030
+456;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";4051000;"Leistungen Familienausgleich";"Einnahmen";452666
+457;2015;"11";"Ver- und Entsorgung";"11531";"Elektrizitätsversorgung";"1153101";"Konzessionsabgabe (Elektrizität)";4511000;"Konzessionsabgaben";"Einnahmen";280000
+458;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";5019000;"Dienstbezüge sonst. Beschäft.";"Ausgaben";7595
+459;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";4321007;"Ben.geb.z.Entsorg.Grundst.entw";"Einnahmen";2500
+460;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111103";"Beschäftigtenvertretung";5411002;"Aufw.deckung Personalvertr.   ";"Ausgaben";123
+461;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";5255000;"Unterh./Instandsetzung bewegl. Vermögen";"Ausgaben";10099
+462;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5422001;"Weiterentwicklung IT";"Ausgaben";3091
+463;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5431005;"Öffentliche Bekanntmachungen  ";"Ausgaben";1545
+464;2015;"04";"Kultur und Wissenschaft";"04281";"Heimat- und sonstige Kunstpflege";"0428101";"Kulturveranstaltungen und Kulturförderung";4461000;"Einnahmen Veranstaltungen";"Einnahmen";1500
+465;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";4487016;"Schadeners.l.Bür.hs., Bergstr.";"Einnahmen";2000
+466;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4211000;"Erst. Sozialleistungsträger";"Einnahmen";250
+467;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";4022000;"Gemeindeanteil Umsatzsteuer";"Einnahmen";226136
+468;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";4021000;"Gemeindeanteil Einkommensteuer";"Einnahmen";4380801
+469;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5211001;"Beseitigung von Glasschäden";"Ausgaben";3767
+470;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";5341000;"Gewerbesteuerumlage";"Ausgaben";247721
+471;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";5342000;"Finanz.-bet. Fonds Deut. Einh.";"Ausgaben";240743
+472;2015;"07";"Gesundheitsdienste";"07411";"Krankenhäuser";"0741101";"Beteiligung Krankenhausfinanzierungsgesetz";5391000;"Kostenbeteiligung Krankenhausfinanzierungsgesetz";"Ausgaben";115294
+473;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";4481004;"Betriebsk.zusch.Land Jugendh. ";"Einnahmen";6000
+474;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111103";"Beschäftigtenvertretung";5411001;"Betriebsveranstaltungen       ";"Ausgaben";2576
+475;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";4487001;"Schadenersatzleistungen       ";"Einnahmen";1020
+476;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";5255002;"Besch.Arb.bekl.Beschäft.SGB II";"Ausgaben";1040
+477;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";5211005;"Sanier.arb.aufgr.Kanalüberprüf";"Ausgaben";117000
+478;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";5291028;"Abwasserabgabe                ";"Ausgaben";44131
+479;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5281014;"Mobile Jugendarbeit";"Ausgaben";2000
+480;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";4487012;"Schadeners.l.Bür.hs., Lindenpl";"Einnahmen";2000
+481;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5431004;"Fernsehgebühren / GEMA        ";"Ausgaben";518
+482;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";4591000;"vermischte Einnahmen";"Einnahmen";150
+483;2015;"03";"Schulträgeraufgaben";"03218";"Gesamtschulen";"0321801";"Zweckverband Gesamtschule";4483000;"Erträge aus Ko-erst. Zweckverb";"Einnahmen";105000
+484;2015;"15";"Wirtschaft und Tourismus";"15571";"Wirtschaftsförderung";"1557101";"Wirtschaftsförderung";5291038;"Erstellung einer Solarpotenzialanalyse";"Ausgaben";0
+485;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";4488005;"Zusch. u.K.beitr. Ferienspiele";"Einnahmen";5000
+486;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";4591000;"vermischte Einnahmen";"Einnahmen";10
+487;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";5473000;"Aufwendungen St.Ni.Erl.";"Ausgaben";0
+488;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5473000;"Aufwendungen St.Ni.Erl.";"Ausgaben";0
+489;2015;"17";"Stiftungen";"17700";"Stiftungen";"1770001";"Stiftung v. d. Driesch";5318003;"Verteilung aus dem Vermögen   ";"Ausgaben";7500
+490;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5281022;"Spiel,- und Beschäftigungsmaterial Jugend";"Ausgaben";500
+491;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212203";"Einwohnermeldewesen";5499017;"Weiterltg. Geb. Führungszeugn.";"Ausgaben";2576
+492;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";4591002;"Erstattung Energiekosten      ";"Einnahmen";1980
+493;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";4591000;"vermischte Einnahmen";"Einnahmen";400
+494;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5318009;"Zuschuss Kinderferienmaßnahmen";"Ausgaben";1500
+495;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12545";"Straßenreinigung";"1254501";"Straßenreinigung und Winterdienst";5232005;"Kosteners.an LV f.Winterdienst";"Ausgaben";2550
+496;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";4487001;"Schadenersatzleistungen       ";"Einnahmen";7000
+497;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5291007;"Schadstoffsammlung            ";"Ausgaben";6602
+498;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5211008;"Unterhaltung P + R - Anlage   ";"Ausgaben";15610
+499;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5241008;"Abwassergeb. Straßenentwässerg";"Ausgaben";212524
+500;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4487002;"Erstatt. Beihilfen+Haftpflicht";"Einnahmen";1000
+501;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";4321002;"Abwassergeb. (Straßenentwäss.)";"Einnahmen";212292
+502;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";34
+503;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5281006;"Schulmilch Kinder Leist.empf. ";"Ausgaben";1664
+504;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531501";"Soziale Einrichtungen für Ältere";5339000;"Seniorenveranstaltungen";"Ausgaben";7000
+505;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";4488012;"Spenden";"Einnahmen";1
+506;2015;"05";"Soziale Leistungen";"05331";"Förderung von anderen Trägern der Wohlfahrtspflege";"0533101";"Förderung von anderen Trägern der Wohlfahrtspflege";5318012;"Zuschuss an AWO Merz.         ";"Ausgaben";990
+507;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5281018;"Durchführ. Kinderferienspiele ";"Ausgaben";8214
+508;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331009;"Sachleistung gem. õ 6";"Ausgaben";1
+509;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";5211016;"Selbstüberwach.k. Kanalis.anl.";"Ausgaben";35000
+510;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5141000;"Beihilfen,Unterstützungen dgl.";"Ausgaben";7805
+511;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";4591000;"vermischte Einnahmen";"Einnahmen";100
+512;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";4487009;"Erstattung ant. WVER-Umlage   ";"Einnahmen";210000
+513;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";4321024;"Gebühren aus Brandschau       ";"Einnahmen";1000
+514;2015;"05";"Soziale Leistungen";"05312";"Grundsicherungsleistungen nach dem Zweiten Buch Sozialgesetzbuch";"0531201";"Grundsicherungsleistungen nach dem Zweiten Buch Sozialgesetzbuch";5141000;"Beihilfen,Unterstützungen dgl.";"Ausgaben";0
+515;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5211017;"Streumaterial - 10% -         ";"Ausgaben";1560
+516;2015;"02";"Sicherheit und Ordnung";"02128";"Abwehr von Großschadensereignissen, Katastrophenschutz";"0212801";"Katastrophenschutz";5232001;"Erst.Aufw.So-fzg,Strahl.sch.ua";"Ausgaben";312
+517;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4591019;"Erstattung KDVZ-Verbandsumlage";"Einnahmen";5
+518;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";4487001;"Schadenersatzleistungen       ";"Einnahmen";500
+519;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";5342001;"Abrechnung ELAG (Aufwand)";"Ausgaben";61182
+520;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5211001;"Beseitigung von Glasschäden";"Ausgaben";3646
+521;2015;"05";"Soziale Leistungen";"05331";"Förderung von anderen Trägern der Wohlfahrtspflege";"0533101";"Förderung von anderen Trägern der Wohlfahrtspflege";5318023;"Zuschuss an Evang.Gem. DN     ";"Ausgaben";990
+522;2015;"03";"Schulträgeraufgaben";"03218";"Gesamtschulen";"0321801";"Zweckverband Gesamtschule";5499016;"Weiterl.Vers.leist.an Gesamts.";"Ausgaben";2060
+523;2015;"03";"Schulträgeraufgaben";"03218";"Gesamtschulen";"0321801";"Zweckverband Gesamtschule";4487008;"Erst.Schadensfälle d.Versich. ";"Einnahmen";2000
+524;2015;"04";"Kultur und Wissenschaft";"04271";"Volkshochschulen";"0427101";"Kostenbeteiligung Kreis-VHS";5232003;"Erstatt.an Kreis für VHS      ";"Ausgaben";27287
+525;2015;"02";"Sicherheit und Ordnung";"02121";"Statistik und Wahlen";"0212102";"Wahlen";5421005;"Entschädigungen Kommunalwahl  ";"Ausgaben";1400
+526;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5281024;"Bücher und Zeitschriften Jugend";"Ausgaben";200
+527;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5255003;"Wartung der Sportgeräte       ";"Ausgaben";40
+528;2015;"15";"Wirtschaft und Tourismus";"15571";"Wirtschaftsförderung";"1557101";"Wirtschaftsförderung";4487017;"Zuschuss Erstellung einer Solarpotenzialanalyse";"Einnahmen";0
+529;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";4591002;"Erstattung Energiekosten      ";"Einnahmen";300
+530;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";4488014;"Eigenanteile Ausflüge/Feste Jugend";"Einnahmen";1
+531;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111110";"Liegenschaftsverwaltung";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";0
+532;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";5211021;"Unterh. Regenrückhaltebecken  ";"Ausgaben";10100
+533;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";4591000;"vermischte Einnahmen";"Einnahmen";200
+534;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331000;"Regel-/Mehrbedarf analog SGB XII, õ 2";"Ausgaben";4000
+535;2015;"11";"Ver- und Entsorgung";"11532";"Gasversorgung";"1153201";"Konzessionsabgabe (Gas)";4511000;"Konzessionsabgaben";"Einnahmen";30000
+536;2015;"11";"Ver- und Entsorgung";"11533";"Wasserversorgung";"1153301";"Konzessionsabgabe (Wasser)";4511000;"Konzessionsabgaben";"Einnahmen";83000
+537;2015;"04";"Kultur und Wissenschaft";"04281";"Heimat- und sonstige Kunstpflege";"0428101";"Kulturveranstaltungen und Kulturförderung";5318006;"Zusch.Gestaltung Martinszüge  ";"Ausgaben";4887
+538;2015;"03";"Schulträgeraufgaben";"03217";"Gymnasien";"0321701";"Kostenbeteiligung Gymnasien";5318010;"Zuschuss St.Angela Schule     ";"Ausgaben";6500
+539;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";4039000;"Steuer auf Vergnügungen sexueller Art";"Einnahmen";54000
+540;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5499001;"Vermischte Ausgaben           ";"Ausgaben";3
+541;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5431001;"Testmaterial                  ";"Ausgaben";548
+542;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";4591000;"vermischte Einnahmen";"Einnahmen";200
+543;2015;"08";"Sportförderung";"08421";"Förderung des Sports";"0842101";"Förderung des Sports";5499013;"Sportlerehrungen              ";"Ausgaben";1236
+544;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";4147007;"Zuschuss Provinzial           ";"Einnahmen";2500
+545;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4488010;"Verw.kostenbeitr. Jagdgenoss. ";"Einnahmen";400
+546;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5431007;"Dienstreisen, Fahrtkostenerst.";"Ausgaben";412
+547;2015;"05";"Soziale Leistungen";"05311";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";"0531101";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";5141000;"Beihilfen,Unterstützungen dgl.";"Ausgaben";10406
+548;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5422000;"Fotokopierkosten";"Ausgaben";8300
+549;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5431007;"Dienstreisen, Fahrtkostenerst.";"Ausgaben";259
+550;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";5499022;"Zuschuss an Tierschutzverein  ";"Ausgaben";7831
+551;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5318001;"Entsch.Gerätewart+Zuschüsse FW";"Ausgaben";3200
+552;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5232004;"Erstattung an Kreis f. Notruf ";"Ausgaben";312
+553;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";4321006;"Anerkenn.geb.Nutzung Gem.Mobil";"Einnahmen";400
+554;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5211013;"Unterhaltung der Hydranten    ";"Ausgaben";2081
+555;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5422004;"Miete Jugendtreff Girbelsrath ";"Ausgaben";720
+556;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";4488011;"Zusch.Instandh.d.Kriegsgr.fürs";"Einnahmen";3158
+557;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331013;"Beitr.Kranken-/Pflegevers. õ 3";"Ausgaben";0
+558;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331006;"Ambulante Krankenhilfe analog SGB XII, õ 2";"Ausgaben";2000
+559;2015;"15";"Wirtschaft und Tourismus";"15571";"Wirtschaftsförderung";"1557101";"Wirtschaftsförderung";4591000;"vermischte Einnahmen";"Einnahmen";0
+560;2015;"02";"Sicherheit und Ordnung";"02121";"Statistik und Wahlen";"0212102";"Wahlen";4481008;"Erstatt. Wahlk. Landtagswahl  ";"Einnahmen";0
+561;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+562;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+563;2015;"17";"Stiftungen";"17700";"Stiftungen";"1770002";"Stiftung Rixen";4617007;"Zinsen Sondrl. Stiftung Rixen ";"Einnahmen";120
+564;2015;"17";"Stiftungen";"17700";"Stiftungen";"1770001";"Stiftung v. d. Driesch";4617002;"Zs.Übersch.guth. Stift.Driesch";"Einnahmen";500
+565;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";4617010;"Zinsen Sonderrückl. Bioabfälle";"Einnahmen";220
+566;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";4617006;"Zs.Sondrl.Rückst.Abfallbeseit.";"Einnahmen";430
+567;2015;"16";"Allgemeine Finanzwirtschaft";"16612";"Sonstige allgemeine Finanzwirtschaft";"1661201";"Sonstige allgemeine Finanzwirtschaft";4617003;"Zinsen Allgemeine Rücklage    ";"Einnahmen";10000
+568;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";4617009;"Zs.Sondrl.Rückst.Abwasserbesei";"Einnahmen";650
+569;2015;"17";"Stiftungen";"17700";"Stiftungen";"1770003";"ÖÖÖCollas-MittelÖÖÖ";4617000;"Zinserträge Kreditinstitute";"Einnahmen";120
+570;2015;"03";"Schulträgeraufgaben";"03221";"Sonderschulen";"0322101";"Zweckverband Sonderschule";4483000;"Erträge aus Ko-erst. Zweckverb";"Einnahmen";19000
+571;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331017;"Aufwandsentschädigung nach  õ 5";"Ausgaben";2000
+572;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331010;"Kosten Unterkunft u.  Heizung,  õ 3";"Ausgaben";301000
+573;2015;"16";"Allgemeine Finanzwirtschaft";"16612";"Sonstige allgemeine Finanzwirtschaft";"1661201";"Sonstige allgemeine Finanzwirtschaft";4583000;"So. nicht zw. ord. erträge";"Einnahmen";0
+574;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5291021;"Prüfungskosten GPA NRW        ";"Ausgaben";0
+575;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111101";"Politische Gremien";5291033;"Städtepartnerschaft";"Ausgaben";0
+576;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111101";"Politische Gremien";5421008;"Verdienstausfallentschädigung Ratsmitglieder";"Ausgaben";10303
+577;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111102";"Verwaltungsführung";4591000;"vermischte Einnahmen";"Einnahmen";5
+578;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111102";"Verwaltungsführung";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+579;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111102";"Verwaltungsführung";5499001;"Vermischte Ausgaben           ";"Ausgaben";5
+580;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4161000;"Ertr. Aufl. SoPo aus Zuwendung";"Einnahmen";6000
+581;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4482002;"Sachkostenpauschale  SGBII Kreis";"Einnahmen";12500
+582;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4488001;"Erstatt. Bekanntmachungskosten";"Einnahmen";100
+583;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4488004;"Erstattung Telefonentgelte    ";"Einnahmen";10
+584;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4591000;"vermischte Einnahmen";"Einnahmen";500
+585;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4591001;"Rückzahlung Gehaltsvorschüsse ";"Einnahmen";1006
+586;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4591018;"Erstatt. Versorgungskassenbeit";"Einnahmen";10
+587;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4811000;"Erträge aus internen Leistungs";"Einnahmen";0
+588;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";4811003;"Verw.kostenbeitr. kost.Einrich";"Einnahmen";41517
+589;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5012001;"Tarifliche Leistungszulage";"Ausgaben";36226
+590;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+591;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5121000;"Beitr. zu Versorg.kasse Beamte";"Ausgaben";10926
+592;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5211001;"Beseitigung von Glasschäden";"Ausgaben";337
+593;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5499006;"Angel.d.Gleichstellungsbeauftr";"Ausgaben";206
+594;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111104";"Zentrale Dienste, Recht, Informationsverarbeitung";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";43000
+595;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+596;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";5211001;"Beseitigung von Glasschäden";"Ausgaben";158
+597;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111105";"Bauhof";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";39200
+598;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111107";"Personalwesen";5012001;"Tarifliche Leistungszulage";"Ausgaben";0
+599;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111107";"Personalwesen";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+600;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+601;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5121000;"Beitr. zu Versorg.kasse Beamte";"Ausgaben";45786
+602;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5411000;"Personalnebenkosten";"Ausgaben";259
+603;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111108";"Finanz- und Rechnungswesen";5499001;"Vermischte Ausgaben           ";"Ausgaben";5
+604;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";4161000;"Ertr. Aufl. SoPo aus Zuwendung";"Einnahmen";91100
+605;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";4487001;"Schadenersatzleistungen       ";"Einnahmen";1750
+606;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";5019000;"Dienstbezüge sonst. Beschäft.";"Ausgaben";1310
+607;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";5029000;"Beitr. Versorg.-kasse so Besch";"Ausgaben";101
+608;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";5121000;"Beitr. zu Versorg.kasse Beamte";"Ausgaben";6244
+609;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";5211001;"Beseitigung von Glasschäden";"Ausgaben";150
+610;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";5499012;"Erstatt. Vers.l. an TV Kitas  ";"Ausgaben";721
+611;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111109";"zentrale Gebäudewirtschaft";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";137570
+612;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111110";"Liegenschaftsverwaltung";4487000;"Erstattung Beihilfekosten";"Einnahmen";500
+613;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111110";"Liegenschaftsverwaltung";4541002;"Ertr. Veräußerg Grundstücke G1 und C22";"Einnahmen";420271
+614;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111110";"Liegenschaftsverwaltung";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+615;2015;"01";"Innere Verwaltung";"01111";"Verwaltungssteuerung und Service";"0111110";"Liegenschaftsverwaltung";5121000;"Beitr. zu Versorg.kasse Beamte";"Ausgaben";11446
+616;2015;"02";"Sicherheit und Ordnung";"02121";"Statistik und Wahlen";"0212102";"Wahlen";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";0
+617;2015;"02";"Sicherheit und Ordnung";"02121";"Statistik und Wahlen";"0212102";"Wahlen";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";0
+618;2015;"02";"Sicherheit und Ordnung";"02121";"Statistik und Wahlen";"0212102";"Wahlen";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";0
+619;2015;"02";"Sicherheit und Ordnung";"02121";"Statistik und Wahlen";"0212102";"Wahlen";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+620;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";4311000;"Verwaltungsgebühren";"Einnahmen";100
+621;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";4487001;"Schadenersatzleistungen       ";"Einnahmen";50
+622;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";4561001;"Verwarn.gelder o.ruh.Verkehr  ";"Einnahmen";500
+623;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";4591000;"vermischte Einnahmen";"Einnahmen";100
+624;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+625;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";5041000;"Beihilfen für Beamte";"Ausgaben";10
+626;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";5121000;"Beitr. zu Versorg.kasse Beamte";"Ausgaben";16650
+627;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";5431026;"Abschleppk.wid.abgest.Fahrzg. ";"Ausgaben";515
+628;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";5499020;"Kosten Einfangen herrenl.Hunde";"Ausgaben";156
+629;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212201";"Gefahrenabwehr und Verkehr";5499023;"Kosten Beseitigung v. Ölspuren";"Ausgaben";2060
+630;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212202";"Gewerbe und Gaststätten";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+631;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212203";"Einwohnermeldewesen";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+632;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212204";"Personenstandswesen";4591000;"vermischte Einnahmen";"Einnahmen";5
+633;2015;"02";"Sicherheit und Ordnung";"02122";"Ordnungsangelegenheiten";"0212204";"Personenstandswesen";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+634;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";4161000;"Ertr. Aufl. SoPo aus Zuwendung";"Einnahmen";19200
+635;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+636;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5121000;"Beitr. zu Versorg.kasse Beamte";"Ausgaben";5516
+637;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5211001;"Beseitigung von Glasschäden";"Ausgaben";162
+638;2015;"02";"Sicherheit und Ordnung";"02126";"Brandschutz";"0212601";"Brandschutz";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";57510
+639;2015;"02";"Sicherheit und Ordnung";"02128";"Abwehr von Großschadensereignissen, Katastrophenschutz";"0212801";"Katastrophenschutz";5499001;"Vermischte Ausgaben           ";"Ausgaben";5
+640;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";4161000;"Ertr. Aufl. SoPo aus Zuwendung";"Einnahmen";92100
+641;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5121000;"Beitr. zu Versorg.kasse Beamte";"Ausgaben";5516
+642;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5499001;"Vermischte Ausgaben           ";"Ausgaben";113
+643;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5499018;"Zuschuss f.zusätz.Betreuungsm.";"Ausgaben";8243
+644;2015;"03";"Schulträgeraufgaben";"03211";"Grundschulen";"0321101";"Bereitstellung und Betrieb von Grundschulen";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";123400
+645;2015;"03";"Schulträgeraufgaben";"03218";"Gesamtschulen";"0321801";"Zweckverband Gesamtschule";4483001;"Erstatt.Personalkosten Bauhof ";"Einnahmen";3000
+646;2015;"03";"Schulträgeraufgaben";"03218";"Gesamtschulen";"0321801";"Zweckverband Gesamtschule";4571001;"Ertr. Aufl. SoPo Schulpausch. ";"Einnahmen";200000
+647;2015;"03";"Schulträgeraufgaben";"03218";"Gesamtschulen";"0321801";"Zweckverband Gesamtschule";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+648;2015;"03";"Schulträgeraufgaben";"03218";"Gesamtschulen";"0321801";"Zweckverband Gesamtschule";5313004;"Verw.k.zusch. an Gem.N.für SV ";"Ausgaben";7670
+649;2015;"03";"Schulträgeraufgaben";"03241";"Schülerbeförderung";"0324101";"Schülerbeförderung";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+650;2015;"03";"Schulträgeraufgaben";"03243";"Offene Ganztagsschule";"0324301";"Offene Ganztagsschule";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";13182
+651;2015;"03";"Schulträgeraufgaben";"03243";"Offene Ganztagsschule";"0324301";"Offene Ganztagsschule";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";2685
+652;2015;"03";"Schulträgeraufgaben";"03243";"Offene Ganztagsschule";"0324301";"Offene Ganztagsschule";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+653;2015;"04";"Kultur und Wissenschaft";"04263";"Musikschulen";"0426301";"Musikschule ";4591000;"vermischte Einnahmen";"Einnahmen";5
+654;2015;"04";"Kultur und Wissenschaft";"04263";"Musikschulen";"0426301";"Musikschule ";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+655;2015;"04";"Kultur und Wissenschaft";"04281";"Heimat- und sonstige Kunstpflege";"0428101";"Kulturveranstaltungen und Kulturförderung";4487013;"Schadenersatzl. Heimatmuseum  ";"Einnahmen";1
+656;2015;"04";"Kultur und Wissenschaft";"04281";"Heimat- und sonstige Kunstpflege";"0428101";"Kulturveranstaltungen und Kulturförderung";4488009;"Erstattung Ausstellungsvers.  ";"Einnahmen";100
+657;2015;"04";"Kultur und Wissenschaft";"04281";"Heimat- und sonstige Kunstpflege";"0428101";"Kulturveranstaltungen und Kulturförderung";4591000;"vermischte Einnahmen";"Einnahmen";5
+658;2015;"04";"Kultur und Wissenschaft";"04281";"Heimat- und sonstige Kunstpflege";"0428101";"Kulturveranstaltungen und Kulturförderung";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";0
+659;2015;"04";"Kultur und Wissenschaft";"04281";"Heimat- und sonstige Kunstpflege";"0428101";"Kulturveranstaltungen und Kulturförderung";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";0
+660;2015;"04";"Kultur und Wissenschaft";"04281";"Heimat- und sonstige Kunstpflege";"0428101";"Kulturveranstaltungen und Kulturförderung";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";0
+661;2015;"04";"Kultur und Wissenschaft";"04281";"Heimat- und sonstige Kunstpflege";"0428101";"Kulturveranstaltungen und Kulturförderung";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+662;2015;"05";"Soziale Leistungen";"05311";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";"0531101";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";4211030;"Erstattungen ÖalteÖ BSHG-Fälle";"Einnahmen";1000
+663;2015;"05";"Soziale Leistungen";"05311";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";"0531101";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";4487000;"Erstattung Beihilfekosten";"Einnahmen";1000
+664;2015;"05";"Soziale Leistungen";"05311";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";"0531101";"Grundversorgung und Leistungen nach dem Zwölften Buch Sozialgesetzbuch";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+665;2015;"05";"Soziale Leistungen";"05312";"Grundsicherungsleistungen nach dem Zweiten Buch Sozialgesetzbuch";"0531201";"Grundsicherungsleistungen nach dem Zweiten Buch Sozialgesetzbuch";4487000;"Erstattung Beihilfekosten";"Einnahmen";0
+666;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4211001;"Kosteners.-außerh.v.Einr.- õ 2";"Einnahmen";0
+667;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4211002;"Beitr.Unterh.pfl.-auß.Einr.õ 2";"Einnahmen";0
+668;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4211003;"Erst.Soz.träg.-auß.v.Einr.õ 2 ";"Einnahmen";0
+669;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4211004;"Ersatzl.so.Dritt.-auß.v.Ein õ2";"Einnahmen";0
+670;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4211005;"Ersatzl.Arbgeb.+Sch.ers.pfl õ2";"Einnahmen";0
+671;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4211006;"Kostenbeitr/Aufwend.ersatz õ 2";"Einnahmen";0
+672;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4211007;"Beiträge Unterhaltspflicht.õ 3";"Einnahmen";0
+673;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4211008;"Erst.v.Soz.leist.trägern õ 3  ";"Einnahmen";0
+674;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4211010;"Ers.l.Arbgeb.+Schad.ers.pfl õ3";"Einnahmen";0
+675;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4211011;"Ers.Soz.l.Träger-auß.v.Einr õ4";"Einnahmen";0
+676;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4211012;"Ers.l.sonst.Dritt.auß.v.Ein õ4";"Einnahmen";0
+677;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4221000;"Ersatz soz. Leist. in Einricht";"Einnahmen";0
+678;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4221001;"Kostenb./Aufw.ers.-inn.Ein õ 2";"Einnahmen";0
+679;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4221002;"Kostenersatz -inn.v.Einr.- õ 2";"Einnahmen";0
+680;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4221003;"Erst.Soz.träg.-inn.v.Einr.-õ 2";"Einnahmen";0
+681;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4221004;"Ers.l.sonst.Dritt.-inn.Einr.õ2";"Einnahmen";0
+682;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4221005;"Zs.+ Ti.Darl.-inn.v.Einr.-õ 2 ";"Einnahmen";0
+683;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4221006;"Zins u. Tilg. v. Darlehen õ 3 ";"Einnahmen";0
+684;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4221007;"Erst.Soz.träg.-inn.v.Ein. õ 4 ";"Einnahmen";0
+685;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4221008;"Ers.l.sonst.Dritt.inn.Einr.õ 4";"Einnahmen";0
+686;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4481001;"Betreuungspausch. d.Landes õ 2";"Einnahmen";0
+687;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";4481007;"Kostenpausch.d.Landes õ 2     ";"Einnahmen";0
+688;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+689;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5121000;"Beitr. zu Versorg.kasse Beamte";"Ausgaben";1991
+690;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5232002;"Erstatt.an and. Träger õ 2    ";"Ausgaben";0
+691;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331001;"einmalige Leistungen analog SGB XII, õ 2";"Ausgaben";250
+692;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331002;"Vorbeug. Gesundheitshilfe õ 2 ";"Ausgaben";0
+693;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331003;"Hilfe werd. Mü. u. Wö. analog SGB XII, õ 2";"Ausgaben";1
+694;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331004;"Pflegekosten analog SGB XII, õ 2";"Ausgaben";1
+695;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331005;"Weihn.-/Feuerbeihlf, einm. õ 2";"Ausgaben";0
+696;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331007;"Stationäre Krankenhilfe analog SGB XII, õ 2";"Ausgaben";1000
+697;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331012;"Ausreisebeihilfe õ 3          ";"Ausgaben";0
+698;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331014;"Erstatt. an and. Träger õ 3   ";"Ausgaben";0
+699;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331016;"Hlf w.Mütt./Wöchn.-auß.Ein.õ 4";"Ausgaben";0
+700;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331018;"Sachleistungen õ 5            ";"Ausgaben";0
+701;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331020;"Ambulante Krankenhilfe õ 5    ";"Ausgaben";0
+702;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5331021;"Ausreisebeihilfe õ 2          ";"Ausgaben";0
+703;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5332000;"SL natürl. Pers. in Einricht.";"Ausgaben";0
+704;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5332001;"Hlf w.Mütt/Wöchn.in Einr. õ 2 ";"Ausgaben";0
+705;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5332003;"Hilfe werd. Mü. u. Wö. nach õ 4";"Ausgaben";0
+706;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5431012;"Verfahrensk.ausl.Flüchtl. õ 3 ";"Ausgaben";0
+707;2015;"05";"Soziale Leistungen";"05313";"Leistungen für Asylbewerber";"0531301";"Leistungen für Asylbewerber";5431024;"Verfahrensk.ausl.Flüchtl. õ 2 ";"Ausgaben";0
+708;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531501";"Soziale Einrichtungen für Ältere";4140000;"Zuw. lfd Zwecke vom Bund";"Einnahmen";0
+709;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531501";"Soziale Einrichtungen für Ältere";5019000;"Dienstbezüge sonst. Beschäft.";"Ausgaben";3798
+710;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531501";"Soziale Einrichtungen für Ältere";5291100;"Deponiegebühren";"Ausgaben";0
+711;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531501";"Soziale Einrichtungen für Ältere";5339001;"Ferienaufenth.Sen.+kinderr.Fam";"Ausgaben";200
+712;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";4161000;"Ertr. Aufl. SoPo aus Zuwendung";"Einnahmen";2900
+713;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";4481000;"Kostenerstattungen vom Land";"Einnahmen";9000
+714;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";5011000;"Dienstbezüge Beamte";"Ausgaben";0
+715;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";5121000;"Beitr. zu Versorg.kasse Beamte";"Ausgaben";0
+716;2015;"05";"Soziale Leistungen";"05315";"Soziale Einrichtungen";"0531502";"Soziale Einrichtungen für Wohnungslose, Aussiedler und Asylbewerber";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";8500
+717;2015;"05";"Soziale Leistungen";"05331";"Förderung von anderen Trägern der Wohlfahrtspflege";"0533101";"Förderung von anderen Trägern der Wohlfahrtspflege";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+718;2015;"05";"Soziale Leistungen";"05351";"Sonstige soziale Leistungen";"0535101";"Sonstige soziale Leistungen";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+719;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";4482003;"Zusch. Proj. Teiln. v. Kin. u. Jugdll. am kom. Ge";"Einnahmen";100
+720;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";4591000;"vermischte Einnahmen";"Einnahmen";500
+721;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5011000;"Dienstbezüge Beamte";"Ausgaben";0
+722;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5121000;"Beitr. zu Versorg.kasse Beamte";"Ausgaben";5412
+723;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5255000;"Unterh./Instandsetzung bewegl. Vermögen";"Ausgaben";1040
+724;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5312000;"Erstattung Kreiszuschuss f. Jugendarbeit";"Ausgaben";166
+725;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5499025;"Proj. Teiln. v. Kin. u. Jugdll. am kom. Gesch.";"Ausgaben";309
+726;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06362";"Jugendarbeit";"0636201";"Kinder- und Jugendarbeit";5499028;"Spendenweiterleitung";"Ausgaben";1
+727;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";4161000;"Ertr. Aufl. SoPo aus Zuwendung";"Einnahmen";29000
+728;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";5041000;"Beihilfen für Beamte";"Ausgaben";424
+729;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";5121000;"Beitr. zu Versorg.kasse Beamte";"Ausgaben";5412
+730;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";5312001;"ÖZuschuss an den ÖÖPoolÖÖ        Ö";"Ausgaben";49713
+731;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";5318008;"Zuschuss an Trägerverein      ";"Ausgaben";117012
+732;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";5318013;"Zuschuss an Kath.Kiga Merz.   ";"Ausgaben";0
+733;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06365";"Tageseinrichtungen für Kinder";"0636501";"Tageseinrichtungen für Kinder";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";44100
+734;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06366";"Einrichtungen der Jugendarbeit";"0636601";"Bereitstellung u. Betrieb von Spielplätzen, Bolzplätzen und Skateanlagen";4161000;"Ertr. Aufl. SoPo aus Zuwendung";"Einnahmen";2700
+735;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06366";"Einrichtungen der Jugendarbeit";"0636601";"Bereitstellung u. Betrieb von Spielplätzen, Bolzplätzen und Skateanlagen";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+736;2015;"06";"Kinder-, Jugend- und Familienhilfe";"06366";"Einrichtungen der Jugendarbeit";"0636601";"Bereitstellung u. Betrieb von Spielplätzen, Bolzplätzen und Skateanlagen";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";20700
+737;2015;"08";"Sportförderung";"08421";"Förderung des Sports";"0842101";"Förderung des Sports";4591010;"Erstatt.Wasser-u.Kanalgebühren";"Einnahmen";5
+738;2015;"08";"Sportförderung";"08421";"Förderung des Sports";"0842101";"Förderung des Sports";5012000;"Dienstbezüge tarifl. Beschäft.";"Ausgaben";13182
+739;2015;"08";"Sportförderung";"08421";"Förderung des Sports";"0842101";"Förderung des Sports";5032000;"Beitr. ges. Soz.-Vers. t Besch";"Ausgaben";2685
+740;2015;"08";"Sportförderung";"08421";"Förderung des Sports";"0842101";"Förderung des Sports";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+741;2015;"08";"Sportförderung";"08421";"Förderung des Sports";"0842101";"Förderung des Sports";5318000;"Entgelt f. Behindertenschwimmen";"Ausgaben";425
+742;2015;"08";"Sportförderung";"08421";"Förderung des Sports";"0842101";"Förderung des Sports";5318016;"Beihilfe an Gemeindesportbund ";"Ausgaben";200
+743;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";4161000;"Ertr. Aufl. SoPo aus Zuwendung";"Einnahmen";3600
+744;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";4591000;"vermischte Einnahmen";"Einnahmen";50
+745;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+746;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";5211001;"Beseitigung von Glasschäden";"Ausgaben";150
+747;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";5241010;"Nutzungsentsch.Rheinbr.f.Morsc";"Ausgaben";185
+748;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";5499001;"Vermischte Ausgaben           ";"Ausgaben";10
+749;2015;"08";"Sportförderung";"08424";"Sportstätten und Bäder";"0842401";"Bereitstellung und Betrieb von Sportanlagen";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";12200
+750;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";4311008;"Erst.Planungs- u.Vermessungsk.";"Einnahmen";1500
+751;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";4321017;"Gebühren für Ausschreibungen  ";"Einnahmen";500
+752;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";4591000;"vermischte Einnahmen";"Einnahmen";5
+753;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+754;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";5121000;"Beitr. zu Versorg.kasse Beamte";"Ausgaben";1211
+755;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";5291040;"Planungskosten Erweiterung B6 Golzheim";"Ausgaben";15000
+756;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";5411000;"Personalnebenkosten";"Ausgaben";259
+757;2015;"09";"Räumliche Planungs- und Entwicklung, Geoinformationen";"09511";"Räumliche Planungs- und Entwicklungsmaßnahmen, Geoinformationen";"0951101";"Bauleitplanung, Flurbereinigung, Umsiedlung";5499001;"Vermischte Ausgaben           ";"Ausgaben";10
+758;2015;"10";"Bauen und Wohnen";"10521";"Bau- und Grundstücksordnung";"1052101";"Freistellung- und Genehmigungsverfahren, Ordnungsaufgaben";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+759;2015;"10";"Bauen und Wohnen";"10522";"Wohnungsbauförderung";"1052201";"Wohnungsbauförderung";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+760;2015;"10";"Bauen und Wohnen";"10523";"Denkmalschutz und -pflege";"1052301";"Denkmalschutz und -pflege";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+761;2015;"10";"Bauen und Wohnen";"10523";"Denkmalschutz und -pflege";"1052301";"Denkmalschutz und -pflege";5211027;"Restaurationsarb. Denkmäler";"Ausgaben";2040
+762;2015;"10";"Bauen und Wohnen";"10523";"Denkmalschutz und -pflege";"1052301";"Denkmalschutz und -pflege";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";200
+763;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";4381000;"Ertr. aus Aufl. SoPo Geb.ausgl";"Einnahmen";68278
+764;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+765;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5474000;"Aufw. Zuführung SoPo";"Ausgaben";0
+766;2015;"11";"Ver- und Entsorgung";"11537";"Abfallwirtschaft";"1153701";"Abfallwirtschaft";5811000;"Aufw. aus int. Leistungsbez.";"Ausgaben";14421
+767;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";4161000;"Ertr. Aufl. SoPo aus Zuwendung";"Einnahmen";125000
+768;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";4371000;"Ertr. aus Aufl. SoPo Beiträge";"Einnahmen";117000
+769;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";4381000;"Ertr. aus Aufl. SoPo Geb.ausgl";"Einnahmen";129325
+770;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";4381001;"Ertr. aus Aufl. SoPo Geb.ausgl (Niederschlw.)";"Einnahmen";116674
+771;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+772;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";338000
+773;2015;"11";"Ver- und Entsorgung";"11538";"Abwasserbeseitigung";"1153801";"Abwasserbeseitigung";5811000;"Aufw. aus int. Leistungsbez.";"Ausgaben";14780
+774;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";4161000;"Ertr. Aufl. SoPo aus Zuwendung";"Einnahmen";206000
+775;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";4371000;"Ertr. aus Aufl. SoPo Beiträge";"Einnahmen";400000
+776;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";4591002;"Erstattung Energiekosten      ";"Einnahmen";500
+777;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";4591014;"Erstatt.Straßenbeleucht.anlage";"Einnahmen";500
+778;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+779;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5041000;"Beihilfen für Beamte";"Ausgaben";54
+780;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5211005;"Sanier.arb.aufgr.Kanalüberprüf";"Ausgaben";0
+781;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5211007;"Änd.an Straßenbeleucht.anlagen";"Ausgaben";3122
+782;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5241013;"Kosten Arbeitseinsatz SH-Empf.";"Ausgaben";2081
+783;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";629000
+784;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12541";"Gemeindestraßen";"1254101";"Bereitstellung und Betrieb von Verkehrsflächen";5811001;"Entg. Str.reinig. überörtl. V.";"Ausgaben";8459
+785;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12545";"Straßenreinigung";"1254501";"Straßenreinigung und Winterdienst";4381000;"Ertr. aus Aufl. SoPo Geb.ausgl";"Einnahmen";0
+786;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12545";"Straßenreinigung";"1254501";"Straßenreinigung und Winterdienst";4811002;"Entgelt Str.rein.inn.+üb.ört.V";"Einnahmen";8459
+787;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12545";"Straßenreinigung";"1254501";"Straßenreinigung und Winterdienst";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+788;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12545";"Straßenreinigung";"1254501";"Straßenreinigung und Winterdienst";5211012;"Streumaterial -90%-           ";"Ausgaben";5100
+789;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12545";"Straßenreinigung";"1254501";"Straßenreinigung und Winterdienst";5251005;"Sächliche Ausgaben            ";"Ausgaben";256
+790;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12545";"Straßenreinigung";"1254501";"Straßenreinigung und Winterdienst";5474000;"Aufw. Zuführung SoPo";"Ausgaben";1422
+791;2015;"12";"Verkehrsflächen und -anlagen, ÖPNV";"12545";"Straßenreinigung";"1254501";"Straßenreinigung und Winterdienst";5811000;"Aufw. aus int. Leistungsbez.";"Ausgaben";5208
+792;2015;"13";"Natur und Landschaftspflege";"13551";"Öffentliches Grün, Landschaftsbau";"1355101";"Parkanlagen und öffentliche Grünflächen, Dorfverschönerung";5211001;"Beseitigung von Glasschäden";"Ausgaben";158
+793;2015;"13";"Natur und Landschaftspflege";"13551";"Öffentliches Grün, Landschaftsbau";"1355101";"Parkanlagen und öffentliche Grünflächen, Dorfverschönerung";5499001;"Vermischte Ausgaben           ";"Ausgaben";15
+794;2015;"13";"Natur und Landschaftspflege";"13551";"Öffentliches Grün, Landschaftsbau";"1355101";"Parkanlagen und öffentliche Grünflächen, Dorfverschönerung";5811002;"Anteil Parkfl.a.Friedhofsanl. ";"Ausgaben";28816
+795;2015;"13";"Natur und Landschaftspflege";"13552";"Öffentliche Gewässer, wasserbauliche Anlagen";"1355201";"Gewässerunterhaltung";4143000;"Zuw. lfd Zwecke von Zweckverb.";"Einnahmen";10
+796;2015;"13";"Natur und Landschaftspflege";"13552";"Öffentliche Gewässer, wasserbauliche Anlagen";"1355201";"Gewässerunterhaltung";5022000;"Beitr. Versorg.-kasse t. Besch";"Ausgaben";0
+797;2015;"13";"Natur und Landschaftspflege";"13552";"Öffentliche Gewässer, wasserbauliche Anlagen";"1355201";"Gewässerunterhaltung";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+798;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";4161000;"Ertr. Aufl. SoPo aus Zuwendung";"Einnahmen";500
+799;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";4591000;"vermischte Einnahmen";"Einnahmen";5
+800;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";4591015;"Erträge Auflös. Rechnungsabgr.";"Einnahmen";44000
+801;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";4811000;"Erträge aus internen Leistungs";"Einnahmen";28816
+802;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5019000;"Dienstbezüge sonst. Beschäft.";"Ausgaben";253
+803;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5041000;"Beihilfen für Beamte";"Ausgaben";54
+804;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5211001;"Beseitigung von Glasschäden";"Ausgaben";0
+805;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5255000;"Unterh./Instandsetzung bewegl. Vermögen";"Ausgaben";0
+806;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5291039;"Gestaltung alter Friedhof Merzenich";"Ausgaben";"-3302.96"
+807;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5431003;"Post- u. Fernmeldegebühren    ";"Ausgaben";75
+808;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5499001;"Vermischte Ausgaben           ";"Ausgaben";0
+809;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5499010;"Beitrag Kriegsgräberfürsorge  ";"Ausgaben";266
+810;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";9400
+811;2015;"13";"Natur und Landschaftspflege";"13553";"Friedhofs- und Bestattungswesen";"1355301";"Friedhöfe";5811000;"Aufw. aus int. Leistungsbez.";"Ausgaben";7108
+812;2015;"13";"Natur und Landschaftspflege";"13555";"Land- und Forstwirtschaft";"1355501";"Förderung der Land- und Forstwirtschaft, Wirtschaftswege";4161000;"Ertr. Aufl. SoPo aus Zuwendung";"Einnahmen";10320
+813;2015;"13";"Natur und Landschaftspflege";"13555";"Land- und Forstwirtschaft";"1355501";"Förderung der Land- und Forstwirtschaft, Wirtschaftswege";5039000;"Beitr. ges. Soz.-Vers. s.Besch";"Ausgaben";0
+814;2015;"13";"Natur und Landschaftspflege";"13555";"Land- und Forstwirtschaft";"1355501";"Förderung der Land- und Forstwirtschaft, Wirtschaftswege";5121000;"Beitr. zu Versorg.kasse Beamte";"Ausgaben";6244
+815;2015;"13";"Natur und Landschaftspflege";"13555";"Land- und Forstwirtschaft";"1355501";"Förderung der Land- und Forstwirtschaft, Wirtschaftswege";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";16670
+816;2015;"14";"Umweltschutzmaßnahmen";"14561";"Umweltschutzmaßnahmen";"1456101";"Umweltschutz";5318025;"Preisgelder";"Ausgaben";2000
+817;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";4161000;"Ertr. Aufl. SoPo aus Zuwendung";"Einnahmen";14650
+818;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";4487001;"Schadenersatzleistungen       ";"Einnahmen";50
+819;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";4487005;"Schadeners.l. Maarhalle, Girb.";"Einnahmen";1000
+820;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5241004;"Abgaben für Kleingartenanlage ";"Ausgaben";5
+821;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5499001;"Vermischte Ausgaben           ";"Ausgaben";103
+822;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557301";"Öffentliche Gemeinschaftseinrichtungen, Märkte";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";32420
+823;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557303";"Solaranlage Maarhalle";4591020;"Vermischte Einnahmen Solaranlage (MwSt.)";"Einnahmen";1000
+824;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557303";"Solaranlage Maarhalle";5211028;"Unterhaltung Solaranlage (MwSt.)";"Ausgaben";1000
+825;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557303";"Solaranlage Maarhalle";5241018;"Bewirtschaftung Solaranlagen (MwSt.)";"Ausgaben";800
+826;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557303";"Solaranlage Maarhalle";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";2950
+827;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557304";"Solaranlage Grundschule Merzenich";4591020;"Vermischte Einnahmen Solaranlage (MwSt.)";"Einnahmen";1000
+828;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557304";"Solaranlage Grundschule Merzenich";5211028;"Unterhaltung Solaranlage (MwSt.)";"Ausgaben";1000
+829;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557304";"Solaranlage Grundschule Merzenich";5241018;"Bewirtschaftung Solaranlagen (MwSt.)";"Ausgaben";800
+830;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557304";"Solaranlage Grundschule Merzenich";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";3060
+831;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557305";"Solaranlage Rathaus";4591020;"Vermischte Einnahmen Solaranlage (MwSt.)";"Einnahmen";1000
+832;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557305";"Solaranlage Rathaus";5211028;"Unterhaltung Solaranlage (MwSt.)";"Ausgaben";1000
+833;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557305";"Solaranlage Rathaus";5241018;"Bewirtschaftung Solaranlagen (MwSt.)";"Ausgaben";800
+834;2015;"15";"Wirtschaft und Tourismus";"15573";"Allgemeine Einrichtungen und Unternehmen";"1557305";"Solaranlage Rathaus";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";3000
+835;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";4051001;"Kinderzulage im Fam.lst.ausgl.";"Einnahmen";0
+836;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";5391000;"Kostenbeteiligung Krankenhausfinanzierungsgesetz";"Ausgaben";0
+837;2015;"16";"Allgemeine Finanzwirtschaft";"16611";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";"1661101";"Steuern, allgemeine Zuweisungen und allgemeine Umlagen";5517000;"Zinsaufwendung Kreditinstitute";"Ausgaben";0
+838;2015;"16";"Allgemeine Finanzwirtschaft";"16612";"Sonstige allgemeine Finanzwirtschaft";"1661201";"Sonstige allgemeine Finanzwirtschaft";5517001;"Zinsen Kassenkredit           ";"Ausgaben";515
+839;2015;"16";"Allgemeine Finanzwirtschaft";"16612";"Sonstige allgemeine Finanzwirtschaft";"1661201";"Sonstige allgemeine Finanzwirtschaft";5518000;"Erstattungszinsen Gewerbesteuer";"Ausgaben";10303
+840;2015;"17";"Stiftungen";"17700";"Stiftungen";"1770001";"Stiftung v. d. Driesch";4571000;"Erträge Aufl. sonstige SoPo";"Einnahmen";7000
+841;2015;"17";"Stiftungen";"17700";"Stiftungen";"1770001";"Stiftung v. d. Driesch";4617008;"Zs.Sondrl.Stiftung M.v.Driesch";"Einnahmen";0
+842;2015;"17";"Stiftungen";"17700";"Stiftungen";"1770002";"Stiftung Rixen";4571000;"Erträge Aufl. sonstige SoPo";"Einnahmen";740
+843;2015;"17";"Stiftungen";"17700";"Stiftungen";"1770002";"Stiftung Rixen";5711000;"Abschreibung auf Sachanlagevermögen";"Ausgaben";2700

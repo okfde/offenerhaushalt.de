@@ -1,0 +1,203 @@
+art_label,produktbereich_name,produktbereich_label,amount,time_year,produktgruppe_name,produktgruppe_label
+Ertrag,1,Innere Verwaltung,53901,2018,101,"Politische Gremien, Verwaltungsführung und internationale Angelegenheiten"
+Aufwand,1,Innere Verwaltung,17575500,2018,101,"Politische Gremien, Verwaltungsführung und internationale Angelegenheiten"
+Ertrag,1,Innere Verwaltung,2881525,2018,102,"Haushalts-, betriebswirtschaftliche und technische Prüfungen, Sonderprüfungen"
+Aufwand,1,Innere Verwaltung,6526389,2018,102,"Haushalts-, betriebswirtschaftliche und technische Prüfungen, Sonderprüfungen"
+Ertrag,1,Innere Verwaltung,53285492,2018,103,Personal- und Organisationsmanagement
+Aufwand,1,Innere Verwaltung,152155567,2018,103,Personal- und Organisationsmanagement
+Ertrag,1,Innere Verwaltung,5742344,2018,104,IT- und Kommunikationsdienste
+Aufwand,1,Innere Verwaltung,42820193,2018,104,IT- und Kommunikationsdienste
+Ertrag,1,Innere Verwaltung,0,2018,105,Organisationsmanagement
+Aufwand,1,Innere Verwaltung,0,2018,105,Organisationsmanagement
+Ertrag,1,Innere Verwaltung,4669502,2018,106,Zentrale Dienstleistungen
+Aufwand,1,Innere Verwaltung,54249934,2018,106,Zentrale Dienstleistungen
+Ertrag,1,Innere Verwaltung,4162413,2018,107,Rechts- und Versicherungsangelegenheiten
+Aufwand,1,Innere Verwaltung,11697817,2018,107,Rechts- und Versicherungsangelegenheiten
+Ertrag,1,Innere Verwaltung,84261200,2018,108,Zentrale Liegenschaftsangelegenheiten
+Aufwand,1,Innere Verwaltung,24782514,2018,108,Zentrale Liegenschaftsangelegenheiten
+Ertrag,1,Innere Verwaltung,8304898,2018,109,Kasse und Veranlagung gemeindl. Abgaben
+Aufwand,1,Innere Verwaltung,29535851,2018,109,Kasse und Veranlagung gemeindl. Abgaben
+Ertrag,1,Innere Verwaltung,170174,2018,110,"Controlling, Finanzsteuerung, Rechungswesen"
+Aufwand,1,Innere Verwaltung,12891451,2018,110,"Controlling, Finanzsteuerung, Rechungswesen"
+Ertrag,1,Innere Verwaltung,1445647,2018,111,Sonstige Innere Verwaltung
+Aufwand,1,Innere Verwaltung,30653440,2018,111,Sonstige Innere Verwaltung
+Ertrag,2,Sicherheit und Ordnung,3819872,2018,201,Allgemeine Sicherheit und Ordnung
+Aufwand,2,Sicherheit und Ordnung,18690003,2018,201,Allgemeine Sicherheit und Ordnung
+Ertrag,2,Sicherheit und Ordnung,2172504,2018,202,Gewerbewesen
+Aufwand,2,Sicherheit und Ordnung,3204003,2018,202,Gewerbewesen
+Ertrag,2,Sicherheit und Ordnung,4609086,2018,203,Märkte
+Aufwand,2,Sicherheit und Ordnung,5019083,2018,203,Märkte
+Ertrag,2,Sicherheit und Ordnung,14032315,2018,204,Verkehrs- u. Kfz.-Wesen
+Aufwand,2,Sicherheit und Ordnung,10813037,2018,204,Verkehrs- u. Kfz.-Wesen
+Ertrag,2,Sicherheit und Ordnung,41894731,2018,205,Verkehrsüberwachung
+Aufwand,2,Sicherheit und Ordnung,28885354,2018,205,Verkehrsüberwachung
+Ertrag,2,Sicherheit und Ordnung,1234800,2018,206,Verbraucherschutz und Veterinäraufsicht
+Aufwand,2,Sicherheit und Ordnung,6952282,2018,206,Verbraucherschutz und Veterinäraufsicht
+Ertrag,2,Sicherheit und Ordnung,6482865,2018,207,Einwohnerangelegenheiten
+Aufwand,2,Sicherheit und Ordnung,13083167,2018,207,Einwohnerangelegenheiten
+Ertrag,2,Sicherheit und Ordnung,2011313,2018,208,Personenstandswesen
+Aufwand,2,Sicherheit und Ordnung,4941234,2018,208,Personenstandswesen
+Ertrag,2,Sicherheit und Ordnung,6511953,2018,209,Ausländerangelegenheiten
+Aufwand,2,Sicherheit und Ordnung,20359267,2018,209,Ausländerangelegenheiten
+Ertrag,2,Sicherheit und Ordnung,100,2018,210,Statistik und Informationsmanagement
+Aufwand,2,Sicherheit und Ordnung,1928092,2018,210,Statistik und Informationsmanagement
+Ertrag,2,Sicherheit und Ordnung,0,2018,211,Wahlen
+Aufwand,2,Sicherheit und Ordnung,3567124,2018,211,Wahlen
+Ertrag,2,Sicherheit und Ordnung,48708598,2018,212,"Brand- u. Bevölkerungsschutz, Rettungsdienst"
+Aufwand,2,Sicherheit und Ordnung,140864888,2018,212,"Brand- u. Bevölkerungsschutz, Rettungsdienst"
+Ertrag,2,Sicherheit und Ordnung,0,2018,213,Einwohner- und Bürgerbefragungen
+Aufwand,2,Sicherheit und Ordnung,50000,2018,213,Einwohner- und Bürgerbefragungen
+Ertrag,3,Schulträgeraufgaben,183313748,2018,301,Schulträgeraufgaben
+Aufwand,3,Schulträgeraufgaben,463340453,2018,301,Schulträgeraufgaben
+Ertrag,4,Kultur und Wissenschaft,218403,2018,401,Museumsreferat
+Aufwand,4,Kultur und Wissenschaft,9774108,2018,401,Museumsreferat
+Ertrag,4,Kultur und Wissenschaft,3969525,2018,402,Museum Ludwig
+Aufwand,4,Kultur und Wissenschaft,14978322,2018,402,Museum Ludwig
+Ertrag,4,Kultur und Wissenschaft,565998,2018,403,Römisch-Germanisches Museum
+Aufwand,4,Kultur und Wissenschaft,4446594,2018,403,Römisch-Germanisches Museum
+Ertrag,4,Kultur und Wissenschaft,1096487,2018,404,Rautenstrauch-Joest-Museum
+Aufwand,4,Kultur und Wissenschaft,7302563,2018,404,Rautenstrauch-Joest-Museum
+Ertrag,4,Kultur und Wissenschaft,234702,2018,405,Museum für Angewandte Kunst
+Aufwand,4,Kultur und Wissenschaft,3071118,2018,405,Museum für Angewandte Kunst
+Ertrag,4,Kultur und Wissenschaft,413074,2018,406,Museum für Ostasiatische Kunst
+Aufwand,4,Kultur und Wissenschaft,1991401,2018,406,Museum für Ostasiatische Kunst
+Ertrag,4,Kultur und Wissenschaft,118207,2018,407,Museum Schnütgen
+Aufwand,4,Kultur und Wissenschaft,1763944,2018,407,Museum Schnütgen
+Ertrag,4,Kultur und Wissenschaft,326321,2018,408,Kölnisches Stadtmuseum
+Aufwand,4,Kultur und Wissenschaft,3479435,2018,408,Kölnisches Stadtmuseum
+Ertrag,4,Kultur und Wissenschaft,140248,2018,409,Kunst- und Museumsbibliothek / Rheinisches Bildarchiv
+Aufwand,4,Kultur und Wissenschaft,2846542,2018,409,Kunst- und Museumsbibliothek / Rheinisches Bildarchiv
+Ertrag,4,Kultur und Wissenschaft,108665,2018,410,NS-Dokumentationszentrum
+Aufwand,4,Kultur und Wissenschaft,2150981,2018,410,NS-Dokumentationszentrum
+Ertrag,4,Kultur und Wissenschaft,521400,2018,411,Museumsdienst
+Aufwand,4,Kultur und Wissenschaft,1801237,2018,411,Museumsdienst
+Ertrag,4,Kultur und Wissenschaft,11019020,2018,412,Historisches Archiv
+Aufwand,4,Kultur und Wissenschaft,21069321,2018,412,Historisches Archiv
+Ertrag,4,Kultur und Wissenschaft,815858,2018,413,Archäologische Zone und Jüdisches Museum
+Aufwand,4,Kultur und Wissenschaft,2898454,2018,413,Archäologische Zone und Jüdisches Museum
+Ertrag,4,Kultur und Wissenschaft,7506865,2018,414,Volkshochschule
+Aufwand,4,Kultur und Wissenschaft,17100716,2018,414,Volkshochschule
+Ertrag,4,Kultur und Wissenschaft,3409259,2018,415,Rheinische Musikschule
+Aufwand,4,Kultur und Wissenschaft,7639310,2018,415,Rheinische Musikschule
+Ertrag,4,Kultur und Wissenschaft,1134969,2018,416,Kulturförderung
+Aufwand,4,Kultur und Wissenschaft,102050608,2018,416,Kulturförderung
+Ertrag,4,Kultur und Wissenschaft,1190822,2018,417,Puppenspiele
+Aufwand,4,Kultur und Wissenschaft,2390645,2018,417,Puppenspiele
+Ertrag,4,Kultur und Wissenschaft,1776963,2018,418,Stadtbibliothek
+Aufwand,4,Kultur und Wissenschaft,14893286,2018,418,Stadtbibliothek
+Ertrag,5,Soziale Hilfen,268067655,2018,501,Leistungen nach dem  SGB XII
+Aufwand,5,Soziale Hilfen,423457024,2018,501,Leistungen nach dem  SGB XII
+Ertrag,5,Soziale Hilfen,129686575,2018,502,Kommunale Leistungen nach dem SGB II
+Aufwand,5,Soziale Hilfen,392511133,2018,502,Kommunale Leistungen nach dem SGB II
+Ertrag,5,Soziale Hilfen,20436643,2018,503,Weitere soziale Pflichtleistungen
+Aufwand,5,Soziale Hilfen,78430945,2018,503,Weitere soziale Pflichtleistungen
+Ertrag,5,Soziale Hilfen,650099,2018,504,Freiwillige Sozialleistungen und interkulturelle Hilfen
+Aufwand,5,Soziale Hilfen,8415879,2018,504,Freiwillige Sozialleistungen und interkulturelle Hilfen
+Ertrag,5,Soziale Hilfen,2702510,2018,505,Leistungen n. d. Schwerbehindertenrecht - SGB IX
+Aufwand,5,Soziale Hilfen,3995710,2018,505,Leistungen n. d. Schwerbehindertenrecht - SGB IX
+Ertrag,5,Soziale Hilfen,0,2018,506,Leistungen nach dem Lastenausgleichsgesetz
+Aufwand,5,Soziale Hilfen,0,2018,506,Leistungen nach dem Lastenausgleichsgesetz
+Ertrag,5,Soziale Hilfen,2045809,2018,507,"Betrieb, Unterhaltung u. Förderung von Bürgerhäusern u. -zentren"
+Aufwand,5,Soziale Hilfen,9170982,2018,507,"Betrieb, Unterhaltung u. Förderung von Bürgerhäusern u. -zentren"
+Ertrag,5,Soziale Hilfen,14516746,2018,508,Leistungen für Bildung und Teilhabe
+Aufwand,5,Soziale Hilfen,15015960,2018,508,Leistungen für Bildung und Teilhabe
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",15846973,2018,601,Kinder- und jugendpädagogische Einrichtung
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",21908218,2018,601,Kinder- und jugendpädagogische Einrichtung
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",432014,2018,602,Leistungen nach dem Bundeselterngeld- und Elternzeitgesetz
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",940707,2018,602,Leistungen nach dem Bundeselterngeld- und Elternzeitgesetz
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",294251821,2018,603,Kindertagesbetreuung
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",530719632,2018,603,Kindertagesbetreuung
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",3344366,2018,604,Kinder- und Jugendarbeit
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",40487301,2018,604,Kinder- und Jugendarbeit
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",369446,2018,605,familienbezogene Beratung und Behandlung
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",5054960,2018,605,familienbezogene Beratung und Behandlung
+Ertrag,6,"Kinder-, Jugend- und Familienhilfe",21487547,2018,606,Hilfe für junge Menschen und ihre Familien
+Aufwand,6,"Kinder-, Jugend- und Familienhilfe",242348328,2018,606,Hilfe für junge Menschen und ihre Familien
+Ertrag,7,Gesundheitsdienste,4870600,2018,701,Gesundheitsdienste
+Aufwand,7,Gesundheitsdienste,38157271,2018,701,Gesundheitsdienste
+Ertrag,8,Sportförderung,2766242,2018,801,Sportförderung/Unterhaltung von Sportstätten
+Aufwand,8,Sportförderung,31918966,2018,801,Sportförderung/Unterhaltung von Sportstätten
+Ertrag,9,"Räumliche Planung und Entwicklung, Geoinformationen",28775,2018,901,Stadtplanung
+Aufwand,9,"Räumliche Planung und Entwicklung, Geoinformationen",8334655,2018,901,Stadtplanung
+Ertrag,9,"Räumliche Planung und Entwicklung, Geoinformationen",44590967,2018,902,Stadtentwicklung
+Aufwand,9,"Räumliche Planung und Entwicklung, Geoinformationen",17355075,2018,902,Stadtentwicklung
+Ertrag,9,"Räumliche Planung und Entwicklung, Geoinformationen",2040930,2018,903,"Grundstücksbezogene Basisinformationen, Grundstücksordnung und Wertermittlung"
+Aufwand,9,"Räumliche Planung und Entwicklung, Geoinformationen",17531759,2018,903,"Grundstücksbezogene Basisinformationen, Grundstücksordnung und Wertermittlung"
+Ertrag,10,Bauen und Wohnen,11412347,2018,1001,"Baugenehmigungen, Bauordnungsbehördliche Maßnahmen"
+Aufwand,10,Bauen und Wohnen,14619859,2018,1001,"Baugenehmigungen, Bauordnungsbehördliche Maßnahmen"
+Ertrag,10,Bauen und Wohnen,727778,2018,1002,Denkmalpflege
+Aufwand,10,Bauen und Wohnen,4460294,2018,1002,Denkmalpflege
+Ertrag,10,Bauen und Wohnen,13329718,2018,1003,"Wohnraumförderung, Wohnungserhaltung u. -pflege, Hilfen für Wohnungssuchende"
+Aufwand,10,Bauen und Wohnen,13430899,2018,1003,"Wohnraumförderung, Wohnungserhaltung u. -pflege, Hilfen für Wohnungssuchende"
+Ertrag,10,Bauen und Wohnen,25071072,2018,1004,Bereitstellung und Bewirtschaftung von Wohnraum
+Aufwand,10,Bauen und Wohnen,74645904,2018,1004,Bereitstellung und Bewirtschaftung von Wohnraum
+Ertrag,10,Bauen und Wohnen,715953,2018,1005,Leistungen zur Vermeidung von Obdachlosigkeit
+Aufwand,10,Bauen und Wohnen,10252321,2018,1005,Leistungen zur Vermeidung von Obdachlosigkeit
+Ertrag,11,Ver- und Entsorgung,83107773,2018,1101,Ver- und Entsorgung
+Aufwand,11,Ver- und Entsorgung,9807388,2018,1101,Ver- und Entsorgung
+Ertrag,12,"Verkehrsflächen und -anlagen, ÖPNV",62266364,2018,1201,"Straßen, Wege, Plätze"
+Aufwand,12,"Verkehrsflächen und -anlagen, ÖPNV",179240133,2018,1201,"Straßen, Wege, Plätze"
+Ertrag,12,"Verkehrsflächen und -anlagen, ÖPNV",72574344,2018,1202,"Brücken, Tunnel, Stadtbahn, ÖPNV"
+Aufwand,12,"Verkehrsflächen und -anlagen, ÖPNV",133694953,2018,1202,"Brücken, Tunnel, Stadtbahn, ÖPNV"
+Ertrag,13,Natur- und Landschaftspflege,2024137,2018,1301,"Öffentliches Grün, Wald- und Forstwirtschaft, Erholungsanlagen"
+Aufwand,13,Natur- und Landschaftspflege,53079436,2018,1301,"Öffentliches Grün, Wald- und Forstwirtschaft, Erholungsanlagen"
+Ertrag,13,Natur- und Landschaftspflege,84479,2018,1302,Wasser und Wasserbau
+Aufwand,13,Natur- und Landschaftspflege,10935362,2018,1302,Wasser und Wasserbau
+Ertrag,13,Natur- und Landschaftspflege,21405407,2018,1303,Friedhöfe
+Aufwand,13,Natur- und Landschaftspflege,22456318,2018,1303,Friedhöfe
+Ertrag,14,Umweltschutz,1447887,2018,1401,"Umweltordnung, -vorsorge"
+Aufwand,14,Umweltschutz,16541947,2018,1401,"Umweltordnung, -vorsorge"
+Ertrag,15,Wirtschaft und Tourismus,72135970,2018,1501,Wirtschaft und Tourismus
+Aufwand,15,Wirtschaft und Tourismus,35791334,2018,1501,Wirtschaft und Tourismus
+Ertrag,16,Allgemeine Finanzwirtschaft,2564213458,2018,1601,Allgemeine Finanzwirschaft
+Aufwand,16,Allgemeine Finanzwirtschaft,644734109,2018,1601,Allgemeine Finanzwirschaft
+Ertrag,17,Stiftungen,54100,2018,1701,Stiftungen zur Förderung des Musikstudiums
+Aufwand,17,Stiftungen,34400,2018,1701,Stiftungen zur Förderung des Musikstudiums
+Ertrag,17,Stiftungen,14400,2018,1702,Stiftung zur Förderung des Schul- und Ausbildungswesens
+Aufwand,17,Stiftungen,0,2018,1702,Stiftung zur Förderung des Schul- und Ausbildungswesens
+Ertrag,17,Stiftungen,1230500,2018,1703,Waisenhausstiftung
+Aufwand,17,Stiftungen,824800,2018,1703,Waisenhausstiftung
+Ertrag,17,Stiftungen,412600,2018,1704,Altersstiftung
+Aufwand,17,Stiftungen,236300,2018,1704,Altersstiftung
+Ertrag,17,Stiftungen,2216400,2018,1705,Wohnungsstiftungen
+Aufwand,17,Stiftungen,1666500,2018,1705,Wohnungsstiftungen
+Ertrag,17,Stiftungen,863400,2018,1706,Stiftung Dr. Dormagen-Guffanti
+Aufwand,17,Stiftungen,520300,2018,1706,Stiftung Dr. Dormagen-Guffanti
+Ertrag,17,Stiftungen,192800,2018,1707,Gemeinsamer Hospitalstiftungsfonds
+Aufwand,17,Stiftungen,63300,2018,1707,Gemeinsamer Hospitalstiftungsfonds
+Ertrag,17,Stiftungen,2300,2018,1708,Büchereistiftung
+Aufwand,17,Stiftungen,0,2018,1708,Büchereistiftung
+Ertrag,17,Stiftungen,461100,2018,1709,Stiftung Johann-Heinrich Claren
+Aufwand,17,Stiftungen,188800,2018,1709,Stiftung Johann-Heinrich Claren
+Ertrag,17,Stiftungen,16900,2018,1710,Stiftung Dr. Eduard Schreibers
+Aufwand,17,Stiftungen,7400,2018,1710,Stiftung Dr. Eduard Schreibers
+Ertrag,17,Stiftungen,4800,2018,1711,Emilie-Kühner-Stiftung
+Aufwand,17,Stiftungen,1600,2018,1711,Emilie-Kühner-Stiftung
+Ertrag,17,Stiftungen,38300,2018,1712,Gemeinsame Stiftungen Geschwister Abelen und Karl Bau
+Aufwand,17,Stiftungen,25000,2018,1712,Gemeinsame Stiftungen Geschwister Abelen und Karl Bau
+Ertrag,17,Stiftungen,19900,2018,1713,Hermann-Frank-Fonds
+Aufwand,17,Stiftungen,0,2018,1713,Hermann-Frank-Fonds
+Ertrag,17,Stiftungen,43500,2018,1714,Stiftung für in Not geratene Einwohner der Stadt Köln
+Aufwand,17,Stiftungen,0,2018,1714,Stiftung für in Not geratene Einwohner der Stadt Köln
+Ertrag,17,Stiftungen,170800,2018,1715,Guilleaume-Stiftung St. Antoniusheim
+Aufwand,17,Stiftungen,110600,2018,1715,Guilleaume-Stiftung St. Antoniusheim
+Ertrag,17,Stiftungen,6600,2018,1716,Krankenhausstiftung Worringen
+Aufwand,17,Stiftungen,2100,2018,1716,Krankenhausstiftung Worringen
+Ertrag,17,Stiftungen,1600,2018,1717,Gustav-von-Mevissen-Stiftung
+Aufwand,17,Stiftungen,0,2018,1717,Gustav-von-Mevissen-Stiftung
+Ertrag,17,Stiftungen,3800,2018,1718,Stiftung Feldotto
+Aufwand,17,Stiftungen,1700,2018,1718,Stiftung Feldotto
+Ertrag,17,Stiftungen,18100,2018,1719,Stiftung Faßbender
+Aufwand,17,Stiftungen,7800,2018,1719,Stiftung Faßbender
+Ertrag,17,Stiftungen,14500,2018,1720,Dr. Wilhelm und Gisela Fuß-Stiftung
+Aufwand,17,Stiftungen,6700,2018,1720,Dr. Wilhelm und Gisela Fuß-Stiftung
+Ertrag,17,Stiftungen,31300,2018,1721,Stiftung Dick
+Aufwand,17,Stiftungen,13000,2018,1721,Stiftung Dick
+Ertrag,17,Stiftungen,5300,2018,1722,Stiftung Friedrich Damm
+Aufwand,17,Stiftungen,1300,2018,1722,Stiftung Friedrich Damm
+Ertrag,17,Stiftungen,20700,2018,1723,Stiftung Mathilde Groll
+Aufwand,17,Stiftungen,9100,2018,1723,Stiftung Mathilde Groll
+Ertrag,17,Stiftungen,25600,2018,1724,Gerda und Manfred Ulbrich-Stiftung
+Aufwand,17,Stiftungen,11400,2018,1724,Gerda und Manfred Ulbrich-Stiftung
+Ertrag,18,Bezirksorientierte Mittel,0,2018,1801,Bezirksorientierte Mittel
+Aufwand,18,Bezirksorientierte Mittel,504000,2018,1801,Bezirksorientierte Mittel
