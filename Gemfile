@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.6.10'
+ruby '3.0.2'
 
 gem 'github-pages'
 gem 'kramdown'

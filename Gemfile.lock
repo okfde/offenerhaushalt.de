@@ -263,7 +263,7 @@ DEPENDENCIES
   kramdown
 
 RUBY VERSION
-   ruby 2.6.10p210
+   ruby 3.0.2p107
 
 BUNDLED WITH
    1.17.2
