@@ -1,0 +1,51 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- posts -->
+  {% for post in site.posts %}
+    {% if post.sitemap == false %}{% continue %}{% endif %}
+    <url>
+      <loc>{{ site.url }}{{ post.url }}</loc>
+      {% if post.lastmod == null %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  {% endfor %}
+
+  <!-- pages -->
+  {% for page in site.pages %}
+    {% if page.sitemap == false %}{% continue %}{% endif %}
+    {% if page.url contains 'static' %}{% continue %}{% endif %}
+    <url>
+      <loc>{{ site.url }}{{ page.url }}</loc>
+      <lastmod>{{ 'now' | date_to_xmlschema }}</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+     </url>
+  {% endfor %}
+
+  <!-- haushalte -->
+  {% for haushalt in site.haushalte %}
+    {% if haushalt.sitemap == false %}{% continue %}{% endif %}
+    {% if haushalt.name == '' %}{% continue %}{% endif %}
+    {% if haushalt.layout != 'budget2' %}{% continue %}{% endif %}
+    <url>
+      <loc>{{ site.url }}{{ haushalt.url }}</loc>
+      <lastmod>{{ 'now' | date_to_xmlschema }}</lastmod>
+      {% if haushalt.config %}
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+      {% else %}
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      {% endif %}
+     </url>
+  {% endfor %}
+</urlset>
